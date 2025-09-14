@@ -1,6 +1,6 @@
-# <samp>Project Stories</samp> from all over the world and beyond
+# P<samp>ROJECT </samp>S<samp>TORIES</samp> &thinsp;&mdash;&thinsp; from all over the world and beyond
 
-## Marsupial Covairance
+## Marsupial Covariance
 
 ![DRY principle](https://img.shields.io/badge/clean_code-Oz-cyan)  ![clean code](https://img.shields.io/badge/DRY-🇦🇺-yellow) ![fact check](https://img.shields.io/badge/Fact❓-Check❗-green)  
 
