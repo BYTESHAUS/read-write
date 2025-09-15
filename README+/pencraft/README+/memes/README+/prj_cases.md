@@ -21,9 +21,12 @@
 
 ## Mars Orbiter, or "The Empire [unit] Strikes Back"
 
-🛰️ A small bug for thrust, astronomical leak for budget contributed a "feature story" of [**Multifacet Value**](https://github.com/BYTESHAUS/use-dev/blob/main/README+/parts/MultifacetVal/README.md#mars-orbiter).
+🛰️ One small bug from engineers, one giant leak for budget made a "feature story" of [**Multifacet Value**](https://github.com/BYTESHAUS/use-dev/blob/main/README+/parts/MultifacetVal/README.md#mars-orbiter).
 
-## Divide by Zero. Horror stories
+## "Divided by Zero". Horrors almanach
+
+[![Tales fron the crypt](https://img.shields.io/badge/Tales%20from-the%20crypt-blue?logo=readthedocs&logoColor=fdf)](#)
+
 
 🚧 ... _COMING NEXT_ ... 🚧
 
