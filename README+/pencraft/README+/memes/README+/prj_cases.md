@@ -1,4 +1,4 @@
-# P<samp>ROJECT </samp>S<samp>TORIES</samp> &thinsp;&mdash;&thinsp; from all over the world and beyond
+# P<samp>ROJECT </samp>S<samp>TORIES</samp> &thinsp;&mdash;&thinsp; from all over the globe and beyond
 
 ## Marsupial Covariance
 
@@ -21,7 +21,7 @@
 
 ## Mars Orbiter, or "The Empire [unit] Strikes Back"
 
-🛰️ The loss of an astronomical sum by a small bug is so prominent that I've made it a central story in [**Multifacet Value**](https://github.com/BYTESHAUS/use-dev/blob/main/README+/parts/MultifacetVal/README.md#mars-orbiter).
+🛰️ A small bug for thrust, astronomical leak for budget contributed a "feature story" of [**Multifacet Value**](https://github.com/BYTESHAUS/use-dev/blob/main/README+/parts/MultifacetVal/README.md#mars-orbiter).
 
 ## Divide by Zero. Horror stories
 
