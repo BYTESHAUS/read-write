@@ -10,7 +10,7 @@
           <a href="contributors/README.md#Donald-Knuth"><b>Donald Knuth</b></a>
     </td>
     <td width="33%"> 
-     <a id="complex2simple" /><div><b><mark>Simplicity</mark> does not precede complexity but follows it.</b><br /><a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a></div>
+     <div id="complex2simple"><b><mark>Simplicity</mark> does not precede complexity but follows it.</b><br /><a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a></div>
     </td>
     <td width="33%">
       <mark>Simplicity</mark> is worth buying if we do not have to pay too great a loss of precision for it.<br /><a href="contributors/README.md#George-Pólya"><b>George Pólya</b></a>
