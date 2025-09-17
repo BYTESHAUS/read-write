@@ -1,6 +1,6 @@
 # IT Quotes&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Cornerstones
 
->☝️ Quotes and epigraphs can be annoying, their hackneyed selections migrate between resources &thinsp;&mdash;&thinsp; but **only worthy** ones are cherry-picked here to provoke deeper IT thinking. 
+>☝️ Quotes and epigraphs can be annoying; their hackneyed selections migrate between resources &thinsp;&mdash;&thinsp; but **only worthy** ones are cherry-picked here to provoke deeper IT thinking. 
 
 [![#SimpleVsComplex](https://img.shields.io/badge/%23-Simple⚔️Complex-2962FF)](#) [![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
 <table>
@@ -9,10 +9,8 @@
       <b>Science is what we understand well enough to explain to a computer</b>.<br />Art is everything else we do.<br />
           <a href="contributors/README.md#Donald-Knuth"><b>Donald Knuth</b></a>
     </td>
-    <td width="33%">
-      <b>KISS</b>: Keep it short and simple.<br /><p><i>Minnesota Star Tribune</i>, <b>1938</b></p>
-     <mark>Simplicity</mark> does not precede complexity but follows it.<br />
-           <a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a>
+    <td width="33%"> 
+     <a id="complex2simple" /><div><b><mark>Simplicity</mark> does not precede complexity but follows it.</b><br /><a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a></div>
     </td>
     <td width="33%">
       <mark>Simplicity</mark> is worth buying if we do not have to pay too great a loss of precision for it.<br /><a href="contributors/README.md#George-Pólya"><b>George Pólya</b></a>
@@ -20,7 +18,8 @@
   </tr>
   <tr valign="top">
     <td>
-      The entire history of software engineering is that of the rise in levels of <mark>abstraction</mark>.<br /><a href="contributors/README.md#Grady-Booch"><b>Grady Booch</b></a>
+      The entire history of software engineering is that of the rise in levels of <mark>abstraction</mark>.<p><a href="contributors/README.md#Grady-Booch"><b>Grady Booch</b></a></p>
+      <b>KISS</b>: Keep it short and simple.<br /><i>Minnesota Star Tribune</i>, <b>1938</b>
     </td>
     <td>
       Data <mark>abstractions</mark> provide the same benefits as procedures but for data.<br /><a href="contributors/README.md#Barbara-Liskov"><b>Barbara Liskov</b></a>
