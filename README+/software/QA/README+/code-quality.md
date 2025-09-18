@@ -58,8 +58,7 @@ Code optimization (deleting redundancies, merging common logic and data, shorten
 (no matter whether implemented before the subject or _post factum_).
 > 
 
-Ample, even overlapping tests may be efficient to patch buggy and badly joined applications, 
-while quality code doesn't need the whole cove of prescribed/automated scrutiny: unit, integration, and performance testing.
+Ample, even overlapping tests may be efficient to patch buggy and badly joined applications, while quality code doesn't need the whole cove of prescribed/automated scrutiny: unit, integration, and performance testing.
 
 Enough quality code allows one to focus on tests where _errare humanum est_:
 
@@ -72,14 +71,14 @@ Enough quality code allows one to focus on tests where _errare humanum est_:
 ## Conclusion
 
 **A)** The traits listed above are <samp><b><ins>NOT</ins></b></samp> acceptance criteria, **but** utmost aims. 
-Even if a team comes close to them, the code won't be a book of design revelation — it still owes quality [documentation](../../docu) or/and tutoring.
+Even if a team comes close to them, the code won't be a book of design revelation &thinsp;&mdash;&thinsp; it still owes quality [documentation](../../docu) or/and tutoring.
 
 **B)** While design hammers formworks of code <mark>concrete</mark>, [coding frames](https://github.com/byteshaus/use-dev/tree/main/README%2B/frames) reinforce it.
 
 **C)** Coding isn't a self-contained activity but an ingredient of <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;, 
 where quality is a motive, derivative, and bonus.
 
-Quality code does the work of <ins>introducing</ins> design rather than prompt deciphering and patching.
+Quality code does the work of <ins>introducing</ins> design rather than prompt deciphering and patching. SIMPLE [after](../../../pencraft/README+/quotes/README+/cornerstones.md#complex2simple) Complex
 
 ## Moralité
 
