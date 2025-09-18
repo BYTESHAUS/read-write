@@ -3,7 +3,7 @@
 <p dir="rtl">?What makes a good quote<br/>
 .Terse, witty? —  That's for aphorisms<br/>
 .Brainy, ingenious? — Prerequisites<br/>
-.Ages good</p>
+.Must age good</p>
 
 <table>
   <tr>
