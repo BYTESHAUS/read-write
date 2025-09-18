@@ -2,8 +2,11 @@
 
 <h1 align="center">IT Pioneers</h1>
 
-There's a discernible inclination in quotes toward the mathematicians and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> Both&nbsp;their&nbsp;foresights and enough delusions count.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup> <sub>Whose work backed up physicists and engineers of the Manhattan Project, Mercury or Saturn, but not that popularized - only Turing got an A-movie (as far as I know).</sub>
+Selection of quotes here got a discernible inclination toward the mathematicians, researches, and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> 
+
+Both their foresights and enough delusions count.
+
+&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Their labor backed up physicists and engineers of the Manhattan Project, Mercury or Saturn, but not that popularized  &thinsp;&mdash;&thinsp; only Turing got an A-movie (as far as I know).</samp>
 
 ### John von Neumann
 
@@ -15,7 +18,7 @@ Fun fact: searching for _von Neumann_ (without the first name) will recite first
 
 ### Grace Hopper
 
-_Grace Brewster Hopper_, née Murray (**1906**-1992), grandma of COBOL, finder of the moth, thus starting the debugging era (that chords with her name). She also suggested the use of English for high-level programming.
+_Grace Brewster Hopper_, née Murray (**1906**-1992), grandma of COBOL, finder of the moth, thus starting the debugging era (that chords with her name). She also suggested the use of English lexics for high-level programming.
 
 ### Alan Turing
 
