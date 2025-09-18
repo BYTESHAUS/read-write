@@ -1,10 +1,10 @@
-# Contributors and Influencers
+# IT &nbsp;&mdash;&nbsp; Contributors and Influencers
 
 <h1 align="center">IT Pioneers</h1>
 
 Selection of quotes here got a discernible inclination toward the mathematicians, researches, and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> 
 
-Both their foresights and enough delusions count.
+Both their foresight and enough delusions count.
 
 &nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Their labor backed up physicists and engineers of the Manhattan Project, Mercury or Saturn, but not that popularized  &thinsp;&mdash;&thinsp; only Turing got an A-movie (as far as I know).</samp>
 
