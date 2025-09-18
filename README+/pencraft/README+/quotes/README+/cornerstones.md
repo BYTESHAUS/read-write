@@ -1,6 +1,6 @@
-# IT Quotes&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Cornerstones
+# IT Quotes &nbsp;&mdash;&nbsp; Cornerstones
 
->☝️ Quotes and epigraphs can be annoying; their hackneyed selections migrate between resources &thinsp;&mdash;&thinsp; but **only worthy** ones are cherry-picked here to provoke deeper IT thinking. 
+>☝️ Quotes and epigraphs can be annoying; their hackneyed selections migrate between resources &thinsp;&mdash;&thinsp; but **only worthy** ones are cherry-picked here to support deeper IT thinking. 
 
 [![#SimpleVsComplex](https://img.shields.io/badge/%23-Simple⚔️Complex-2962FF)](#) [![ArcDeco thanks](https://img.shields.io/badge/⭐-Arc_Deco-yellow?style=flat&labelColor=3A3B3C&color=yellow)](../../../../software/ArcDeco/README.md)
 <table>
@@ -9,8 +9,8 @@
       <b>Science is what we understand well enough to explain to a computer</b>.<br />Art is everything else we do.<br />
           <a href="contributors/README.md#Donald-Knuth"><b>Donald Knuth</b></a>
     </td>
-    <td width="33%"> 
-     <div id="complex2simple"><b><mark>Simplicity</mark> does not precede complexity but follows it.</b><br /><a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a></div>
+    <td width="33%" id="complex2simple"> 
+     <div><b><mark>SIMPLICITY</mark> does NOT PRECEDE COMPLEXITY but FOLLOWS it.</b><br /><a href="contributors/README.md#Alan-Perlis"><b>Alan Perlis</b></a></div>
     </td>
     <td width="33%">
       <mark>Simplicity</mark> is worth buying if we do not have to pay too great a loss of precision for it.<br /><a href="contributors/README.md#George-Pólya"><b>George Pólya</b></a>
