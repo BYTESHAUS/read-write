@@ -6,7 +6,7 @@ Selection of quotes here got a discernible inclination toward the mathematicians
 
 Both their foresight and enough delusions count.
 
-&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Their labor backed up physicists and engineers of the Manhattan Project, Mercury or Saturn, but not that popularized  &thinsp;&mdash;&thinsp; only Turing got an A-movie (as far as I know).</samp>
+&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Their labor backed up physicists and engineers in mega-projects as the Apollo Program, but not that popularized  &thinsp;&mdash;&thinsp; only Turing got an A-movie (as far as I know).</samp>
 
 ### John von Neumann
 
@@ -186,10 +186,9 @@ a signer of _Agile Manifesto_, a productive author on patterns, and a contributo
 
 _L. (Lawrence) Peter Deutsch_ (born 1946), computer scientist and composer, the son of a famous MIT physics professor. Smalltalk, Ghostscript, FOSS, ...
 
-\___________
-
-&nbsp;&nbsp;&nbsp; <sup>👽</sup> <sub>Labelled selection of prominent scientists known as [Martians](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sup><b>w</b></sup></sub>\
-&nbsp;&nbsp;&nbsp; <sup>🥇</sup> <sub>Association for Computing Machinery [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)<sup><b>w</b></sup>, aka "Nobel Prize of Computing".</sub>\
-&nbsp;&nbsp;&nbsp; <sup>⤵️</sup> <sub><i>archived:</i> "... one who visited the White House to receive the National Medal of Technology and Innovation personally from the President." N/a since 2025</sub>
+___________\
+&nbsp; &nbsp;<sup>👽</sup> <samp>Labels selection of prominent scientists known as [Martians](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sup><b>w</b></sup></samp>\
+&nbsp; &nbsp;<sup>🥇</sup> <samp>Association for Computing Machinery [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)<sup><b>w</b></sup>, aka "Nobel Prize of Computing".</samp>\
+&nbsp; &nbsp;<sup>⤵️</sup> <samp><i>archived:</i> "... one who visited the White House to receive the National Medal of Technology and Innovation personally from **then** President."</samp>
 
 <div align="center">🔚 🌙 2023-2025 ... to be enhanced ...</div>
