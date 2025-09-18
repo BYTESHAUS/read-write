@@ -27,7 +27,8 @@
         <td>
           <a href="README+/aside/controversy.md"><img src="../../../_rsc/_img/_nav/quotes/controversy_390x250px.png" alt="&nbsp;&nbsp;&nbsp;Quotes - Controversial"  title="IT quotes - &#013;&#010;controversial"/></a>
     </td>
-  </tr>
+  </tr><tr></tr>
+  <tr><td colspan="3"><h2 align="center"><ins>&thinsp;⬆️ 🧑‍💻 <a href="README+/contributors/README.md">CONTRIBUTORS</a> 👩‍🔬 ⬆️&thinsp;</ins></h2></td></tr>
 </table>
 
-:end: 🌒(2024-2025) ... _see also_ 👩‍🔬[**Contributors**](README+/contributors/)🧑‍💻
+:end: 🌒 .. 2024-2025 .. 
