@@ -83,7 +83,7 @@ Many other systems are projections of rudimentary software possibilities before 
 
 # Appendix. Developer-friendly design
 
-## Builder/Wizard-based design
+## Builder&thinsp;/&thinsp;Wizard-based design
 
 🚧 ... TO WRITE ... 🚧
 
