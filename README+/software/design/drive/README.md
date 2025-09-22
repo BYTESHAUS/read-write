@@ -61,19 +61,21 @@ One of the motives and benefits of object-oriented design is that it directly ma
 
 ### R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E&nbsp; there?
 
-**<mark>&thinsp;Y&thinsp;e&thinsp;s&thinsp;</mark>**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about _Operating Systems_ - the product of <i><b>Hardware</b></i>+<i><b>Software</b>-Driven-Domain</i>.
+**<mark>&thinsp;Y&thinsp;e&thinsp;s&thinsp;</mark>**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about _Operating Systems_ - the product of <i><b>Hardware</b></i>&<i><b>Software</b>-Driven-Domain</i>.
 
 Many other systems are projections of rudimentary software possibilities before large-scale computerization: social networks, email, and blockchains. And less corresponding to the term 
 <span title="&nbsp;Content Management System"><ins>CMS</ins></span>, <span title="&nbsp;Customer Relationship Management "><ins>CRM</ins></span>, and <span title="&nbsp;Erterpise Resource Planning"><ins>ERP</ins></span> (as SAP).
 
 <table><tr><td>☝️</td><td>
-<p><b>Reverse D&thinsp;D&thinsp;D can go on usual projects with a "remake" of legacy software as an archetype.</b></p>
+
+### Reverse D&thinsp;D&thinsp;D isn't the thing of exotic projects with a "remake" of legacy software as an archetype.
+
 <p>You may recall success stories when leading-edge IT platforms inspired ideas, use cases, and features that had never been discussed before, and users/customers loved them .</p>
 </td></tr></table>
 
 # Test drive
 
-**T&thinsp;D&thinsp;D** is the oldest, still most talked over and practiced approach and earned its own corner, even the hall❗, in the [**Tests area**](../../tests).
+**T&thinsp;D&thinsp;D** is the oldest, still most talked over and practiced approach and earned its own corner, even the HALL❗, in the [**Tests area**](../../tests).
 
 ### To digest
 
