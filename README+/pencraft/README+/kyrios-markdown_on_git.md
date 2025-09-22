@@ -8,7 +8,7 @@ Despite building it in and assigning it the role of primary documentation, <sub>
 
 <table align="center"><tr></tr><tr><td>
     
-Some <mark>markdown</mark> beyond a moderately formatted text? Here is my ounce of teaching illustrated by this repository.
+#### Some <mark>markdown</mark> beyond a moderately formatted text? Here is my ounce of teaching illustrated by this repository.
 
 </td></tr></table>
 
@@ -18,7 +18,7 @@ Some <mark>markdown</mark> beyond a moderately formatted text? Here is my ounce 
     
 ## Editors and Tools
 
-A simple markdown is readable without WYSIWYG, and no editor will support it. 
+A simple markdown is readable without <span title="&nbsp; What You See Is What You Get"><ins>WYSIWYG</ins></span>, and no editor will support it. 
 No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.github.com, toggling _Edit_ and _Preview_.
 
 * There's no excuse to avoid grammar check browser plugins.
@@ -118,7 +118,7 @@ Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeab
 
 ```diff
 -   ## Unlinkable fancy header,,🐈‍⬛!!..
-+   ## <a id="feline_anchor">unlinkable fancy header,,🐈‍⬛!!..
++   ## <a id="feline_anchor" />unlinkable fancy header,,🐈‍⬛!!..
 
 // somewhere ...
 ... <a href="../animal_stories.md#feline_anchor">fancy cats</a> ...
@@ -126,7 +126,7 @@ Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeab
 
 ### Images
 
-Avoid clickable images unless they are links or a detailed (bigger) version &thinsp;&mdash;&thinsp; HTML `<picture>` to rescue.
+Don't leave clickable images unless they are links or a detailed (bigger) version &thinsp;&mdash;&thinsp; HTML `<picture>` to rescue.
 
 </td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/3000px_rotate90.jpg" /></picture>
 </td></tr></table>
