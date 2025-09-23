@@ -1,4 +1,4 @@
-# Quotes &nbsp;&mdash;&nbsp; Backshelve &nbsp;&mdash;&nbsp; C<samp>ONTROVERSY</samp>
+# Quotes &nbsp;&mdash;&nbsp; Backshelve &nbsp;&mdash;&nbsp; 🔥C<samp>ONTROVERSY</samp>
 
 > **Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.**\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
@@ -107,6 +107,8 @@ Following this and his other conclusions for authoring is like teaching a kid to
 (_attributed to many, but must be the patriarch of DDoS_)
 >
 > but silence is golden
+
+and neither is right.
 
 ___________\
 🔚 ...but to be continued...
