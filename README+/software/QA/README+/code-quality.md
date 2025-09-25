@@ -15,7 +15,7 @@ ___________<br/>
 
 ### But it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions.
 
-### As in buildings, poor quality leads to menacing cracks, which no design clamps can hold for long.
+> ### As in buildings, poor quality leads to menacing cracks, which no design clamps would hold for long.
 
 </td></tr></table>
 
@@ -78,7 +78,7 @@ Even if a team comes close to them, the code won't be a book of design revelatio
 **C)** Coding isn't a self-contained activity but an ingredient of <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;, 
 where quality is a motive, derivative, and bonus.
 
-Quality code does the work of <ins>introducing</ins> design rather than prompt deciphering and patching. SIMPLE [after](../../../pencraft/README+/quotes/README+/cornerstones.md#complex2simple) Complex
+Quality code does the work of <ins>introducing</ins> design rather than prompt deciphering and patching.
 
 ## Moralité
 
@@ -89,8 +89,11 @@ With all that said, **why does flawed code prevail and _clean code_ migrate to b
 **2.** Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup>, as exponentially growing issues from bad software parts.\
 The point at which controllable chaos goes out of control or a security breach manifests itself may be crucial, but is often postponed to future releases<sup>:parachute:</sup>.
 
-**3.** Intention for quality is good, but if efforts aren't complete, the result will be the same deficient code, but with a massive overhead. 
+**3.** Intention for quality is good, but if efforts aren't complete, the resulting code will also be deficient but SOPHISICATED and with a massive overhead. 
 
+> A key IT quote nails down that [«Simplicity does not precede complexity but follows it.»](../../../pencraft/README+/quotes/README+/cornerstones.md#complex2simple) ...
+
+<p align="center">___________</p>
 Top up with the fact that not every developer self-reflects on "_submit and forget_" practice, and not every project lead/manager will draw a golden section between profanity and academism. 
 
 \___________\
