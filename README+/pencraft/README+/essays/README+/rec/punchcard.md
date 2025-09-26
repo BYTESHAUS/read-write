@@ -1,6 +1,6 @@
 <h1 align="center">Punched cards &nbsp;&mdash;&nbsp; Once upon a time</h1>
 
-> **Guaranteed to be authentic** &mdash; not another paraphrase of [wiki articles](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup><b>w</b></sup>
+> **Guaranteed to be authentic** &thinsp;&mdash;&thinsp; not another paraphrase of [wiki articles](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup><b>w</b></sup>
 
 # Intramural experience (short and vintage)
 
@@ -14,7 +14,7 @@ Long after their decline, punching technology and its carton carrier remained co
                         
 ## The Task
       
-It was an exercise in PL/I&nbsp;<sup>🔢</sup> &mdash; output a curve of an assigned function (a variant of $`ax^2 + bx + c`$ was mine). And the <i>output</i> meant <b>direct to the line printer</b> using teletype symbols for <samp>X/Y</samp> axes and the graph.
+It was an exercise in PL/I&nbsp;<sup>🔢</sup> &thinsp;&mdash;&thinsp; output a curve of an assigned function (a variant of $`ax^2 + bx + c`$ was mine). And the <i>output</i> meant <b>direct to the line printer</b> using teletype symbols for <samp>X/Y</samp> axes and the graph.
 
 Believe it or not, this story had no electronic display.
 
@@ -51,14 +51,14 @@ Between **(4)** and **(5)**, a fellow disciple intruded, shuffling my deck unnot
 
 <h1 align="right">Extramural afterword</h1>
 
-This mediocre story is a chance to remind the reader of the outstanding traits of this medium, &mdash; 
-despite its fast decadence, predetermined by data density (it couldn't get either mini/micro or double-sided next).
+This mediocre story is a chance to remind the reader of the outstanding traits of this medium, &thinsp;&mdash;&thinsp;  despite its fast decadence, predetermined by data density 
+(it could become neither mini/micro nor double-sided next).
 
 I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. And that's why:
 
 + The production is as easy as for papier-mâché. Neither rare minerals nor precious elements are involved.
 + The cards will be intact for millennia in harsh environments.\
-Any mechanical action, dirt, temperature, or humidity, that can damage them, will irreparably sweep other media.  A cheap safe box will rescue them from direct fire and chemical agents.
+Any mechanical action, dirt, temperature, or humidity that can damage them will irreparably sweep other media.  A cheap safe box will rescue them from direct fire and chemical agents.
 + Electromagnetic emission in the whole spectrum can't bring even a tiny data loss.\
 It's not about household magnets, short circuits, and solar flares. Punch cards will survive nuclear disasters and [gamma-ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)<sup><b>w</b></sup>.
 + They have a look&feel of data storage, easy to read<sup>🪢</sup> manually or with DIY device.
