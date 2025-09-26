@@ -1,6 +1,6 @@
 <h3 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h3>
 
-# Software &nbsp;&mdash;&nbsp; Naming <samp>and</samp> Categorization
+# `Code` &nbsp;&mdash;&nbsp; Naming <samp>and</samp> Categorization
 
 <table><tr valign="top"><td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
@@ -18,7 +18,7 @@
 
 ### _Categorization_ (aka _classification_) is more profound than breaking collocations with sentences, and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
 
-If enthusiasts could categorize myriads of wretched boulders in space and paltry insects, it must be no meltdown for unique by-nature software entities.
+If enthusiasts with magnifying glasses could categorize swarms of wretched boulders in far space and paltry insects, it must be no meltdown for unique by-nature software entities.
 
 The challenge is to lay out accurately. Our imagination tries to mnemonically align doubtful and even bizarre names to the right meanings and aliases, but takes on trust their structure.
 
