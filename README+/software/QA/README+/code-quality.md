@@ -84,47 +84,47 @@ Quality code does the work of <ins>introducing</ins> design rather than prompt d
 
 With all that said, **why does flawed code prevail and _clean code_ migrate to buzzwords?**
 
-**1.** Deficient code is written and deployed much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, especially on short sprints, counter-arguments fade.
+1️⃣ Deficient code is written and deployed much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, especially on short sprints, counter-arguments fade.
 
-**2.** Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup>, as exponentially growing issues from bad software parts.\
-The point at which controllable chaos goes out of control or a security breach manifests itself may be crucial, but is often postponed to future releases<sup>:parachute:</sup>.
+2️⃣ Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup>, as exponentially growing issues from bad software parts.\
+The point at which controllable chaos goes out of control or a security breach manifests itself may be crucial, but is often postponed to future releases<sup>🪂</sup> or sometimes product lifecycles<sup>🏠</sup>.
 
-**3.** Intention for quality is good, but if efforts aren't complete, the resulting code will also be deficient but SOPHISICATED and with a massive overhead. 
+3️⃣ Intentions for quality are commendable, but if efforts aren't **complete**, the resulting code will be the same deficient but incur a massive overhead. 
 
-> A key IT quote nails down that [«Simplicity does not precede complexity but follows it.»](../../../pencraft/README+/quotes/README+/cornerstones.md#complex2simple) ...
-
-<p align="center">___________</p>
 Top up with the fact that not every developer self-reflects on "_submit and forget_" practice, and not every project lead/manager will draw a golden section between profanity and academism. 
 
 \___________\
-&nbsp; &nbsp; &nbsp; <sup>🥴</sup> <samp>Provided one doesn't bother with [development] principles.</samp>\
-&nbsp; &nbsp; &nbsp; <sup>👨‍👩‍👦‍👦</sup> <samp>Customers, developers, testers, users, and project organizers. Or even the next lifecycle (e.g., for business successful systems as ERP)</samp>\
-&nbsp; &nbsp; &nbsp; <sup>🪂</sup> <samp>When its originators may be safely on other projects, leaving time bombs and minefields to others.</samp>
+&nbsp; &nbsp; &nbsp; <sup>🥴</sup> <samp>Provided one doesn't bother with good developer principles.</samp>\
+&nbsp; &nbsp; &nbsp; <sup>👨‍👩‍👦‍👦</sup> <samp>Customers, developers, testers, users, and project organizers.</samp>\
+&nbsp; &nbsp; &nbsp; <sup>🪂</sup> <samp>When its originators may be safely on other projects, leaving time bombs and minefields to others.</samp>\
+&nbsp; &nbsp; &nbsp; <sup>🏠</sup> <samp>As business with market share as ERP.</samp>
 
 <table><tr></tr><tr valign="top"><td>
 
 ## Afterword. Still mediocre code &nbsp;&mdash;&nbsp; Why<samp>⁉️</samp>
 
 Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup>, 
-**Motivated smart teams may not reach high quality in very good conditions with enough resources and freedoms.**
+**Motivated smart teams may not achieve high quality even in favorable conditions with sufficient resources and granted freedoms.**
 
 Besides "classical" over-creativity and procrastination, the trivial reasons could be:
 
 - gross of formal processes at the expense of design and communication,
 - "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
-- canceled or postponed iterations/refactoring/cleaning,
+- canceled or postponed iterations&thinsp;/&thinsp;refactoring&thinsp;/&thinsp;cleaning,
 - hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
+
+
+> **A key IT quote nails down that [«Simplicity does not precede complexity but follows it.»](../../../pencraft/README+/quotes/README+/cornerstones.md#complex2simple) ...**
 
 Also, prominent individuals may develop great parts/apps alone and are so keen at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
 
 However, these cases are exceptional, not about enterprise development, and mostly past.
 
-\___________\
-&nbsp; &nbsp; <sup>:wilted_flower:</sup> <samp>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</samp>\
-&nbsp; &nbsp; <sup>:desert:</sup> <samp>Prototypes, stand-alone auxiliaries, temporary solutions.</samp>
-
 </td><td width="30%">
-  <a href="../../../_rsc/_img/photo/blog/mount/DevVsMonolyth.jpg"><img alt="&nbsp;Stone monolyth" src="../../../_rsc/_img/photo/nat/DerAlteSchwede.jpg" title="Waterfall monolyth again..." /></a>
+  <a href="../../../_rsc/_img/photo/blog/mount/DevVsMonolyth.jpg"><img alt="&nbsp; Stone monolyth" src="../../../_rsc/_img/photo/nat/DerAlteSchwede.jpg" title="Waterfall monolyth again..." /></a>
 </td></tr></table>
+
+<div align="right"><sup>:wilted_flower:</sup> <samp>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</samp><br />
+<sup>:desert:</sup> <samp>Prototypes, stand-alone auxiliaries, temporary solutions.</samp></div>
 
 🔚 ...🌜2023-2025 ...
