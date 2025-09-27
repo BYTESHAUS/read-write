@@ -1,13 +1,13 @@
 <h3 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h3>
 
-# `Code` &nbsp;&mdash;&nbsp; Naming <samp>and</samp> Categorization
+# `Code entities` &thinsp;>&thinsp; Organisation &thinsp;>&thinsp; P<samp>ARTITIONING</samp>, N<samp>AMING</samp>, and C<samp>ATEGORIZATION</samp>
 
 <table><tr valign="top"><td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
   
 ### Denomination of titles _and_ their classification is a pivotal but underrated activity <ins>in&nbsp;any&nbsp;exploration</ins>.
   
-#### In software, names with categories, which smoothly guide developers through the design and make coding intuitive, are often taken for granted.
+#### In software, names with categories, which smoothly guide developers through the design and make development intuitive, are often taken for granted.
 
 <div align="center"><b>O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</b></div>
 
