@@ -61,7 +61,7 @@ One of the motives and benefits of object-oriented design is that it directly ma
 
 ### R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E&nbsp; there?
 
-**<mark>&thinsp;Y&thinsp;e&thinsp;s&thinsp;</mark>**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about _Operating Systems_ - the product of <i><b>Hardware</b></i>&<i><b>Software</b>-Driven-Domain</i>.
+**<mark>&thinsp;Y&thinsp;e&thinsp;s&thinsp;</mark>**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about _Operating Systems_ &thinsp;&mdash;&thinsp; the product of <i><b>Hardware</b></i>&<i><b>Software</b>-Driven-Domain</i>.
 
 Many other systems are projections of rudimentary software possibilities before large-scale computerization: social networks, email, and blockchains. And less corresponding to the term 
 <span title="&nbsp;Content Management System"><ins>CMS</ins></span>, <span title="&nbsp;Customer Relationship Management "><ins>CRM</ins></span>, and <span title="&nbsp;Erterpise Resource Planning"><ins>ERP</ins></span> (as SAP).
@@ -82,6 +82,11 @@ Many other systems are projections of rudimentary software possibilities before 
 1) Test Driven **Development** and Test Driven **Design** are branching approaches.
 2) Tests better qualify not as drives but as tools for Driven Development and Design.
 
+<h3 align="center"><ins>&thinsp;B&thinsp;O&thinsp;T&thinsp;T&thinsp;O&thinsp;M &nbsp; L&thinsp;I&thinsp;N&thinsp;E&thinsp;</ins></h3>
+
+**Particular development must be creatively multi-driven with one selected main wheel &thinsp;&mdash;&thinsp; DDD in most cases.**
+
+<p align="center">___________</p>
 
 # Appendix. Developer-friendly design
 
@@ -90,7 +95,7 @@ Many other systems are projections of rudimentary software possibilities before 
 🚧 ... TO WRITE ... 🚧
 
 Example:\
-|- use-dev➡️ [Wizard blocks](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/WizConstr/README.md)
+|&thinsp;- use-dev➡️ [Wizard blocks](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/WizConstr/README.md)
 
 \___________\
 🔚 <sub> ..2024-2025 ... borrowed images credit: [The Outer Limits.The&nbsp;Mutant, 1964](https://www.imdb.com/title/tt0667845/?ref_=ttep_ep25), [FREEP1K](FREEP!K (freepik.com))</sub>

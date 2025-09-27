@@ -5,9 +5,9 @@
      &nbsp; <a href="../README+/software/design/"><b>D&thinsp;e&thinsp;s&thinsp;i&thinsp;g&thinsp;n</b></a>&thinsp;<sup>∑</sup>&nbsp <i>feat.</i>
           <br />
      <!-- -->
-     <!--                               NAMES, DRIVES, SAMPLES          --!>
+     <!--                               NAMES (Code org), DRIVES, SAMPLES          --!>
      <!-- -->
-     &nbsp; &nbsp; &nbsp; <a href="../README+/software/design/names/README.md">Names</a>&thinsp;⚙️&thinsp;
+     &nbsp; &nbsp; &nbsp; <a href="../README+/software/design/code_org/README.md">Names</a>&thinsp;⚙️&thinsp;
     <a href="../README+/software/design/drive//README.md">Drives</a>&thinsp;➰&thinsp;<a href="../README+/software/design/samples/README.md">Samples</a><br/>
      <!-- -->
      <!--                               QA and TESTS          --!>
