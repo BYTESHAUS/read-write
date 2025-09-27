@@ -5,7 +5,7 @@
 ___________<br/>
 (.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</div>
 
-# `Code` <nark>Quality</mark>
+# `Code` <mark>Quality</mark>
 
 <table><tr></tr><tr valign="center"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
@@ -21,7 +21,7 @@ ___________<br/>
 
 ## High-quality code
 
-That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`clean code`** that follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
+That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`clean code`** that rests on well-tempered [**code organization**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
