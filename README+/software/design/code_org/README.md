@@ -1,6 +1,6 @@
 <h3 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h3>
 
-# `Code entities` &thinsp;>&thinsp; Organisation &thinsp;>&thinsp; P<samp>ARTITIONING</samp>, N<samp>AMING</samp>, and C<samp>ATEGORIZATION</samp>
+# `Code entities` &thinsp;>&thinsp; Organisation &thinsp;>&thinsp; 🐋P<samp>ARTITIONING</samp>, 🐋N<samp>AMING</samp>, and 🐋C<samp>ATEGORIZATION</samp>
 
 <table><tr valign="top"><td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
