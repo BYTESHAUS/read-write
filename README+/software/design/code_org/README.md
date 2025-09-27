@@ -1,9 +1,8 @@
 <h3 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h3>
 
-# `Code entities` &thinsp;>&thinsp; Organisation &thinsp;>&thinsp; 🐋P<samp>ARTITIONING</samp>, 🐋N<samp>AMING</samp>, and 🐋C<samp>ATEGORIZATION</samp>
+# `Code entities` &thinsp;>&thinsp; Organisation&thinsp;:<br />&nbsp; &nbsp; &nbsp; &nbsp; 🐋P<samp>ARTITIONING</samp>, 🐋N<samp>AMING</samp>, and 🐋C<samp>ATEGORIZATION</samp>
 
-<table><tr valign="top"><td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
-</td><td>
+<table><tr valign="top"><td><picture><img alt="&nbsp; Three Whales of code org" src="../../_img/_rsc/code-org_3whales.jpg" /></picture></td><td>
   
 ### Denomination of titles _and_ their classification is a pivotal but underrated activity <ins>in&nbsp;any&nbsp;exploration</ins>.
   
@@ -33,6 +32,10 @@ The only limitation of categorization is the strict tree graph. Tags may rationa
 
 ### as usual
 
+<table><tr>
+<td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
+</td><td>
+
 The prevalent naming is a derivative of the development, which
 
 ❌ rests on programmable "false-domain" with `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other supports,\
@@ -41,6 +44,8 @@ The prevalent naming is a derivative of the development, which
 ❌ spawns long names and shallow categories (`AddTableReservationInRestaurant(..)`),\
 ❌ interferes with existing domain and programming naming,\
 ❌ contains jargon and slang, or terms, dubious in other tongues or cultures. 
+  
+</td></tr></table>
 
 ### as crucial
 
