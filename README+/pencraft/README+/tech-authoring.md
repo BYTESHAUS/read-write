@@ -63,4 +63,4 @@ Listening to any lecture (live or recorded), course, or discussion can rescue yo
   <p>Randomly opened mathematical books helped me to polish the <a href="essays/README+/SW_architect-aTake.md">Architect(ure)</a>. (Yeap, that essay could be worse.)</p>
 </td></tr></table>
 
-🔚 🧂 <samp>The portion of truth in the epigraph is the quiet but blooming "ghostwriting" market.</samp>
+🔚 🧂 <samp>The portion of truth in the epigraph is the quiet but blooming "ghostwriting" market, where celebrities and politicians are only the obvious part of the client iceberg.</samp>
