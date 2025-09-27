@@ -2,9 +2,9 @@
 
 # `Code entities` &thinsp;>&thinsp; Organisation&thinsp;:<br />&nbsp; &nbsp; &nbsp; &nbsp; 🐋P<samp>ARTITIONING</samp>, 🐋N<samp>AMING</samp>, and 🐋C<samp>ATEGORIZATION</samp>
 
-<table><tr valign="top"><td><picture><img alt="&nbsp; Three Whales of code org" src="../../_img/_rsc/code-org_3whales.jpg" /></picture></td><td>
+<table><tr valign="top"><td width="50%"><picture><img alt="&nbsp; Three Elephants of code org" src="../../../_rsc/_img/illus/code-org_3elephants.jpg" /></picture></td><td>
   
-### Denomination of titles _and_ their classification is a pivotal but underrated activity <ins>in&nbsp;any&nbsp;exploration</ins>.
+### Denomination of titles _and_ their classification (which implied domain partitioninig) is a pivotal but underrated activity <ins>in&nbsp;any&nbsp;exploration</ins>.
   
 #### In software, names with categories, which smoothly guide developers through the design and make development intuitive, are often taken for granted.
 
@@ -81,7 +81,7 @@ It's an ingredient of successful [domain-driven design](../drive/README.md#Domai
 ## Hall of Fame
 
 🥇 Core S[E]QL commands.\
-🏆 _Bread crumbling_ for navigation - both the idea and name selection win
+🏆 _Bread crumbling_ for navigation &thinsp;&mdash;&thinsp; win for both the idea and name
 
 \___________\
 Audience choice Price goes to Mrs. [Grace Hopper](../../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper) 
