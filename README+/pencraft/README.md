@@ -1,12 +1,10 @@
-<h1 align="center">Pen & Brush craft &nbsp;&mdash;&nbsp; Technical writing</h1>
+<div align="right"><picture><image alt="&nbsp;AI free" src="../_rsc/_img/illus/AiFree/AI-free_900px.png" /></picture></div>
+
+<h1 align="center">✒️Pen & Brush🎨 Craft &nbsp;&mdash;&nbsp; Technical Depiction</h1>
 
 <table align="center"><tr></tr><tr><td>
 
-# ✒️&nbsp;🎨
-  
-</td><td>
-
-### [__Documentation__](README+/tech_docu.md)<sup>📄</sup> and [__authoring__](README+/tech-authoring.md)<sup>🖊️</sup> are two very dissimilar employments of writing and painting skills with opposing values of formalism, creativity, envisaging, and styles.
+### [__Documentation__](README+/tech_docu.md)<sup>📄</sup> and [__authoring__](README+/tech-authoring.md)<sup>🖊️</sup> (and their derivatives as audio and video) are two very dissimilar employments of writing and painting skills with opposing values of formalism, creativity, envisaging, and styles.
 
 </td></tr></table>
 
@@ -24,7 +22,7 @@ When it's often a reader's headache to find and study the right <mark>documentat
 
 Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in <mark>documentation</mark> **but** <mark>authoring</mark> sins.
 
----
+<div align="center">___________</div>
 
 Regardless of the mission, significant writing and good illustration are **expensive** and **exhausting** exercises. If not a hobby or bondage, they must:
 
@@ -35,21 +33,17 @@ Regardless of the mission, significant writing and good illustration are **expen
 
 ## Vital side effects / Windfall
 
-<table><tr>
- <td>
+<table><tr><td><picture><img alt="&nbsp;Mango fruit" src="../_rsc/_img/photo/nat/mango/red_on_transparent-500px.png" width="200px"/></picture></td><td>
 
 Documenting/sketching ideas for even small features mitigates **the impedance between the stretch of imagination and the reality of implementation.**
 
 Namely, formalization and structuring compel us to reexamine and refine concepts, enhance the positive aspects, rectify the negative, and discard unrealistic or meaningless features. 
   
-</td>
-<td><picture><img alt="&nbsp;Mango fruit" src="../_rsc/_img/photo/nat/mango/red_on_transparent-500px.png" width="200px"/></picture></td>
-</tr></table>
+</td></tr></table>
 
 ## Appendix. Personal disclaimer
 
 <table><tr valign="top">
-<td><picture><img alt="&nbsp; Grammarly awards" src="../_rsc/_img/illus/docu/GrammarlyAwards.jpg" /></picture></td>
 <td><p align="right"> <span title="&nbsp; &nbsp;... My God! If only we could write this beautiful language of France at all times!&#010;&#013; Letter to John Foster (7 July 1850)">
   «The difficulty of writing <b>English</b><br />is most tiresome to me.»<br />
 <i>Charles Dickens</i>, 1850</span> [and me, XXI]</p>
@@ -58,11 +52,11 @@ Namely, formalization and structuring compel us to reexamine and refine concepts
 
 * The subject of **private** taste, inclination, vision, and fallacies. It's up to you to look them over or recoil in distaste.
 * The subject of **continuous** delivery (i.e., endless edit and modification).\
-`// _Nevertheless, it's not all blur, and most articles are completed._`
+<code>// <i>Nevertheless, it's not all blurred, and most articles are completed.</i></code>
 * Some opuses may be in the badly readable state of 🚧<samp><b>draft</b></samp>🐝\
-`// _Skip them while I do my best to finish_.`
+<code>// <i>Skip them while I do my best to finish</i>.</code>
 
-</td>
+</td><td><picture><img alt="&nbsp; Grammarly awards" src="../_rsc/_img/illus/docu/GrammarlyAwards.jpg" title="&nbsp; My awards" /></picture></td>
 </tr></table>
 
 \___________\
