@@ -1,18 +1,18 @@
 <div align="right"><picture><image alt="&nbsp;AI free" src="../_rsc/_img/illus/AiFree/AI-free_900px.png" /></picture></div>
 
-<h1 align="center">✒️Pen & Brush🎨 Craft &nbsp;&mdash;&nbsp; Technical Depiction</h1>
+<h1 align="center">✒️P<samp>EN</samp> 🙴 B<samp>RUSH</samp>🎨 Craft &nbsp;&mdash;&nbsp; Technical Depiction</h1>
 
 <table align="center"><tr></tr><tr><td>
 
-### [__Documentation__](README+/tech_docu.md)<sup>📄</sup> and [__authoring__](README+/tech-authoring.md)<sup>🖊️</sup> (and their derivatives as audio and video) are two very dissimilar employments of writing and painting skills with opposing values of formalism, creativity, envisaging, and styles.
+### [__Documentation__](README+/tech_docu.md) and [__authoring__](README+/tech-authoring.md) (with their derivatives as audio and video) are two very dissimilar employments of writing and painting skills with opposing values of formalism, creativity, envisaging, and styles.
 
 </td></tr></table>
 
 The principled distinction is __*driven*__ vs __*drives*__:
 
 * <mark>**Documentation**</mark> is **on-demand**/request derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
-&nbsp; &nbsp; &nbsp; &nbsp;<sup>📖</sup> <sub>A strict _User manual_ of hazardous tools is an exemplary story.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>Microsoft [documentation](https://learn.microsoft.com/) follows this line but, honestly, this doesn't help to "🪟<b>Learn</b>".</docu>
+&nbsp; &nbsp; &nbsp; &nbsp;<sup>📖</sup> <samp>A strict _User manual_ of hazardous tools is an exemplary story.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <samp>Microsoft [documentation](https://learn.microsoft.com/) follows this line but, honestly, this doesn't help to "🪟<b>Learn</b>".</samp>
 
 * <mark>**Authoring**</mark> is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
 
