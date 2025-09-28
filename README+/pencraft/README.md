@@ -1,6 +1,6 @@
 <div align="right"><picture><image alt="&nbsp;AI free" src="../_rsc/_img/illus/AiFree/AI-free_900px.png" /></picture></div>
 
-<h1 align="center">✒️P<samp>EN</samp> 🙴 B<samp>RUSH</samp>🎨 Craft &nbsp;&mdash;&nbsp; Technical Depiction</h1>
+<h1 align="center">✒️P<samp>EN</samp> 🙴 B<samp>RUSH</samp>🎨 Craft for Technical Depiction</h1>
 
 <table align="center"><tr></tr><tr><td>
 
@@ -22,14 +22,14 @@ When it's often a reader's headache to find and study the right <mark>documentat
 
 Sticking to the narrowed vocabulary, repetitions, and cliches are benefactors in <mark>documentation</mark> **but** <mark>authoring</mark> sins.
 
-<div align="center">___________</div>
+<p align="center">___________</p>
 
 Regardless of the mission, significant writing and good illustration are **expensive** and **exhausting** exercises. If not a hobby or bondage, they must:
 
-+ [x] have a live, eager auditorium,
-+ [x] exceed other ways of teaching,\
-(consider quickly sketched presentation, captured video tutorial, or even watercooler talks)
-+ [x] be long-term (updated and evolved).
+&nbsp; &nbsp;✅&thinsp;have a live, eager **auditorium**,\
+&nbsp; &nbsp;✅&thinsp;exceed other ways of **teaching**,\
+(consider quickly sketched presentation, captured video tutorial, or even watercooler talks)\
+&nbsp; &nbsp;✅&thinsp;be **long-term** (corrected, updated, and evolved).
 
 ## Vital side effects / Windfall
 
