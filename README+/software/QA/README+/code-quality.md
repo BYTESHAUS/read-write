@@ -13,9 +13,9 @@ ___________<br/>
 
 ### Code is the <mark>cement</mark> of software. Its quality is imperceptible to spectators and doesn't matter much for booths.
 
-### But it ought to be of superior grade for sky-scraping, heavy-duty, or complex constructions.
+### But it ought to be of the superior grade for sky-scraping, heavy-duty, or complex constructions.
 
-> ### As in buildings, poor quality leads to menacing cracks, which no design clamps would hold for long.
+> ### As in buildings, poor code quality leads to menacing cracks, which no design clamps would hold for long.
 
 </td></tr></table>
 
@@ -25,7 +25,7 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
-+ [x] **inspires** to contribute (<ins>rather than to re-write</ins>).
++ [x] **inspires** to contribute (rather than to re-write/refactor).
 
 <div align="right"><sup>↔️</sup> <samp>An onboarding developer can learn the domain from code, while a domain expert will grasp the implemented application logic.
 <br />Sure, both assisted and with documentation.</samp></div>
