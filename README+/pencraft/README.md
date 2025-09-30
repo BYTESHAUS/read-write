@@ -1,10 +1,10 @@
 <div align="right"><picture><image alt="&nbsp;AI free" src="../_rsc/_img/illus/AiFree/AI-free_900px.png" /></picture></div>
 
-<h1 align="center">✒️P<samp>EN</samp> 🙴 B<samp>RUSH</samp>🎨 Craft for Technical Depiction</h1>
+<h1 align="center">✒️P<samp>EN</samp> 🙴 B<samp>RUSH</samp>🎨 Craft in IT and Engineering
 
 <table align="center"><tr></tr><tr><td>
 
-### [__Documentation__](README+/tech_docu.md) and [__authoring__](README+/tech-authoring.md) (with their derivatives as audio and video) are two very dissimilar employments of writing and painting skills with opposing values of formalism, creativity, envisaging, and styles.
+### [__Documentation__](README+/tech_docu.md) and [__authoring__](README+/tech-authoring.md) (with their derivatives as audio and video) are two very dissimilar employments of depicting skills with opposing values of formalism, creativity, envisaging, and styling.
 
 </td></tr></table>
 
@@ -52,8 +52,8 @@ Namely, formalization and structuring compel us to reexamine and refine concepts
 
 * The subject of **private** taste, inclination, vision, and fallacies. It's up to you to look them over or recoil in distaste.
 * The subject of **continuous** delivery (i.e., endless edit and modification).\
-<code>// <i>Nevertheless, it's not all blurred, and most articles are completed.</i></code>
-* Some opuses may be in the badly readable state of 🚧<samp><b>draft</b></samp>🐝\
+<code>// <i>Nevertheless, it's not all blurred &thinsp;&mdash;&thinsp; most articles are complete.</i></code>
+* Few opuses may be in the badly readable state of 🚧<samp><b>draft</b></samp>🐝\
 <code>// <i>Skip them while I do my best to finish</i>.</code>
 
 </td><td><picture><img alt="&nbsp; Grammarly awards" src="../_rsc/_img/illus/docu/GrammarlyAwards.jpg" title="&nbsp; My awards" /></picture></td>
