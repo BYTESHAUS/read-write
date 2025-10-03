@@ -17,7 +17,7 @@
 
 ### _Categorization_ (aka _classification_) is more profound than breaking collocations with sentences, and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
 
-If enthusiasts with magnifying glasses could categorize swarms of wretched boulders in far space and paltry insects, it must be no meltdown for unique by-nature software entities.
+If enthusiasts with magnifying glasses could logically group swarms of wretched boulders in far space and paltry insects, it wouldn't be such a burden for unique by-nature software entities.
 
 The challenge is to lay out accurately. Our imagination tries to mnemonically align doubtful and even bizarre names to the right meanings and aliases, but takes on trust their structure.
 
@@ -103,12 +103,11 @@ Application, solution, interface, exception - to name a few.
 
 ### Bug or Fix?
 
-What's project management software names _bug_ is its _fix_.
+Tickets titled _Bug_ mean not their introduction but the repair.
 
 ### <samp>Exception</samp> or Error ?
 
 Many languages (`C#` there) use this term for errors to throw, though its meaning can sound even opposite &thinsp;&mdash;&thinsp; allowance.
-
 
 ## Curtain of grace (opened)
 
@@ -119,12 +118,13 @@ Many languages (`C#` there) use this term for errors to throw, though its meanin
 🍓 
 🪱 longness
 
-'Emoji' defines pictograms overall, while being only their subset. 
-"Icons" is .. eh .. a bit blasphemous.
+- 'Emoji' defines pictograms overall, while being only a subset. 
+- "Icons" are .. eh .. a bit blasphemous.
 
 🗼"Tower of Babel" award for naming in different alphabets. (Unless it's a highly localized domain or business.)
 
-First class citizens for functions or other ticniques have a flair ...
+_First-class citizens_ for functions or other techniques have a discrimination flair ...
 
-\___________\
-🔚 ..  🌙 ... 2024-2025 ... to be continued ...  📂[README+](README+)
+___________\
+🔚 ..  🌙 ... 2024-2025 ...  📂[README+](README+)\
+`// The collage uses the Hindu version of World Elephants.`
