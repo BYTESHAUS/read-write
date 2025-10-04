@@ -5,7 +5,7 @@
 ___________<br/>
 (.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</div>
 
-# `Code` <mark>Quality</mark>
+# `Code` <mark>Quality</mark> => <samp>QUALITY CODE</samp>
 
 <table><tr></tr><tr valign="center"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
@@ -21,7 +21,7 @@ ___________<br/>
 
 ## High-quality code
 
-That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`clean code`** that rests on well-tempered [**code organization**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
+### That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`clean code`** that rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
@@ -30,7 +30,7 @@ That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`cl
 <div align="right"><sup>↔️</sup> <samp>An onboarding developer can learn the domain from code, while a domain expert will grasp the implemented application logic.
 <br />Sure, both assisted and with documentation.</samp></div>
 
-### <samp>Re:</samp> Bugs 🪳
+## <samp>Re:</samp> Bugs 🪳
 
 Bug-**free** code can nevertheless be bug-**prone**. Code style must be bug-**unfriendly** to minimize the risk of introducing an error by change (regardless of whether tests will promptly detect one or not).
 
@@ -51,14 +51,14 @@ Code optimization (deleting redundancies, merging common logic and data, shorten
 &nbsp; &nbsp; &nbsp; <sup>🥎</sup> <sub>Plenty of magic strings and numbers, deceptive names, accidental casts, or "ghost" arguments (to name a few).</sub>\
 &nbsp; &nbsp; &nbsp; <sup>📖</sup> <sub>Languages provide more and more sugar to make one-liners of methods, but you must stop when this obfuscates lucidity (e.g., you must "unpack" to debug).</sub>
 
-### <samp>Re:</samp> Tests 🧪
+## <samp>Re:</samp> Tests 🧪
 
 > [!NOTE]
 > Test coverage may (and shall) share realization with or even origin from [Test Driven Development](../../tests/), but is **primarily** intended to examine software mechanically 
 (no matter whether implemented before the subject or _post factum_).
 > 
 
-Ample, even overlapping tests may be efficient to patch buggy and badly joined applications, while quality code doesn't need the whole cove of prescribed/automated scrutiny: unit, integration, and performance testing.
+Ample, even overlapping tests may be efficient to patch buggy and badly joined applications, while quality code doesn't need the whole cover of prescribed/automated scrutiny: unit, integration, and performance.
 
 Enough quality code allows one to focus on tests where _errare humanum est_:
 
@@ -75,14 +75,13 @@ Even if a team comes close to them, the code won't be a book of design revelatio
 
 **B)** While design hammers formworks of code <mark>concrete</mark>, [coding frames](https://github.com/byteshaus/use-dev/tree/main/README%2B/frames) reinforce it.
 
-**C)** Coding isn't a self-contained activity but an ingredient of <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;, 
-where quality is a motive, derivative, and bonus.
+**C)** Coding isn't a self-contained activity but an ingredient of design, where quality is a motive, derivative, and bonus.
 
 Quality code does the work of <ins>introducing</ins> design rather than prompt deciphering and patching.
 
 ## Moralité
 
-With all that said, **why does flawed code prevail and _clean code_ migrate to buzzwords?**
+### With all that said, **why does flawed code prevail and _clean code_ migrate to buzzwords?**
 
 1️⃣ Deficient code is written and deployed much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, especially on short sprints, counter-arguments fade.
 
@@ -104,7 +103,8 @@ Top up with the fact that not every developer self-reflects on "_submit and forg
 ## Afterword. Still mediocre code &nbsp;&mdash;&nbsp; Why<samp>⁉️</samp>
 
 Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:</sup> or shall not be planted<sup>:desert:</sup>, 
-**Motivated smart teams may not achieve high quality even in favorable conditions with sufficient resources and granted freedoms.**
+
+### motivated smart teams may not achieve high quality even in favorable conditions with sufficient resources and granted freedoms.
 
 Besides "classical" over-creativity and procrastination, the trivial reasons could be:
 
@@ -126,5 +126,7 @@ However, these cases are exceptional, not about enterprise development, and most
 
 <div align="right"><sup>:wilted_flower:</sup> <samp>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</samp><br />
 <sup>:desert:</sup> <samp>Prototypes, stand-alone auxiliaries, temporary solutions.</samp></div>
+
+<sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;
 
 🔚 ...🌜2023-2025 ...
