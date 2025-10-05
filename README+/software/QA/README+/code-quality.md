@@ -75,7 +75,7 @@ Even if a team comes close to them, the code won't be a book of design revelatio
 
 **B)** While design hammers formworks of code <mark>concrete</mark>, [coding frames](https://github.com/byteshaus/use-dev/tree/main/README%2B/frames) reinforce it.
 
-**C)** Coding isn't a self-contained activity but an ingredient of design, where quality is a motive, derivative, and bonus.
+**C)** Coding isn't a self-contained activity but an ingredient of software, along with design, tests, and documentation. Where quality is a motive, derivative, and bonus.
 
 Quality code does the work of <ins>introducing</ins> design rather than prompt deciphering and patching.
 
@@ -96,7 +96,7 @@ Top up with the fact that not every developer self-reflects on "_submit and forg
 &nbsp; &nbsp; &nbsp; <sup>🥴</sup> <samp>Provided one doesn't bother with good developer principles.</samp>\
 &nbsp; &nbsp; &nbsp; <sup>👨‍👩‍👦‍👦</sup> <samp>Customers, developers, testers, users, and project organizers.</samp>\
 &nbsp; &nbsp; &nbsp; <sup>🪂</sup> <samp>When its originators may be safely on other projects, leaving time bombs and minefields to others.</samp>\
-&nbsp; &nbsp; &nbsp; <sup>🏠</sup> <samp>As business with market share as ERP.</samp>
+&nbsp; &nbsp; &nbsp; <sup>🏠</sup> <samp>As conservative systems with established market share: ERP, bookkeeping.</samp>
 
 <table><tr></tr><tr valign="top"><td>
 
@@ -113,19 +113,24 @@ Besides "classical" over-creativity and procrastination, the trivial reasons cou
 - canceled or postponed iterations&thinsp;/&thinsp;refactoring&thinsp;/&thinsp;cleaning,
 - hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
 
+But the highest barrier lies in what can be described in this key IT quote:
 
-> **A key IT quote nails down that [«Simplicity does not precede complexity but follows it.»](../../../pencraft/README+/quotes/README+/cornerstones.md#complex2simple) ...**
+> [«Simplicity does not precede complexity but follows it.»](../../../pencraft/README+/quotes/README+/cornerstones.md#complex2simple) ...
 
-Also, prominent individuals may develop great parts/apps alone and are so keen at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
+Many can build complex abstractions around tasks. Fewer have a vision for the next step &thinsp;&mdash;&thinsp; simplify.
 
-However, these cases are exceptional, not about enterprise development, and mostly past.
+___________\
+<sup>🥀</sup> <samp>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</samp>\
+<sup>🏜️</sup> <samp>Prototypes, stand-alone auxiliaries, temporary solutions.</samp>
 
 </td><td width="30%">
   <a href="../../../_rsc/_img/photo/blog/mount/DevVsMonolyth.jpg"><img alt="&nbsp; Stone monolyth" src="../../../_rsc/_img/photo/nat/DerAlteSchwede.jpg" title="Waterfall monolyth again..." /></a>
 </td></tr></table>
 
-<div align="right"><sup>:wilted_flower:</sup> <samp>Budget/time jaws, code conveyors, unsuited teams, bad management, or intentional obfuscation.</samp><br />
-<sup>:desert:</sup> <samp>Prototypes, stand-alone auxiliaries, temporary solutions.</samp></div>
+Also, prominent individuals may develop great parts/apps alone and are so keen at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
+
+However, these cases are exceptional, not about enterprise development, and mostly past.
+
 
 <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;
 
