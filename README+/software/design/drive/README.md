@@ -1,8 +1,7 @@
 <h1 align="center"><samp>SOFTWARE CREATION</samp> &nbsp;&rarr;&nbsp; ⚙️D&thinsp;r&thinsp;i&thinsp;v&thinsp;e&thinsp;s⚙️</h1>
 
-> ### What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names. 
-
-<h3 align="right">Even <i>functional programming</i> is a driven approach.</h3>
+> ### What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names.
+> ### Even <i>functional programming</i> is a driven approach.
 
 <details align="center"><summary><h3><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&thinsp;</ins></h3>&nbsp;⬇️</summary>
 <br />
@@ -84,7 +83,9 @@ Many other systems are projections of rudimentary software possibilities before 
 
 <h3 align="center"><ins>&thinsp;B&thinsp;O&thinsp;T&thinsp;T&thinsp;O&thinsp;M &nbsp; L&thinsp;I&thinsp;N&thinsp;E&thinsp;</ins></h3>
 
-**Particular development must be creatively multi-driven with one selected main wheel &thinsp;&mdash;&thinsp; DDD in most cases.**
+**Particular development must be ingeniously multi-driven with one selected main wheel &thinsp;&mdash;&thinsp; DDD in most cases.**
+
+Ariadne's thread:  EXPLANATION DRIVEN
 
 <p align="center">___________</p>
 
