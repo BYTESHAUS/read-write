@@ -1,6 +1,6 @@
 # `C#` &nbsp;&mdash;&nbsp; Good sides &nbsp;&mdash;&nbsp; _underused_
 
-Parts of C# syntax, its certain features, libraries, and frameworks are preferable in development but often remain unrevealed.
+> ### Parts of <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> syntax, its certain features, libraries, and frameworks are <ins>preferable</ins> in development but often remain <ins>unrevealed</ins>.
 
 ## Freshly released
 
@@ -10,8 +10,8 @@ However, staying fit with C# is reasonable and feasible. Releases of .NET are cu
 
 Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> do a great job of separating the wheat from the chaff while IDEs hint at new features.
 
-&nbsp; &nbsp; <sup>👨‍👩‍👧‍👦</sup> <sub>I don't recommend any since this must be a personal experience, selection of the active, and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup>.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sub>**Advice:** Limit review ardor to [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🪟</sup>. Many nice others are delayed from release to release (let alone those experimental).</sub>
+&nbsp; &nbsp; <sup>👨‍👩‍👧‍👦</sup> <samp>I don't recommend any since this must be a personal experience, selection of the active, and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup>.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <samp>**Advice:** Limit review ardor to [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🪟</sup>. Many nice others are delayed from release to release (let alone those experimental).</samp>
 
 ### C#13.NET9 (2024) ... but wait! ...
 
