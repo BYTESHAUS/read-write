@@ -1,6 +1,6 @@
 # `C#` &nbsp;&mdash;&nbsp; <samp>Nice to have</samp> &nbsp;&mdash;&nbsp; Parts and Frameworks
 
-Along with [nice-to-have syntax/features](../cs-lacks.md) there are some bigger blocks of _ideational_ `C#`.
+> ### Along with [nice-to-have syntax/features](../cs-lacks.md) there are some bigger blocks of _ideational_ <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub>.
 
 ## Testing
 
@@ -28,10 +28,10 @@ Native [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>�
 
 ## Dates
 
-Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 9, 1, 9, 5, 6, 7)`), rather constrained (e.g. no BCE years), and inflexible. 
+Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 9, 1, 9, 5, 6, 7)`), rather constrained (e.g., no BCE years), and inflexible. 
 Built-in calendars render limited expansion.
 
-➡️ [AbcChrono](https://github.com/Kyriosity/use-dev/tree/main/README+/parts/AbcChrono) in the _use-dev_ repo extends data handling (e.g. to origin from Bing Bang).
+➡️ [AbcChrono](https://github.com/Kyriosity/use-dev/tree/main/README+/parts/AbcChrono) in the _use-dev_ repo extends data handling (e.g., to origin from Bing Bang).
 
 ## Measurement systems
 
