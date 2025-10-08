@@ -1,6 +1,6 @@
 # MVVM _and_ WPF
 
-Model-View-ViewModel (_abbr_. MVVM) is a well-accepted, easy, powerful concept of __separation of concerns__, also known as [MVP](https://martinfowler.com/eaaDev/uiArchs.html)<sup>🔗</sup>.
+> ### Model-View-ViewModel (_abbr_. MVVM) is a well-accepted, easy, powerful concept of __separation of concerns__, also known as [MVP](https://martinfowler.com/eaaDev/uiArchs.html)<sup>🔗</sup>.
 
 WinForms application can be an exemplary MVVM<sup>🔧</sup>, but it was WPF that formed a symbiosis with MVVM and made the latter mainstream (and not only in WPF). 
 Notably successful and stable Microsoft Visual Studio&nbsp;2010 was written from scratch in WPF, relying on MVVM (Model-View-ViewModel).
@@ -9,10 +9,10 @@ Notably successful and stable Microsoft Visual Studio&nbsp;2010 was written from
 
 ## Structure
 
-|- __Model__  - any common or tailored [application model](../../../../../software/design/parts/README+/app-model.md)\
+|&thinsp;- __Model__  - any common or tailored [application model](../../../../../software/design/parts/README+/app-model.md)\
 &nbsp; // Model classes must be frontend agnostic but virtual (open) for adapting in presentation (e.g., `virtual` props and methods.\
-|- [__ViewModel__](README+/wpf_mvvm-viewmodel.md)\
-|- [XAML view](../wpf-xaml_view.md) *
+|&thinsp;- [__ViewModel__](README+/wpf_mvvm-viewmodel.md)\
+|&thinsp;- [XAML view](../wpf-xaml_view.md) *
 
 &nbsp; &nbsp; * It can also be any other kind of [application view](../../../../../software/design/parts/README+/app-view.md) bound with the ViewModel
 
@@ -45,8 +45,8 @@ MVVM has been widely established, but is neither a universal nor a golden sectio
 
 ### Practical decisions for MVVM
 
-|- ➡️ use-dev\
-|--- [Notification orchestration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
-|--- [Model & ViewModel cohesion](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/mvvm/mvvm-vmodel_cohesion.md)
+|&thinsp;- ➡️ use-dev\
+|&thinsp;-&thinsp;- [Notification orchestration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
+|&thinsp;-&thinsp;- [Model & ViewModel cohesion](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/mvvm/mvvm-vmodel_cohesion.md)
 
 🔚 .. 2022 - 2025 ..
