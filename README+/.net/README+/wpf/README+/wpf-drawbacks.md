@@ -1,10 +1,10 @@
 # WPF &nbsp;&mdash;&nbsp; Drawbacks and lacks
 
-**`WPF`** is a stable, modern, and so far popular platform, alive and well off despite numerous sad prognoses.
+> ### **`WPF`** is a stable, modern, and so far popular platform, alive and well despite numerous sad prognoses.
 
 It remains the number one choice for new desktop applications (of any scale), yet without great add-ins, pivotal improvements, and new cutting-edge parts since its first release.
 
-## "WPF 2.0"
+## "WPF <mark>2.0</mark>" ?
 
 The wide use of WPF from 2006 has accumulated vast expertise, feedback, critique (naming), and [proposals](https://github.com/dotnet/wpf/discussions)<sup>:octocat:</sup>. 
 Microsoft resources allow its professionals to transform them into a breaking, cutting-edge version of the subsystem &thinsp;&mdash;&thinsp; not on the horizon in 2024.
@@ -73,7 +73,7 @@ Converters fail silently, covering errors or prompting you to keep the debugger 
 🚧... details to be written ... 🚧
 
 **See further**\
-|--- [MVVM](mvvm)
+|&thinsp;-&thinsp;- [MVVM](mvvm)
 
-\_________\
+_________\
 🔚 .. 2022-2025 ..
