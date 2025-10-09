@@ -160,4 +160,4 @@ With all readability, the handicap is that the _test subjects_ are hidden in ext
 The alternative can be a condensed, terser syntax, like these ["coagulated" expressions](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
 
 \___________\
-🔚 🌙 2024-2025 ..
+🔚 🌙 2024-2025 .. <b>Β</b>ytesHausMeister
