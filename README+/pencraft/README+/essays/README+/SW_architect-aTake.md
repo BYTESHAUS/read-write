@@ -216,7 +216,7 @@ It distinguishes the position from slurred experts, team leads (thought of as ad
 
 Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> will sound that coherent.
 
-<div align="right">___________<br /><sup>🙋</sup> <samp>Advent of _Senior_, _Chief_, _Solution_ Architects signals that this title also corrodes.</samp></div>
+<div align="right">___________<br /><sup>🙋</sup> <samp>Advent of <i>Senior</i>, <i>Chief</i>, <i>Solution</i> Architects signals that this title also corrodes.</samp></div>
 <br />
 <table><tr /><tr><td>👉🏿</td><td>
 
@@ -242,5 +242,5 @@ title="Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D&nbsp; &nbsp; &nbsp; &nbs
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin or adjacent activities</a>.
  </td></tr></table>
 
-<div align="center">&nbsp;🔚 &nbsp;🌘 kyriosity 2023-2025 &nbsp; </sub><b>...</b></div>
+<div align="center">___________<br />&nbsp;🔚 &nbsp;🌘 <b>Β</b>ytesHausMeister 2023-2025 &nbsp; </sub><b>...</b></div>
 Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity
