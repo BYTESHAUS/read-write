@@ -62,4 +62,4 @@ Namely, formalization and structuring compel us to reexamine and refine concepts
 </tr></table>
 
 \___________\
-🔚 🌘 2023-2025 &rArr; 📂[README+](README+)
+🔚 🌘 2023-2025 .. <b>Β</b>ytesHausMeister &rArr; 📂[README+](README+)
