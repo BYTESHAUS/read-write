@@ -182,4 +182,4 @@ After sacrificing a couple of hours, he addressed this pesky _null_ to the dark 
 |&thinsp;- [Zero index take](take_zero-index.md)
 
 ___________\
-🔚 &empty; 2025 ..  image credits: Wiki Commons, kyriosity
+🔚 &empty; 2025 .. <b>Β</b>ytesHausMeister ..  image credits: Wiki Commons, kyriosity
