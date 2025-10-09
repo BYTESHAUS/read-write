@@ -1,4 +1,4 @@
-# Photoblog&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Anti-home-office
+# Photoblog: Anti-Home-Office
 
 <p align="center"><b><samp>NOT HOME, NOT OFFICE</samp></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;❗🏠 && ❗🏢 = 🏞️ 🚋🛸</p>
 
@@ -54,4 +54,4 @@
 &nbsp; &nbsp; <sup>🚝</sup> <samp>These photos are for entertainment only and in no way promote Deutsche Bahn.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sup>⚠️ You may miss important meetings or connections because of regular delays and cancellations of this service!</sup></p>
 &nbsp; &nbsp; <sup>🐈‍⬛</sup> <samp>_German_ "for cat" &mdash; idiomatically "for nothing"</samp>
-<div align="right">🔚 ... All snapshots are personal and genuine .. 🌘2000-2025 ...</div>
+<div align="right">🔚 ... All snapshots are personal and genuine .. 🌘 <b>Β</b>ytesHausMeister .. 2000-2025 ...</div>
