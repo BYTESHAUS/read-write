@@ -26,4 +26,4 @@ The composer and conductor may or not play one or two instruments, rarely a few,
 ### [![Arc Deco.](../../../../_rsc/_img/ArcDeco/ArcDeco-bar-h33px_rounded.png)](../../README.md) <sup>&nbsp;[RATIONALE](../01.Rationale/README.md) &larr; [BIG&nbsp;PICTURE](../02.BigPict/README.md) &larr; [STRIPES](../03.Stripes/README.md) &larr; [FORCES](../04.Forces/README.md) &larr; [ROLES](../05.Roles/README.md) &larr; [FACTORS](../06.Factors/README.md) &larr;</sup> **WRAP&nbsp;UP**
 
 \___________\
-🔚 🌜.. 2024-2025 ..
+🔚 🌜.. 2024-2025 .. <b>Β</b>ytesHausMeister
