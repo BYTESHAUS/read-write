@@ -211,5 +211,4 @@ Responsible and attentive following the principles will unite and motivate the t
 
 It must be much higher than reading the theory on why TDD is good.
 
-\___________
- <div align="center">🔚 &nbsp;🌒 2024-2025  ... images: kyriosity ...</div>
+<div align="center">___________<br />🔚 &nbsp;🌒 2024-2025 .. <b>Β</b>ytesHausMeister .. images: Kyriosity ...</div>
