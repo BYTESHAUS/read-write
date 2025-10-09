@@ -1,8 +1,8 @@
 # Quotes store &nbsp;&mdash;&nbsp; Inspiration department
 
-## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e&nbsp; m&thinsp;e &thinsp;.&thinsp;.&thinsp;.
+## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e&nbsp; m&thinsp;e&nbsp; t&thinsp;o &thinsp;.&thinsp;.&thinsp;.
 
-<details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; <b>to write and document</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; <b>write and document</b>&nbsp;</ins></summary>&nbsp;
 
 > **Epistula non erubescit**\
 ― _Marcus Tullius Cicero (106-43 BC)_\
@@ -29,7 +29,7 @@
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>&thinsp;.&thinsp;.&thinsp;.&thinsp; to procrastinate</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>&thinsp;.&thinsp;.&thinsp;.&thinsp; procrastinate</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
@@ -65,9 +65,9 @@ Coming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki/
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; for perfectionism</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; perfect</b>&nbsp;</ins></summary>&nbsp;
  
-<mark><b>&nbsp;Presented to you by ...</b></mark>
+<mark><b>&nbsp;Perfectionism brought to to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Collage: best works of modern perfectionism" src="../../../../_rsc/_img/memes/collage-modern_perfectionism.jpg" title="&nbsp;... the best of design" /></picture><br />
 
 #### Classics
@@ -138,7 +138,7 @@ _K. Proutkoff_, Selection, ~1850
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;. to vindicate NOT doing/learning</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;. vindicate NOT doing/learning</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Luca Giordano: Dream of Solomon, 1694-1695" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" 
@@ -196,7 +196,7 @@ Should one defy the fundamentals of Western philosophy ...
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; to interpret errors right...</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; interpret errors right...</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" title="&nbsp;Real frame from the presentation of Windows plug&play in 1998"/></picture><br />
@@ -237,7 +237,7 @@ _Alexander Pope_, poet (1688-1744)
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; but to test and debug</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; </b>but <b>test and debug</b>&nbsp;</ins></summary>
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
@@ -267,7 +267,7 @@ This required many conditions to coincide, and would manifest itself fast.</samp
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; and <b>... to quote&nbsp;</b></ins>♾️</summary>&nbsp;
+<details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; and <b>... quote&nbsp;</b></ins>♾️</summary>&nbsp;
 
 > **I always have a quotation for everything. It saves original thinking.**\
 _Dorothy L. Sayers_ (1893-1957), novelist, translator, and critic
