@@ -2,13 +2,14 @@
 
 <table><tr valign="top"><td><picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/tests/test_fw-emblems(blur).jpg" /></picture>
 </td><td>
-<p><b>Programmatic tests, as an idea<sup>💡</sup>, appeared together with high-level languages.</b></p>
-<ul>
-  <li>They are a unique part of the software: optional but integral.</li>
-  <li>They don't contribute to product contents but are as essential as the foundation code.</li>
-  <li>They are versatile since they can be applied to any extent and direction and for differing purposes.</li>
-  <li>They can follow any practices and methodologies, even &thinsp;&mdash;&thinsp; no tests at all<sup>💫</sup>.</li>
-</ul>
+  
+### Programmatic tests, as an idea<sup>💡</sup>, appeared together with high-level languages.
+  
++ They became a unique part of the software: optional but integral.
++ They don't contribute to product contents but are as essential as the foundation code.
++ They are versatile since they can be applied to any extent and direction and for differing purposes.
++ They can follow any practices and methodologies, even &thinsp;&mdash;&thinsp; no tests at all<sup>💫</sup>.
+
 <div dir="rtl"><sub>.The <b>idea</b> of writing procedures with the single objective to examine another code</sub><sup>💡</sup></div>
 <div dir="rtl"><sub>.Really: some algorithms or particular artifacts can be hardly testable</sub><sup>💫</sup></div>
 </td></tr></table>
