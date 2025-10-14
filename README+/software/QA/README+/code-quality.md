@@ -85,8 +85,8 @@ Quality code does the work of <ins>introducing</ins> design rather than prompt d
 
 1️⃣ Deficient code is written and deployed much faster, cheaper, and without heated debates.<sup>🥴</sup> And as it does the job, especially on short sprints, counter-arguments fade.
 
-2️⃣ Benefits of quality code lag for all beneficiaries<sup>:family_man_woman_boy_boy:</sup>, as exponentially growing issues from bad software parts.\
-The point at which controllable chaos goes out of control or a security breach manifests itself may be crucial, but is often postponed to future releases<sup>🪂</sup> or sometimes product lifecycles<sup>🏠</sup>.
+2️⃣ Benefits of quality code lag for all beneficiaries<sup>👨‍👩‍👧‍👦</sup>, as exponentially growing issues from bad software parts.\
+The point at which controllable chaos goes out of control, trivial changes cost extremely much, or a security breach manifests itself, may be crucial, but is often postponed to future releases<sup>🪂</sup> or sometimes product lifecycles<sup>🏠</sup>.
 
 3️⃣ Intentions for quality are commendable, but if efforts aren't **complete**, the resulting code will be the same deficient but incur a massive overhead. 
 
