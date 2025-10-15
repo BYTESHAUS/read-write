@@ -1,11 +1,11 @@
 # Software &nbsp;&mdash;&nbsp; Prog Tests
 
-🐝 What's prog and why not automated
+🐝 What's prog and why not automated. Place IDEA 💡 here 🚧 
 
 <table><tr valign="top"><td><picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/tests/test_fw-emblems(blur).jpg" /></picture>
 </td><td>
   
-### Programmatic tests, as an idea<sup>💡</sup>, appeared together with high-level languages.
+### Programmatic tests, as a discipline and an idea<sup>💡</sup>, appeared together with high-level languages.
   
 + They became a unique part of the software: optional but integral.
 + They don't contribute to product contents but are as essential as the foundation code.
@@ -13,7 +13,7 @@
 + They can follow any practices and methodologies, even &thinsp;&mdash;&thinsp; no tests at all<sup>💫</sup>.
 
 <div dir="rtl"><sub>.The <b>idea</b> of writing procedures with the single objective to examine another code</sub><sup>💡</sup></div>
-<div dir="rtl"><sub>.Really: some algorithms or particular artifacts can be hardly testable</sub><sup>💫</sup></div>
+<div dir="rtl"><sub>Some algorithms or particular artifacts can be hardly testable or be fruitless. Or only personal evaluation</sub><sup>💫</sup></div>
 </td></tr></table>
 
 Getting started with testing is a no-brainer:
