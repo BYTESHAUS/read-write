@@ -1,4 +1,4 @@
-# Software &nbsp;&mdash;&nbsp; Prog Tests
+# Software &nbsp;&mdash;&nbsp; Prog(rammed/rammatic) Tests
 
 🐝 What's prog and why not automated. Place IDEA 💡 here 🚧 
 
