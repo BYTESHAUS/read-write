@@ -1,4 +1,6 @@
-# Software &nbsp;&mdash;&nbsp; Programmatic tests
+# Software &nbsp;&mdash;&nbsp; Prog Tests
+
+🐝 What's prog and why not automated
 
 <table><tr valign="top"><td><picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/tests/test_fw-emblems(blur).jpg" /></picture>
 </td><td>
