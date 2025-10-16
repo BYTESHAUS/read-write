@@ -26,7 +26,8 @@ Getting started with testing is a no-brainer:
 Tests can be written in the same or another programming language than their subjects. Even without a framework. &nbsp;&mdash;&nbsp; 
 Bare parametrized calls of core functions and properties followed by a log/error for unexpected results.
 
-<p align="center"><b>We have opened a very vast theme and its further discussions can't avoid this <mark>principal</mark> branching:</b></p>
+<p align="center"><b>We've uncorked a very vast theme and its further discussions can't avoid this <mark>principal</mark> branching:</b></p>
+
 <table align="center"><tr><td>
   <div align="center"><b>TESTS<br>for</b>
     <h3><a href="asQA/"><samp><ins>&nbsp;Q&thinsp;U&thinsp;A&thinsp;L&thinsp;I&thinsp;T&thinsp;Y<br />
