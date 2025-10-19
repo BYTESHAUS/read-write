@@ -4,18 +4,19 @@
 
 ## Freshly released
 
-C# evolves swiftly with regular and rich releases, but not every developer is an early adopter, and not every team is eager to update the breadwinning environment.
+`C#` evolves swiftly with a regular release pace, but not every developer is an early adopter, and not every team is eager to update the breadwinning environment.
 
-However, staying fit with C# is reasonable and feasible. Releases of .NET are cumulative and stable; besides new syntax and structures, they provide better performance, more security, and longer support. 
+However, staying fit with `C#` is a reasonable and feasible attitude. Releases of .NET are cumulative and stable; besides introducing new syntax and structures, they provide improved performance, enhanced security, and extended support. 
 
 Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> do a great job of separating the wheat from the chaff while IDEs hint at new features.
 
-&nbsp; &nbsp; <sup>👨‍👩‍👧‍👦</sup> <samp>I don't recommend any since this must be a personal experience, selection of the active, and a matter of taste. Except for the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup>.</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; <samp>**Advice:** Limit review ardor to [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🪟</sup>. Many nice others are delayed from release to release (let alone those experimental).</samp>
+___________\
+&nbsp; &nbsp; <sup>👨‍👩‍👧‍👦</sup> <samp>No distinct recommendation here since this must be a personal experience, selection of the active, and a matter of taste.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <samp>**Advice:** It's rational to begin with the original [dev blog](https://devblogs.microsoft.com/dotnet/)<sup>🪟</sup> and [officially released features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)<sup>🪟</sup>. (Many nice things are delayed from release to release, let alone those experimental.)</samp>
 
 ### C#13.NET9 (2024) ... but wait! ...
 
-Among other features, two could be rather practical. Announced and promoted by bloggers but "still in active development" (2025).
+Among other features, two could be rather practical. Announced and promoted by bloggers, but "still in active development" (2025).
 
 + `using` aliases improved: 1) full qualification not required for imported namespaces, 2) generics supported.
 + `extension` keyword for shortened signatures, and properties support.
@@ -36,7 +37,7 @@ The following "old" practical syntax and features remain unused in enough progra
 
 ##### `switch` beyond `else if`
 
-With pattern matching, tuples, and `=>` replacing `break` the good old statement got the second life.
+With pattern matching, tuples, and `=>` replacing `break`, the good old statement got a second life.
 
 ## Pattern matching `switch` instead of `else if`s
 
@@ -80,22 +81,22 @@ static void CalcHard(int nat) {
 
 ## All of the LINQ
 
-The magic of LINQ is so practical that it's the first thing C# developers miss when coding in other languages.<sup>:large_blue_diamond:</sup>
+The magic of LINQ is so practical that it's the first thing C# developers miss when coding in other languages.<sup>🔷</sup>
 
 However, even its addicts may be unfamiliar with many tenable features. I knew about 
 [`Cast`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.cast), 
 [`Zip`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.zip),
-`SkipWhile`, `Append`, and `Prepend`, 
-obscenely later than I must have used them.
+`SkipWhile`, `Append`, and `Prepend`, obscenely later than I must have used them.
 
-Attach here [`Lookup`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.lookup-2) &mdash; the counterpart of the well-known `Dictionary`.
+Place here [`Lookup`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.lookup-2) &mdash; the counterpart of the well-known `Dictionary`.
 
 It's also better to be aware of disputable methods like 
 [`OfType`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.oftype), 
 [`DefaultIfEmpty`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.defaultifempty), 
 [`TryGetNonEnumeratedCount`](https://learn.microsoft.com/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount).
 
-&nbsp; &nbsp;<sup>:large_blue_diamond:</sup><sub>If you're lucky enough not to meet this, such [cheatsheet of equivalents](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/)<sup>🔗</sup> may give you a feeling.</sub>
+___________\
+&nbsp; &nbsp;<sup>🔷</sup> <samp>If you're lucky enough not to meet this, such [cheatsheet of equivalents](https://www.garethrepton.com/TypeScript-equivalents-for-DotNet-Linq-functions/)<sup>🔗</sup> may give you a feeling.</samp>
 
 ## Reflection
 
@@ -125,13 +126,13 @@ It doesn't involve a deranged imagination to improvise the auto-implementation o
 
 ### Value Task
 
-[`ValueTask`](https://learn.microsoft.com/dotnet/api/system.threading.tasks.valuetask-1) was introduced in .NET Core 2.0 to wrap the result of `Task`. It won't create an overhead if the result is available.
+[`ValueTask`](https://learn.microsoft.com/dotnet/api/system.threading.tasks.valuetask-1) was introduced in .NET Core 2.0 to wrap the result of `Task`. It won't create overhead if the result is available.
 
 Along with another abstraction `IValueTaskSource`, it's a choice over `Task` for one-time calls without blocking and similar scenarios.
 
 ## Wrap up
 
-There must be other useful but neglected parts, features, and syntax of C# and its subsystems that you may know and contribute to this document.
+There must be other useful but neglected parts, features, and syntax of `C#` and its subsystems that you may know and contribute to this document.
 
 Plus to the mentioned above, there are:\
 |&thinsp;-&thinsp;- [Parts in shade](parts/cs-feat_shadow.md)\

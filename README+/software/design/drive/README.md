@@ -10,11 +10,11 @@
 
 <p align="center">⬆️&thinsp;<mark><b>Let's figure out what to do with this mess...</b>&thinsp;⬇️</mark></p>
 
-# _Drive_, let _drive_, and let be _driven_
+# _DRIVE_, LET _drive_, and let BE _driven_
 
 Let's reserve individual surveys of <ins><b>&thinsp;<samp>ONE-WAY</samp> 1&thinsp;:&thinsp;1&thinsp;</b></ins> to voluminous books and techno-evangelists. They do a great job of formalization (including methodologies) and popularizing exclusive approaches, which may prevail in particular initiatives.
 
-Let's be free of dogmas and  isolated combinations. The easiest path is to conjure up the items (from the picture above) around a task and develop it with approaches in mind.<sup>🙋</sup>
+But we will be free of dogmas and isolated combinations. The easiest path is to conjure up the items (from the picture above) around a task and develop it with approaches in mind.<sup>🙋</sup>
 
 The arduous task is to draw arrows in the picture,  play with their direction, and prioritize (this also means erasing some). Then continue designing names, categories, and programmatic structures.
 
@@ -85,7 +85,7 @@ Many other systems are projections of rudimentary software possibilities before 
 
 **Particular development must be ingeniously multi-driven with one selected main wheel &thinsp;&mdash;&thinsp; DDD in most cases.**
 
-Ariadne's thread:  EXPLANATION DRIVEN
+And there must be Ariadne's thread &thinsp;&mdash;&thinsp; explanation drive: how yuu and your code will explain desing to another developer.
 
 <p align="center">___________</p>
 
