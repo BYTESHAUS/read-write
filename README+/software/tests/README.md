@@ -17,7 +17,7 @@
 > [!IMPORTANT]  
 > **_Prog tests_ aren't the synonym of the <i>automated</i>❗ And vice versa.** (Albeit the overlap is big.)
 > 
-> Test-driven design doesn't require automation as well as debugging routines. Automated tests may imply hardware and even mechanical tools, or may guide the user's actions and collect reports. And so on.
+> Test-driven design doesn't require automation as well as debugging routines. Automated tests may imply hardware and even mechanical tools, or may schedule/guide manual user actions and collect reports. And so on.
 
 ### Getting started with testing is a no-brainer:
 
@@ -32,11 +32,11 @@ Bare parametrized calls of core functions and properties followed by a log/error
 <p align="center"><b>We've uncorked a very vast theme and its further discussions can't avoid this <mark>principal</mark> branching:</b></p>
 
 <table align="center"><tr><td>
-  <div align="center"><b>TESTS<br>for</b>
+  <div align="center"><b>TESTS<br><mark>&thinsp;f&thinsp;o&thinsp;r&thinsp;</mark></b>
     <h3><a href="asQA/"><samp><ins>&nbsp;Q&thinsp;U&thinsp;A&thinsp;L&thinsp;I&thinsp;T&thinsp;Y<br />
     A&thinsp;S&thinsp;S&thinsp;U&thinsp;R&thinsp;A&thinsp;N&thinsp;C&thinsp;E&nbsp;</ins></samp></a></h3></div>
 </td><td><picture><img alt="&nbsp;arrows down left and right" src="../../_rsc/_img/signs/arrows/arrows-overlay_bifurc-down-deco.png"/></picture></td><td>
-  <div align="center"><b>TESTS<br /><samp>A&thinsp;S</samp></b><h3><a href="asDrive/"><b><ins>&nbsp;<samp>C&thinsp;R&thinsp;E&thinsp;A&thinsp;T&thinsp;I&thinsp;O&thinsp;N<br />
+  <div align="center"><b>TESTS<br /><mark>a&thinsp;s</mark></b><h3><a href="asDrive/"><b><ins>&nbsp;<samp>C&thinsp;R&thinsp;E&thinsp;A&thinsp;T&thinsp;I&thinsp;O&thinsp;N<br />
     D&thinsp;R&thinsp;I&thinsp;V&thinsp;E</samp>&nbsp;</ins></b></a></h3></div>
 </td></tr></table>
 
