@@ -1,11 +1,9 @@
-# Software &nbsp;&mdash;&nbsp; Prog[rammed/rammatic] Tests
-
-🐝 What's prog and why not automated. Place IDEA 💡 here 🚧 
+# Software &nbsp;&mdash;&nbsp; Prog<samp>[</samp><sup>rammed</sup>/<sub>rammatic</sub><samp>]</samp> Tests
 
 <table><tr valign="top"><td><picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/tests/test_fw-emblems(blur).jpg" /></picture>
 </td><td>
   
-### Programmatic tests, as a discipline and an idea<sup>💡</sup>, appeared together with high-level languages.
+### Coded tests, as a discipline and an idea<sup>💡</sup>, appeared together with high-level languages.
   
 + They became a unique part of the software: optional but integral.
 + They don't contribute to product contents but are as essential as the foundation code.
@@ -16,7 +14,12 @@
 <div dir="rtl"><sub>Some algorithms or particular artifacts can be hardly testable or be fruitless. Or only personal evaluation</sub><sup>💫</sup></div>
 </td></tr></table>
 
-Getting started with testing is a no-brainer:
+> [!IMPORTANT]  
+> **_Prog tests_ aren't the synonym of the <i>automated</i>❗ And vice versa.** (Albeit the overlap is big.)
+> 
+> Test-driven design doesn't require automation as well as debugging routines. Automated tests may imply hardware and even mechanical tools, or may guide the user's actions and collect reports. And so on.
+
+### Getting started with testing is a no-brainer:
 
 + It's **simple** because neither special skills nor prescribed processes are obligatory.\
 (You can adhere to a methodology later.)
@@ -33,7 +36,7 @@ Bare parametrized calls of core functions and properties followed by a log/error
     <h3><a href="asQA/"><samp><ins>&nbsp;Q&thinsp;U&thinsp;A&thinsp;L&thinsp;I&thinsp;T&thinsp;Y<br />
     A&thinsp;S&thinsp;S&thinsp;U&thinsp;R&thinsp;A&thinsp;N&thinsp;C&thinsp;E&nbsp;</ins></samp></a></h3></div>
 </td><td><picture><img alt="&nbsp;arrows down left and right" src="../../_rsc/_img/signs/arrows/arrows-overlay_bifurc-down-deco.png"/></picture></td><td>
-  <div align="center"><b>TESTS<br />as</b><h3><a href="asDrive/"><b><ins>&nbsp;<samp>C&thinsp;R&thinsp;E&thinsp;A&thinsp;T&thinsp;I&thinsp;O&thinsp;N<br />
+  <div align="center"><b>TESTS<br /><samp>A&thinsp;S</samp></b><h3><a href="asDrive/"><b><ins>&nbsp;<samp>C&thinsp;R&thinsp;E&thinsp;A&thinsp;T&thinsp;I&thinsp;O&thinsp;N<br />
     D&thinsp;R&thinsp;I&thinsp;V&thinsp;E</samp>&nbsp;</ins></b></a></h3></div>
 </td></tr></table>
 
