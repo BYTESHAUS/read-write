@@ -10,18 +10,19 @@ Joining the best of computer sciences from the 1980s with _laissez-faire_ IT in 
 <picture><img alt="&nbsp; Lotus Notes R5 splash screen" src="../../../../../_rsc/_img/af/LN/LotusNotesR5_SplashWin.jpg" title="&nbsp;Splash screen of &#010;Lotus Notes R5"></picture>
 </td><td>
 
+Those who programmed and admined will reminisce about genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup> and leading-edge editors.
+
 As a developer of Line-of-Business and corporate applications on Lotus Notes for over a decade<sup><mark>#</mark></sup>, I&nbsp;must have deserved the privilege of personal (Lotus) notes.
 
-<p align="right"><sup><mark>#</mark></sup> <samp>Before I cast my lot with <a href="../../../../../.net">C#.NET</a>.</samp></p>
 </td></tr></table>
+<div align="right"><sup>🙋</sup> <samp>I can't feature a newbie installing SharePoint on a notebook and writing the first useful application within a week.</samp></div>
+<div align="right"><sup><mark>#</mark></sup> <samp>Before I cast my lot with <a href="../../../../../.net">C#.NET</a>.</samp></div>
 
 ### IBM PC users remember (or not) that it was a time and a <b>word</b> &thinsp;&mdash;&thinsp; not Microsoft's one or WordPerfect, but <br />«<mark>&thinsp;L<samp>&thinsp;O&thinsp;T&thinsp;U&thinsp;S&thinsp;</samp></mark>» &thinsp;&mdash;&thinsp; a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
 <table><tr><td width="30%"><picture><img alt="&nbsp; Lotus Notes R8 workspace"
   src="../../../../../_rsc/_img/af/LN/LN-WS_snapshot(computerwoche.de).jpg" title="Screenshot of casual Lotus Notes R8 workspace&#013;&#010;(source: computerwoche.de)" /></picture>
 </td><td>
-
-Developers and admins will reminisce about genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup> and leading-edge editors.
 
 **LN** paved the public road to diverse innovations: client-server, multirole/group access, distributed/synchronized doc-oriented DB<sup>📜</sup>, **replication**<sup>⭐</sup>, asymmetric encryption from authorization down to selected fields on demand &thinsp;&mdash;&thinsp; to name a few hallmarks.
 
@@ -34,12 +35,11 @@ It was a big chance not only to gain from sales and internal installations but a
 However, mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦</sup>
 
 * In **2001**, <samp><sub>[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)</sub></samp> released its "bird of a feather" &thinsp;<samp>&mdash;</samp>&thinsp; **SharePoint** &thinsp;<samp>&mdash;</samp>&thinsp; much more sophisticated and bulkier but promoting the next generation of a product and API.\
-SharePoint was deprived of many inherent vices of the Lotus pioneer and gradually began to supersede _LN_ in the one-way migration. 
+SharePoint was deprived of many inherent vices of the Lotus trailblazer and gradually began to supersede _LN_ in the one-way migration. 
 
 * In **2018**, the sell-out of Domino/Notes and granting the office's source code to freeware pushed **_LN_** out to IT margins.
 
 ___________\
-&nbsp; &nbsp; <sup>🙋</sup> <samp>I can't feature a newbie installing SharePoint on a notebook and writing the first useful application within a week.</samp>\
 &nbsp; &nbsp; <sup>📜</sup> <samp>Long before NoSQL became mainstream.</samp>\
 &nbsp; &nbsp; <sup>⭐</sup> <samp>Emphasized for rare ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed us to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</samp>\
 &nbsp; &nbsp; <sup>💰</sup> <samp>For a $3.5 billion &mdash; pretty good deal, especially before IT procurements had skyrocketed in the 2000s.</samp>\
@@ -47,7 +47,7 @@ ___________\
 
 <h2 align="center">Epilogue. Alternate history</h2>
 
-_Lotus Domino/Notes_ had enough outdated and weak facets to surrender to the rival from Redmond (WA), but let's dream up what the "surviving" LN would be.
+_Lotus Domino/Notes_ had enough outdated and weak facets to surrender to the rival from Redmond (WA), but let's dream up what the "surviving" **LN** would be.
 
 ### 💿 Storage as a sound object-relational model over IBM DB2
 
