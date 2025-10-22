@@ -14,7 +14,7 @@
      <!-- -->
      &nbsp; <a href="../README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="../README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp; &nbsp;<i>feat.</i>
      <br />
-    &nbsp; &nbsp; &nbsp; <a href="../README+/software/QA/README+/code-quality.md">Code quality</a>&nbsp; &nbsp;🧪&thinsp;<a href="../README+/software/tests/asQA/README+/tests-damp_vs_dry.md">D<samp>AMP</samp>⚔️D<samp>RY</samp></a>
+    &nbsp; &nbsp; &nbsp; <a href="../README+/software/QA/code_quality/README.md">Code quality</a>&nbsp; &nbsp;🧪&thinsp;<a href="../README+/software/tests/asQA/README+/tests-damp_vs_dry.md">D<samp>AMP</samp>⚔️D<samp>RY</samp></a>
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
