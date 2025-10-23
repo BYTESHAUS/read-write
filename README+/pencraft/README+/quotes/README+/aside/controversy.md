@@ -3,7 +3,7 @@
 > **Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.**\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
 
-Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages, and it was never fun in commercial development.
+Master _Torvalds_ could have meant renowned open-source contributors, but most smart guys in IT are for and because of wages, and commercial development was never fun.
 
 ### Maternity ward
 
@@ -71,7 +71,7 @@ The aphorism shall be better: "If the software were built like houses, custom pr
 > <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark> 🤦‍♂️\
 _Erik Naggum_, Lisp programmer, 2008 on Usenet
 
-Sure, an environment may provoke bad practices, but it don't make developers. Vice versa, limitations can stimulate optimization, abstraction, pattern thinking, and the search for nontrivial escapes. 
+Sure, an environment may provoke bad practices, but it doesn't make a developer. Vice versa, limitations can stimulate optimization, abstraction, pattern thinking, and the search for nontrivial escapes. 
 
 ### Paradigms
  
