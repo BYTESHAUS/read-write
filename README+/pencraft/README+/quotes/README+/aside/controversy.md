@@ -1,4 +1,4 @@
-# Quotes &nbsp;&mdash;&nbsp; Backshelve &nbsp;&mdash;&nbsp; 🔥C<samp>ONTROVERSY</samp>
+# Quotes > Backshelve &nbsp;&mdash;&nbsp; 🔥C<samp>ONTROVERSY</samp>
 
 > **Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.**\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
@@ -27,7 +27,7 @@ Derogatory and illogical. Finding expert developers who can save a failing proje
 > **Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.** Code for readability.\
 _John F. Woods_, /comp.lang.c++/, 1991
 
-This accidental quote in a newsgroup became one of the most cited in IT (often for fun). Unrealistic "always" (harmful and wrong) demotivates aspiration to [quality code](../../../../../software/QA/README+/code-quality.md).
+This accidental quote in a newsgroup became one of the most cited in IT (often for fun). Unrealistic and excessive "always" (harmful and wrong) demotivates aspiration to [quality code](../../../../../software/QA/code_quality).
 
 > **Software is Art.**\
 (Eavesdropped from a Product Owner)
@@ -39,9 +39,9 @@ It is pleasing but barely real &thinsp;&mdash;&thinsp; there are no galleries of
 > **To iterate is human, to recurse divine.**\
 > [L. Peter Deutsh](../contributors/README.md#peter-deutsch)
 
-Recursion is a great mathematical tool and an elegant software trick. However, for the latter, it's error-prone and may end up with a stack overflow.
+Recursion is a great mathematical tool and an elegant software trick. 
 
-That's why it was prohibited for many mission-critical applications.
+However, for the latter, it's error-prone and may end up with a stack overflow. That's why it was prohibited in many mission-critical programs.
 
 ## Bitter words
 
@@ -71,7 +71,7 @@ The aphorism shall be better: "If the software were built like houses, custom pr
 > <mark><b>C++</b> is a language strongly optimized for liars and people who go by guesswork and ignorance.</mark> 🤦‍♂️\
 _Erik Naggum_, Lisp programmer, 2008 on Usenet
 
-Sure, an environment may force bad practices, but they don't make developers. Vice versa, limitations can stimulate optimization, abstraction, pattern thinking, and the search for unexpected solutions. 
+Sure, an environment may provoke bad practices, but it don't make developers. Vice versa, limitations can stimulate optimization, abstraction, pattern thinking, and the search for nontrivial escapes. 
 
 ### Paradigms
  
@@ -89,7 +89,7 @@ Sure, an environment may force bad practices, but they don't make developers. Vi
 
 </details>
 
-It is sufficient to say that OOP/OOD prevailed in software development then and remains prevalent today.
+It suffies to say that OOP/OOD prevailed in software development then and remains prevalent today.
 
 ## Bad advice
 
