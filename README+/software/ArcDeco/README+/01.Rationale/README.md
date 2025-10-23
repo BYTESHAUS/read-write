@@ -54,7 +54,7 @@ ___________\
 </td></tr></table></details>
 
 <h3 align="center">The path of <i>System Engineering</i> begins with <b>enthusiasm</b> and goes through (if not ends in) <b>frustration</b>.<br />The latter is inscribed with:<br /><samp><mark>&thinsp;Why don't best development practices make great design by themselves?&thinsp;</mark></samp><br />
-<sub>(Developing excellent features, feeling the patterns and principles, and writing <a href="../../../QA/README+/code-quality.md">quality code</a>, 
+<sub>(Developing excellent features, feeling the patterns and principles, and writing <a href="../../../QA/code_quality/README.md">quality code</a>, 
   <br />but expectations end up with achieving just a passable project state.)</sub></h3>
 
 Now veneer the frustration/anxiety facet with <ins>**rhetorical**</ins> _vs._ <ins>**open**</ins> <kbd>&thinsp;<samp><b>I&thinsp;S</b></samp>&thinsp;</kbd>, <kbd>&thinsp;<samp><b>W&thinsp;H&thinsp;Y</b></samp>&thinsp;</kbd>, and <kbd>&thinsp;<samp><b>H&thinsp;O&thinsp;W</b></samp>&thinsp;</kbd> tiles:
