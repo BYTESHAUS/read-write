@@ -128,5 +128,5 @@ This may (but mostly _will not_) happen in localized high-pro teams of responsib
 
 **QA** couldn't exist without errors &thinsp;&mdash;&thinsp; the catch-all term, with a dedicated [**corner**](README+/errors/) for its inmates. Where 🪲[bugs](README+/errors/README+/bugs.md)🪳 are the first-class citizens.
 
-\___________\
-:end: ... continued in ... &nbsp;🚧[Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](README+/code_quality) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [**TDD**](../tests/asDrive)
+___________\
+:end: ... continued in ... &nbsp;🚧[Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](code_quality) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [**TDD**](../tests/asDrive)
