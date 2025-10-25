@@ -103,7 +103,7 @@ I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. refer
 * **CAN'T** BE &thinsp;&mdash;&thinsp; the assignee (field, variable, or object) can **never** be null.\
 And only a peculiar glitch allowed setting it. E.g., objects coming from builders.
 * **SHAN'T** BE &thinsp;&mdash;&thinsp; the assignee can take _null_ but not now or here.\
-E.g., a booking request can be _null_ when returned or cancelled, but not when submitted to the invoice routine.
+E.g., a booking request can be _null_ when returned or canceled, but not when submitted to the invoice routine.
 * **MUST** BE &thinsp;&mdash;&thinsp; Surpsisinly opposite? The value must be null there, but either falsely stubbed or set to a default.\
 _Enums_ (enumerations), i.e., declarative numbers, are rather prone to such errors.
 
@@ -114,7 +114,7 @@ _Enums_ (enumerations), i.e., declarative numbers, are rather prone to such erro
 
 First and foremost, there is no magic wand to eliminate `NullReference` errors, as clickbait titles often try to suggest. And there shall be none.
 
-Besides sound logic, [quality code](../../../../../software/QA/README+/code-quality.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
+Besides sound logic, [quality code](../../../../../software/QA/code_quality/README.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
 
 ### Do not hide
 
