@@ -33,7 +33,7 @@ graph TB
      c1 o--o TDDev
     end
     subgraph "<h3>Quality Assurance</h3>"
-    a1(<b>Code</b>)-->a2(<a href="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/QA/README+/code-quality.md">Quality</a>)
+    a1(<b>Code</b>)-->a2(<a href="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/QA/code_quality/README.md">Quality</a>)
   a1-->a3("Review")
     T1("<b>Testing</b>")-->QA1("Manual")
     T1("<b>Testing</b>")-->QA2(Automated)

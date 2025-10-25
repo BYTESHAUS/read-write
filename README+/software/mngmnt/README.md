@@ -14,7 +14,8 @@ A commendable organization endows every process/measure with an exact explanatio
 
 + facilitates development, `// minimazes installation, and maintenance`
 + spares human resources, `//especially in communication, procedures, and pushover tasks,
-+ stimulates [quality&nbsp;code](../QA/README+/code-quality.md) and prevents errors,
++ stimulates [quality&nbsp;code](../QA/code-
+quality/README.md) and prevents errors,
 + automates routines when only justified.
 
 And not because chosen methodologies and tools are massively promoted.

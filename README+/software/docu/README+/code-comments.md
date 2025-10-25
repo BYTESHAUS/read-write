@@ -11,7 +11,7 @@
 
 > **Comments can be eye-catching and essential, but signal design inconsistency and poor naming.**<sup>🙋</sup>
 
-Carefully written [quality code](../../QA/README+/code-quality.md) is self-descriptive by nature and needs no epistolary clarification<sup>🙋</sup>, 
+Carefully written [quality code](../../QA/code_quality/README.md) is self-descriptive by nature and needs no epistolary clarification<sup>🙋</sup>, 
 and even abracadabra in _regex_ processors can be broken down into figurative methods and variables. 
 
 However, rehearsed names of classes, functions, arguments, and properties bloat many (if not the majority) files of prominent (and lesser-known) contributors on Git (or elsewhere)<sup>📄</sup>.

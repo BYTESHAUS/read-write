@@ -1,6 +1,6 @@
 # Software &nbsp;&mdash;&nbsp; Design &nbsp;&mdash;&nbsp; Documentation
 
-+ ### [Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive manner. 
++ ### [Quality code](../../QA/code_quality/README.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive manner. 
 
 + ### Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source code. 
 
