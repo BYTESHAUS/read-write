@@ -74,7 +74,7 @@ It's an ingredient of successful [domain-driven design](../drive/README.md#Domai
 ## Wrapping up
 
 + Even top consonant teams under time pressure and brakes on perfectionism would rarely be proud of their naming implementation. 
-+ The naming (as [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve it must be honest and continuous.
++ The naming (akin to [code quality](../../QA/code_quality/README.md)) will never be perfect, but efforts to improve it must be honest and continuous.
 
 ## Appendix. Learning from others
 
