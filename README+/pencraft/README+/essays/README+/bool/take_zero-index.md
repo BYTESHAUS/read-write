@@ -1,4 +1,4 @@
-# Programming &thinsp;&mdash;&thinsp; `zero` Index &thinsp;&mdash;&thinsp; `++`Take
+# Programming &thinsp;&mdash;&thinsp; `zero` Index _vs._ `++`Take
 
 <div align="right"><b>Puzzle:</b> What's common for <i>Paris</i>, <i>Australia</i>, Mayan calendar <code>C++</code>, and Java❓</div>
 <div align="right"><b>Hint:</b> differs from Chile<sup>🇨🇱</sup>, FORTRAN, Basic, and Common Era</div>
