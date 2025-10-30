@@ -1,8 +1,8 @@
-# Programming &thinsp;&mdash;&thinsp; `zero` Index &thinsp;&mdash;&thinsp; `++`Take
+# Programming &thinsp;&mdash;&thinsp; `zero` Index _vs._ `++`Take
 
-<div align="right"><b>Puzzle:</b> What's common for <i>Paris</i>, <i>Australia</i>, Mayan calendar <code>C++</code>, and Java❓</div>
-<div align="right"><b>Hint:</b> differs from Chile<sup>🇨🇱</sup>, FORTRAN, Basic, and Common Era</div>
-<div align="right"><b>Answer:</b> base number of floors, arrays, and years.</div>
+<div align="right"><b>Puzzle:</b><br />What's common for <i>Paris</i>, <i>Australia</i>, Mayan calendar <code>C++</code>, and Java❓</div>
+<div align="right"><b>Hint:</b> differs from Chile<sup>🇨🇱</sup>, FORTRAN or Basic, and Common Era</div>
+<details align="right"><summary><b>Answer:</b></summary>Base number of floors, arrays, and years.</details>
 
 REAL BUG when cross-referencing language modules (e.g., C# to Basic).
 
