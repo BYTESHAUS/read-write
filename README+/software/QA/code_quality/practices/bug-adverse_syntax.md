@@ -1,4 +1,4 @@
-# Bug-adverse code
+# Bug-adverse syntax
 
 ### Vision blunders
 
