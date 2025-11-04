@@ -30,7 +30,7 @@ ___________<br/>
 <div align="right"><sup>↔️</sup> <samp>An onboarding developer can learn the domain from code, while a domain expert will grasp the implemented application logic.
 <br />Sure, both assisted and with documentation.</samp></div>
 
-Is quality code a super clean code? As you will see below, ...
+**Does quality clean code?** Tentative yes. For example, bug-adverse boilerplate suggested here decreases clarity.
 
 ## <samp>Re:</samp> Bugs 🪳
 
