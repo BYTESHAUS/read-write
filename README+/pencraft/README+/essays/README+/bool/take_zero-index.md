@@ -1,8 +1,13 @@
 # Programming &thinsp;&mdash;&thinsp; `zero` Index _vs._ `++`Take
 
-<div align="right"><b>Puzzle:</b><br />What's common for <i>Paris</i>, <i>Australia</i>, Mayan calendar <code>C++</code>, and Java❓</div>
+<div align="right"><b>P&thinsp;u&thinsp;z&thinsp;z&thinsp;l&thinsp;e:</b><br />What's common for <i>Paris</i>, <i>Australia</i>, Mayan calendar <code>C++</code>, and Java❓</div>
 <div align="right"><b>Hint:</b> differs from Chile<sup>🇨🇱</sup>, FORTRAN or Basic, and Common Era</div>
-<details align="right"><summary><b>Answer:</b></summary>Base number of floors, arrays, and years.</details>
+<details align="right"><summary><b><ins>A&thinsp;n&thinsp;s&thinsp;w&thinsp;e&thinsp;r&thinsp;:</ins></b></summary>Base number of floors, arrays, and years.
+<br/>___________</details>
+
+🚧 PLACEHOLDER 🚧
+
+> ### I must declare my inclination to the 1-based indices and prejustice of 0-based as a bug source.
 
 REAL BUG when cross-referencing language modules (e.g., C# to Basic).
 
@@ -21,8 +26,5 @@ REAL BUG when cross-referencing language modules (e.g., C# to Basic).
 <tr><td>i > count - 1</td><td><code>i > count</code></td></tr>
 </table>
 
-🚧 PLACEHOLDER 🚧
-
-## &nbsp;
-
+___________\
 🔚 🌔.. 2025 .. <b>Β</b>ytesHausMeister

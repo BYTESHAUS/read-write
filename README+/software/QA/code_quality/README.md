@@ -5,7 +5,7 @@
 ___________<br/>
 (.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</div>
 
-# `Code` <mark>Quality</mark> => <samp>QUALITY CODE</samp>
+# <sup>`Code `<mark><code>quality</code></mark> &#8664;</sup> Quality code
 
 <table><tr></tr><tr valign="center"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
@@ -21,7 +21,7 @@ ___________<br/>
 
 ## High-quality code
 
-### That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed/tested🧪 **`clean code`** that rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
+### That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed&tested🧪 **`clean code`** that rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
@@ -30,11 +30,13 @@ ___________<br/>
 <div align="right"><sup>↔️</sup> <samp>An onboarding developer can learn the domain from code, while a domain expert will grasp the implemented application logic.
 <br />Sure, both assisted and with documentation.</samp></div>
 
+**Does quality clean code?** Tentative yes. For example, bug-adverse boilerplate suggested here decreases clarity.
+
 ## <samp>Re:</samp> Bugs 🪳
 
-Bug-**free** code can nevertheless be bug-**prone**. Code style must be bug-**unfriendly** to minimize the risk of introducing an error by change (regardless of whether tests will promptly detect one or not).
+Bug-**free** code can nevertheless be bug-**prone**. Coding style must be bug-**unfriendly** to minimize the risk of introducing an error by change (regardless of whether tests will promptly detect one or not).
 
-High-quality code shall present
+**High-quality code shall present**
 
 + syntax that prevents typos<sup>🎼</sup> and mistakes<sup>🥎</sup>,
 + pronounced logical flows (e.g., early returns, shallow enclosures),
@@ -51,7 +53,7 @@ Code optimization (deleting redundancies, merging common logic and data, shorten
 &nbsp; &nbsp; &nbsp; <sup>🥎</sup> <sub>Plenty of magic strings and numbers, deceptive names, accidental casts, or "ghost" arguments (to name a few).</sub>\
 &nbsp; &nbsp; &nbsp; <sup>📖</sup> <sub>Languages provide more and more sugar to make one-liners of methods, but you must stop when this obfuscates lucidity (e.g., you must "unpack" to debug).</sub>
 
-## <samp>Re:</samp> Tests 🧪
+## <samp>Re:</samp> Quality assurance 🧪
 
 > [!NOTE]
 > Test coverage may (and shall) share realization with or even origin from [Test Driven Development](../../tests/), but is **primarily** intended to examine software mechanically 
