@@ -22,7 +22,7 @@
     </td>
       <td><!--                          N U L L   W A S H I N G      --!>
         <a href="README+/bool/NullRefError.md"><img src="../../../_rsc/_img/_nav/tiles/nullref-buoy_bw-200px.jpg" alt="&nbsp; Null sign as buoy" title="&nbsp; Null, its reference, and their mistake"/>
-        <br /><b>WASHING <code>NULL</code></b></a>
+        <br /><b>WASHING <i>NULL</i></b></a>
      </td>
     <td><!--                                Q U O T E S      --!>
         <a href="../quotes/README+/inspirational.md"><img src="../../../_rsc/_img/_nav/tiles/InspitationQuotes_bw-200px.png" alt="&nbsp; inspirational.md" title="&nbsp;Quotes to work and rest"/>
