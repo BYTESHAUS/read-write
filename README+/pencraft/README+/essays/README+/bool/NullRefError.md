@@ -1,9 +1,9 @@
 <h1 align="center"><code>Null</code>, its Reference, and their Mistake<br />🔎&empty;</h1>
 
-### ∅`NULL`⚡REFERENCE has earned a gruesome notoriety of _exceptional_ plague:
-
 <table><tr valign="top">
 <td>
+
+### `NULL`Reference earned a gruesome notoriety of _exceptional_ plague:
 
 **Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _vs._ data clouds, and spare neither junior nor seasoned developers.**
 
@@ -30,32 +30,30 @@ ___________\
 There's no specific `boolean` or machine value for  `Null` &nbsp;&mdash;&nbsp; it's a logical consensus to designate not initialized values. 
 The error occurs chiefly when we, developers, overlook initializations &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
 
-- **You forgot to instantiate a reference type.**
-- **You forgot to dimension an array before initializing it.**
-- **You get a null return value from a method, and then call a method on the returned type**\
-- ... and so on.
+- You forgot to instantiate a reference type.
+- You forgot to dimension an array before initializing it.
+- You get a null return value from a method, and then call a method on the returned type.
+- ... <samp>and so on</samp>
 
-There's no null or broken reference, which sends our objects and values nowhere. That's our fault.
+❗**Neither `null` nor broken reference dispatches our objects and values nowhere but our fault or sloth.**
 
 <h2 align="center">Much Ado About <code>Nothing</code>❓</h2>
 
 <table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S</b></td><td width="20%" ><b><samp>A&thinsp;N&thinsp;D</samp></b></td><td width="40%" ><b>N&thinsp;O</b></td>
 </tr><tr valign="center"><td>
   
-Null reference isn't a CPU (or memory) vulnerability as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix.
-
-It's not even comparable to the Y2K problem, which stemmed from explicit negligence (and was eliminated with an obvious and simple date format enhancement).
-
-Logical errors of different origins caused botched global updates, blackouts, and catastrophic failures when exception names play a secondary role. 
-
-Another specific type multiplied and spread many disasters &thinsp;&mdash;&thinsp; and it is no sign of exception or error.
+* Null reference isn't a CPU (or memory) vulnerability as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix.
+* It's not even comparable to the <a href="https://en.wikipedia.org/wiki/Year_2000_problem">Y2K problem</a>, which stemmed from explicit negligence (and was eliminated with a sheer format enhancement).
+* Errors of different origins caused botched global updates, blackouts, and catastrophic failures when exception names didn't matter. 
+* Logical flaws which don't protrude errors may be even more disastrous and harder to find out.
   
 </td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
 When a number of software installations is significant, providers continuously collect reports on errors, which crash their products, get handled, or run undercover (unnoticed).
 
-Their statistics give `NullReference` the first place (from my experience too). Many of these errors are difficult to trace, reproduce, and debug. 
-Those not regular and critical may stay for years with the lowest priority for investigation.
+- Their statistics (and private experience) give `NullReference` top places.
+- Many of these errors are difficult to trace, reproduce, and debug. 
+- Those not regular and critical may stay for years with the lowest priority for investigation.
 
 Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&mdash;&thinsp; the syndrome of the design decadence, which often gets symptomatic treatment.
 
