@@ -15,7 +15,7 @@ ___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null" itself).
 
 </td>
-<td align="right">
+<td align="right" valign="bottom">
    <div align="left"><samp><b><i>Let's explore this rabbit hole,</i></b></samp></div>
    <picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
    title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture><br />
