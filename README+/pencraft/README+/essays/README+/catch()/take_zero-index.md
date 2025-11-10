@@ -7,7 +7,7 @@
 
 🚧 PLACEHOLDER 🚧
 
-> ### I must declare my inclination to the 1-based indices and prejustice of 0-based as a bug source.
+> ### I must declare my inclination to the 1-based indices and prejudice of 0-based as a bug source.
 
 REAL BUG when cross-referencing language modules (e.g., C# to Basic).
 
