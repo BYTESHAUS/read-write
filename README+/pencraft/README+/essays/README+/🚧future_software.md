@@ -1,13 +1,19 @@
+🚧🐝🚧         DRAFT / PLACEHOLDER   🚧🐝🚧
+
+# State of the art
+
+If to put aside computer science as math<sup>🧮</sup> the mundane IT is already decades in the natural <samp>S&thinsp;T&thinsp;A&thinsp;G&thinsp;N&thinsp;A&thinsp;T&thinsp;I&thinsp;O&thinsp;N</samp>.
+
+Don't let the hype in titles eclipse the apparent: 
+
+&nbsp; &nbsp; <sup>🧮</sup> <samp>Grapgh algorithms .</samp>
+
+# Future of the Software
+
 <p align="right">To make Gods laugh &thinsp;&mdash;&thinsp; share them your plans.<br />
 To amuse ET send them a Voyager full of ...<br />
 <s>To amuse Deutsche Bahn share your travel plans</s><br />
 To make descendants roar in laughter, predict their living and post in a capsule.</p>
-
-🚧🚧🚧           DRAFT / PLACEHOLDER 🚧🚧🚧
-
-# Future of the Software
-
-Don't let the hype in all titles eclipse the apparent: software (as activity) is decades in the **natural** stagnation.
 
  (link to mobile among steampunk)
 
