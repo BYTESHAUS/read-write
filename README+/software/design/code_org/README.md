@@ -1,10 +1,12 @@
+# Code entities
+
 <h3 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h3>
 
-# `Code entities` &thinsp;>&thinsp; Organisation&thinsp;:<br />&nbsp; &nbsp; &nbsp; &nbsp; 🐋P<samp>ARTITIONING</samp>, 🐋N<samp>AMING</samp>, and 🐋C<samp>ATEGORIZATION</samp>
+# 🐘P<samp>ARTITIONING</samp>, 🐘N<samp>AMING</samp>, 🐘C<samp>ATEGORIZATION</samp>
 
 <table><tr valign="top"><td width="50%"><picture><img alt="&nbsp; Three Elephants of code org" src="../../../_rsc/_img/illus/code-org_3elephants.jpg" /></picture></td><td>
   
-### Denomination of titles _and_ their classification (which implied domain partitioninig) is a pivotal but underrated activity <ins>in&nbsp;any&nbsp;exploration</ins>.
+### Denomination of titles _and_ their classification (that imply domain partitioninig) is a pivotal but underrated activity <ins>in&nbsp;every&nbsp;exploration</ins>.
   
 #### In software, names with categories, which smoothly guide developers through the design and make development intuitive, are often taken for granted.
 
@@ -13,7 +15,7 @@
 #### one wading through the thorns of pathetic names, code labyrinthine (or flats), and abatis of documents will curse complexity, learning curve, technologies, and fate, but at last the naming.
 </td></tr></table>
 
-## Categorization
+## 🐘 Categorization
 
 ### _Categorization_ (aka _classification_) is more profound than breaking collocations with sentences, and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
 
@@ -80,7 +82,7 @@ It's an ingredient of successful [domain-driven design](../drive/README.md#Domai
 
 ## Hall of Fame
 
-🥇 Core S[E]QL commands.\
+🥇 Historical S[E]QL commands.\
 🏆 _Bread crumbling_ for navigation &thinsp;&mdash;&thinsp; win for both the idea and name
 
 \___________\
