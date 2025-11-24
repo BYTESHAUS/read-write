@@ -1,4 +1,4 @@
-# Code entities
+<h1>Code and Applications</h1>
 
 <h3 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h3>
 
