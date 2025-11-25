@@ -30,22 +30,22 @@ _Sacrifices_ mean not team members or customers, but refactoring (to give up a p
 
 </td><td>
   
-♕♛ Learning elementary programming and the rules of the checkered strategy are both fast, enjoyable, and attainable for the masses. 
+♕ Learning elementary programming and the rules of the checkered strategy are both fast, enjoyable, and attainable for the masses. 
 Starting programming resembles games of neophytes: <i>blitz</i> (wins follow fails), fun, and visibly improving.
 
-♖♜ Understanding and learning principles and check patterns will prevent blunders, but not positional traps of better opponents.\
+♖ Understanding and learning principles and check patterns will prevent blunders, but not positional traps of better opponents.\
 In a like manner, a keen junior will soon write good pieces of code but shaky solutions.
 
-♗♝ Chess openings rest on studied, memorized decisions and strong theory. In software, it implies IT literacy, computer science, selection of platforms, frameworks, 
+♗ Chess openings rest on studied, memorized decisions and strong theory. In software, it implies IT literacy, computer science, selection of platforms, frameworks, 
 and external parts, when experimentation and creativity are abnormal.
 
-♘♞ Then the perception of combinatory vastness and the need to think in several moves lifts the curtain of first naive impressions.\
+♘ Then the perception of combinatory vastness and the need to think in several moves lifts the curtain of first naive impressions.\
 There are only three "moves" in programming: `AND`, `OR`, `NOT` over bits, but they provide even the bigger than <code><b>&gt;</b>&thinsp;8x8</code> space for fantasies and alternative solutions.
 
-<p>Passion wouldn't be enough to rise much higher &thinsp;&mdash;&thinsp; learning and understanding of theory become essential along with games against stronger opponents. &thinsp;&mdash;&thinsp;
-The number of games or written applications won't break the ceiling.<sup>👑</sup></p>
+<p>Passion wouldn't be enough to rise much higher, and the number of games or written applications won't break the ceiling. Learning and understanding of theory become essential, along with games against stronger opponents.
+<sup>👑</sup></p>
   
-In chess, theoretical roadmaps and schools lead to higher ratings, ruthlessly and indisputably pointing out one's place. <b>Here, the metaphor breaks down.</b> 
+In chess, learning roadmaps and schools lead to higher ratings, ruthlessly and indisputably pointing out one's place. <b>Here, the metaphor breaks down.</b> 
 Software ways to craftsmanship are inscrutable and assessed by eye.
 
 ___________\
@@ -53,7 +53,7 @@ ___________\
 
 </td></tr></table></details>
 
-<h3 align="center">The path of <i>System Engineering</i> begins with <b>enthusiasm</b> and goes through (if not ends in) <b>frustration</b>.<br />The latter is inscribed with:<br /><samp><mark>&thinsp;Why don't best development practices make great design by themselves?&thinsp;</mark></samp><br />
+<h3 align="center">The path of <i>System Engineers</i> begins with <b>enthusiasm</b> and goes through (if not ends in) <b>frustration</b>.<br />The latter is inscribed with:<br /><samp><mark>&thinsp;Why don't best development practices make great design by themselves?&thinsp;</mark></samp><br />
 <sub>(Developing excellent features, feeling the patterns and principles, and writing <a href="../../../QA/code_quality/README.md">quality code</a>, 
   <br />but expectations end up with achieving just a passable project state.)</sub></h3>
 
