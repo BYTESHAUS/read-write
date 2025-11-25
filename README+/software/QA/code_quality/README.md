@@ -5,7 +5,7 @@
 ___________<br/>
 (.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</div>
 
-# <sup>`Code `<mark><code>quality</code></mark> &#8664;High</sup> Quality code
+# <sub>`Code `<mark><code>quality</code></mark> &#8664;</sub> ↗️High <sup>Quality code</sup>
 
 <table><tr></tr><tr valign="center"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
@@ -18,6 +18,8 @@ ___________<br/>
 > ### As in buildings, poor code quality leads to menacing cracks, which no design clamps would hold for long.
 
 </td></tr></table>
+
+MERMAID MERMAID <ER<AID
 
 ## High-quality code
 
