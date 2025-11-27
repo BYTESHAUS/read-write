@@ -1,12 +1,3 @@
-<div dir="rtl">,<b>Junior</b> developers write poor code<br/>
-,those who <b>advance</b> &thinsp;&mdash;&thinsp; good code<br/>
-,<b>experts</b> avoid to write code<br/>
-,<b>gurus</b> only delete code<br />
-___________<br/>
-(.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</div>
-
-# <sub>`Code `<mark><code>quality</code></mark> &#8664;</sub> ↗️High <sup>Quality code</sup>
-
 <table><tr></tr><tr valign="center"><td width=30%>
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
 </td><td>
@@ -21,6 +12,13 @@ ___________<br/>
 
 MERMAID MERMAID <ER<AID
 
+<div dir="rtl">,<b>Junior</b> developers write poor code<br/>
+,those who <b>advance</b> &thinsp;&mdash;&thinsp; good code<br/>
+,<b>experts</b> avoid to write code<br/>
+<ins>,<b>gurus</b> only delete code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </ins></div>
+<p dir="rtl">(.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</p>
+
+# <sub>`Code `<mark><code>quality</code></mark> &#8664;</sub> ↗️High <sup>Quality code</sup>
 ## High-quality code
 
 ### That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed&tested🧪 **`clean code`** that rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
