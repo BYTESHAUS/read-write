@@ -4,7 +4,7 @@
 
 ### Code is the <mark>cement</mark> of software. Its quality is imperceptible to spectators and doesn't matter much for booths.
 
-### But it ought to be of the superior grade for sky-scraping, heavy-duty, or complex constructions.
+### Nevertheless, it ought to be of the superior grade for sky-scraping, heavy-duty, or complex constructions.
 
 > ### As in buildings, poor code quality leads to menacing cracks, which no design clamps would hold for long.
 
@@ -18,7 +18,7 @@ MERMAID MERMAID <ER<AID
 <ins>,<b>gurus</b> only delete code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </ins></div>
 <p dir="rtl">(.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</p>
 
-# <sub>`Code `<mark><code>quality</code></mark> &#8664;</sub> ↗️High <sup>Quality code</sup>
+# <sub>`Code `<mark><code>quality</code></mark> </sub>&#8663; ↗️High <sup>Quality code</sup>
 ## High-quality code
 
 ### That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed&tested🧪 **`clean code`** that rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
