@@ -17,7 +17,7 @@
 
 ## 🐘 Categorization
 
-### _Categorization_ (aka _classification_) is more profound than breaking collocations with sentences, and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
+### _Categorisation_ (aka _classification_) is more profound than breaking collocations with sentences, and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
 
 If enthusiasts with magnifying glasses could logically group swarms of wretched boulders in far space and paltry insects, it wouldn't be such a burden for unique by-nature software entities.
 
@@ -30,15 +30,15 @@ As a negative experience, GitHub is full of shallow folders and huge lists, even
 
 The only limitation of categorization is the strict tree graph. Tags may rationally dissolve it, though frameworks and IDEs provide limited support for them.
 
-## How to name...
+## How to name &thinsp;.&thinsp;.&thinsp;.
 
-### as usual
+<h2 align="center">.&thinsp;.&thinsp;.&thinsp;&nbsp;as usual</h2>
 
 <table><tr>
 <td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
 </td><td>
 
-The prevalent naming is a derivative of the development, which
+### The prevalent naming is a derivative of the development, which
 
 ❌ rests on programmable "false-domain" with `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other supports,\
 ❌ leaves "construction waste" of temporary names, placeholders,\
@@ -49,7 +49,7 @@ The prevalent naming is a derivative of the development, which
   
 </td></tr></table>
 
-### as crucial
+<h2 align="center">.&thinsp;.&thinsp;.&thinsp;&nbsp;as crucial</h2>
 
 The naming of libraries, packages (assemblies), folders, classes, methods/functions, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. 
 
