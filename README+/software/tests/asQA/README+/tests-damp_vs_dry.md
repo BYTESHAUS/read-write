@@ -25,12 +25,12 @@
 
 First batches of tests will create a sound core, verifying code essentials and helping to describe the application along with documentation.
 
-More and more tests will slightly but steadily dissolve this core into a badly maintainable bulk. With scrappy coverage, accumulated negligence, and impeded navigation.
+More and more tests will slightly but steadily dissolve this core into a badly maintainable bulk, with scrappy coverage, accumulated negligence, and impeded navigation.
 
 ### The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<samp><mark>D</mark>on't <mark>R</mark>epeat <mark>Y</mark>ourself</samp>).
 </td></tr></table>
 
-<h1 align="center">DRY it &nbsp;&mdash;&nbsp; A<samp>RRANGE</samp></h1>
+<h1 align="center">D<samp>&thinsp;R&thinsp;Y</samp>&thinsp;🌵&thinsp;<code><i>A<samp>rrange</samp></i></code></h1>
 
 ## Feed expansion
 
@@ -84,7 +84,7 @@ What known frameworks and less-known workarounds can do is a subject of the repo
     
 </td></tr></table>
 
-<h1 align="center">D<samp>RY</samp> it &nbsp;&mdash;&nbsp; A<samp>SSERT</samp></h1>
+<h1 align="center">D<samp>&thinsp;R&thinsp;Y</samp>&thinsp;🌵&thinsp;<code><i>A<samp>ssert</samp></i></code></h1>
 
 If *Arrange* could be the **<mark>&thinsp;X&thinsp;</mark>** axis of extension, then *Assert* must be **<mark>&thinsp;Y&thinsp;</mark>**. (It looks so on the screen.)
 
@@ -138,7 +138,7 @@ Imagine a math engine for a project. If a floating error emerges, neither API er
 
 <h1 align="center">Conclusion: D<samp>RY</samp> but not drain</h1>
 
-<mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> or <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>❔ Neither but a compromise. (Could I omit set phrases?) 
+<mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> or <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>❔ Neither but a compromise. (Could I omit set phrases to backup?) 
 
 Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that units of tests are elusive, and there's no distinct division.
 
