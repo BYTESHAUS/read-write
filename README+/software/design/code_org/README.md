@@ -1,12 +1,10 @@
-<h1>Code and Applications</h1>
+<h4 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h4>
 
-<h3 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h3>
-
-# 🐘P<samp>ARTITIONING</samp>, 🐘N<samp>AMING</samp>, 🐘C<samp>ATEGORIZATION</samp>
+<h1><code>Code</code> organization</h1>
 
 <table><tr valign="top"><td width="50%"><picture><img alt="&nbsp; Three Elephants of code org" src="../../../_rsc/_img/illus/code-org_3elephants.jpg" /></picture></td><td>
   
-### Denomination of titles _and_ their classification (that imply domain partitioninig) is a pivotal but underrated activity <ins>in&nbsp;every&nbsp;exploration</ins>.
+### Denomination of titles _and_ their classification (that imply domain partitioning) is a pivotal but underrated activity <ins>in&nbsp;every&nbsp;exploration</ins>.
   
 #### In software, names with categories, which smoothly guide developers through the design and make development intuitive, are often taken for granted.
 
