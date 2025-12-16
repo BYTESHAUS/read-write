@@ -1,4 +1,4 @@
-# _Architecture_ &thinsp;and&thinsp; _Architects_
+# _A<samp>RCHITECTURE</samp>_ &thinsp;and&thinsp; _A<samp>RCHITECTS</samp>_
 
 <table><tr valign="top"><td><picture><img width="500px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.png" /></picture>
        </td><td>
@@ -64,7 +64,7 @@ However, the goal is to define operating wholes quickly rather than ripen aesthe
  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" title="&nbsp;Image credit: kyriosity, 2024"/></picture><br />
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
 </td><td>
- Buildings are <b>immobile</b>, conservative, and traditional &mdash; software is <b>ephemeral</b>, fluid, and free of nostalgia (as neoclassicism).</p>
+ Buildings are <b>immobile</b>, conservative, and traditional &mdash; software is <b>ephemeral</b>, fluid, and doesn't know nostalgia (like neoclassicism).</p>
  <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (lacking relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
  
  The software can't rust or erode, but it becomes obsolete in a few years. Decades (bare minimum for wood cabins) set lifecycle records in residual mainframe software - unlikely to recur (till interstellar flights).
@@ -129,7 +129,7 @@ Extravagant (and still working) IT features are available for every developer; h
 
 <h1 align="right">Part&nbsp;II. Finding <i>ᾰ̓ρχῐ</i>-coder</h1>
 
-<p dir=rtl><samp>"<b>.I am the Architect</b>"</samp><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
+<p dir=rtl><samp>"<b>.I AM THE ARCHITECT</b>"</samp><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
 Contrary to the evolution of building **programming disperses the classical figure of the architect** &mdash; allowing and demanding from **everybody** to <mark>zoom IN</mark> implementation details and <mark>zoom OUT</mark> concepts (up to top design).<sup>🔎</sup>
 
