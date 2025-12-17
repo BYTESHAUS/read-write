@@ -65,7 +65,7 @@ However, the goal is to define operating wholes quickly rather than ripen aesthe
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
 </td><td>
  Buildings are <b>immobile</b>, conservative, and traditional &mdash; software is <b>ephemeral</b>, fluid, and doesn't know nostalgia (like neoclassicism).</p>
- <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (lacking relay, transistor, or warm lamp vibes). However, software systems propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
+ <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (lacking relay, transistor, or warm lamp vibes). However, software buildings propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
  
  The software can't rust or erode, but it becomes obsolete in a few years. Decades (bare minimum for wood cabins) set lifecycle records in residual mainframe software - unlikely to recur (till interstellar flights).
 
@@ -243,4 +243,4 @@ title="Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D&nbsp; &nbsp; &nbsp; &nbs
  </td></tr></table>
 
 <div align="center">___________<br />&nbsp;🔚 &nbsp;🌘 <b>Β</b>ytesHausMeister 2023-2025 &nbsp; </sub><b>...</b></div>
-Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and kyriosity
+Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and Byteshausmeister
