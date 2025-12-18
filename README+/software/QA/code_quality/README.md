@@ -18,10 +18,9 @@ MERMAID MERMAID <ER<AID
 <ins>,<b>gurus</b> only delete code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </ins></div>
 <p dir="rtl">(.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</p>
 
-# <sub>`Code `<mark><code>quality</code></mark> </sub>&#8663; ↗️High <sup>Quality code</sup>
-## High-quality code
+# <sub>`Code `<mark><code>quality</code></mark> &#8663;</sub> Q<samp>UALITY</samp> C<samp>ODE</samp>
 
-### That's <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed&tested🧪 **`clean code`** that rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
+### High-quality code is <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed&tested🧪, rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
@@ -29,6 +28,8 @@ MERMAID MERMAID <ER<AID
 
 <div align="right"><sup>↔️</sup> <samp>An onboarding developer can learn the domain from code, while a domain expert will grasp the implemented application logic.
 <br />Sure, both assisted and with documentation.</samp></div>
+
+## Is it not `clean code`
 
 **Does quality clean code?** Tentative yes. For example, bug-adverse boilerplate suggested here decreases clarity.
 
