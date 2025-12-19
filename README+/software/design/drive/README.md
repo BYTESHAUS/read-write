@@ -1,6 +1,6 @@
 <h1 align="center"><samp>SOFTWARE CREATION</samp> &nbsp;&rarr;&nbsp; ⚙️D&thinsp;r&thinsp;i&thinsp;v&thinsp;e&thinsp;s⚙️</h1>
 
-> ### What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few household names.
+> ### What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few of loud household names.
 > ### Even <i>functional programming</i> is a driven approach.
 
 <details align="center"><summary><h3><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&thinsp;</ins></h3>&nbsp;⬇️</summary>
@@ -92,6 +92,10 @@ And there must be Ariadne's thread &thinsp;&mdash;&thinsp; explanation drive: ho
 # Appendix. Developer-friendly design
 
 ## Builder&thinsp;/&thinsp;Wizard-based design
+
+🚧 ... TO WRITE ... 🚧
+
+## Explanation/Change Drive
 
 🚧 ... TO WRITE ... 🚧
 
