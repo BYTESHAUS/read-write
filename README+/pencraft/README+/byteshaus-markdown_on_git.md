@@ -1,4 +1,4 @@
-# <mark>Markdown</mark> on Git :octocat: &rarr;&thinsp; Hands-on experience <sup>😹</sup>
+# <mark>Markdown</mark> on Git :octocat: &larr;&thinsp; Hands-on experience <sup>😹</sup>
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br />a <i>markdown</i> newbie and an expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
