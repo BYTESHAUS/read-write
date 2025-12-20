@@ -35,7 +35,7 @@ Regardless of the mission, significant writing and good illustration are **expen
 
 ## Vital side effects / Windfall
 
-<table><tr><td><picture><img alt="&nbsp;Mango fruit" src="../_rsc/_img/photo/nat/mango/red_on_transparent-500px.png" width="200px"/></picture></td><td>
+<table><tr><td><picture><img alt="&nbsp;Mango fruit" src="../_rsc/_img/photo/nat/mango/red_on_transparent-oil-500px.png" width="200px"/></picture></td><td>
 
 Documenting/sketching ideas for even small features mitigates **the impedance between the stretch of imagination and the reality of implementation.**
 
