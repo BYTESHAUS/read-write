@@ -99,6 +99,8 @@ And there must be Ariadne's thread &thinsp;&mdash;&thinsp; explanation drive: ho
 
 🚧 ... TO WRITE ... 🚧
 
+🚧 EASY TO MOCK DESIGN
+
 Example:\
 |&thinsp;- use-dev➡️ [Wizard blocks](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/WizConstr/README.md)
 
