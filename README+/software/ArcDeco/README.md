@@ -75,7 +75,7 @@ Such menaces must encourage us to articulate the metaphysics of software.
 <h3 align="center"><picture><img alt="&nbsp; A&thinsp;R&thinsp;C &nbsp; D&thinsp;E&thinsp;C&thinsp;O" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-45px.jpg" /></picture><br />
 <mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding</h3>
  
-I couldn't find a better tag, but a mocking acronym<sup>🎨</sup> to distinguish the following survey (at least for the file system).
+I couldn't find a better tag, but a mocking acronym<sup>🎨</sup> to distinguish the following survey (at least as a folder).
 
 \___________\
 &nbsp; &nbsp;<sup>🎨</sup> <samp>Homonym to __Arc&nbsp;Deco__ - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco)</samp><sup><b>w</b></sup><samp> (`är-dā-ˈkō`) 
@@ -83,7 +83,7 @@ with its comeback, _ca._ a century after its introduction at the _International 
 
 ## What's next?
 
-Even great masters didn't paint _magnum opus_ from the first cast but began with the primer. 
+Not every grand master painted _magnum opus_ from the first cast but began with the primer. 
 Let's roll up our sleeves, take a brush, and with shy strokes put a layer after layer on the canvas of ...
 
 ## <pictire><img alt="&nbsp;Arc DECo" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-w250px_NEXT.png" /></picture> <sup>[**RATIONALE**](README+/01.Rationale/README.md) &rarr;</sup><sub>**BIG&nbsp;PICTURE** &rarr; **STRIPES** &rarr; **FORCES** &rarr; **ROLES** &rarr; **FACTORS** &rarr; **WRAP&nbsp;UP** <sub>🔚</sub></sub>
