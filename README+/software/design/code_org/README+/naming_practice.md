@@ -20,6 +20,8 @@
 
 ## Traps
 
+CLASS == NAME: e.g. Call(Guid guid) &rArr; design flaw
+
 TRAP: Duplicate names in the chain!     PRINTER.PRINT
 
 TRAP: The realm of `Helpers`, `Managers`, `Providers`. `Services`, ...
