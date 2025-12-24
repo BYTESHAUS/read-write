@@ -24,7 +24,7 @@ Translated east-to-west, this means: follow career paths to a sinecure in a big 
 
 \___________</details>
 
-<details><summary><a name="AIxorIT"></a><ins>&nbsp;<b>AI</b>&nbsp;</ins><code>xor</code><ins>&nbsp;<b>IT</b>&nbsp;</ins></summary>
+<details><summary><a name="AIxorIT"></a><ins>&nbsp;<b>AI&nbsp;</ins><code><samp>XOR</samp></code><ins>&nbsp;IT</b>&nbsp;</ins></summary>
 &nbsp;
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
