@@ -1,4 +1,4 @@
-# P<samp>ROJECT </samp>S<samp>TORIES</samp> &thinsp;&mdash;&thinsp; from all over the globe and beyond
+# P<samp>ROJECT </samp>S<samp>TORIES</samp> &thinsp;&larr;&thinsp; from all over the globe ... and beyond
 
 ## Marsupial Covariance
 
@@ -23,7 +23,7 @@
 
 🛰️ One small bug from engineers, one giant leak for budget made a "feature story" of [**Multifacet Value**](https://github.com/BYTESHAUS/use-dev/blob/main/README+/parts/MultifacetVal/README.md#mars-orbiter).
 
-## "Divided by Zero". Horrors almanach
+## "<i>Divided by Zero</i>". Horrors almanach
 
 [![Tales fron the crypt](https://img.shields.io/badge/Tales%20from-the%20crypt-blue?logo=readthedocs&logoColor=fdf)](#)
 
