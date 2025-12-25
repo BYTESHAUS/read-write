@@ -131,7 +131,7 @@ To name a few of the officially recognized:
  Ecce Homo. Wie man wird, was man ist (1889),</sub>\
 &nbsp; &nbsp; &nbsp; &nbsp;<sup>👯</sup> <sub>Original: „Wir sollten jeden Tag als verloren betrachten, an dem wir nicht mindestens einmal getanzt haben.“</sub>
 
-#### Kind advice
+#### Figurative advice
 
 > **If you have a fountain, shut it down. Let even a fountain have a rest.**\
 _K. Proutkoff_, Selection, ~1850
@@ -232,7 +232,7 @@ _Alexander Pope_, poet (1688-1744)
 
 #### Bottom line
 
-> **Commit a few bugs, and they call you a failure. Release a million and you're a Founder.**
+> **Commit a few bugs, and they call you a failure. Release a million, and you're a Founder.**
 
 
 \_________________________________</details>
@@ -277,6 +277,5 @@ Advice from _Joseph Rudyard Kipling_ (1865-1936)
 
 </details>
 
-
-\___________\
-♾️ ... subject of continuous delivery since ... ♾️
+___________\
+♾️ ... subject of continuous delivery ... ♾️
