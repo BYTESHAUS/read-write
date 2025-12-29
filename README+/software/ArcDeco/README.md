@@ -49,13 +49,13 @@
 
 ### Axes of e<mark>X</mark>pansion and complexit<mark>Y</mark> can tear this patchwork:<sup>🙋</sup>
 
-<table><tr align="center"><td colspan="2">
+<table><tr></tr><tr align="center"><td colspan="2">
    
 ### <picture><img width="500px" alt="&nbsp; X ------------------>" src="../../_rsc/_img/signs/arrows/orange_right_skew-hor_750px.png" /></picture><br />Coercive resource scaling against "horizontal" growth will build up a horrific pile...
 
 #### Getting harder and more expensive to evolve and maintain, with little rational heritage except "how not to do" tips.
 </td>
-</tr><tr>
+</tr><tr></tr><tr>
    <td><picture><img width="90px" alt="&nbsp;Y axis" src="../../_rsc/_img/signs/arrows/orange_down_skew-vert_450px.png"</td><td>
 
 ### With stacking up design decisions (as they come), this pile will begin to fall to pieces at a certain height of abstraction.
@@ -70,7 +70,7 @@ new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes
 
 Such menaces must encourage us to articulate the metaphysics of software. 
 
-<h2 align="center">... opening ...</h3>
+<h2 align="right">... opening ...</h3>
 
 <h3 align="center"><picture><img alt="&nbsp; A&thinsp;R&thinsp;C &nbsp; D&thinsp;E&thinsp;C&thinsp;O" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-45px.jpg" /></picture><br />
 <mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding</h3>
