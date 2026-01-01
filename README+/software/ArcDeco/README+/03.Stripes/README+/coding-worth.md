@@ -14,4 +14,4 @@ Everything done on the keyboard to code is coding. The pure coding is inefficien
 
 🚧🚧🚧 PLACEHOLDER 🚧🚧🚧
 
-🔚 🌒 2025
+🔚 🌒 2025-2026 ..
