@@ -153,5 +153,5 @@ flowchart TD
 ## **Volume&nbsp;II.** [**Inspirational quotes**](../quotes/README+/inspirational.md) 
 
 \___________\
-🔚 🌒 2024-2025 .. [Notes/disclaimer](../../../_rsc/README.md) about graphic resources<br />
+🔚 🌒 2024-2026 .. [Notes/disclaimer](../../../_rsc/README.md) about graphic resources<br />
 <sub>Image credits: [The Mystery of Chess Boxing](https://www.imdb.com/title/tt0199813/?ref_=nm_flmg_job_1_cdt_t_13)</sub>

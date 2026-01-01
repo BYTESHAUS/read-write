@@ -242,5 +242,5 @@ title="Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D&nbsp; &nbsp; &nbsp; &nbs
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin or adjacent activities</a>.
  </td></tr></table>
 
-<div align="center">___________<br />&nbsp;🔚 &nbsp;🌘 <b>Β</b>ytesHausMeister 2023-2025 &nbsp; </sub><b>...</b></div>
+<div align="center">___________<br />&nbsp;🔚 &nbsp;🌘 <b>Β</b>ytesHausMeister 2023-2026 &nbsp; </sub><b>...</b></div>
 Image credit: AutoCAD, Microsoft, Lotus Corp., Oxford University Press, Addison-Wesley Professional, Tripadvisor, and Byteshausmeister

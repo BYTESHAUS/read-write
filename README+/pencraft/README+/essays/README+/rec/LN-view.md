@@ -92,4 +92,4 @@ This wishlist and quality sustainability would require top and liable teams/comm
 > (Yes, I know &mdash; **_Otis_** but, in earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue)<sup>&thinsp;<b>W</b></sup>. This should suffice to demonstrate my involvement.)
 
 ______\
-🔚 &nbsp;🌘 <b>Β</b>ytesHausMeister .. 2023-2025 ..
+🔚 &nbsp;🌘 <b>Β</b>ytesHausMeister .. 2023-2026 ..

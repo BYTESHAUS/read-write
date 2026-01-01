@@ -164,4 +164,4 @@ Besides obvious gimmicks, some others require disclosure.
 
 \___________
 
-<div align="center"> 🔚 ... 🌙 2025 .. <b>Β</b>ytesHausMeister</div> 
+<div align="center"> 🔚 ... 🌙 2025-2026 .. <b>Β</b>ytesHausMeister</div> 

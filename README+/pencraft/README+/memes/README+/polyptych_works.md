@@ -30,4 +30,4 @@
 <div align="left">🚧🐝🚧 ... NEXT PARTS of this magnum opus COMING SOONer or later ... 🚧🐝🚧</div>
 
 \___________\
-[![Cooked up metaphors](https://img.shields.io/badge/Cooked%20up-metaphors-8CA1AF?logo=readthedocs&logoColor=fff)](#) &nbsp; 🔚 🌒 2025 .. image credits: Docker Inc., MIT, ZDNet magazine, Getty Museum
+[![Cooked up metaphors](https://img.shields.io/badge/Cooked%20up-metaphors-8CA1AF?logo=readthedocs&logoColor=fff)](#) &nbsp; 🔚 🌒 2025-2026 .. image credits: Docker Inc., MIT, ZDNet magazine, Getty Museum

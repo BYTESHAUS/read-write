@@ -45,4 +45,4 @@ Don't anticipate much from IT leaders but must-know hints and rules:
 + [Mermaid](https://mermaid.js.org/intro/) &mdash; mushrooming sketching diagrams supported in :octocat: markdown
 
 \___________\
-🔚 🌙 2024-2025
+🔚 🌙 2024-2026

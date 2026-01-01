@@ -192,4 +192,4 @@ ___________\
 &nbsp; &nbsp;<sup>🥇</sup> <samp>Association for Computing Machinery [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)<sup><b>w</b></sup>, aka "Nobel Prize of Computing".</samp>\
 &nbsp; &nbsp;<sup>⤵️</sup> <samp><i>archived:</i> "... one who visited the White House to receive the National Medal of Technology and Innovation personally from **then** President."</samp>
 
-<div align="center">🔚 🌙 2023-2025 ... to be enhanced ...</div>
+<div align="center">🔚 🌙 2023-2026 ... to be enhanced ...</div>

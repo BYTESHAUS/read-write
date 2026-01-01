@@ -20,7 +20,7 @@ To make descendants roar in laughter, predict their living and post in a capsule
 Most future predictions are cringe and facepalm
 
 
-No chg since 1980s (1950 - 1980 - 2025): PC, IDE, OOP, patterns, 
+No chg since 1980s (1950 - 1980 - 2026): PC, IDE, OOP, patterns, 
 
 3D, SWasTest (no, no, not what you thought - users test - u use, u test), Tasks orientation (will replace model)
 
@@ -45,4 +45,4 @@ OOP,
 Dynamic,
 crypto
 
-🔚 2025 A.D. ...
+🔚 2025-2026 A.D. ...

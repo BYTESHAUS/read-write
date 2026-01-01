@@ -29,5 +29,5 @@ These sagas remained unnoticed in the mass culture since ultra-level abstraction
 <sup>🌛</sup> <samp>Relatively, since computer time was so deficient, a couple of hours in night shifts on BIG machines was a big luck for junior fellows (daytime was out of reach for them at all).</samp>
 
 \___________\
-🔚 🌘 2025 .&thinsp;.&thinsp;. kyriosity\
+🔚 🌘 2025-2026 .&thinsp;.&thinsp;. Byteshausmeister\
 Image credits: screengrab, imdb.com: <i>Born Invincible</i>, 1978; Wiki media: Intel 1103 memory
