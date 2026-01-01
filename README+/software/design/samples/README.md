@@ -108,5 +108,5 @@ and mix them (e.g., async undo-redo,  or multi-culture as units).
 
 </td></tr></table>
 
-\___________\
-🔚 🌕 2023-2025 ..
+___________\
+🔚 🌕 2023-2026 ..
