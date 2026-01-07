@@ -113,6 +113,8 @@ Many languages (`C#` there) use this term for errors to throw, though its meanin
 
 👑 And the winner is ... `dirty` in miscellaneous languages and APIs as the trait of a modified object.
 
+SQL COALESCE is nothing but `FirstNotNull`
+
 🍅 🍓 
 
 🍓 
@@ -126,5 +128,5 @@ Many languages (`C#` there) use this term for errors to throw, though its meanin
 _First-class citizens_ for functions or other techniques have a discrimination flair ...
 
 ___________\
-🔚 ..  🌙 ... 2024-2025 ...  📂[README+](README+)\
+🔚 ..  🌙 ... 2024-2026..  📂[README+](README+)\
 `// The collage uses the Hindu version of World Elephants.`
