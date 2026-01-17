@@ -29,9 +29,11 @@ MERMAID MERMAID <ER<AID
 <div align="right"><sup>↔️</sup> <samp>An onboarding developer can learn the domain from code, while a domain expert will grasp the implemented application logic.
 <br />Sure, both assisted and with documentation.</samp></div>
 
-## Is it not `clean code`
+## Is it not `clean code`?
 
 **Does quality clean code?** Tentative yes. For example, bug-adverse boilerplate suggested here decreases clarity.
+
+CAN BEAUTIFY, CAN SPOIL
 
 ## <samp>Re:</samp> Bugs 🪳
 
@@ -137,4 +139,5 @@ However, these cases are exceptional, not about enterprise development, and most
 
 <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;
 
-🔚 ...🌜2023-2025 ...
+___________\
+🔚 ...🌜2023-2026.. **B**yteshausMeister

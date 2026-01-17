@@ -21,7 +21,7 @@ If enthusiasts with magnifying glasses could logically group swarms of wretched 
 
 The challenge is to lay out accurately. Our imagination tries to mnemonically align doubtful and even bizarre names to the right meanings and aliases, but takes on trust their structure.
 
-\___________\
+___________\
 As a negative experience, GitHub is full of shallow folders and huge lists, even for corporate projects. Namespaces of frameworks and languages may look like a verbal dump.
 
 ### Tags
@@ -30,24 +30,28 @@ The only limitation of categorization is the strict tree graph. Tags may rationa
 
 ## How to name &thinsp;.&thinsp;.&thinsp;.
 
-<h2 align="center">.&thinsp;.&thinsp;.&thinsp;&nbsp;as usual</h2>
 
-<table><tr>
-<td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a>
-</td><td>
+<table><tr></tr><tr><td>AS USUAL</td><td /><td align="center"><b><samp>AS CRUCIAL ...</samp></b></td></tr><tr>
+<td>
 
 ### The prevalent naming is a derivative of the development, which
 
-❌ rests on programmable "false-domain" with `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other supports,\
+❌ rests on programmatic "false-domain" made of `Helper.Get(..)`, `Utils.Do(...)`, `Service.Find(...)`, and other supports,\
 ❌ leaves "construction waste" of temporary names, placeholders,\
 ❌ spreads umbrella terms and horizontally swelling folders,\
 ❌ spawns long names and shallow categories (`AddTableReservationInRestaurant(..)`),\
 ❌ interferes with existing domain and programming naming,\
 ❌ contains jargon and slang, or terms, dubious in other tongues or cultures. 
   
+</td>
+<td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a></td>
+  <td>
+
+
+  
 </td></tr></table>
 
-<h2 align="center">.&thinsp;.&thinsp;.&thinsp;&nbsp;as crucial</h2>
+
 
 The naming of libraries, packages (assemblies), folders, classes, methods/functions, and even non-public _vars_ must be a **№1** challenge and involve the whole team<sup>:family:</sup> in discussions. 
 
@@ -113,6 +117,8 @@ Many languages (`C#` there) use this term for errors to throw, though its meanin
 
 👑 And the winner is ... `dirty` in miscellaneous languages and APIs as the trait of a modified object.
 
+SQL COALESCE is nothing but `FirstNotNull`
+
 🍅 🍓 
 
 🍓 
@@ -126,5 +132,5 @@ Many languages (`C#` there) use this term for errors to throw, though its meanin
 _First-class citizens_ for functions or other techniques have a discrimination flair ...
 
 ___________\
-🔚 ..  🌙 ... 2024-2025 ...  📂[README+](README+)\
+🔚 ..  🌙 ... 2024-2026..  📂[README+](README+)\
 `// The collage uses the Hindu version of World Elephants.`
