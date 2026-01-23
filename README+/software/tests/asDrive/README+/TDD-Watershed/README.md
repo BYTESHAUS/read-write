@@ -205,10 +205,10 @@ The upper design will quite smartly formulate major tasks, while these tasks can
 
 ### Team practice
 
-Responsible and attentive following the principles will unite and motivate the team while getting the best of members (win-win).
+Responsible and attentive following the principles will unite and motivate the team while getting the best out of members (win-win).
 
 ### Motivation to TDD
 
 It must be much higher than reading the theory on why TDD is good.
 
-<div align="center">___________<br />🔚 &nbsp;🌒 2024-2025 .. <b>Β</b>ytesHausMeister .. images: Kyriosity ...</div>
+<div align="center">___________<br />🔚 &nbsp;🌒 2024-2026 .. <b>Β</b>ytesHausMeister .. images: <samp><b>B</b>ytesHausmeister</samp> ...</div>
