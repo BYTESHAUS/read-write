@@ -140,7 +140,7 @@ Test coverage, actually, with a slant to find elaborate error cases.
 <details align="center"><summary>___________&nbsp; <b>HOLD ON &nbsp;.&thinsp;.&thinsp;.</b> ___________</summary>
 &nbsp;
    
-<p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: kyriosity)" src="../../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
+<p align="center"><picture><img alt="&nbsp; Long ridge of high peaks (image credit: Byteshausmeister)" src="../../../../../_rsc/_img/illus/tests/TddWatershed-altView.jpg"></picture></p>
 
 We lined up two extremes above: API definition _vs._ coding.
 
