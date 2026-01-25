@@ -4,7 +4,7 @@
 <picture><img width="150px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>
    <p>In the rainy July 2024 ...</p>
 </td><td><p>... I was bicycling to hear a casual <b>TD<mark>D</mark></b> lecture as doubts crept in &thinsp;&mdash;&thinsp; where am I going:</p>
-   <p align="center">Is this <mark><b>D</b></mark> for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
+   <p align="center">Is this <mark><b>𝓓</b></mark> for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride but the principal divergence. 
 (For the record, the title of the lecture resonated with my anxiety: «<i>Failed with TDD? Here, you know why.</i>»)</p>
 <p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>,</p>
@@ -16,8 +16,8 @@
 Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothered about distinction, and some exploited both terms interchangeably. 
 Books and tutorials showed up inclined to techniques, patterns, and testing frameworks.
 
-&nbsp; &nbsp;<sup>🙋</sup> <samp>Despite the energetic recherche, I couldn't go through the best part of the treatises. There must be better findings, and there could be better alternative conclusions.</samp>\
-&nbsp; &nbsp;<sup>🌵</sup> <samp><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</samp>
+&nbsp; &nbsp; <sup>🙋</sup> <samp>Despite my energetic recherche, there could be better findings, and alternative conclusions.</samp>\
+&nbsp; &nbsp; <sup>🌵</sup> <samp><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</samp>
 
 Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</samp>, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried.
 
