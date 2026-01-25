@@ -46,5 +46,5 @@ The model shall be thread- and async-friendly, even if it's not required.
 |&thinsp;-&thinsp;- 📖[Tasks as models](https://github.com/BYTESHAUS/use-dev/blob/main/README%2B/decisions/README%2B/think_in_tasks/README.md)\
 |&thinsp;-&thinsp;- ⌨️[Models demo](https://github.com/BYTESHAUS/use-dev/tree/main/src/TuttiFrutti/AbcModels/README.md)
 
-<diva></div>
-🔚 .. 2025 ..
+___________\
+🔚 .. 2025-2026 ..
