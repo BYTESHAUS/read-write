@@ -110,6 +110,5 @@
 
 **P.S.** Finding quotes is arduous &thinsp;&mdash;&thinsp; not every pundit spoke or wrote in them. Not every citation is in _wikiquote_ or on another popular list.
  
-\____________
-
-🔚 ... 2024-2025 to be reviewed, and extended ✏️ ...
+____________\
+🔚 ... 2024-2026 to be reviewed, and extended ✏️ ...
