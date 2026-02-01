@@ -1,4 +1,4 @@
-<h1 align="center">Heavily biased about <code>C#</code></h1>
+<h1 align="center">About C# <code>// heavily biased</code></h1>
 
 ### This premier **.NET** language deserves to be noted as one of the most eloquent and all-around languages&thinsp;/&thinsp;platforms for multi-OS systems and applications. 
 It's a dedicated Microsoft flagship<sup>⛵</sup>, where the ship is <sub>[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)</sub> and the flag is <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub>.
@@ -33,4 +33,5 @@ Languages like TypeScript may lack some of the best `C#` aspects (such as LINQ),
 
 Finally, with all the praise given, **`C#`** isn't monumentally accomplished and has its foibles and lacks: [**README**➕](README+) for criticisms, wishlists, and ideas.
 
-🔚 🌔 ... 2020-2025 ...
+___________
+<div align="right">🔚 🌔 2020-2026.. <samp><b>B</b>yteshausMeister</samp></div>
