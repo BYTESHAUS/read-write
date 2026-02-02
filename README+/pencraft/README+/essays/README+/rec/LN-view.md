@@ -30,24 +30,24 @@ There were similar suites &thinsp;&mdash;&thinsp; legacy, alternative, or tailor
   
 </td></tr></table>
 
-* In **1995**, <samp><sub>[![IBM Badge](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)](#)</sub> gained Lotus in full<sup>💰</sup></samp>.\
+* In **1995**, <sub><sub>[![IBM Badge](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)](#)</sub></sub> gained Lotus in full<sup>💰</sup>.\
 It was a big chance not only to gain from sales and internal installations but also to reform leastways _Notes_ by leaning on the influence and technological capital of Big Blue.\
 However, mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦</sup>
 
-* In **2001**, <samp><sub>[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)</sub></samp> released its "bird of a feather" &thinsp;<samp>&mdash;</samp>&thinsp; **SharePoint** &thinsp;<samp>&mdash;</samp>&thinsp; much more sophisticated and bulkier but promoting the next generation of a product and API.\
+* In **2001**, <sub><sub>[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)</sub></sub> released its "bird of a feather" &thinsp;<samp>&mdash;</samp>&thinsp; **SharePoint** &thinsp;<samp>&mdash;</samp>&thinsp; much more sophisticated and bulkier but promoting the next generation of a product and API.\
 SharePoint was deprived of many inherent vices of the Lotus trailblazer and gradually began to supersede _LN_ in the one-way migration. 
 
 * In **2018**, the sell-out of Domino/Notes and granting the office's source code to freeware pushed **_LN_** out to IT margins.
 
 ___________\
 &nbsp; &nbsp; <sup>📜</sup> <samp>Long before NoSQL became mainstream.</samp>\
-&nbsp; &nbsp; <sup>⭐</sup> <samp>Emphasized for rare ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed us to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</samp>\
+&nbsp; &nbsp; <sup>⭐</sup> <samp>Emphasized for superior ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed us to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</samp>\
 &nbsp; &nbsp; <sup>💰</sup> <samp>For a $3.5 billion &mdash; pretty good deal, especially before IT procurements had skyrocketed in the 2000s.</samp>\
 &nbsp; &nbsp; <sup>🍦</sup> <samp>It's not a top secret that IBM's cold shoulder urged many top Lotus contributors to leave.</samp>
 
 <h2 align="center">Epilogue. Alternate history</h2>
 
-_Lotus Domino/Notes_ had enough outdated and weak facets to surrender to the rival from Redmond (WA), but let's dream up what the "surviving" **LN** would be.
+> ### _Lotus Domino/Notes_ had enough outdated and weak facets to surrender to the rival from Redmond (WA), but let's dream up what the "surviving" **LN** would be.
 
 ### 💿 Storage as a sound object-relational model over IBM DB2
 
@@ -84,9 +84,9 @@ Great potential for [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_so
 ### 🙋 Last but not least
 
 This wishlist and quality sustainability would require top and liable teams/community instead of outsourcing. 
-("Migrating" myself from LN to .NET, I experienced, for certain, that beta versions of Visual Studio&nbsp;2010 were less eager to crash than sametime releases of Notes Designer.)
+("Migrating" myself from _LN_ to .NET, I experienced, for certain, that beta versions of Visual Studio&nbsp;2010 were less eager to crash than sametime releases of Notes Designer.)
 
-<h2 align="center">⬆️ <mark>Was it technically doable? &thinsp;&mdash;&thinsp; <b>Absolutely</b> ⚫</mark></h2>
+<h2 align="center">⬆️ <mark>Was it technically doable? &thinsp;&mdash;&thinsp; <b>Absolutely</b>.</mark><br /><samp>Great cutting-edge again? &thinsp;&mdash;&thinsp; Possibly.</samp></h2>
 
 > Let me finish with the quote from another single: "_**Now I know what made Lotus blue**_."\
 > (Yes, I know &mdash; **_Otis_** but, in earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue)<sup>&thinsp;<b>W</b></sup>. This should suffice to demonstrate my involvement.)
