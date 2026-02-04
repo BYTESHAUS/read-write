@@ -10,7 +10,7 @@ Besides weak points (like bulky names), there are lacks:
 
 - no support for dynamic test data,
 - no way to auto-test code that must not compile (e.g., to exclude the wrong branches of building calls) ➡️ [semantic posers](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-posers.md),
-- no gradual asserts ➡️ [discussion of workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/unit_test-gradual_assert.md),
+- no gradual asserts ➡️ [discussion of workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/tests-gradual_assert.md),
 - only a single data source ➡️ [multi-feed workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/prog_tests-cut_feeds.md).
 
 ## Math
@@ -98,5 +98,5 @@ And, not least, add syntax sugar like
 
 The custom _use-dev_  ➡️ [⭐ISie⭐](https://github.com/Kyriosity/use-dev/blob/main/README+/parts/_ext/ISie/README.md) demanded me to make fast [AbcLingua](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcLingua) folders. But I'd rather find such a structure in C# language or frameworks.
 
-\___________\
-🔚 🌔 .. 2021-2025 ...
+___________\
+🔚 🌔 .. 2021-2026..
