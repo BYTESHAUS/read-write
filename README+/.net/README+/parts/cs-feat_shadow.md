@@ -34,4 +34,5 @@ public static class NameDoesNotMatter
 |&thinsp;-&thinsp;- [Single instruction, multiple data (SIMD)](https://learn.microsoft.com/en-us/dotnet/standard/simd)\
 |&thinsp;-&thinsp;- [Hardware acceleration](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/optimizing-performance-taking-advantage-of-hardware)
 
-🔚 2022-2025 ...
+___________\
+🔚 2022-2026..
