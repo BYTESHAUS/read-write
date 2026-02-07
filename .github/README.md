@@ -44,7 +44,7 @@ Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D &nbsp; &nbsp; &nbsp; Design&#01
    <br/>
 &nbsp; &nbsp; &nbsp; <a href="../README+/.net/README+/parts/cs-lacks-parts.md">Nice to have</a>&nbsp;➖&nbsp;<a href="../README+/.net/README+/parts/cs-feat_shadow.md">In shadow</a><br/>
      <!--                               WPF          --!>
-  &nbsp; 🪟&nbsp;<a href="../README+/.net/README+/wpf"><b>W&thinsp;P&thinsp;F</b></a>
+  &nbsp; 🪟&nbsp;<a href="../README+/.net/README+/wpf/README.md"><b>W&thinsp;P&thinsp;F</b></a>
     <!--                   C L O S E R  to  C O D E      --!>
  <br/><br/><kbd>&thinsp;<b>CLOSER to CODE</b>&thinsp;</kbd><br/>
   &nbsp; &nbsp;<a href="../README+/.net/README+/cs-hints.md"><b>&thinsp;Hints&thinsp;</b></a>&nbsp;➡️&nbsp;
