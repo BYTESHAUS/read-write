@@ -49,4 +49,4 @@ MVVM has been widely established, but is neither a universal nor a golden sectio
 |&thinsp;-&thinsp;- [Notification orchestration](https://github.com/Kyriosity/use-dev/blob/main/README+/decisions/README+/mvvm/mvvm-notification_orchestration.md)\
 |&thinsp;-&thinsp;- [Model & ViewModel cohesion](https://github.com/Kyriosity/use-dev/blob/main/README%2B/decisions/README%2B/mvvm/mvvm-vmodel_cohesion.md)
 
-🔚 .. 2022 - 2025 ..
+🔚 ..2022-2026..
