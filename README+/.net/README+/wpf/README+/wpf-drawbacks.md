@@ -1,6 +1,6 @@
-# WPF &nbsp;&mdash;&nbsp; Drawbacks and lacks
+# WPF &nbsp;&mdash;&nbsp; Drawbacks and Lacks
 
-> ### **`WPF`** is a stable, modern, and so far popular platform, alive and well despite numerous sad prognoses.
+> ### **`WPF`** is a stable, modern, and so far popular platform &thinsp;&mdash;&thinsp; alive and well despite beaucoup gloomy prognoses.
 
 It remains the number one choice for new desktop applications (of any scale), yet without great add-ins, pivotal improvements, and new cutting-edge parts since its first release.
 
@@ -13,7 +13,7 @@ Microsoft and the .NET team were more than busy with cross-platform, Web, and mo
 
 Since the early 2010s, Microsoft has neither ported nor created any significant proprietary product in full WPF<sup>🏗️</sup>. The legacy of the ecosystem<sup>👜</sup> doesn't excuse this for medium foundations.
 
-&nbsp; &nbsp; <sup>🥀</sup> <samp>A lesson that Microsoft itself taught to others, as recounted in my [Lotus&nbsp;notes](../../../../pencraft/README+/essays/README+/LN-view.md).</samp>\
+&nbsp; &nbsp; <sup>🥀</sup> <samp>A lesson that Microsoft itself taught to others, as recounted in my [Lotus&nbsp;notes](../../../../pencraft/README+/essays/README+/rec/LN-view.md).</samp>\
 &nbsp; &nbsp; <sup>🏗️</sup> <samp>Visual Studio 2010, fresh [re-built in WPF]((https://devblogs.microsoft.com/visualstudio/wpf-in-visual-studio-2010-part-1-introduction)<sup>🔗</sup>), 
 then supplemented with novel Blend are clear-cut hits  and role models.</samp>\
 &nbsp; &nbsp; <sup>👜</sup> <samp>Windows is still much COM, and MS Office means giant stacks of C++ and Objective&nbsp;C, reckless to rewrite.</samp>
@@ -76,4 +76,4 @@ Converters fail silently, covering errors or prompting you to keep the debugger 
 |&thinsp;-&thinsp;- [MVVM](mvvm)
 
 _________\
-🔚 .. 2022-2025 ..
+🔚 .. 2022-2026..
