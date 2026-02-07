@@ -142,7 +142,7 @@ _K. Proutkoff_, Selection, ~1850
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Luca Giordano: Dream of Solomon, 1694-1695" src="../../../../_rsc/_img/art/OldMasters/LucaGiordano-TheDreamOfSolomon-w555px.jpg" 
- title="&nbsp;Dream of Solomon, 1694-1695, by Luca Giordano"/></picture><br />
+ title="&nbsp;Dream of Solomon, 1694-1695,&#10;by Luca Giordano"/></picture><br />
 <mark><b>...King Solomon</b></mark>, who said:
 
 > **For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.**\
@@ -192,16 +192,18 @@ _Earliest humans_
 > **I know that I know nothing.**\
 _Plato_'s account of _Socrates_ 
 
-Should one defy the fundamentals of Western philosophy ...
+Should we defy the fundamentals of Western philosophy ...
 
 \_________________________________</details>
 
 <details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; interpret errors right...</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp;BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" title="&nbsp;Real frame from the presentation of Windows plug&play in 1998"/></picture><br />
-(This **BSoD** must be an XX-century [history](https://en.wikipedia.org/wiki/Blue_screen_of_death) but it [struck](https://www.msn.com/en-us/news/technology/a-blue-screen-of-death-loop-how-a-crowdstrike-update-crashed-microsoft-systems-around-the-world/ar-BB1qgFNC) again in 2024.)
-
+<br /><picture><img alt="&nbsp;BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" 
+title="&nbsp;Real frame from the presentation of Windows plug&play in 1998.&#10;&nbsp;(Actually when the device was plugged.)"/></picture><br />
+<samp>(This **BSoD** must be an XX-century [history](https://en.wikipedia.org/wiki/Blue_screen_of_death) but it [struck](https://www.msn.com/en-us/news/technology/a-blue-screen-of-death-loop-how-a-crowdstrike-update-crashed-microsoft-systems-around-the-world/ar-BB1qgFNC) again in 2024.)</samp>
+<br />
+<samp>(2026 update: It wasn't the worst that happened to Bill.)</samp>
 #### Customer gets the King
 
 > _après nous le déluge_\
