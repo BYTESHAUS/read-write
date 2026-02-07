@@ -68,4 +68,4 @@ __Resources__:\
 |&thinsp;- [Awesome WPF](https://github.com/Carlos487/awesome-wpf)<sup>🔗</sup> &thinsp;&mdash;&thinsp; big collection of links about literally everything that may concern WPF developers\
 |&thinsp;- [Prism](https://github.com/PrismLibrary/Prism)<sup>🔗</sup> &thinsp;&mdash;&thinsp; reputable representative of WPF/MVVM bootstrapping 
 
-🔚 2021..2025 ..
+🔚 2021..2026..
