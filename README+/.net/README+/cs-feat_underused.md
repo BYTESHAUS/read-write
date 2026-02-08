@@ -1,4 +1,4 @@
-# `C#` &nbsp;&mdash;&nbsp; Good sides &nbsp;&mdash;&nbsp; _underused_
+# `C#` &thinsp;&mdash;&thinsp; Good sides &thinsp;&mdash;&thinsp; <mark>&thinsp;Underused&thinsp;</mark>
 
 > ### Parts of <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> syntax, its certain features, libraries, and frameworks are <ins>preferable</ins> in development but often remain <ins>unrevealed</ins>.
 
@@ -138,5 +138,5 @@ Plus to the mentioned above, there are:\
 |&thinsp;-&thinsp;- [Parts in shade](parts/cs-feat_shadow.md)\
 |&thinsp;-&thinsp;- Obsolete/bad parts, features, and [malpractices](cs-malpractice.md) 
 
-\___________\
-🔚 🌙 .. 2021-2025 ..
+___________\
+🔚 🌙 ..2021-2026..
