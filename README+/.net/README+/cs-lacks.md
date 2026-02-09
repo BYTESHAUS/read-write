@@ -1,6 +1,6 @@
 # `C#` &nbsp;&mdash;&nbsp; Nice to have &nbsp;&mdash;&nbsp; Syntax, constructs and features
 
-> ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> isn't a universal formula, and its team (counting the community) doesn't possess unbounded resources.<br />However, this platform could offer extra features and foundations, which would only boost its charm.
+> ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> isn't a universal formula, and its team with the community doesn't possess unlimited resources.<br />However, this platform could offer extra features and foundations, which would only boost its charm.
 
 ## More common interfaces
 
@@ -191,4 +191,4 @@ The intuitive supply of syntax in chained calls (for code completion) is one of 
 |- [Parts and frameworks](parts/cs-lacks-parts.md)\
 |- [WPF lacks](wpf/README+/wpf-drawbacks.md)
 
-🔚 🌓 2021-2025
+🔚 🌓 2021-2026..
