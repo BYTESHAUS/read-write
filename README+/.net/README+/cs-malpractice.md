@@ -1,36 +1,37 @@
-# `C#` &nbsp;&mdash;&nbsp; Misconception and malpractice
+# `C#` &nbsp;&mdash;&nbsp; Misconception and Malpractice
 
-## Inappropriate usage
+## Inappropriate usage `// C# is not C++`
 
-### Essence 
+**`C#`** has pointers, destructors, finalizers, calls to the garbage collector, memory allocation, "front door" to unmanaged code, and interop with other languages. 
+However, habitual programming them for business applications isn't C# intrinsic, unless for particular workarounds, fixes of exotic bugs, or non-conforming 3d-party API.
 
-* Albeit **`C#`** has pointers, destructors, finalizers, calls to the garbage collector, memory allocation, "front door" to unmanaged code, and interop with other languages — 
-programming them for business applications isn't intrinsic, unless for a particular workaround, fix of bizarre bugs, or non-conforming 3d-party API.
+### CLR digging
 
-* The Microsoft learn corner thoroughly documents which .NET constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive.<sup>📍</sup>
+The Microsoft learn corner thoroughly documents which .NET constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive.<sup>📍</sup>
 As well, **`C#`** doesn't guarantee the same CLR output for future releases or every platform.\
-&nbsp; &nbsp; &nbsp; <sup>📍</sup> <sub>As an example, Q&A sites may cite contradictory opinions about string interpolation, await/async, and other constructs.</sub>
+&nbsp; &nbsp; <sup>📍</sup> <samp>As an example, Q&A sites may cite contradictory opinions about string interpolation, await/async, and other constructs under the hood.</samp>
 
-The best intentions of individuals on a "low level" may occur in parallel with the .NET team on optimization of interpretation/compilation, and the latter will probably win.
+The best optimization from individuals on a "low level" may occur in parallel with the .NET team, and the latter will mostly win (if not cross out the amateur hack).
 
-There is nothing wrong with knowing the details of CLR and IL (it makes one a better developer) except time resources, and unfocused learning.
+Knowing the details of CLR and IL isn't defamatory (it makes one a better developer), but it consumes time and distracts from primary learning (it's never enough).
 
 ### "Bare" .NET for high-performance calculations
 
-The downside of comfy **`C#`** programming is that .NET isn't suited for direct top-efficient code (like `C++` on `WinCom`). The energy of .NET will exceed the needs of business solutions, but will slow down calculations over arrays of millions of items or high-speed transformation of images or videos (even with all the parallelism in play).
+The downside of comfy **`C#`** programming is that .NET isn't suited for direct top-efficient code (like `C++` on `WinCom`). The energy of .NET will exceed the needs of business solutions, but isn't enough for calculations over arrays of millions of items or high-speed transformation of images or videos (with all the parallelism in play).
 
-To stay with **`C#`** in such a case, hardware acceleration patches or external libraries are a must.
+To stay with **`C#`** in such a case, hardware acceleration patches or external libraries are a must. But isn't it better to switch to the appropriate technology?
 
 ### Phantom gains
 
 [`ArrayPool`](https://learn.microsoft.com/en-us/dotnet/api/system.buffers.arraypool-1)<sup>🪟</sup>, spans, non-generic collections, record structs, and "jettison" of LINQ are suitable when 1) performance is a huge issue, 2) better syntax and match with entities (e.g. `struct` for _x-y-point_ objects).
+
+## Declarations
 
 ### Obsolete constructs
 
 - Any **un**named tuples in new stuff must be out of law.
 - 🚧🚧🚧
 
-## Declarations
 
 ### Bloated interfaces
 
@@ -47,7 +48,7 @@ Nevertheless, let them remain granulated and lightweight with:
 ### `Dynamic` and `ExpandoObject`
 
 Any use of casting, call of props, and methods on them breaches the strongly typed `C#`. However, it could be a valid workaround or hack when nothing else helps.\
-(Example: for return values of methods, which throw only, to be used in ternary expressions as in custom 
+(Example: for return values of methods that throw only, to be used in ternary expressions as in custom 
 [`exception shortcuts`](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcStoppers/Errors/_basal/%F0%9F%94%BAException.cs).)
 
 ### Dubious `sealed`
@@ -93,6 +94,5 @@ Filtering to the expected type doesn't exclude its throw from other code parts (
 
 A test framework, throwing its own `ArgumentException`, can make matters even worse.
 
-\___________
-
-🔚 ... 🌔 2023-2025 ... but 🚧 ... TO BE CONTINUED ... 🚧
+___________\
+🔚 ... <sub> 🌔 2023-2026.. TO BE CONTINUED ... 🚧</sub>
