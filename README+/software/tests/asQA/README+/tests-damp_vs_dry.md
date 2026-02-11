@@ -23,9 +23,9 @@
 <table><tr><td><picture><img alt="&nbsp;Black box of test (not of application)" src="../../../../_rsc/_img/memes/ItTestsSmth.jpg" /></picture>
 </td><td>
 
-First batches of tests will create a sound core, verifying code essentials and helping to describe the application along with documentation.
+Inaugural layers of tests must create a sound core, verifying functional essentials and helping to describe the application along with documentation.
 
-More and more tests will slightly but steadily dissolve this core into a badly maintainable bulk, with scrappy coverage, accumulated negligence, and impeded navigation.
+More and more tests will slightly but steadily erode this core into a badly maintainable bulk, with scrappy coverage, accumulated negligence, and impeded navigation.
 
 ### The refactoring counterblast is to <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark> (<samp><mark>D</mark>on't <mark>R</mark>epeat <mark>Y</mark>ourself</samp>).
 </td></tr></table>
@@ -63,7 +63,7 @@ For honest test coverage there, no copy-paste will help (but [T4 templates](http
 
 Whether for strictly or weakly typed languages, the same argument value may appear in different types (e.g., integer and floating point for the same calculations).
 
-#### Ideas
+## 💡I<samp>DEAS</samp>💡
 
 Many languages support generic types, which a test method may discern.
 
@@ -109,14 +109,14 @@ A summoned general was eager to recount seven reasons, he knew, but was shortly 
 <samp>«Already one is more than enough for me».</samp>
 >
 > The same, the prominent physicist replied to [_"One Hundred Authors Against Einstein", 1931_](https://archive.org/details/HundertAutorenGegenEinstein):\
-> <samp>"If I were wrong, it would only take one."</samp> (quoted in "A Brief History of Time", 1988, _Stephen Hawking_ )\
+> <samp>"If I were wrong, it would only take one."</samp>\
 > &nbsp;
 
 </details>
 
 ### Normalization
 
-Grouping _Asserts_ for the same _Arrange_ is a call of reason &thinsp;&mdash;&thinsp; otherwise method opening/closing will eat half of the page.
+Grouping _Asserts_ for the same _Arrange_ is a call of reason &thinsp;&mdash;&thinsp; otherwise method opening/closing will eat half of the screen.
 
 ```csharp
 // EXAMPLE PENDING
@@ -138,11 +138,11 @@ Imagine a math engine for a project. If a floating error emerges, neither API er
 
 <h1 align="center">Conclusion: D<samp>RY</samp> but not drain</h1>
 
-<mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> or <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>❔ Neither but a compromise. (Could I omit set phrases to backup?) 
+<mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> **or** <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>&thinsp;**?** Neither, but a compromise. (Could I omit set phrases to backup?) 
 
 Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that units of tests are elusive, and there's no distinct division.
 
-Does DRY apply to Test Driven Design? Yes, but very constrained by DAMP as its main motive.
+Does <mark>**DRY**</mark> apply to <samp>T</samp>est <samp>D</samp>riven <samp>D</samp>esign? Yes, but **very** constrained by <mark>DAMP</mark> as its main motive.
 
 <table align="center"><tr></tr><tr><td>👆</td><td>
     
@@ -159,5 +159,5 @@ With all readability, the handicap is that the _test subjects_ are hidden in ext
 
 The alternative can be a condensed, terser syntax, like these ["coagulated" expressions](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
 
-\___________\
-🔚 🌙 2024-2025 .. <b>Β</b>ytesHausMeister
+___________\
+🔚 🌙 2024-2026 .. <b>Β</b>ytesHausMeister
