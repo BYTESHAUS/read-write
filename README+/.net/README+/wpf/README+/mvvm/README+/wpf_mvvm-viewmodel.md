@@ -1,4 +1,4 @@
-# MVVM &nbsp;&mdash;&nbsp; ViewModel &nbsp;&mdash;&nbsp; Reminder
+# MVVM &nbsp;&mdash;&nbsp; ViewModel &nbsp;&mdash;&nbsp; _Reminder_
 
 ViewModel is the heart of the pattern and was wittily titled [converter on steroids](https://joshsmithonwpf.wordpress.com/2008/12/01/the-philosophies-of-mvvm/)<sup>:link:</sup>, albeit its mission is broader.
 
@@ -9,4 +9,4 @@ As well, the ViewModel shall not outline ways of UI arrangement and interaction 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>:raising_hand:</sup><sub> Could be redundant to say, but still a common mistake.</sub>
 
-🚧📝🚧 ... to be CONTINUED ... 🚧🖌️🚧
+2022-2026... to be CONTINUED ... 🚧🖌️🚧
