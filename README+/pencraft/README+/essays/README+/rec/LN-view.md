@@ -10,7 +10,7 @@ Joining the best of computer sciences from the 1980s with _laissez-faire_ IT in 
 <picture><img alt="&nbsp; Lotus Notes R5 splash screen" src="../../../../../_rsc/_img/af/LN/LotusNotesR5_SplashWin.jpg" title="&nbsp;Splash screen of &#010;Lotus Notes R5"></picture>
 </td><td>
 
-Those who programmed and admined will reminisce about genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup> and leading-edge editors.
+Those who programmed and administered will reminisce about genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup> and leading-edge editors.
 
 As a developer of Line-of-Business and corporate applications on Lotus Notes for over a decade<sup><mark>#</mark></sup>, I&nbsp;must have deserved the privilege of personal (Lotus) notes.
 
@@ -26,7 +26,7 @@ As a developer of Line-of-Business and corporate applications on Lotus Notes for
 
 **LN** paved the public road to diverse innovations: client-server, multirole/group access, distributed/synchronized doc-oriented DB<sup>📜</sup>, **replication**<sup>⭐</sup>, asymmetric encryption from authorization down to selected fields on demand &thinsp;&mdash;&thinsp; to name a few hallmarks.
 
-There were similar suites &thinsp;&mdash;&thinsp; legacy, alternative, or tailor-made &thinsp;&mdash;&thinsp; but this aquatic flower dominated the market garden ... until Microsoft began to win large chunks of the office software market.
+**LN** wasn't deprived of drawbacks; there were alternative suites (including legacy and tailor-made), but this aquatic flower dominated the market garden ... until Microsoft began to win large chunks of the office software market.
   
 </td></tr></table>
 
@@ -92,4 +92,4 @@ This wishlist and quality sustainability would require top and liable teams/comm
 > (Yes, I know &mdash; **_Otis_** but, in earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue)<sup>&thinsp;<b>W</b></sup>. This should suffice to demonstrate my involvement.)
 
 ______\
-🔚 &nbsp;🌘 <b>Β</b>ytesHausMeister .. 2023-2026 ..
+🔚 &nbsp;🌘 <samp><b>Β</b>ytesHausMeister</samp> ..2023-2026..
