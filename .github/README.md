@@ -55,4 +55,4 @@ Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D &nbsp; &nbsp; &nbsp; Design&#01
 <picture><img src="../README+/_rsc/_img/_nav/IT_is_waterfall-ext.png" alt="&nbsp; ... then IT must be a waterfall" /></picture>
      </td>
 </table>
-🔚 ... if this navigation is baffling &rArr; start with <a href="../README+/pencraft/README+/essays/README.md"><b>&thinsp;E<samp>SSAYS</samp>&thinsp;</b></a> ... 🌔 2020-2025 ...
+🔚 ... if this navigation is baffling &rArr; start with <a href="../README+/pencraft/README+/essays/README.md"><b>&thinsp;E<samp>SSAYS</samp>&thinsp;</b></a> ... 🌘 2020-2026..
