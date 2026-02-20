@@ -29,11 +29,9 @@ The tools mostly utilized to stuff the repositories are:
 
 + **Paint.net**, dotPDN LLC®️,
 + **LibreOffice** (with its galleries),
-+ **Grammarly** (writing checker),
-+ Microsoft®️ **Office**,
++ **Grammarly** (spelling and grammar checker),
 + Microsoft®️ **Visual Studio** (Community version),
 + and **GitHub**.
 
-\_______
-
-:end: 2022-2025 <sub>If you have questions or demands, feel free to contact me through Git (e.g. pull request)....</sub>
+___________\
+🔚 2022-2026... <samp><b>B</b>yteshausmeister</samp> If you have questions or demands, feel free to contact me through Git (e.g. pull request)...
