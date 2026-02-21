@@ -1,15 +1,15 @@
-# Code &nbsp;&mdash;&nbsp; Patterns and Anti-patterns
+# Code first &thinsp;&mdash;&thinsp; Patterns and Anti-patterns
 
-The famed vision of code constructs as [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> has spread over software templates, project solutions, methodologies, and even developers' manners, but let's stay on its initial meaning - code organisation.
+The famed vision of code constructs as [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> has spread over software templates, project solutions, methodologies, and even developers' manners, but let's stay on its initial meaning &thinsp;&mdash;&thinsp; __code organisation__.
 
 > [!NOTE]
-> As the growth of hardware instruction sets pushed abstractions to the next level, clever programmers spotted useful code patterns to follow and recommend.
+> As the growth of hardware instruction sets lifted abstractions to the next level, clever programmers spotted useful code repeats to follow and recommend (beyond the vulgar copy-paste).
 > 
-> In the 1970s-1990s, they were augmented, systematized, and popularized &mdash; the most admitted of them became dogmatic and featured in languages/frameworks.
+> In the 1970s-1990s, these notes were augmented, systematized, and popularized &mdash; the most admitted of them became dogmatic and featured in languages/frameworks.
 
-A pattern or anti- may fit to a code line or embrass the whole application.
+A pattern or anti- one may fit to a code line or embrass the whole class.
 
-BIG BALL of Mud
+🚧 BIG BALL of Mud
 
 :construction: ... TO BE CONTINUED with samples ...:pencil2:
 
@@ -34,15 +34,15 @@ An unsuitable context may negate any pattern. Specimens?
 
 Custom/personal (nick)names for established patterns aren't a good way unless it's a breakthrough idea or a remarkable workaround.
 
-## Conclusion
+## Bottom line
 
-**Keen developers will intuitively follow design patterns even if they are unaware of them.** However, learning is essential to keep rational thinking, know the recent, and use proper names and signatures.
+**Keen developers will intuitively follow design patterns even if they are unaware of them.** However, learning is essential to keep rational thinking, know the recent, and use proper names with signatures.
 
-\___________\
+___________\
 **Going further:**\
 |- [**Patterns** thru **techniques**](https://github.com/BYTESHAUS/use-dev/tree/main/README+/techniques) ➡️ (_use-dev_)
 
 |- Design principles and methodologies\
 |--- 🚧 reviewed SOLID 🚧
 
-🔚 2025
+🔚 _<samp><b>BYTESHAUS</b></samp>meister_ 2025-2026...
