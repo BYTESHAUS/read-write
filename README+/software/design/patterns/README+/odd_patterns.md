@@ -1,4 +1,4 @@
-# Odd patterns
+# Code patterns for connoisseurs
 
 ## Behavioral
 
