@@ -1,4 +1,4 @@
-# Pencraft &nbsp;&mdash;&nbsp; <samp><i>T</i></samp>&thinsp;<sup>R</sup>&thinsp;<sub>I</sub>&thinsp;<sup>E</sup>&thinsp;<samp>S</samp><sub>✒️</sub>
+# Pencraft ↝ <samp><i>T</i></samp>&thinsp;<sup>R</sup>&thinsp;<sub>I</sub>&thinsp;<sup>E</sup>&thinsp;<samp>S</samp><sub>✒️</sub>
 
 <table>
   <tr align="center" valign="top">
