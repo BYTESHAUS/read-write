@@ -70,13 +70,13 @@ However, this answer is justified because of changed requirements to programmers
 &nbsp;
 
 <picture><img alt="&nbsp;&nbsp;Berlin, drahtlose Telephonie" src="../../../_rsc/_img/snap/media/1926.Simplicissimus-KarlArnold_drahtloseTelefonie.jpg" 
- title="&nbsp;Colored to highlight the devices (original: black&white)" /></picture>
+ title="&nbsp;Colored to highlight the hardware (original: black&white)" /></picture>
 <div dir="rtl">,<b><i>Berlin Drahtlose Telephonie</i></b> <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd> Berlin wireless telephony<br />
 <b><i>Bier Ausable zur Zeit Cafe Friedrich-Behrenstraße .&thinsp;.&thinsp;. gut &mdash; bon &mdash; gemacht &mdash; comme sofort</i></b><br />
 <i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &mdash; be there in a moment] <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd>
 </div><br />
 
-The caricature may look sloppy, but its author, Karl Arnold, had astonishingly escaped futuristic cringe: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
+The caricature may look sloppy, but its author, Karl Arnold, had astonishingly escaped futuristic cringe. Source: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
 
 </details>
 
@@ -152,6 +152,6 @@ flowchart TD
 
 ## **Volume&nbsp;II.** [**Inspirational quotes**](../quotes/README+/inspirational.md) 
 
-\___________\
-🔚 🌒 2024-2026 .. [Notes/disclaimer](../../../_rsc/README.md) about graphic resources<br />
-<sub>Image credits: [The Mystery of Chess Boxing](https://www.imdb.com/title/tt0199813/?ref_=nm_flmg_job_1_cdt_t_13)</sub>
+___________\
+🔚 🌒 2024-2026.. _**B**yteshausmeister_ <br />[Notes/disclaimer](../../../_rsc/README.md) about graphic resources<br />
+<sub>Image credits: [The Mystery of Chess Boxing](https://www.imdb.com/title/tt0199813/?ref_=nm_flmg_job_1_cdt_t_13)🎦</sub>
