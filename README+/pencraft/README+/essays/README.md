@@ -44,5 +44,4 @@
   </tr>
 </table>
 
-🔚 🌒 2024-2026 ... some more freestyle ➡️ [use-dev <mark><samp><b>TRIES</b></samp></mark>](https://github.com/BYTESHAUS/use-dev/blob/main/.github/README.md#highlights)\
-<sub><i>The product of imagination AS it IS.</i></sub>
+🔚 🌒 2024-2026 ... some more in ➡️ [use-dev <mark><samp><b>TRIES</b></samp></mark>](https://github.com/BYTESHAUS/use-dev/blob/main/.github/README.md#highlights)
