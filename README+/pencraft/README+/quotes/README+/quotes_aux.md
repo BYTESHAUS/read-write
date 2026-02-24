@@ -35,5 +35,5 @@ _**Kritik der praktischen Vernunft, 1788**_<sub>
 > **You can't see the semantic wood for the syntactic trees.**\
 > [Christopher Strachey](contributors/README.md#christopher-strachey)
 
-\___________\
-🚧... TO be CONTINUED ... 🖋️ ..2025
+___________\
+2025-2026.. 🚧 TO be CONTINUED ... 🖋️ ..
