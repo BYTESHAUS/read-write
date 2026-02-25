@@ -1,7 +1,7 @@
 # IT Quotes &nbsp;&mdash;&nbsp; Misinterpreted, misattributed and disputed
 
-<p dir="rtl"><mark>I never said even one-tenth of<br/>
-.the garbage they will post as mine</mark><br/>
+<p dir="rtl"><mark>I couldn't contribute even a tithe of the garbage<br/>
+.they will post as my quotes</mark><br/>
 .<i>M.Twain</i>, <i>M.K.Ghandi</i>, <i>A.Einstein</i>, and <i><b>Anonymous</b></i></p>
 
 ## Intro
