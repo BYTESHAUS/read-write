@@ -2,6 +2,10 @@
 
 > ### Parts of <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> syntax, its certain features, libraries, and frameworks are <ins>preferable</ins> in development but often remain <ins>unrevealed</ins>.
 
+## ABOVE ALL FIRST AND FOREMOST [BADGE] BIZ SYNTAX for DDD
+
+### SYNTAX and PERFORMANCE ALLOWS but CODE STILL LOOKS LIKE ASSEMBLER
+
 ## Freshly released
 
 `C#` evolves swiftly with a regular release pace, but not every developer is an early adopter, and not every team is eager to update the breadwinning environment.
