@@ -126,30 +126,6 @@ Leaving the default value for non-nullable values is bug-friendly, and nullable 
 ```
 </details>
 
-<details><summary><ins>&nbsp;Benchmark/profile with&nbsp;</ins><code>using</code></summary>
-&nbsp;
-
-```csharp
-using (var benchmark = new Benchmark()) {
-    // benchmarked flow here
-}
-
-class Benchmark : IDisposable
-{
-   string _caller;
-
-   public Benchmark([CallerMemberName] string caller = "<undefined>") {
-      _caller = caller;
-      // Start logging/profiling
-   }    
-
-   public void Dispose() {
-      // stop logging/profiling
-   }
-}
-```
-</details>
-
 <details><summary><ins>&nbsp;"Limit toggles" to protect runtime attributes</code></summary>
 &nbsp;
 
@@ -192,6 +168,41 @@ void Interpolate(PixelArea area, out ResourceException? exception);
 bool TryParse(string raw, out ThisProjectException? exception); 
 bool TryParse(string raw, out FormatException? exception, out ThisProjectException? exception); 
 ```
+
+</details>
+
+### More `using`
+
+<details><summary><ins>&nbsp;Benchmark&nbsp;</ins><code>using</code></summary>
+&nbsp;
+
+```csharp
+using (var benchmark = new Benchmark()) {
+    // benchmarked flow here
+}
+
+class Benchmark : IDisposable
+{
+   string _caller;
+
+   public Benchmark([CallerMemberName] string caller = "<undefined>") {
+      _caller = caller;
+      // Start logging/profiling
+   }    
+
+   public void Dispose() {
+      // stop logging/profiling
+   }
+}
+```
+</details>
+
+<details><summary><ins>&nbsp;Make ends meet&nbsp;</ins><code>using</code></summary>
+&nbsp;
+
+"Historical" routines, like persistence or services, often present procedural flows with opening&thinsp;/&thinsp;closing statements: e.g., `.BeginEdit()`&thinsp;/&thinsp;`.EndEdit()`, `.OpenConnection()`&thinsp;/&thinsp;`.CloseConnection()`.
+
+Wrapping them with `IDisposable` object (no need for obvious snippet) not only provides readability but prevent bugs (forgetting to "end").
 
 </details>
 
