@@ -1,4 +1,4 @@
-# Design &nbsp;&mdash;&nbsp; Model &nbsp;&mdash;&nbsp; S<samp>AMPLES</samp><sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub>
+# Design &nbsp;&larr;&nbsp; Model &thinsp;&rarr;&thinsp; S<samp>AMPLES</samp> &nbsp; <sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub>
 
 The planning and presentation of general-purpose software features require a pictorial and encouraging [modelling](../parts/README+/app-model.md) playground. We'll often rely on the next samples:
 
@@ -109,4 +109,4 @@ and mix them (e.g., async undo-redo,  or multi-culture as units).
 </td></tr></table>
 
 ___________\
-🔚 🌕 2023-2026 ..
+🔚 🌕 <samp>**B**yteshausmeister</samp> 2023-2026 ..
