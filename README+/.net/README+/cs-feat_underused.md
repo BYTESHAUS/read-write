@@ -1,4 +1,4 @@
-# `C#` &thinsp;&mdash;&thinsp; Good sides &thinsp;&mdash;&thinsp; <mark>&thinsp;Underused&thinsp;</mark>
+# `C#` &thinsp;&larr;&thinsp; _Good sides_ &thinsp;&rarr;&thinsp; <mark>&thinsp;Underused&thinsp;</mark>
 
 > ### Parts of <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> syntax, its certain features, libraries, and frameworks are <ins>preferable</ins> in development but often remain <ins>unrevealed</ins>.
 
