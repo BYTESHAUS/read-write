@@ -2,7 +2,9 @@
 
 > ### Parts of <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> syntax, its certain features, libraries, and frameworks are <ins>preferable</ins> in development but often remain <ins>unrevealed</ins>.
 
-## ABOVE ALL FIRST AND FOREMOST [BADGE] BIZ SYNTAX for DDD
+## Above all and foremost: unclaimed language descriptiveness 
+
+**`C#`** allows the creation of language constructs close to requirements specifications instead of obfuscating instructions.
 
 ### SYNTAX and PERFORMANCE ALLOWS but CODE STILL LOOKS LIKE ASSEMBLER
 
