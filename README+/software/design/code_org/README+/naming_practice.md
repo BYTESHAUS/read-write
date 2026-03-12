@@ -1,8 +1,8 @@
-# Naming &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Practice
+# Naming &nbsp;&mdash;&nbsp; Practice
 
 ## Rules of thumb
 
-* The higher the level of naming, the more attention.
+* The higher the level of naming &larr; the more attention.
 * Name, apply, get feedback, refactor.
 * At least two people with different backgrounds must confirm the top names.
 * Avoid top names known in neighboring domains but with another meaning.\
@@ -71,5 +71,5 @@ Some guidelines can be derived:
 
 // ToDescribe:
 
-\___________\
-🔚 2023-2025
+___________\
+🔚 2023-2026..
