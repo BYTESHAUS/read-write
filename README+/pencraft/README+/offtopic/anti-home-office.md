@@ -20,8 +20,8 @@
 
 ## Nature
 
-<span><img alt="&nbsp;&nbsp;&nbsp;image not foundt" src="../../../_rsc/_img/photo/blog/aqua/Brombachsee-eBucht-pier.jpg" width="300" title="&nbsp;Großer Brombachsee, &#010;Mittelfranken, Germany" /></span>
-<span><img alt="&nbsp;&nbsp;&nbsp;image not foundt" src="../../../_rsc/_img/photo/blog/aqua/Brombachsee-dam.jpg" width="300" title="&nbsp;Großer Brombachsee, dam" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Brombachsee-eBucht-pier.jpg" width="300" title="&nbsp;Großer Brombachsee, &#010;Mittelfranken, Germany" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Brombachsee-dam.jpg" width="300" title="&nbsp;Großer Brombachsee, dam" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/mount/Ochsenkopf_July.jpg" width="300" title="&nbsp;Slopes of Mt. Ochsenopf, &#010;Fichtelgebirge, 1'024m" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Sea_balcony.jpg" width="300" title="&nbsp;Vlore, Albania" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Karaburun.jpg" width="300" title="&nbsp;Ionic" /></span>
@@ -32,6 +32,7 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Main-Donau_highPt.jpg" width="300" title="&nbsp;Main-Danube Canal" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Nord-Ostsee-Kanal_Rendsburg-High-Bridge.jpg" width="300" title="&nbsp; &nbsp;Nord-Ostsee-Kanal&#013;&#010;Rendsburg High Bridge" /></span>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/aqua/Kiel-BalticInlet.jpg" width="300" title="&nbsp; Kieler Förde" /></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/mount/docu_3K_January.jpg" width="300" title="&nbsp; Bad conditions for notebooks сan't serve an excuse." /></span>
 
 ## Public spots
 
@@ -54,4 +55,4 @@
 &nbsp; &nbsp; <sup>🚝</sup> <samp>These photos are for entertainment only and in no way promote Deutsche Bahn.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sup>⚠️ You may miss important meetings or connections because of regular delays and cancellations of this service!</sup></p>
 &nbsp; &nbsp; <sup>🐈‍⬛</sup> <samp>_German_ "for cat" &mdash; idiomatically "for nothing"</samp>
-<div align="right">🔚 ... All snapshots are personal and genuine .. 🌘 <b>Β</b>ytesHausMeister .. 2000-2026 ...</div>
+<div align="right">🔚 <samp>All snapshots are personal and genuine .. 🌘 <b>Β</b>ytesHausMeister ..2000-2026..</samp></div>
