@@ -8,8 +8,6 @@
 
 </td></tr></table>
 
-with their derivatives as audio and video) 
-
 The principled distinction is __*driven*__ vs __*drives*__:
 
 * <mark>**Documentation**</mark> is **on-demand**/request derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
@@ -33,11 +31,11 @@ Regardless of the mission, significant writing and good illustration are **expen
 (consider quickly sketched presentation, captured video tutorial, or even watercooler talks)\
 &nbsp; &nbsp;✅&thinsp;be **long-term** (corrected, updated, and evolved).
 
-## Vital side effects / Windfall
+## Windfall (vital side effects)
 
 <table><tr><td><picture><img alt="&nbsp;Mango fruit" src="../_rsc/_img/photo/nat/mango/red_on_transparent-oil-500px.png" width="200px"/></picture></td><td>
 
-Documenting/sketching ideas for even small features mitigates **the impedance between the stretch of imagination and the reality of implementation.**
+Documenting/sketching ideas for even small features **mitigates the impedance** between the stretch of <ins>imagination</ins> and the reality of <ins>implementation</ins>.
 
 Namely, formalization and structuring compel us to reexamine and refine concepts, enhance the positive aspects, rectify the negative, and discard unrealistic or meaningless features. 
   
@@ -61,5 +59,5 @@ Namely, formalization and structuring compel us to reexamine and refine concepts
 </td><td><picture><img alt="&nbsp; Grammarly awards" src="../_rsc/_img/illus/docu/GrammarlyAwards.jpg" title="&nbsp; My awards" /></picture></td>
 </tr></table>
 
-\___________\
+___________\
 🔚 🌘 2023-2026.. <b>Β</b>ytesHausMeister &rArr; 📂[README+](README+)
