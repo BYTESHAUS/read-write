@@ -1,6 +1,6 @@
-# Software &nbsp;&mdash;&nbsp; Prog<samp>[</samp><sup>rammed</sup>/<sub>rammatic</sub><samp>]</samp> Tests
+<h1 align="center">Software &thinsp;&mdash;&thinsp; Prog<samp>[</samp><sup>rammed</sup>/<sub>rammatic</sub><samp>]</samp> Tests</h1>
 
-<table><tr valign="top"><td><picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/tests/test_fw-emblems(blur).jpg" /></picture>
+<table><tr valign="top"><td><picture><img alt="&nbsp;LOGO" src="../../_rsc/_img/LOGO_PROG_TESTS_PENDING.jpg" /></picture>
 </td><td>
   
 ### Coded tests, as a discipline and an idea<sup>💡</sup>, appeared together with high-level languages.
@@ -12,6 +12,8 @@
 
 <div dir="rtl"><sub>.The <b>idea</b> of writing procedures with the single objective to examine another code</sub><sup>💡</sup></div>
 <div dir="rtl"><sub>Some algorithms or particular artifacts can be hardly testable or be fruitless. Or only personal evaluation</sub><sup>💫</sup></div>
+</td><td>
+  <picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/tests/test_fw-emblems(blur).jpg" /></picture>
 </td></tr></table>
 
 > [!IMPORTANT]  
@@ -29,7 +31,7 @@
 Tests can be written in the same or another programming language than their subjects. Even without a framework. &nbsp;&mdash;&nbsp; 
 Bare parametrized calls of core functions and properties followed by a log/error for unexpected results.
 
-<p align="center"><b>We've uncorked a very vast theme and its further discussions can't avoid this <mark>principal</mark> branching:</b></p>
+<p align="center"><b>We've uncorked a very vast theme, and its further discussions can't avoid this <mark>principal</mark> branching:</b></p>
 
 <table align="center"><tr><td>
   <div align="center"><b>TESTS<br><mark>&thinsp;f&thinsp;o&thinsp;r&thinsp;</mark></b>
@@ -40,5 +42,5 @@ Bare parametrized calls of core functions and properties followed by a log/error
     D&thinsp;R&thinsp;I&thinsp;V&thinsp;E</samp>&nbsp;</ins></b></a></h3></div>
 </td></tr></table>
 
-\___________\
-:end: ... 🌘 2024-2025 ... (image credits: emblems of miscellaneous free test frameworks)
+___________\
+🔚 🌘 2024-2026.. (image credits: emblems of miscellaneous free test frameworks)
