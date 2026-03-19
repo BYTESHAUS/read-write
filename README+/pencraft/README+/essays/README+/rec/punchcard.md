@@ -14,18 +14,18 @@ Long after their decline, punching technology and its carton carrier survived as
                         
 ## The Task
       
-It was an exercise in PL/I&nbsp;<sup>🔢</sup> &thinsp;&mdash;&thinsp; output a curve of an assigned function (a variant of $`ax^2 + bx + c`$ was mine). And the <i>output</i> meant <b>direct to the line printer</b> using teletype symbols for <samp>X/Y</samp> axes and the graph.
+It was an exercise in PL/I&thinsp;<sup>🔢</sup> &thinsp;&mdash;&thinsp; output a curve of an assigned function (a variant of $`ax^2 + bx + c`$ was mine). And the <i>output</i> meant <b>direct to the line printer</b> using teletype symbols for <samp>X/Y</samp> axes and the graph.
 
 Believe it or not, this story had no electronic display.
 
 &nbsp; <sup>🔢</sup>&nbsp;<samp>IBM's procedural <a href="https://en.wikipedia.org/wiki/PL/I">Programming Language One</a><sup><b>w</b></sup><br />
 &nbsp; &nbsp;(<code><b>PL/1</b>, <b>DB2</b>, <b>OS/2</b>, <b>Type-III</b>, <b>BS12</b>,</code> ... this Blue Giant was the lord of imagination and naming.)</samp>
 <br />
-&nbsp; <sup>:cinema:</sup> <samp>Fun fact: traces of PL/1 appear in the epic <a href="https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago">2001: A Space Odyssey</a>.</samp>
+&nbsp; <sup>:cinema:</sup> <samp>Curious fact: traces of PL/1 appear in the epic <a href="https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago">2001: A Space Odyssey</a>.</samp>
 
 ## Carton in, paper out
 
-The moves the task took were hardly agile even back in the day:
+The moves the task took were hardly agile, even back in the day:
 
 &nbsp; <b>1️)</b> Come up with a _programme_ and sketch it in the dedicated notebook (the paper one).<br />
 &nbsp; <b>2️)</b> Fill in a lined paper form with procedural statements.<sup><mark>&thinsp;🥪&thinsp;<mark></sup><br />
@@ -52,18 +52,18 @@ Between **(4)** and **(5)**, a fellow disciple intruded, shuffling my deck unnot
 <h1 align="right">Extramural afterword</h1>
 
 __This mediocre story is also a chance to remind the reader of the outstanding traits of this medium__, &thinsp;&mdash;&thinsp;  despite its fast decadence, predetermined by data density 
-(it could become neither mini/micro nor double-sided next).
+(It couldn't evolve to double-sided and then mini/micro).
 
-I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. And that's why:
+I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. Just count:
 
 + The production is as easy as for papier-mâché. Neither rare minerals nor precious elements are involved.
 + The cards will be intact for millennia in harsh environments.\
-Any mechanical action, dirt, temperature, or humidity that can damage them will irreparably sweep other media.  A cheap safe box will rescue them from direct fire and chemical agents.
+Any mechanical action, dirt, temperature, or humidity that can damage them will irreparably sweep other media.  And a low-end safe box will rescue them from direct fire and chemical agents.
 + Electromagnetic emission in the whole spectrum can't bring even a tiny data loss.\
 It's not about household magnets, short circuits, and solar flares. Punch cards will survive nuclear disasters and [gamma-ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)<sup><b>w</b></sup>.
 + They have a look&feel of data storage, easy to read<sup>🪢</sup> manually or with DIY device.
 + Eco-friendly and highly utilizable. 
-Even if the data remains unclaimed or safely copied, our heirs or other species may use the cards as our ancestors did: bookmarks, pads, or fans.
+Even if the data remains unclaimed, our heirs or other species may use the cards as our ancestors did: bookmarks, pads, or fans.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>📚</sup> <samp>As it happened with the Writing in centuries before Homer (Bronze Age collapse).</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🚀</sup> <samp>A deck of punchcards could make a better impression than naive [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque) 
