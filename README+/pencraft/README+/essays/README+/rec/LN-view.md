@@ -1,5 +1,3 @@
-<h1 align="center">Lotus Notes: "<i>This used to be my playground</i>"</h1>
-
 <table><tr><td>
 
 #### `Lotus Notes` (henceforth also `LN`), the multiplatform groupware, was first released at the turn of 1991. 
@@ -11,12 +9,13 @@ Joining the best of computer sciences from the 1980s with _laissez-faire_ IT in 
 </td><td>
 
 Those who programmed and administered will reminisce about genuine Rapid Application Development with fluent installation/evaluation<sup>🙋</sup> and leading-edge editors.
-
-As a developer of Line-of-Business and corporate applications on Lotus Notes for over a decade<sup><mark>#</mark></sup>, I&nbsp;must have deserved the privilege of personal (Lotus) notes.
+<div align="right"><sup>🙋</sup> <samp>I can't feature a newbie installing SharePoint on a notebook and writing the first useful application within a week.</samp></div>
 
 </td></tr></table>
-<div align="right"><sup>🙋</sup> <samp>I can't feature a newbie installing SharePoint on a notebook and writing the first useful application within a week.</samp></div>
-<div align="right"><sup><mark>#</mark></sup> <samp>Before I cast my lot with <a href="../../../../../.net">C#.NET</a>.</samp></div>
+
+As a developer of Line-of-Business and corporate applications on Lotus Notes for over a decade (<samp>Before I cast my lot with <a href="../../../../../.net">C#.NET</a>.</samp>), I&nbsp;must have deserved the privilege of personal (Lotus) notes.
+
+<h1 align="center">Lotus Notes: "<i>This used to be my playground</i>"</h1>
 
 ### IBM PC users remember (or not) that it was a time and a <b>word</b> &thinsp;&mdash;&thinsp; not Microsoft's one or WordPerfect, but <br />«<mark>&thinsp;L<samp>&thinsp;O&thinsp;T&thinsp;U&thinsp;S&thinsp;</samp></mark>» &thinsp;&mdash;&thinsp; a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
