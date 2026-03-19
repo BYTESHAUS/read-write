@@ -13,11 +13,13 @@ Those who programmed and administered will reminisce about genuine Rapid Applica
 
 </td></tr></table>
 
-As a developer of Line-of-Business and corporate applications on Lotus Notes for over a decade (<samp>Before I cast my lot with <a href="../../../../../.net">C#.NET</a>.</samp>), I&nbsp;must have deserved the privilege of personal (Lotus) notes.
+<h1 align="center">"<i>This used to be my playground</i>"</h1>
 
-<h1 align="center">Lotus Notes: "<i>This used to be my playground</i>"</h1>
+<div align="center">As a developer of Line-of-Business and corporate applications on Lotus Notes for over a decade (<samp>before I cast my lot with <a href="../../../../../.net">C#.NET</a>.</samp>),
+<br/>
+I must have deserved the privilege of personal<br /><b><i>LOTUS</i> NOTES</b>.</div>
 
-### IBM PC users remember (or not) that it was a time and a <b>word</b> &thinsp;&mdash;&thinsp; not Microsoft's one or WordPerfect, but <br />«<mark>&thinsp;L<samp>&thinsp;O&thinsp;T&thinsp;U&thinsp;S&thinsp;</samp></mark>» &thinsp;&mdash;&thinsp; a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
+### IBM PC users remember (or not) that it was a time and a <b>word</b> &thinsp;&mdash;&thinsp; neither Microsoft's one nor WordPerfect, but <br />«<mark>&thinsp;L<samp>&thinsp;O&thinsp;T&thinsp;U&thinsp;S&thinsp;</samp></mark>» &thinsp;&mdash;&thinsp; a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
 <table><tr><td width="30%"><picture><img alt="&nbsp; Lotus Notes R8 workspace"
   src="../../../../../_rsc/_img/af/LN/LN-WS_snapshot(computerwoche.de).jpg" title="Screenshot of casual Lotus Notes R8 workspace&#013;&#010;(source: computerwoche.de)" /></picture>
@@ -25,12 +27,14 @@ As a developer of Line-of-Business and corporate applications on Lotus Notes for
 
 **LN** paved the public road to diverse innovations: client-server, multirole/group access, distributed/synchronized doc-oriented DB<sup>📜</sup>, **replication**<sup>⭐</sup>, asymmetric encryption from authorization down to selected fields on demand &thinsp;&mdash;&thinsp; to name a few hallmarks.
 
-**LN** wasn't deprived of drawbacks; there were alternative suites (including legacy and tailor-made), but this aquatic flower dominated the market garden ... until Microsoft began to win large chunks of the office software market.
-  
+**LN** wasn't deprived of drawbacks; there were alternative suites (including legacy and tailor-made), but this aquatic flower dominated the market garden ... until Microsoft began to win large chunks of the office software market.\
+___________\
+&nbsp; <sup>📜</sup> <samp>Long before NoSQL became mainstream.</samp>\
+&nbsp; <sup>⭐</sup> <samp>Emphasized for superior ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed us to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</samp>
 </td></tr></table>
 
 * In **1995**, <sub><sub>[![IBM Badge](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)](#)</sub></sub> gained Lotus in full<sup>💰</sup>.\
-It was a big chance not only to gain from sales and internal installations but also to reform leastways _Notes_ by leaning on the influence and technological capital of Big Blue.\
+It was a big chance not only to gain from sales and internal installations but also to reform leastways _Notes_ by leaning on the influence and technological capital of the _Big Blue_.\
 However, mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦</sup>
 
 * In **2001**, <sub><sub>[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)</sub></sub> released its "bird of a feather" &thinsp;<samp>&mdash;</samp>&thinsp; **SharePoint** &thinsp;<samp>&mdash;</samp>&thinsp; much more sophisticated and bulkier but promoting the next generation of a product and API.\
@@ -39,9 +43,7 @@ SharePoint was deprived of many inherent vices of the Lotus trailblazer and grad
 * In **2018**, the sell-out of Domino/Notes and granting the office's source code to freeware pushed **_LN_** out to IT margins.
 
 ___________\
-&nbsp; &nbsp; <sup>📜</sup> <samp>Long before NoSQL became mainstream.</samp>\
-&nbsp; &nbsp; <sup>⭐</sup> <samp>Emphasized for superior ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed us to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</samp>\
-&nbsp; &nbsp; <sup>💰</sup> <samp>For a $3.5 billion &mdash; pretty good deal, especially before IT procurements had skyrocketed in the 2000s.</samp>\
+&nbsp; &nbsp; <sup>💰</sup> <samp>For a $3.5 billion &mdash; pretty good deal ahead of skyrocketing procurements of the 2000s.</samp>\
 &nbsp; &nbsp; <sup>🍦</sup> <samp>It's not a top secret that IBM's cold shoulder urged many top Lotus contributors to leave.</samp>
 
 <h2 align="center">Epilogue. Alternate history</h2>
