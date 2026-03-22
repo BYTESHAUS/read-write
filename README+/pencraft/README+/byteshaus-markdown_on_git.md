@@ -4,11 +4,11 @@
 
 <sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use with plenty of guides and cheat sheets for advanced techniques.
 
-Despite building it in and assigning it the role of primary documentation, <sub>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)</sub> alone doesn't render its site in markdown or a flavor. (This markup and its dialects were never designed to provide rich content.)
+Despite building it in and assigning it the role of primary documentation, <sub>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)</sub> itself doesn't render its site in markdown or a flavor. This markup and its dialects were never designed to provide rich content.
 
 <table align="center"><tr></tr><tr><td>
     
-#### Some <mark>markdown</mark> beyond a moderately formatted text? Here is my ounce of teaching illustrated by this repository.
+<h4 align="center"><samp>NEVERTHELESS</samp> you need <mark>markdown</mark> beyond a moderately formatted text?<br />Here is my ounce of teaching illustrated by this repository.</h4>
 
 </td></tr></table>
 
