@@ -73,7 +73,7 @@ Now veneer the frustration/anxiety facet with <ins>**rhetorical**</ins> _vs._ <i
    <td>How smart leads <b>pass between</b> augmenting kludges and "conceptualism" utopia❔</td>
 </tr></table>
 
-#### And the answer to many <mark>WHY</mark> isn't always or principally a bad design state or lack of resources.
+<h3 align="center">And the answer to many <mark>WHYs</mark> isn't always or principally a bad design state or lack of resources.</h3>
 
 <table><tr><td><picture><img alt="&nbsp;sitting on ice" src="../../../../_rsc/_img/symbols/extinct_species.png"/></picture></td><td>
   
