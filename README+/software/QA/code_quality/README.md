@@ -13,23 +13,23 @@
 MERMAID MERMAID <ER<AID
 
 <div dir="rtl">,<b>Junior</b> developers write poor code<br/>
-,those who <b>advance</b> &thinsp;&mdash;&thinsp; good code<br/>
+,those who <b>advance</b> &ndash; good code<br/>
 ,<b>experts</b> avoid to write code<br/>
 <ins>,<b>gurus</b> only delete code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </ins></div>
-<p dir="rtl">(.and &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</p>
+<p dir="rtl">(.and the &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</p>
 
-# <sub>`Code `<mark><code>quality</code></mark> &#8663;</sub> Q<samp>UALITY</samp> C<samp>ODE</samp>
+# <sub>`Code `<mark><code>quality</code></mark> &#8663;</sub> HIGH Q<samp>UALITY</samp> C<samp>ODE</samp> <sub>is</sub> ...
 
-### High-quality code is <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> 👓reviewed&tested🧪, rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...) and also:
+### &nbsp; <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> <br />&nbsp; &nbsp; 👓reviewed&thinsp;_&_&thinsp;tested🧪, <br />&nbsp; &nbsp; &nbsp; 🐘rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), <br />&nbsp; &nbsp; &nbsp; &nbsp; 🥼follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...), <br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and also: 
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] **teaches** techniques and gimmicks,
 + [x] **inspires** to contribute (rather than to re-write/refactor).
 
 <div align="right"><sup>↔️</sup> <samp>An onboarding developer can learn the domain from code, while a domain expert will grasp the implemented application logic.
-<br />Sure, both assisted and with documentation.</samp></div>
+<br />(Sure, both assisted and with documentation.)</samp></div>
 
-## Is it not `clean code`?
+## Isn't it just `clean code`?
 
 **Does quality clean code?** Tentative yes. For example, bug-adverse boilerplate suggested here decreases clarity.
 
