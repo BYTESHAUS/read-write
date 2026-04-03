@@ -6,25 +6,24 @@
 <a href="../../../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper">PhD.&nbsp;Grace Hopper</a>, grandmother of <samp>COBOL</samp>, who reported the first <b>debugging</b>, at UNIVAC&nbsp;<b>I</b>, ~1960
 </td><td>
 
+Bugs range from highly abstract logical design drawbacks down to wrong bit operations.
 
+Hardware fails aren't software bugs, even if they mimic programmatic fails or open software vulnerabilities as _Meltdown_<sup>&thinsp;<a href="https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)" title="&nbsp; One of the original transient execution &#010;&nbsp;CPU vulnerabilities (also Spectre)">**W**</a></sup>.
 
-Bugs can range from highly abstract logical design drawbacks down to false bit settings
-
-HARDWARE bugs can mimic to software isn't (the case of "Amazing Grace" which coined the term wasn't software).  MELTDOWN
-
-&nbsp; &nbsp; ⚪ This behavior may be exactly specified or implied.\
 &nbsp; &nbsp; 🪲 Bugs must not definitely cause negative effects &ndash; they can be all of a sudden useful and propose features.\
 &nbsp; &nbsp; 🔬 Viruses and malware are **not** bugs. As well as missing features or bad UX.\
 &nbsp; &nbsp; ➿ Not only code but hardware vulnerabilities may cause bugs. Remember [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> when a software patch wasn't enough.\
 &nbsp; &nbsp; 🔎 Bugs can be permanent and sporadic, easy reproducible and not.\
 &nbsp; &nbsp; 🍴 Vulnerability to external errors and attacks is buggy but not a bug: SQL injection, DDoS, user input of nonsense values, ...\
 &nbsp; &nbsp; <ins>&thinsp;Bugs are historically "physical" (Grace) &mdash; and are not DESIGN ERRORS, FALSE SPECS.&thinsp;</ins>
-
-Let's assume the samely short word &thinsp;<mark><samp>&thinsp;<b>F&thinsp;I&thinsp;X</b>&thinsp;</samp></mark>&thinsp; for attempts to handle the **found** bugs. FROM GO WITH to ELIMITANE
   
 </td></tr></table>
 
+> ### Let's assume the samely short &thinsp;<mark><samp>&thinsp;<b>F&thinsp;I&thinsp;X</b>&thinsp;</samp></mark>&thinsp; for attempts to handle the **found** bugs.<br />(They can be succeful or not, complete or cancelled.)
+
 🚧 🚧 🚧 ... PLACEHOLDER to CONTINUE the TOPIC ... 🚧 🚧 🚧
+
+LINK TO NULL POINTER
 
 \___________\
 🔚 ..2024-2026.. (image credits: Unknown author &ndash; Flickr: Grace Hopper and UNIVAC, Freepik.com - the bug)
