@@ -18,12 +18,12 @@ MERMAID MERMAID <ER<AID
 <ins>,<b>gurus</b> only delete code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </ins></div>
 <p dir="rtl">(.and the &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</p>
 
-# <sub>`Code `<mark><code>quality</code></mark> &#8663;</sub> HIGH Q<samp>UALITY</samp> C<samp>ODE</samp> <sub>is</sub> ...
+<h1 align="center"><sub><code>Code&nbsp;</code><mark><code>quality</code></mark></sub><br />&#8659;<br />HIGH Q<samp>UALITY</samp> C<samp>ODE</samp></h3>
 
-### &nbsp; <sub>🪳</sub>bug-unfriendly<sub>⛔</sub> <br />&nbsp; &nbsp; 👓reviewed&thinsp;_&_&thinsp;tested🧪, <br />&nbsp; &nbsp; &nbsp; 🐘rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), <br />&nbsp; &nbsp; &nbsp; &nbsp; 🥼follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...), <br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and also: 
+### &nbsp; 👓reviewed&thinsp;_&_&thinsp;tested🧪,<br />&nbsp; &nbsp;  &nbsp; <sub>🪳</sub>bug-unfriendly<sub>⛔</sub>, <br /> &nbsp; &nbsp; &nbsp; &nbsp; 🐘rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 🥼follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...), <br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; and also: 
 
 + [x] **reads** in both directions<sup>↔️</sup>,
-+ [x] **teaches** techniques and gimmicks,
++ [x] accumulates and **teaches** techniques and gimmicks,
 + [x] **inspires** to contribute (rather than to re-write/refactor).
 
 <div align="right"><sup>↔️</sup> <samp>An onboarding developer can learn the domain from code, while a domain expert will grasp the implemented application logic.
@@ -31,7 +31,9 @@ MERMAID MERMAID <ER<AID
 
 ## Isn't it just `clean code`?
 
-**Does quality clean code?** Tentative yes. For example, bug-adverse boilerplate suggested here decreases clarity.
+### Does quality clean code?
+
+Tentative yes. For example, bug-adverse boilerplate suggested here decreases clarity.
 
 CAN BEAUTIFY, CAN SPOIL
 
@@ -120,7 +122,7 @@ Besides "classical" over-creativity and procrastination, the trivial reasons cou
 
 But the highest barrier lies in what can be described in this key IT quote:
 
-> [«Simplicity does not precede complexity but follows it.»](../../../pencraft/README+/quotes/README+/cornerstones.md#complex2simple) ...
+> [«**Simplicity does not precede complexity but follows it.**»](../../../pencraft/README+/quotes/README+/cornerstones.md#complex2simple) ...
 
 Many can build complex abstractions around tasks. Fewer have a vision for the next step &thinsp;&mdash;&thinsp; simplify.
 
