@@ -6,16 +6,15 @@
 <a href="../../../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper">PhD.&nbsp;Grace Hopper</a>, grandmother of <samp>COBOL</samp>, who reported the first <b>debugging</b>, at UNIVAC&nbsp;<b>I</b>, ~1960
 </td><td>
 
-Bugs range from highly abstract logical design drawbacks down to wrong bit operations.
+**Software bugs range from highly abstract logical modelling errors down to wrong bit operations, but they can't be attributed to hardware fails.**\
+Even if the latter mimic programmatic fails or open software vulnerabilities as _Meltdown_<sup>&thinsp;<a href="https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)" title="&nbsp; &nbsp;One of the original transient execution &#010;CPU vulnerabilities (along with Spectre).">**W**</a></sup>. Regardless the hardware origin of the _debugging_ term.
 
-Hardware fails aren't software bugs, even if they mimic programmatic fails or open software vulnerabilities as _Meltdown_<sup>&thinsp;<a href="https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)" title="&nbsp; One of the original transient execution &#010;&nbsp;CPU vulnerabilities (also Spectre)">**W**</a></sup>.
-
-&nbsp; &nbsp; 🪲 Bugs must not definitely cause negative effects &ndash; they can be all of a sudden useful and propose features.\
+&nbsp; &nbsp; 🪲 Bugs may range from ignorable triffles to severe crashes or production blocking.\
+&nbsp; &nbsp; 🪲 Design misconceptions are **not** bugs.\
+&nbsp; &nbsp; 🪲 Bugs must not definitely cause negative effects &ndash; they can be all of a sudden handy and propose workarounds and features.\
 &nbsp; &nbsp; 🔬 Viruses and malware are **not** bugs. As well as missing features or bad UX.\
-&nbsp; &nbsp; ➿ Not only code but hardware vulnerabilities may cause bugs. Remember [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> when a software patch wasn't enough.\
-&nbsp; &nbsp; 🔎 Bugs can be permanent and sporadic, easy reproducible and not.\
-&nbsp; &nbsp; 🍴 Vulnerability to external errors and attacks is buggy but not a bug: SQL injection, DDoS, user input of nonsense values, ...\
-&nbsp; &nbsp; <ins>&thinsp;Bugs are historically "physical" (Grace) &mdash; and are not DESIGN ERRORS, FALSE SPECS.&thinsp;</ins>
+&nbsp; &nbsp; 🔎 Bugs can be permanent and sporadic, easy reproducible and erratic.\
+&nbsp; &nbsp; 🍴 Vulnerability to external errors and attacks is buggy but not a bug: SQL injection, DDoS, user input of nonsense values, ...
   
 </td></tr></table>
 
@@ -25,5 +24,5 @@ Hardware fails aren't software bugs, even if they mimic programmatic fails or op
 
 LINK TO NULL POINTER
 
-\___________\
+___________\
 🔚 ..2024-2026.. (image credits: Unknown author &ndash; Flickr: Grace Hopper and UNIVAC, Freepik.com - the bug)
