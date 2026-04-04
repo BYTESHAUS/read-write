@@ -2,7 +2,7 @@
 
 ## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e&nbsp; m&thinsp;e&nbsp; t&thinsp;o &thinsp;.&thinsp;.&thinsp;.
 
-<details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; <b>write and document</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; <b>WRITE and DOCUMENT</b>&nbsp;</ins></summary>&nbsp;
 
 > **Epistula non erubescit**\
 ― _Marcus Tullius Cicero (106-43 BC)_\
@@ -29,7 +29,7 @@
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>&thinsp;.&thinsp;.&thinsp;.&thinsp; procrastinate</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>&thinsp;.&thinsp;.&thinsp;.&thinsp; PROCRASTINATE</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Leonardo da Vinci (1452-1519)" src="../../../../_rsc/_img/art/OldMasters/Leo(1452-1519)-portrait-found_2008_nearNaples.jpg" /></picture><br />
@@ -65,7 +65,7 @@ Coming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki/
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; perfect</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; PERFECT</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Perfectionism brought to to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;Collage: best works of modern perfectionism" src="../../../../_rsc/_img/memes/collage-modern_perfectionism.jpg" title="&nbsp;... the best of design" /></picture><br />
@@ -102,7 +102,7 @@ Not only does the East grant us profound and eloquent teaching! Whatever Mr. Kip
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; to take a break</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; to TAKE a BREAK</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img src="../../../../_rsc/_img/photo/misc/Twitter-FTX_SamFried.jpg" alt="&nbsp;nap in FTX office" /></picture><br />
@@ -196,7 +196,7 @@ Should we defy the fundamentals of Western philosophy ...
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; interpret errors right...</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; INTERPRET ERRORS RIGHT&thinsp;...</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img alt="&nbsp;BSoD on Win98 presentation" src="../../../../_rsc/_img/photo/misc/1998.Win98-BSoD_w_BGates.jpg" 
@@ -239,7 +239,7 @@ _Alexander Pope_, poet (1688-1744)
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; </b>but <b>test and debug</b>&nbsp;</ins></summary>
+<details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; </b>but <b>TEST and DEBUG</b>&nbsp;</ins></summary>
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
@@ -264,12 +264,12 @@ Security conference, August/2004
 _Andres Freund_, a programmer who occasionally found out the [XZ Utils backdoor](https://en.wikipedia.org/wiki/XZ_Utils_backdoor),
 in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">NYT interview </a>, 2024.<sup>🙋</sup>
 
-<sup>🙋</sup> <samp>Media had hyperbolized the story to a "century cyberattack". It was tricky and longly planned, but far off to infiltrate most "distros". 
-This required many conditions to coincide, and would manifest itself fast.</samp>
+<sup>🙋</sup> <samp>Media had hyperbolized the story to a "century cyberattack". But being tricky and long planned, it was far off to infiltrate most "distros". 
+This required many conditions to coincide, and would manifest itself swiftly.</samp>
 
 \_________________________________</details>
 
-<details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; and <b>... quote&nbsp;</b></ins>♾️</summary>&nbsp;
+<details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; and <b>... QUOTE&nbsp;</b></ins>♾️</summary>&nbsp;
 
 > **I always have a quotation for everything. It saves original thinking.**\
 _Dorothy L. Sayers_ (1893-1957), novelist, translator, and critic
@@ -280,4 +280,4 @@ Advice from _Joseph Rudyard Kipling_ (1865-1936)
 </details>
 
 ___________\
-♾️ ... subject of continuous delivery ... ♾️
+🔚 ... subject of continuous delivery ... ♾️
