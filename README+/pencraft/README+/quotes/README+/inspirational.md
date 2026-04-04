@@ -252,12 +252,6 @@ _Alexander Pope_, poet (1688-1744)
 > **Never allow the same bug to bite you twice.**\
 _Steve Maguire_, programmer and author
 
-#### Manifest of the ingenious tester
-
-> Hackers are innovative and resourceful, and so are we. They never stop thinking about new ways to harm our software and our users, and neither do we.
-
-Security conference, August/2004
-
 #### Recent but not last
 
 > **I find it very odd. I’m a fairly private person who just sits in front of the computer and hacks on code.**\
