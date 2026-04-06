@@ -5,15 +5,15 @@
 **Software is a pure abstraction ether poured into fragile containers made of code.**
  
 The frivolous, fleeting, and exploding spirit of development makes it inherently and largely
- 
-<div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;p&thinsp;r&thinsp;o&thinsp;n&thinsp;e&thinsp;.</samp></b></div>
+
+<div align="center"><b><samp>E&thinsp;R&thinsp;R&thinsp;O&thinsp;R&thinsp;-&thinsp;P&thinsp;R&thinsp;O&thinsp;N&thinsp;E&thinsp;.</samp></b></div>
 </td><td><picture><img alt="&nbsp;Bug in flask" src="../../_rsc/_img/signs/bugs/bug_in_flask-pencil-250px.jpg" /></picture></td><td width="42%">
 
 **Software has become an irreplaceable stratum of civilization, as technology.**
 
 Its applications manage crucial systems of all kinds and must be
 
-<div align="center"><b><samp>S&thinsp;T&thinsp;A&thinsp;B&thinsp;L&thinsp;e&thinsp; </samp>and<samp> &thinsp;R&thinsp;O&thinsp;B&thinsp;U&thinsp;S&thinsp;T&thinsp;.</samp></b></div>
+<div align="center"><b><samp>S&thinsp;T&thinsp;A&thinsp;B&thinsp;L&thinsp;E&thinsp; </samp>and<samp> &thinsp;R&thinsp;O&thinsp;B&thinsp;U&thinsp;S&thinsp;T&thinsp;.</samp></b></div>
 </td></tr></table>
 
 <h2 align="center">And «<i>never the twain shall meet</i>» unless &thinsp;<b>.&thinsp;.&thinsp;.</b> <b><mark>&thinsp;Quality Assurance&thinsp;<mark></b>.</h2>
@@ -40,9 +40,9 @@ graph TB
     end
 ```
 
-<h2 align="center">Prerequisites</h2>
+<h2 align="center">Prerequisites for QA</h2>
 
-Knowledge of/Experience in
+QA will be a profanation without knowledge of&thinsp;/&thinsp;experience in
 
 + **domain**/subjects,\
 `//` or it will be programming "telephone charades" with the customer, or a great overhead of specifications
@@ -60,7 +60,9 @@ Breaking changes as close as fingers to the keyboard, commits that can be rolled
 
 What's admissible on "tangible" projects may lead to epic fails on a larger scale.
 
-<h2 align="center">In process</h2>
+<h2 align="center">Ways of QA</h2>
+
+### In process
 
 <table><tr>
  <td>
@@ -115,9 +117,9 @@ Executable code routines are the biggest cornerstone of modern QA. Automation of
 
 ### Simulators
 
-IT's more challenging to find an unavailable UI simulator or platform emulator, or virtual machine than a popular one.
+It's more challenging to find an unavailable UI simulator or platform emulator, or virtual machine than a popular one.
 
-## Appendix. Natural born quality
+## Appendix. Natural-born quality
 
 There were and will be remarkable works done from scratch **without** allotted proof and validation measures (let alone code reviews and test automation) **but robust** from the first release. 
 
@@ -126,7 +128,7 @@ This may (but mostly _will not_) happen in localized high-pro teams of responsib
 > Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed/&thinsp;fluctuating, and stressed. Add human nature to sweep problems under the carpet &thinsp;&mdash;&thinsp; one quite big and thick in the software.
 <h3 align="center"><ins>&nbsp;bottom line&nbsp;</ins></h3>
 
-**QA** couldn't exist without errors &thinsp;&mdash;&thinsp; the catch-all term, with a dedicated [**corner**](README+/errors/) for its inmates. Where 🪲[bugs](README+/errors/README+/bugs.md)🪳 are the first-class citizens.
+**QA** couldn't exist without errors &thinsp;&ndash;&thinsp; the catch-all term, with a dedicated [**corner**](README+/errors/) for its inmates. Where 🪲[bugs](README+/errors/README+/bugs.md)🪳 are the first-class citizens.
 
 ___________\
 :end: ... continued in ... &nbsp;🚧[Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](code_quality) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [**TDD**](../tests/asDrive)
