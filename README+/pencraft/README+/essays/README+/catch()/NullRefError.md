@@ -25,7 +25,7 @@ ___________\
 
 ### The fallacy of equivocation 
 
-> <sup>🎥</sup>&nbsp; If you've watched the video but __can't__ couple the 1950s subscripts **and** today's exceptions &nbsp;&mdash;&nbsp; you are **not** alone (and probably in a good company).
+> <sup>🎥</sup>&nbsp; If you've watched the public confession but __can't__ couple the 1950s subscripts **and** today's exceptions &thinsp;&ndash;&thinsp; you are **not** alone (and probably in a good company).
 
 There's no specific `boolean` or machine value for  `Null` &nbsp;&mdash;&nbsp; it's a logical consensus to designate not initialized values. 
 The error occurs chiefly when we, developers, overlook initializations &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
