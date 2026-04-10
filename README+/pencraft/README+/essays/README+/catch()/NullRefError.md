@@ -3,12 +3,12 @@
 <table><tr valign="top">
 <td>
 
-### `NULL`Reference earned a gruesome notoriety of _exceptional_ plague:
+### Programmatic `NULL` earned a gruesome notoriety of _exceptional_ plague:
 
-**Its outbreaks appear literally from `nothing` and are too common to call them just `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _vs._ data clouds, and spare neither junior nor seasoned developers.**
+**Its outbreaks appear literally from `nothing` and are too common to tag them as `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _and_ data clouds, they spare neither junior nor seasoned developers.**
 
-_Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) willingly took the blame of being this _Frankenstein_ who brought the 
-[**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into the software Eden. 
+_Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) gave himself up as being this _Frankenstein_ who brought the 
+[**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into our software Eden. 
 
 But nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain" to stop  collecting its billion toll.\
 ___________\
@@ -25,31 +25,31 @@ ___________\
 
 ### The fallacy of equivocation 
 
-> <sup>🎥</sup>&nbsp; If you've watched the public confession but __can't__ couple the 1950s subscripts **and** today's exceptions &thinsp;&ndash;&thinsp; you are **not** alone (and probably in a good company).
+> <sup>🎥</sup>&nbsp; If you've watched this public confession but __can't__ couple the 1950s subscripts **and** today's exceptions &thinsp;&ndash;&thinsp; you are **not** alone (and probably in a good company).
 
-There's no specific `boolean` or machine value for  `Null` &nbsp;&mdash;&nbsp; it's a logical consensus to designate not initialized values. 
-The error occurs chiefly when we, developers, overlook initializations &thinsp;&mdash;&thinsp; that's what C# [null reference](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception) tells:
+### There's no specific `boolean` or machine value for  `Null` &thinsp;&ndash;&thinsp; it's a logical consensus to designate not initialized values.
 
+The error occurs chiefly when we, developers, overlook initializations as C# ells:
 - You forgot to instantiate a reference type.
 - You forgot to dimension an array before initializing it.
 - You get a null return value from a method, and then call a method on the returned type.
-- ... <samp>and so on</samp>
+-  [and so on...](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception)
 
 ❗**Neither `null` nor broken reference dispatches our objects and values nowhere but our fault or sloth.**
 
 <h2 align="center">Much Ado About <code>Nothing</code>❓</h2>
 
-<table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S</b></td><td width="20%" ><b><samp>A&thinsp;N&thinsp;D</samp></b></td><td width="40%" ><b>N&thinsp;O</b></td>
+<table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S❗</b></td><td width="20%" ><b><samp>A&thinsp;N&thinsp;D</samp></b></td><td width="40%" ><b>N&thinsp;O‼️</b></td>
 </tr><tr valign="center"><td>
   
 * Null reference isn't a CPU (or memory) vulnerability as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix.
 * It's not even comparable to the <a href="https://en.wikipedia.org/wiki/Year_2000_problem">Y2K problem</a>, which stemmed from explicit negligence (and was eliminated with a sheer format enhancement).
 * Errors of different origins caused botched global updates, blackouts, and catastrophic failures when exception names didn't matter. 
-* Logical flaws which don't protrude errors may be even more disastrous and harder to find out.
+* Logical flaws that don't protrude errors may be even more disastrous and harder to find out.
   
 </td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
-When a number of software installations is significant, providers continuously collect reports on errors, which crash their products, get handled, or run undercover (unnoticed).
+When the number of software installations is significant, providers continuously collect reports on errors that crash their products, get handled, or run undercover (unnoticed).
 
 - Their statistics (and private experience) give `NullReference` top places.
 - Many of these errors are difficult to trace, reproduce, and debug. 
@@ -63,7 +63,7 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <p align="right">Accusing <code><b>null</b></code> for errors is like <br />charging <mark>&thinsp;<b><i>0</i></b>&thinsp;</mark> for one can divide by it.</b></p>
 
-### `Null` is not a bug but a feature
+### `Null` is not a bug but a signal
 
 First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or singularity. It's not more than a logical placeholder for unassigned variables and the initial and valid state of objects. 
 When neglected, it sincerely warns about a breach.
@@ -86,7 +86,7 @@ It's tempting to relate the perplexed cases of `NullReference` to the peculiarit
 
 (Based on <a href="#null-case">true stories</a>.<sup title="Read one in bottom lines">🙋</sup>)
 
-<h1 align="center">Null <mark>&thinsp;&empty;🚿</mark> Washing</h2>
+<h1 align="center">Null washing<br />&empty;🚿</h2>
 
 <p dir="rtl">,<b><code>Null</code></b> is for programming<br />as <code><b>zero</b></code> for mathematics</p>
 
@@ -128,7 +128,6 @@ If a check allows _null_ to propagate or replaces it with a value,\
    
 </td></tr></table>
 
-
 In the 2020s decade, mainstream languages tempt you to chain null checks: ```Book?.Author?.Name?.Middle is null or ""```
 
 Here, a lucid proof of the optional name builds a multi-level shelter for bugs.
@@ -159,13 +158,13 @@ Bad approach: setting a specific object that will only mask `null` to make matte
 
 ## <a id="null-case" />Bottom lines
 
-<sup>🙋</sup> I find personal stories the last shelter of narrators unless it's a full match and a good backup. This must be the case.
+Private anecdotes are the last shelter of narrators unless it's a full match and a good argument. This must be the case.
 
->  I can remember a contractor for a big, really, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
-After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](../rec/LN-view.md) and returned to his daily need &mdash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
+>  I can remember a contractor for a big, really one, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
+After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](../rec/LN-view.md) and returned to his daily need &ndash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
-> For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, the slices of Swiss cheese coincided to reveal a malicious an<i>null</i>er. To be trivially fixed.
-> <div align="center"><b>MORAL</b>❓</div>
+> For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, he coincided the slices of Swiss cheese to reveal a malicious an<i>null</i>er. To be trivially fixed.
+> <div align="center"><b>MORAL</b>❔</div>
 > Imagining the multitude of such cases without a happy twist, <i>Sir Hoare</i> may surely write off a digit or two from the tech debt he shouldered.
 
 ### Appendices
@@ -175,9 +174,9 @@ After sacrificing a couple of hours, he addressed this pesky _null_ to the dark 
 |&thinsp;-&thinsp;-&thinsp; primitive [Guards](https://github.com/BYTESHAUS/use-dev/tree/main/src/TuttiFrutti/AbcStoppers/Guards) `// the shortest ways to discover nulls ASAP`\
 |&thinsp;-&thinsp;- [Code wizard](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/WizConstr) `// building backbone that won't forget to initialize`
 
-### See also
+## See also
 
-|&thinsp;- [Zero index take](take_zero-index.md)
+### |&thinsp;- [Zero index take](take_zero-index.md)
 
 ___________\
-🔚 &empty; 2025-2026.. image credits: Wiki Commons, <b>Β</b>ytesHausMeister
+🔚 &empty; 2025-2026.. <b>Β</b>ytesHausMeister .. image credits: Wiki Commons, 
