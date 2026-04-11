@@ -2,7 +2,7 @@
   <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
 </td><td>
 
-### Code is the <mark>cement</mark> of software. Its quality is imperceptible to spectators and doesn't matter much for booths.
+### Code is the <mark>cement</mark> of software. Its quality is hard for spectators to notice and isn't critical for booths.
 
 ### Nevertheless, it ought to be of the superior grade for sky-scraping, heavy-duty, or complex constructions.
 
@@ -138,6 +138,10 @@ Also, prominent individuals may develop great parts/apps alone and are so keen a
 
 However, these cases are exceptional, not about enterprise development, and mostly past.
 
+
+BENTO MENU
+
+If it works why does it matter?
 
 <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;
 
