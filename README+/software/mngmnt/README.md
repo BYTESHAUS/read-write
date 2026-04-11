@@ -1,4 +1,4 @@
-# Code, Dev, and Docu &nbsp;&mdash;&nbsp; Management <sup>&#8665; OPINION</sup>
+# Code, Dev, and Docu &nbsp;&#8646;&nbsp; M&thinsp;A&thinsp;N&thinsp;A&thinsp;G&thinsp;E&thinsp;M&thinsp;E&thinsp;N&thinsp;T <sup>&#8665; OPINION</sup>
 
 The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
 
@@ -25,8 +25,8 @@ And not because chosen methodologies and tools are massively promoted.
 + **Eager** use of code automation tools (including own frameworks).
 + **Automated** workflow of issues.<sup>⚙️</sup>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🌵</sup><sub> E.g., a branch for optional/risky features bundle, test/staging system &thinsp;&ndash;&thinsp; for the dedicated team.</sub>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>⚙️</sup><sub> E.g., create tickets from `// ToDo:` or `NotImplementedException` and submit them to review when replaced with implementation code.</sub>
+&nbsp; &nbsp; &nbsp; <sup>🌵</sup> <samp>E.g., a branch for optional/risky features bundle, test/staging system &thinsp;&ndash;&thinsp; for the dedicated team.</samp>\
+&nbsp; &nbsp; &nbsp; <sup>⚙️</sup> <samp>E.g., create tickets from `// ToDo:` or `NotImplementedException` and submit them to review when replaced with implementation code.</samp>
 
 ### Behavioral advantages wanted
 
@@ -40,9 +40,9 @@ And not because chosen methodologies and tools are massively promoted.
 
 DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup> and now claims to use neural networks and <samp>LLM</samp>. 
 However, as outspoken in my ["Lotus notes"](../../pencraft/README+/essays/README+/rec/LN-view.md), simple and sound tools still can do the job.\
-&nbsp; &nbsp; <sup>☁️</sup> <sub>like TFS became Azure DevOps Server</sub>
+&nbsp; &nbsp; <sup>☁️</sup> <samp>like TFS became Azure DevOps Server</samp>
 
 **How?** No methodology, organization, and automation can beat _the laissez-faire_ of responsible craftsmen with win-win attitude.
 
 ___________\
-🔚 🌘 2023-2026..
+🔚 🌘 2023-2026.. <b>B</b>yteshausmeister
