@@ -26,7 +26,7 @@ A tracking system may collect and generate documentation with a pleasant degree 
 
 **See also**:\
 |&thinsp;- [Documentation tips](tips-tech_docu.md)\
-|&thinsp;-- [Markdown tips](byteshaus-markdown_on_git.md)\
+|&thinsp;-- [Markdown tips for GitHub](../../software/docu/README+/markdown_on_git.md)\
 |&thinsp;- [Recording ⏺️design⏹️](../../software/docu/README+/design-record.md)
 
 ## Wrapping up: Resources
