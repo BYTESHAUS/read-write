@@ -1,6 +1,6 @@
 <div align="right"><picture><image alt="&nbsp;AI free" src="../_rsc/_img/illus/AiFree/AI-free_900px.png" /></picture></div>
 
-<h1 align="center">✒️P<samp>EN</samp> 🙴 B<samp>RUSH</samp>🎨 Craft in Technology</h1>
+<h1 align="center">✒️P<samp>EN</samp> 🙴 B<samp>RUSH</samp>🎨 Craft <i>on technical service</i></h1>
 
 <table align="center"><tr></tr><tr><td>
 
@@ -41,7 +41,7 @@ Namely, formalization and structuring compel us to reexamine and refine concepts
   
 </td></tr></table>
 
-## Appendix. Personal disclaimer
+## Personal disclaimer
 
 <table><tr valign="top">
 <td><p align="right"> <span title="&nbsp; &nbsp;... My God! If only we could write this beautiful language of France at all times!&#010;&#013; Letter to John Foster (7 July 1850)">
