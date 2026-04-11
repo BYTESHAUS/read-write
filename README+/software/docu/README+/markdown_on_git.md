@@ -70,7 +70,7 @@ Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<s
 > [!WARNING]
 > Browsers may show some pictograms differently. Find out the differences in this snapshot:
 > 
-> <a href="essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a>
+> <a href="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/pencraft/README%2B/essays/README+/AI-2020s.md#evidence"><img alt="&nbsp;string of emojis presented different" src="../../../_rsc/_img/snap/screen/emojis_diff-browsers.jpg" title="&nbsp;Click to see how it looks in yours" /></a>
 
 🔵 For regular authoring, consider a library of authentic pictograms (to include with `<picture>` / `<img>`).
 
@@ -110,7 +110,7 @@ Next, narrow mnemonics to hint at frequently referred resources, like:\
 [charts samples](https://mermaid.js.org/syntax/examples.html)<sup>🧜‍♀️</sup>,&nbsp;&nbsp;
 [co- _vs._ contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>🪟</sup>,&nbsp;&nbsp;
 [`C# Lookup`](https://learn.microsoft.com/en-us/dotnet/api/system.linq.lookup-2)<sup>🪟</sup>,&nbsp;&nbsp;
-[.NET conf 2024](https://www.youtube.com/watch?v=ikSNL-lxolc)<sup><picture><img src="../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;link to YouTube video" /></picture></sup>.
+[.NET conf 2024](https://www.youtube.com/watch?v=ikSNL-lxolc)<sup><picture><img src="../../../_rsc/_img/logo/logo-youtube_h12px.jpg" title="&nbsp;link to YouTube video" /></picture></sup>.
 
 ### <a id="link-achors" />Link🔗 anchors ⚓
 
@@ -128,10 +128,10 @@ Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeab
 
 Don't leave clickable images unless they are links or a detailed (bigger) version &thinsp;&mdash;&thinsp; HTML `<picture>` to rescue.
 
-</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../_rsc/_img/signs/LongRead/3000px_rotate90.jpg" /></picture>
+</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../../_rsc/_img/signs/LongRead/3000px_rotate90.jpg" /></picture>
 </td></tr></table>
 <!--                                                         W R A P - U P                       --!>
-<table><tr valign="center"><td><picture><img width="200px" alt="&nbsp;WRAP UP" src="../../_rsc/_img/signs/WrapUp/counter-rotate/80x144_fold.jpg" /></picture></td><td>
+<table><tr valign="center"><td><picture><img width="200px" alt="&nbsp;WRAP UP" src="../../../_rsc/_img/signs/WrapUp/counter-rotate/80x144_fold.jpg" /></picture></td><td>
 
 ### 🎉 You made it to a markdown lord🎈and now ...
 
@@ -139,7 +139,7 @@ You may consider Git-supported dialects as [flavored markdown](https://github.gi
 And/or GitHub Pages (GitHub.io) that you can add to a Git profile.
 
 There are legions of content management and site creation tools for big projects that are more suitable and professional than markdown-on-Git. 
-There are rich environments for collaboration on tech/sci documents, like [Jupyter Notebook](https://jupyter.org).
+There are rich environments for collaboration on tech/sci documents, like [Jupyter Notebook](https://jupyter.org)<sup>🔗</sup>.
 
 </td></tr></table>
 
@@ -164,4 +164,4 @@ Besides obvious gimmicks, some others require disclosure.
 
 \___________
 
-<div align="center"> 🔚 ... 🌙 2025-2026 .. <b>Β</b>ytesHausMeister</div> 
+<div align="center"> 🔚 ... 🌙 2025-2026.. <b>Β</b>yteshausmeister</div> 
