@@ -12,7 +12,7 @@ Despite building it in and assigning it the role of primary documentation, <sub>
 
 </td></tr></table>
 
-<p dir="rtl"><i>.Markdown forgives</i>»<br /><i>«.The GitHub doesn't</i><br />(for <a href="https://www.merriam-webster.com/dictionary/TL%3BDR">TL;DR</a>)</p>
+<p dir="rtl"><b>.Markdown forgives</b>»<br /><b>«GitHub doesn't</b><br />(for <a href="https://www.merriam-webster.com/dictionary/TL%3BDR">TL;DR</a>)</p>
 
 <table><tr valign="top"><td>
     
