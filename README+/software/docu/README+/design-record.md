@@ -1,6 +1,6 @@
 # Software &nbsp;&mdash;&nbsp; Design &nbsp;&mdash;&nbsp; Documentation
 
-+ ### [Quality code](../../QA/code_quality/README.md) with profound and thoroughly categorized [names](../../design/names) must explain design brainchilds in intuitive manner. 
++ ### [Quality code](../../QA/code_quality/README.md) with profound and thoroughly categorized [names](../../design/code_org/README.md) must explain design brainchilds in intuitive manner. 
 
 + ### Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source code. 
 
@@ -124,5 +124,5 @@ Disadvantage: it's a one-time exercise that takes hours from most competent team
 
 Taking advantage of the disadvantage: everybody learns how to present the design and see its strong and weak sides.
 
-\___________\
-🔚 ... **Continued in ✒️[P<samp>ENCRAFT</samp>](../../../pencraft/README.md)**. ... 🌘 2023-2025 ..
+___________\
+🔚 ... **Continued in ✒️[P<samp>ENCRAFT</samp>](../../../pencraft/README.md)**. ... 🌘 2023-2026 ..
