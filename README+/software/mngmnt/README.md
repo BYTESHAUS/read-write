@@ -1,4 +1,4 @@
-# Code, Dev, and Docu &nbsp;&mdash;&nbsp; Management &nbsp;&mdash;&nbsp; <em>Opinion</em>
+# Code, Dev, and Docu &nbsp;&mdash;&nbsp; Management <sup>&#8665; OPINION</sup>
 
 The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
 
@@ -6,16 +6,13 @@ You are likely reading from a **Git**<sup>:octocat:</sup> repository, while othe
 
 ## Good organization
 
-> **The customers/users perspective** &thinsp;&mdash;&thinsp; <mark>&thinsp;not **how** but **what** matters&thinsp;</mark> &thinsp;&mdash;&thinsp; 
-> draws a crucial landmark:\
->  _**<ins>&thinsp;either&thinsp;</ins>**_ organization serves development (and tests), _**<ins>&thinsp;or&thinsp;<ins>**_ _vice versa_.
+> ### **The customers/users perspective** &thinsp;&ndash;&thinsp; <mark>&thinsp;not **HOW** but **WHAT** matters&thinsp;</mark> &thinsp;&ndash;&thinsp; draws a crucial landmark:<br /><ins>&thinsp;either&thinsp;</ins> organization serves production (code with tests and documentation), <ins>&thinsp;or&thinsp;</ins> _vice versa_.
 
-A commendable organization endows every process/measure with an exact explanation of how it:
+#### A commendable organization endows every process/measure with an exact explanation of how it:
 
 + facilitates development, `// minimazes installation, and maintenance`
-+ spares human resources, `//especially in communication, procedures, and pushover tasks,
-+ stimulates [quality&nbsp;code](../QA/code-
-quality/README.md) and prevents errors,
++ spares human resources, `//especially in communication, procedures, and pushover tasks`,
++ stimulates _good&nbsp;design_ and [quality&nbsp;code](../QA/code_quality/README.md) and prevents errors,
 + automates routines when only justified.
 
 And not because chosen methodologies and tools are massively promoted.
@@ -28,7 +25,7 @@ And not because chosen methodologies and tools are massively promoted.
 + **Eager** use of code automation tools (including own frameworks).
 + **Automated** workflow of issues.<sup>⚙️</sup>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🌵</sup><sub> E.g., a branch for optional/risky features bundle, test/staging system &thinsp;&mdash;&thinsp; for the dedicated team.</sub>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🌵</sup><sub> E.g., a branch for optional/risky features bundle, test/staging system &thinsp;&ndash;&thinsp; for the dedicated team.</sub>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>⚙️</sup><sub> E.g., create tickets from `// ToDo:` or `NotImplementedException` and submit them to review when replaced with implementation code.</sub>
 
 ### Behavioral advantages wanted
@@ -47,5 +44,5 @@ However, as outspoken in my ["Lotus notes"](../../pencraft/README+/essays/README
 
 **How?** No methodology, organization, and automation can beat _the laissez-faire_ of responsible craftsmen with win-win attitude.
 
-\___________\
-🔚 🌘 2023-2025
+___________\
+🔚 🌘 2023-2026..
