@@ -14,11 +14,11 @@ It suited a private aviation engineering talk, but [Fred Brooks](../contributors
 
 > The bearing of a child takes nine months, no matter how many women are assigned.
 
-Derogatory and illogical. Finding expert developers who can save a failing project ASAP is a question of payment. (Finding nine women in a city who will deliver even **ten** babies in less than a month is a fast radial search.) 
+Derogatory and illogical. Finding expert developers who can save a failing project ASAP is a question of payment. Finding nine women in a city who will deliver even **ten** babies in less than a month is a fast radial search.
 
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra) conveyed the idea much more plausibly (albeit about programming languages, 1975):
 
-> It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with **ten** blunt axes instead.
+> **It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with TEN blunt axes instead.**
 
 (To add only that the sharpest axes in clumsy hands may have already destroyed all found pencils beyond repair.)
 
@@ -29,10 +29,13 @@ _John F. Woods_, /comp.lang.c++/, 1991
 
 This accidental quote in a newsgroup became one of the most cited in IT (often for fun). Unrealistic and excessive "always" (harmful and wrong) demotivates aspiration to [quality code](../../../../../software/QA/code_quality).
 
+> **You can't trust code that you did not totally create yourself.** &hellip; No amount of source-level verification or scrutiny will protect you from using untrusted code.\
+> [Ken Thompson](../contributors/README.md#ken-thompson), 1983 Turing Award Lecture
+
 > **Software is Art.**\
 (Eavesdropped from a Product Owner)
 
-It is pleasing but barely real &thinsp;&mdash;&thinsp; there are no galleries of Old Masters with Algol listings.
+It is pleasing but barely real &thinsp;&ndash;&thinsp; there are no galleries of Old Masters with Algol listings. (Software is neither a conveyor.)
 
 ## Techniques
 
@@ -62,7 +65,7 @@ The aphorism shall be better: "If the software were built like houses, custom pr
 > It is practically impossible to teach good programming to students that have had a prior exposure to **BASIC**: as potential programmers they are mentally mutilated beyond hope of regeneration.\
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra), 1975
 
-> **FORTRAN** &mdash; the "infantile disorder" by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use.\
+> **FORTRAN** &ndash; the "infantile disorder" by now nearly 20 years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use.\
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra)
 
 > **C++** is a badly designed and ugly language. It would be a shame to use it in Emacs.\
@@ -81,11 +84,11 @@ Sure, an environment may provoke bad practices, but it doesn't make a developer.
 <details><summary><ins>&nbsp;Full quote...&nbsp;</ins></summary>
  <p>What’s happened is that practical programmers have used whatever understanding they’ve gained, or theoreticians have offered them, to increase complexity.</p>
 <p>So programming languages on the whole are very much more complicated than they used to be: object orientation, inheritance, and other features are still not really being thought through from the point of view of a coherent and scientifically well-based discipline or a theory of correctness.</p>
-<p>My original postulate, which I have been pursuing as a scientist all my life, is that one uses the criteria of correctness as a means of converging on a decent programming language design &mdash; one which doesn’t set traps for its users, and ones in which the different components of the program correspond clearly to different components of its specification, so you can reason compositionally about it.</p>
-<p>Programming languages in full generality have not really paid full attention to this aspect. They tend to be defined purely on the basis of what the machine does when it’s executing the program, and often at quite a low level of granularity too &mdash; individual storage accesses.</p>
+<p>My original postulate, which I have been pursuing as a scientist all my life, is that one uses the criteria of correctness as a means of converging on a decent programming language design &ndash; one which doesn’t set traps for its users, and ones in which the different components of the program correspond clearly to different components of its specification, so you can reason compositionally about it.</p>
+<p>Programming languages in full generality have not really paid full attention to this aspect. They tend to be defined purely on the basis of what the machine does when it’s executing the program, and often at quite a low level of granularity too &ndash; individual storage accesses.</p>
 <p>I still think we have to get the message across. The tools, including the compiler, have to be based on some theory of what it means to write a correct program.</p>
 
-\______
+___________
 
 </details>
 
@@ -101,10 +104,10 @@ _Stephen Edwin King_
 Whether one has read books by Mr. King or not, likes them or not, the indisputable fact is that he remains an incredibly prolific author of bestselling stuff for decades (and a worthy person).
 
 Following this and his other conclusions for authoring is like teaching a kid to ride a city bike from downhill champions.\
-\___________
+___________
 
 > **The only bad/stupid question is the one that wasn’t asked.**\
-(_attributed to many, but must be the patriarch of DDoS_)
+(_attributed to many, but must be a patriarch of DDoS_)
 >
 > but silence is golden
 
