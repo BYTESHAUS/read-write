@@ -149,7 +149,7 @@ Besides obvious gimmicks, some others require disclosure.
 
 <details><summary><ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>F<samp>&thinsp;O&thinsp;R&thinsp;M&thinsp;A&thinsp;T&thinsp;T&thinsp;I&thinsp;N&thinsp;G</samp></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins></summary>
 
-<table align="center"><tr></tr><tr><td>Centered or right-aligned block quote</td></table>
+<table align="center"><tr></tr><tr><td>Centered or right-aligned block quote</td></tr></table>
 
 \___________</details>
 
