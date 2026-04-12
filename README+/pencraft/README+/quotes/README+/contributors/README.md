@@ -111,7 +111,11 @@ Author of the [LaTeX](https://en.wikipedia.org/wiki/LaTeX)<sup><b>w</b></sup> so
 
 ### Dennis Ritchie
 
-_Dennis MacAlistair Ritchie_ (**1941**-2011)<sup title="Turing Award, 1983, with Ken Thompson">🥇</sup> creator of the **`C`** programming language and co-author of UNIX (with Ken Thompson)
+_Dennis MacAlistair Ritchie_ (**1941**-2011)<sup title="Turing Award, 1983, with Ken Thompson">🥇</sup> creator of the **`C`** programming language and co-author of UNIX (with [Ken Thompson](#ken-thompson))
+
+### Ken Thompson
+
+Kenneth Lane Thompson (1943*)<sup title="Turing Award, 1983, with Dennis Ritchie">🥇</sup> a founder of operating systems, programming languages, regular expressions and encodings.
 
 <h1 align="center">Math / Phys</h1>
 
