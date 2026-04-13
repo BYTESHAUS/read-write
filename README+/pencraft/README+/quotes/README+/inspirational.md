@@ -1,9 +1,8 @@
-# Quotes store &nbsp;&mdash;&nbsp; Inspiration department
+# &Qopf;uotes store &nbsp;&mdash;&nbsp; &Iscr;nspiration department
 
 ## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e&nbsp; m&thinsp;e&nbsp; t&thinsp;o &thinsp;.&thinsp;.&thinsp;.
 
 <details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; <b>WRITE and DOCUMENT</b>&nbsp;</ins></summary>&nbsp;
-
 > **Epistula non erubescit**\
 ― _Marcus Tullius Cicero (106-43 BC)_\
 <sub>[Compiler too]</sub>
