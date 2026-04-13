@@ -1,4 +1,4 @@
-# IT Quotes &nbsp;&mdash;&nbsp; Misinterpreted, misattributed and disputed
+# IT Quotes &nbsp;&mdash;&nbsp; &Mscr;isinterpreted, misattributed and disputed
 
 <p dir="rtl"><b><mark>I couldn't contribute even a tithe of the garbage»<br/>
 «.they will post as my quotes</mark></b><br/>
