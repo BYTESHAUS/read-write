@@ -1,6 +1,6 @@
 <div align="right"><picture><image alt="&nbsp;AI free" src="../_rsc/_img/illus/AiFree/AI-free_900px.png" /></picture></div>
 
-<h1 align="center">✒️P<samp>EN</samp> 🙴 B<samp>RUSH</samp>🎨 Craft <i>on technical service</i></h1>
+<h1 align="center">✒️&weierp;<samp>EN</samp> 🙴 B<samp>RUSH</samp>🎨 Craft <i>on technical service</i></h1>
 
 <table align="center"><tr></tr><tr><td>
 
