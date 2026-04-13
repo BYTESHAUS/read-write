@@ -1,6 +1,6 @@
-# IT &nbsp;&mdash;&nbsp; Contributors and Influencers
+# IT &nbsp;&mdash;&nbsp; &Copf;ontributors and &Iopf;nfluencers
 
-<h1 align="center">IT Pioneers</h1>
+<h1 align="center">&Iscr;&Tscr; Pioneers</h1>
 
 > Selection of quotes here got a discernible inclination toward the mathematicians, researches, and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> 
 
