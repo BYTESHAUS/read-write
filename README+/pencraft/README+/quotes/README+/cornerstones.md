@@ -1,4 +1,4 @@
-# IT Quotes &nbsp;&mdash;&nbsp; Cornerstones
+# IT Quotes &nbsp;&mdash;&nbsp; &Cscr;ornerstones
 
 >☝️ Quotes and epigraphs can be annoying; their hackneyed selections migrate between resources &thinsp;&mdash;&thinsp; but **only worthy** ones are cherry-picked here to support deeper IT thinking. 
 
