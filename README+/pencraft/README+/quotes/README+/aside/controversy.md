@@ -1,4 +1,4 @@
-# Quotes > Backshelve &nbsp;&mdash;&nbsp; 🔥C<samp>ONTROVERSY</samp>
+# &Qopf;uotes > Backshelve &nbsp;&mdash;&nbsp; 🔥C<samp>ONTROVERSY</samp>
 
 > **Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.**\
 [Linus Torvalds](../contributors/README.md#Linus-Torvalds)
