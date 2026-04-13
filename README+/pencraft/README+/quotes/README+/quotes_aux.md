@@ -1,6 +1,6 @@
 ![Work in progress](https://img.shields.io/badge/🚧_work_🚧-in_progress-yellow) 
 
-# Quotes for IT&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Counterforts
+# &Qopf;uotes for IT &nbsp;&mdash;&nbsp; &Cscr;ounterforts
 
 ## Privacy
 
