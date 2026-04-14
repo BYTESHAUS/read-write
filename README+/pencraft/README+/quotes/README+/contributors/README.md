@@ -1,8 +1,8 @@
-# IT &nbsp;&mdash;&nbsp; &Copf;ontributors and &Iopf;nfluencers
+# IT &nbsp;&mdash;&nbsp; &Cscr;ontributors and &Iopf;nfluencers
 
-<h1 align="center">&Iscr;&Tscr; Pioneers</h1>
+<h1 align="center">&Iscr;&Tscr; &nbsp;Pioneers</h1>
 
-> Selection of quotes here got a discernible inclination toward the mathematicians, researches, and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> 
+> Selection of quotes here got a discernible inclination toward the mathematicians, researchers, and engineers who stood behind the first computers. Whose, no better word, fundamental input to the theory **and** practice remained indisputable.<sup>:raising_hand:</sup> 
 
 > Both their foresight and enough delusions count.
 
@@ -86,7 +86,7 @@ _Gerald Marvin Weinberg_ (**1933** - 2018), UMich, IBM, a computer scientist, a 
 
 _C.A.R. Hoare_, Sir _Charles Antony Richard Hoare_ (born **1934**)<sup title="Turing Award, 1980">🥇</sup> a fundamental contributor to programming languages and algorithms.
 
-He coined the famous [Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) for _NullReference_.
+He coined the (in)famous [Billion Dollar Mistake](../../../essays/README+/catch()/NullRefError.md) for _NullReference_.
 
 ### Niklaus Wirth
 
@@ -117,7 +117,7 @@ _Dennis MacAlistair Ritchie_ (**1941**-2011)<sup title="Turing Award, 1983, with
 
 Kenneth Lane Thompson (1943*)<sup title="Turing Award, 1983, with Dennis Ritchie">🥇</sup> a founder of operating systems, programming languages, regular expressions and encodings.
 
-<h1 align="center">Math / Phys</h1>
+<h1 align="center">Math&thinsp;/&thinsp;Phys only</h1>
 
 ### George Pólya
 
@@ -135,7 +135,7 @@ _Paul Richard Halmos_ (**1916**-2006)<sup>👽</sup> UIUC, a mathematician with 
 
 <h2 align="center">Gang of Four and Design Patterns</h2>
 
-The founders of UML and the first famous [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> "almanac".
+The founders of UML and the first fabled [Design Pattern](https://en.wikipedia.org/wiki/Design_Patterns)<sup><b>w</b></sup> "almanac".
 
 GoF: Erich Gamma 🇨🇭, _Richard Helm_, _Ralph Johnson_, and _John Vlissides_
 
@@ -153,9 +153,13 @@ _Grady Booch_ (born 1955)
 
 <h2 align="center">Open Source / Freeware</h2>
 
+### Richard Stallman
+
+_Richard Matthew Stallman_ (born 1953), founder of GNU and the Free Software Movement
+
 ### Linus Torvalds
 
-_Linus Benedict Torvalds_ (born 1969) 🇫🇮 Univ. Helsinki doesn't need a presentation.
+_Linus Benedict Torvalds_ (born 1969) 🇫🇮 Univ. The biggest figure in open source and its [most important project](https://github.com/torvalds/linux)<sup><sup>:octocat:</sup></sup>.
 
 <h2 align="center"><i>et alia</i></h2>
 
@@ -178,18 +182,14 @@ He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_
 Bjarne Stroustrup (1950, Aarhus 🇩🇰) /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
 Beyond the great programming, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup>, saving us from misinterpretations.
 
-### Richard Stallman
-
-_Richard Matthew Stallman_, founder of GNU and the Free Software Movement
-
 ### Kent Beck
 
 _Kent Beck_ (born 1961), reviver of the TDD approach, the eXtreme Programming founder, 
-a signer of _Agile Manifesto_, a productive author on patterns, and a contributor to frameworks ([JUnit](https://github.com/junit-team)&thinsp;<sup>:octocat:</sup> as the most famous).
+a signer of _Agile Manifesto_, a productive author on patterns, and a contributor to frameworks ([JUnit](https://github.com/junit-team)&thinsp;<sup>:octocat:</sup> as the most acclaimed).
 
 ### L. Peter Deutsch<a id="peter-deutsch" />
 
-_L. (Lawrence) Peter Deutsch_ (born 1946), computer scientist and composer, the son of a famous MIT physics professor. Smalltalk, Ghostscript, FOSS, ...
+_L. (Lawrence) Peter Deutsch_ (born 1946), computer scientist and composer, the son of a renowned MIT physics professor. Smalltalk, Ghostscript, FOSS, ...
 
 ___________\
 &nbsp; &nbsp;<sup>👽</sup> <samp>Labels selection of prominent scientists known as [Martians](https://en.wikipedia.org/wiki/The_Martians_(scientists))<sup><b>w</b></sup></samp>\
