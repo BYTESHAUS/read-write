@@ -2,7 +2,7 @@
 
 <div dir="rtl"><i>I like epigraphs for<br/>magnificent look and<br>.vertical indent</i></div>
 
-<details><summary><ins>&nbsp;<b>West meets East</b>&nbsp;</ins></summary>
+<details><summary><h3><ins>&nbsp;<b>West meets East</b>&nbsp;</ins></h3></summary>
 &nbsp;
   
 ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
@@ -24,7 +24,7 @@ Translated east-to-west, this means: follow career paths to a sinecure in a big 
 
 \___________</details>
 
-<details><summary><a name="AIxorIT"></a><ins>&nbsp;<b>AI&nbsp;</ins><code><samp>XOR</samp></code><ins>&nbsp;IT</b>&nbsp;</ins></summary>
+<details><summary><h3><a name="AIxorIT"></a><ins>&nbsp;<b>AI&nbsp;</ins><code><samp>XOR</samp></code><ins>&nbsp;IT</b>&nbsp;</ins></h3></summary>
 &nbsp;
 
 ![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
@@ -38,7 +38,7 @@ Translated east-to-west, this means: follow career paths to a sinecure in a big 
 
 ## Programming techniques
 
-<details><summary><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
+<details><summary><h3><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
   
 ![Genius](https://img.shields.io/badge/💡-Genius-blue)
@@ -53,7 +53,7 @@ As the extraordinary [**John von&nbsp;Neumann**](../quotes/README+/contributors/
 
 \___________</details>
 
-<details><summary><ins>&nbsp;<b>Programmer in a math class</b>&nbsp;</ins></summary>
+<details><summary><h3><ins>&nbsp;<b>Programmer in a math class</b>&nbsp;</ins></h3></summary>
 &nbsp;
 
 ![IT meets math](https://img.shields.io/badge/CTRL+F-X-blue) ![IT meets math](https://img.shields.io/badge/IT_meets-math-yellow)
@@ -66,7 +66,7 @@ However, this answer is justified because of changed requirements to programmers
 
 ## Historic snapshots
 
-<details><summary>📱 <b><ins>&nbsp;<mark>1926</mark>: Mobile phones rock Berlin&nbsp;</ins></b></summary>
+<details><summary>📱 <b><ins>&nbsp;<mark>1926</mark>: Mobile phones rock Berlin&nbsp;</ins></b></h3></summary>
 &nbsp;
 
 <picture><img alt="&nbsp;&nbsp;Berlin, drahtlose Telephonie" src="../../../_rsc/_img/snap/media/1926.Simplicissimus-KarlArnold_drahtloseTelefonie.jpg" 
@@ -80,7 +80,7 @@ The caricature may look sloppy, but its author, Karl Arnold, had astonishingly e
 
 </details>
 
-<details><summary>💻<ins>&nbsp;<b><mark>1956</mark>: IT conquered the world</b>&nbsp;</ins></summary>
+<details><summary>💻<ins>&nbsp;<b><mark>1956</mark>: IT conquered the world</b>&nbsp;</ins></h3></summary>
 &nbsp;
 
 <picture><img alt="&nbsp; Movie poster: IT Conquered the World, 1956. Tagline: EVERT NAN ITS PRISONER ... EVERT WOMAN ITS SLAVE!" src="../../../_rsc/_img/snap/movies/1956.IT_conquered_the_World.jpg" 
@@ -90,14 +90,14 @@ The caricature may look sloppy, but its author, Karl Arnold, had astonishingly e
 
 </details>
 
-<details><summary>💿<ins>&nbsp;<b><mark>1956</mark>: When disks were indeed hard and strong skills in IT for real...</b>&nbsp;</ins></summary>
+<details><summary>💿<ins>&nbsp;<b><mark>1956</mark>: When disks were indeed hard and strong skills in IT for real...</b>&nbsp;</ins></h3></summary>
 &nbsp;
 
 <picture><img alt="&nbsp; The year 1956: loading an IBM disk to rent" src="../../../_rsc/_img/photo/hist/IBM350_1956.jpg" /></picture><br/><br/>
 
 </details>
 
-<details><summary>🚗 <b><ins>&nbsp;<mark>19<i>nn</i></mark>: Full self-drive "next year" since 2014? Buckle up...&nbsp;</ins></b></summary>
+<details><summary>🚗 <b><ins>&nbsp;<mark>19<i>nn</i></mark>: Full self-drive "next year" since 2014? Buckle up...&nbsp;</ins></b></h3></summary>
 &nbsp;
 
 <picture><img alt="&nbsp;&nbsp;LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
@@ -107,7 +107,7 @@ _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
 
 </details>
 
-<details><summary>🗃️ <b><ins>&nbsp;<mark>1966</mark>: Pile or stack?&nbsp;</ins></b></summary>
+<details><summary>🗃️ <b><ins>&nbsp;<mark>1966</mark>: Pile or stack?&nbsp;</ins></b></h3></summary>
 &nbsp;
 
 <picture><img alt="&nbsp;Pile/stack of punchcards in 1966" src="../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg" /></picture><br/>
@@ -129,7 +129,7 @@ flowchart TD
   <a href="README+/prj_cases.md"><b>PROJECT STORIES</b></a>
 </td><td>
     <a href="README+/tale-memory_masters.md"><img src="../../../_rsc/_img/_nav/tiles/ChessBox_bw-200px.jpg" alt="&nbsp;&nbsp;Tales from the crypt" /><br />
-  <b>MEMORY MASTERS</b></a>
+  <b>&Mscr;<samp>EMORY</samp> &Mscr;<samp>ASTER</samp>s</b></a>
 </td><td>
   <samp><b>IT WORKS</b></samp><br />
   <mark>&thinsp;<b>¯\_(ツ)_/¯</b>&thinsp;</mark><br />
