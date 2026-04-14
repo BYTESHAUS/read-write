@@ -1,4 +1,4 @@
-# The Legend of &nbsp; &Mscr;<samp>&thinsp;E&thinsp;M&thinsp;O&thinsp;R&thinsp;Y</samp> &nbsp; &Mscr;<samp>&thinsp;A&thinsp;S&thinsp;T&thinsp;E&thinsp;R&thinsp;S</samp>
+# The Legend of the&nbsp; &Mscr;<samp>&thinsp;E&thinsp;M&thinsp;O&thinsp;R&thinsp;Y</samp> &nbsp; &Mscr;<samp>&thinsp;A&thinsp;S&thinsp;T&thinsp;E&thinsp;R&thinsp;S</samp>
 
 [![Tales fron byteshaus](https://img.shields.io/badge/Tales%20from-the%20Byteshaus-blue?logo=readthedocs&logoColor=fdf)](#)
 
