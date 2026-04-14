@@ -36,7 +36,7 @@ Translated east-to-west, this means: follow career paths to a sinecure in a big 
 
 \___________</details>
 
-## Programming techniques
+<h2 align="right">Programming techniques</h2>
 
 <details><summary><h3><ins>&nbsp;<b>Fair random</b>&nbsp;</ins></summary>
 &nbsp;
@@ -64,7 +64,7 @@ However, this answer is justified because of changed requirements to programmers
 
 \___________</details>
 
-## Historic snapshots
+<h2 align="right">Historic snapshots</h2>
 
 <details><summary>📱 <b><ins>&nbsp;<mark>1926</mark>: Mobile phones rock Berlin&nbsp;</ins></b></h3></summary>
 &nbsp;
@@ -117,7 +117,7 @@ A store of punched cards for a casual program. I'm proud to have some [little ex
 
 </details>
 
-## Mosaic
+<h2 align="right">Mosaic</h2>
 
 <table><tr align="center"><td>
   
@@ -150,7 +150,7 @@ flowchart TD
 </td>
 </tr></table>
 
-## **Volume&nbsp;II.** [**Inspirational quotes**](../quotes/README+/inspirational.md) 
+# **Volume&nbsp;II.** [**Inspirational quotes**](../quotes/README+/inspirational.md) 
 
 ___________\
 🔚 🌒 2024-2026.. _**B**yteshausmeister_ <br />[Notes/disclaimer](../../../_rsc/README.md) about graphic resources<br />
