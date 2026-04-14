@@ -1,4 +1,4 @@
-# The Legend of &nbsp; M<samp>&thinsp;E&thinsp;M&thinsp;O&thinsp;R&thinsp;Y</samp> &nbsp; M<samp>&thinsp;A&thinsp;S&thinsp;T&thinsp;E&thinsp;R&thinsp;S</samp>
+# The Legend of &nbsp; &Mscr;<samp>&thinsp;E&thinsp;M&thinsp;O&thinsp;R&thinsp;Y</samp> &nbsp; &Mscr;<samp>&thinsp;A&thinsp;S&thinsp;T&thinsp;E&thinsp;R&thinsp;S</samp>
 
 [![Tales fron byteshaus](https://img.shields.io/badge/Tales%20from-the%20Byteshaus-blue?logo=readthedocs&logoColor=fdf)](#)
 
@@ -13,7 +13,7 @@
 
 </td><td>
   
-### &Tscr;he lore goes in times of two-row monochrome text monitors (if not arrays of light bulbs) when every programmer was a computer scientist, or a mathematician, or both.
+### &Tscr;he lore goes in times of the ▪️two-row ▪️monochrome ▪️text _monitors_ (if not arrays of light bulbs) when every programmer was a computer scientist, or a mathematician, or both.
 
 &Tscr;hose senior in age and title occupied relatively idle nighttime<sup>🌛</sup> to connect their computer centers via antediluvian _wide-area networks_ and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in _machine languages_.
     
