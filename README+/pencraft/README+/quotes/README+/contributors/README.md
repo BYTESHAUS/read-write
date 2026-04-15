@@ -127,7 +127,7 @@ He is distinguished for his endowment in the pedagogy of mathematics. One of his
 
 ### Paul Erdos
 
-_Paul Erdos_ (**1913**-1996, math. conference, Warsaw)<sup>👽</sup>, one of the most prolific mathematicians and publisher; 
+_Paul Erdos_ (**1913**-1996, math. conference, Warsaw)<sup>👽</sup>, one of the most prolific mathematicians and probably the most focused of all times.
 
 ### Paul Halmos
 
