@@ -1,11 +1,16 @@
-# <sup>CODING</sup> `++`Take on `zero` Index 
+# _CODING_ &nbsp;&mdash;&nbsp; `++`Take on `zero` Index 🚧 PLACEHOLDER 🚧
 
-<div align="right"><b>P&thinsp;u&thinsp;z&thinsp;z&thinsp;l&thinsp;e:</b><br />What's common for <i>Paris</i>, <i>Australia</i>, Mayan calendar <code>C++</code>, and Java❓</div>
-<div align="right"><b>Hint:</b><br />differs from Chile<sup>🇨🇱</sup>, FORTRAN with Basic, and Common Era</div>
-<details align="right"><summary><b><ins>A&thinsp;n&thinsp;s&thinsp;w&thinsp;e&thinsp;r&thinsp;:</ins></b></summary>Base number of floors, arrays, and years.
-<br/>___________</details>
+<table align="right"><tr></tr><tr><td>
+  
+  **What's common for**\
+  Paris, Australia, Mayan calendar, `C++`, and `Java`,\
+  **but differs from**\
+  Santiago<sup>&thinsp;🇨🇱</sup>, `FORTRAN` with `Basic`, and Common Era&thinsp;**?**
 
-🚧 PLACEHOLDER 🚧
+</td></tr></table>
+
+
+
 
 Could be not a big error: [NullRefError.md](Null error)
 
@@ -30,3 +35,4 @@ REAL BUG when cross-referencing language modules (e.g., C# to Basic).
 
 ___________\
 🔚 🌔.. 2025-2026 .. <b>Β</b>ytesHausMeister
+
