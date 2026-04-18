@@ -25,7 +25,7 @@ I must have deserved the privilege of personal<br /><b><i>LOTUS</i> NOTES</b>.</
   src="../../../../../_rsc/_img/af/LN/LN-WS_snapshot(computerwoche.de).jpg" title="Screenshot of casual Lotus Notes R8 workspace&#013;&#010;(source: computerwoche.de)" /></picture>
 </td><td>
 
-**LN** paved the public road to diverse innovations: client-server, multirole/group access, distributed/synchronized doc-oriented DB<sup>📜</sup>, **replication**<sup>⭐</sup>, asymmetric encryption from authorization down to selected fields on demand &thinsp;&mdash;&thinsp; to name a few hallmarks.
+**LN** paved the public road to diverse innovations: client-server, multirole/group access, distributed/synchronized doc-oriented DB<sup>📜</sup>, **replication**<sup>⭐</sup>, asymmetric encryption from authorization down to selected fields on demand &thinsp;&ndash;&thinsp; to name a few hallmarks.
 
 **LN** wasn't deprived of drawbacks; there were alternative suites (including legacy and tailor-made), but this aquatic flower dominated the market garden ... until Microsoft began to win large chunks of the office software market.\
 ___________\
@@ -37,13 +37,13 @@ ___________\
 It was a big chance not only to gain from sales and internal installations but also to reform leastways _Notes_ by leaning on the influence and technological capital of the _Big Blue_.\
 However, mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦</sup>
 
-* In **2001**, <sub><sub>[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)</sub></sub> released its "bird of a feather" &thinsp;<samp>&mdash;</samp>&thinsp; **SharePoint** &thinsp;<samp>&mdash;</samp>&thinsp; much more sophisticated and bulkier but promoting the next generation of a product and API.\
+* In **2001**, <sub><sub>[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)</sub></sub> released its "bird of a feather" &thinsp;<samp>&ndash;</samp>&thinsp; **SharePoint** &thinsp;<samp>&ndash;</samp>&thinsp; much more sophisticated and bulkier but promoting the next generation of a product and API.\
 SharePoint was deprived of many inherent vices of the Lotus trailblazer and gradually began to supersede _LN_ in the one-way migration. 
 
 * In **2018**, the sell-out of Domino/Notes and granting the office's source code to freeware pushed **_LN_** out to IT margins.
 
 ___________\
-&nbsp; &nbsp; <sup>💰</sup> <samp>For a $3.5 billion &mdash; pretty good deal ahead of skyrocketing procurements of the 2000s.</samp>\
+&nbsp; &nbsp; <sup>💰</sup> <samp>For a $3.5 billion &ndash; pretty good deal before skyrocketing procurements of the 2000s.</samp>\
 &nbsp; &nbsp; <sup>🍦</sup> <samp>It's not a top secret that IBM's cold shoulder urged many top Lotus contributors to leave.</samp>
 
 <h2 align="center">Epilogue. Alternate history</h2>
@@ -87,10 +87,10 @@ Great potential for [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_so
 This wishlist and quality sustainability would require top and liable teams/community instead of outsourcing. 
 ("Migrating" myself from _LN_ to .NET, I experienced, for certain, that beta versions of Visual Studio&nbsp;2010 were less eager to crash than sametime releases of Notes Designer.)
 
-<h2 align="center">⬆️ <mark>Was it technically doable? &thinsp;&mdash;&thinsp; <b>Absolutely</b>.</mark><br /><samp>Great cutting-edge again? &thinsp;&mdash;&thinsp; Possibly.</samp></h2>
+<h2 align="center">⬆️ <mark>Was it technically doable? &thinsp;&ndash;&thinsp; <b>Absolutely</b>.</mark><br /><samp>Great cutting-edge again? &thinsp;&ndash;&thinsp; Possibly.</samp></h2>
 
 > Let me finish with the quote from another single: "_**Now I know what made Lotus blue**_."\
-> (Yes, I know &mdash; **_Otis_** but, in earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue)<sup>&thinsp;<b>W</b></sup>. This should suffice to demonstrate my involvement.)
+> (Yes, I know &ndash; **_Otis_** but, in earnest, I was pretty sure that _Lotus_ until [proof](https://en.wikipedia.org/wiki/Now_I_Know_What_Made_Otis_Blue)<sup>&thinsp;<b>W</b></sup>. This should suffice to demonstrate my involvement.)
 
-______\
-🔚 &nbsp;🌘 <samp><b>Β</b>ytesHausMeister</samp> ..2023-2026..
+___________\
+🔚 &nbsp;🌘 ..2023-2026.. <samp><b>Β</b>ytesHausMeister</samp>
