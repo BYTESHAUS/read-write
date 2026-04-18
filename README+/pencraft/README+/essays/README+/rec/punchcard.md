@@ -1,8 +1,8 @@
-<h1 align="center">Punched cards &nbsp;&mdash;&nbsp; Once upon a time</h1>
-
-> **Guaranteed to be authentic** &thinsp;&mdash;&thinsp; not another paraphrase of [wiki articles](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)<sup><b>w</b></sup>
+<h1 align="center">&Popf;unched &Copf;ards &nbsp; &#10002; &Oscr;&nscr;&cscr;&escr; &uscr;&pscr;&oscr;&nscr; &ascr; &tscr;&iscr;&mscr;&escr;</h1>
 
 # Intramural experience (short and vintage)
+
+<p align="right"><b>Guaranteed to be authentic</b> &thinsp;&ndash;&thinsp; not another paraphrase of <a href="https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era">wiki articles</a><sup><b>w</b></sup></p>
 
 <table><tr valign="top"><td><picture><img width="333px" alt="&nbsp;Ancient Egypt bas-relief" src="../../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture><br />
       <a href="../../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg">
@@ -10,11 +10,11 @@
       <picture><img width="333px" alt="&nbsp;Please do not bend" src="../../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
                   </td><td>
                         
-Long after their decline, punching technology and its carton carrier survived as a coursework at my university. **But&nbsp;till** the&nbsp;remaining supply of cards became extinct &thinsp;&mdash;&thinsp; I caught the last year of this legacy.
+Long after their decline, punching technology and its carton carrier survived as a coursework at my university. **But&nbsp;till** the&nbsp;remaining supply of cards became extinct &thinsp;&ndash;&thinsp; I caught the last year of this legacy.
                         
 ## The Task
       
-It was an exercise in PL/I&thinsp;<sup>🔢</sup> &thinsp;&mdash;&thinsp; output a curve of an assigned function (a variant of $`ax^2 + bx + c`$ was mine). And the <i>output</i> meant <b>direct to the line printer</b> using teletype symbols for <samp>X/Y</samp> axes and the graph.
+It was an exercise in PL/I&thinsp;<sup>🔢</sup> &thinsp;&ndash;&thinsp; output a curve of an assigned function (a variant of $`ax^2 + bx + c`$ was mine). And the <i>output</i> meant <b>direct to the line printer</b> using teletype symbols for <samp>X/Y</samp> axes and the graph.
 
 Believe it or not, this story had no electronic display.
 
@@ -51,7 +51,7 @@ Between **(4)** and **(5)**, a fellow disciple intruded, shuffling my deck unnot
 
 <h1 align="right">Extramural afterword</h1>
 
-__This mediocre story is also a chance to remind the reader of the outstanding traits of this medium__, &thinsp;&mdash;&thinsp;  despite its fast decadence, predetermined by data density 
+__This mediocre story is also a chance to remind the reader of the outstanding traits of this medium__, &thinsp;&ndash;&thinsp; despite its fast decadence, predetermined by data density 
 (It couldn't evolve to double-sided and then mini/micro).
 
 I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. Just count:
@@ -70,5 +70,5 @@ Even if the data remains unclaimed, our heirs or other species may use the cards
 and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_Golden_Record)<sup><b>w</b></sup>.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🪢</sup> <samp>Though there was a joke that IBM's positioning of holes won the US government bid for encryption.</samp>
 
-\_______\
- 🔚 &nbsp; 🌙 <b>Β</b>ytesHausMeister 2024-2026 ...
+___________\
+ 🔚&nbsp; 🌙 <b>Β</b>ytesHausMeister 2024-2026 ...
