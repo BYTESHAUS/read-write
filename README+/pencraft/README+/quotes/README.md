@@ -1,9 +1,9 @@
 # IT &nbsp;&mdash;&nbsp; &Qopf;uotes store
 
 <p dir="rtl">?What makes a good quote<br/>
-.Terse, witty? &ndash; That's for aphorisms<br/>
-.Brainy, ingenious? &ndash; Prerequisites<br/>
-.Must age good &ndash; <b>??</b></p>
+.Terse, witty? &thinsp;&ndash;&thinsp; That's for aphorisms<br/>
+.Brainy, ingenious? &thinsp;&ndash;&thinsp; Prerequisites<br/>
+.<b>Must age good</b> &thinsp;&ndash;&thinsp; <b>??</b></p>
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
           <a href="README+/aside/controversy.md"><img src="../../../_rsc/_img/_nav/quotes/controversy_390x250px.png" alt="&nbsp;&nbsp;&nbsp;Quotes - Controversial"  title="IT quotes - &#013;&#010;controversial"/></a>
     </td>
   </tr><tr></tr>
-  <tr><td colspan="3"><h2 align="center"><ins>&thinsp;⬆️ 🧑‍💻 <a href="README+/contributors/README.md">&Copf;ONTRIBUTORS</a> 👩‍🔬 ⬆️&thinsp;</ins></h2></td></tr>
+  <tr><td colspan="3"><h2 align="center"><ins>&thinsp;⬆️ 🧑‍💻 <a href="README+/contributors/README.md">&Copf;ONTRIBUTORs</a> 👩‍🔬 ⬆️&thinsp;</ins></h2></td></tr>
 </table>
 
-🔚 🌒 .. 2024-2026.. 
+🔚 🌒 ..2024-2026.. 
