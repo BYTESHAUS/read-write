@@ -8,7 +8,7 @@
 
 <p align="center"><i> &Iscr; remastered and enhanced that.</i></p>
 
-<table><tr valign="top"><td width="50%"><picture><img src="../../../../_rsc/_img/snap/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
+<table><tr valign="top"><td width="50%"><picture><img src="../../../../_rsc/_img/snap/movies/1978.BornInvincible.jpg" alt="&nbsp;Kung Fu masters from Born Invincible, 1978" /></picture><br />
 <picture><img alt="&nbsp;Early memory chips" src="../../../../_rsc/_img/af/Intel-C1103_ink.jpg" /></pictire>
 
 </td><td>
