@@ -7,7 +7,9 @@
 
 <a href="../../../../_rsc/_img/snap/media/books/IDR_CobolForDummies_byA.Griffith.jpg"><img alt="&nbsp;COBOL for Dummies" src="../../../../_rsc/_img/snap/media/books/IDR_CobolForDummies_byA.Griffith_frag.jpg" /></a>
 
-### <mark>CO</mark>mmon <mark>B</mark>usiness-<mark>O</mark>riented <mark>L</mark>anguage was intended to allow non-programmers to describe their tasks in English.
+### <mark>CO</mark>mmon <mark>B</mark>usiness-<mark>O</mark>riented <mark>L</mark>anguage &ndash; deabbreviation reveals that COBOL was intended for non-programmers to describe their tasks in English.
+
+(It never happened.)
   </td>
  <td width="34%"><h1>1981</h1><img width="350px" alt="&nbsp; Personal Computer, Feb/1981: Programming is over" src="../../../../_rsc/_img/snap/media/magazines/endOfProg/1981.Feb-PC-end_of_programming.jpg" /></td>
  
