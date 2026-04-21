@@ -1,4 +1,6 @@
-# Remarks to Tests as Theory
+# Remarks to Tests as Theory --> MOVE to abstract DEPARTMENT
+
+=> STUMBLE: internal methods made public to be available for test
 
 the biggest poser. SaaT, TaaS
 
