@@ -120,30 +120,32 @@ A store of punched cards for a casual program. I'm proud to have some [little ex
 <h2 align="right">Mosaic</h2>
 
 <table><tr align="center"><td>
-  
+<samp><b>IT WORKS</b></samp><br />
+  <mark>&thinsp;<b>¯\_(ツ)_/¯</b>&thinsp;</mark><br />
+  on my MACHINE<br />
+  <mark>&thinsp;<b>☁️ ¯\_(ツ)_/¯ ☁️</b>&thinsp;</mark><br />
+  in my CLOUD<br />
+<br /><a href="README+/polyptych_works.md"><b>POLYPTYCH</b></a>
+</td><td>
+    <a href="README+/tale-memory_masters.md"><img src="../../../_rsc/_img/_nav/tiles/ChessBox_bw-200px.jpg" alt="&nbsp;&nbsp;Tales from the crypt" /><br />
+  <b>&Mscr;<samp>EMORY</samp> &Mscr;<samp>ASTER</samp>s</b></a>
+</td><td>
+  <a href="README+/nerd-doomsday-calendar.md"><b>NERDs' DOOMSDAYs</b></a>
+</td>
+                    </tr><tr></tr><tr align="center">
+<td>
+    
   ```mermaid
 flowchart TD
     Start --> Continue
   ```
   
   <a href="README+/prj_cases.md"><b>PROJECT STORIES</b></a>
-</td><td>
-    <a href="README+/tale-memory_masters.md"><img src="../../../_rsc/_img/_nav/tiles/ChessBox_bw-200px.jpg" alt="&nbsp;&nbsp;Tales from the crypt" /><br />
-  <b>&Mscr;<samp>EMORY</samp> &Mscr;<samp>ASTER</samp>s</b></a>
-</td><td>
-  <samp><b>IT WORKS</b></samp><br />
-  <mark>&thinsp;<b>¯\_(ツ)_/¯</b>&thinsp;</mark><br />
-  on my MACHINE<br />
-  <mark>&thinsp;<b>☁️ ¯\_(ツ)_/¯ ☁️</b>&thinsp;</mark><br />
-  in my CLOUD<br />
-<br /><a href="README+/polyptych_works.md"><b>POLYPTYCH</b></a>
 </td>
-                    </tr><tr></tr><tr align="center">
 <td>
   <a href="README+/template_memes.md"><img src="../../../_rsc/_img/_nav/tiles/dashed_bw-200px.jpg" alt="&nbsp;&nbsp;Memes from templates" /><br />
-  <a href="README+/template_memes.md"><b>TEMPLATED</b></a>
+  <a href="README+/template_memes.md"><b>TEMPLATED</b></a>  
 </td>
-<td></td>
 <td>
   <picture><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="&nbsp;coming next ..." /></picture><br />
   <a href="README+/extra_read.md"><b>EXTRA READING</b></a>
@@ -153,5 +155,6 @@ flowchart TD
 # **Volume&nbsp;II.** [**Inspirational quotes**](../quotes/README+/inspirational.md) 
 
 ___________\
-🔚 🌒 2024-2026.. _**B**yteshausmeister_ <br />[Notes/disclaimer](../../../_rsc/README.md) about graphic resources<br />
-<sub>Image credits: [The Mystery of Chess Boxing](https://www.imdb.com/title/tt0199813/?ref_=nm_flmg_job_1_cdt_t_13)🎦</sub>
+🔚 🌒 2024-2026.. _**B**yteshausmeister_ &nbsp; &nbsp; <sub>Image credits: [The Mystery of Chess Boxing](https://www.imdb.com/title/tt0199813/?ref_=nm_flmg_job_1_cdt_t_13)🎦</sub> &nbsp; &nbsp; 
+[Notes/disclaimer](../../../_rsc/README.md) about graphic resources<br />
+

@@ -39,15 +39,5 @@ I dare say that this battle is over, and resource starvation with performance hi
 
 Much has changed since the 1990s, when sparing half a byte in a DOS program was a worthy trick. The grace of auto memory allocation with garbage collection and intermediate languages spread only because the hardware could facilitate them.
 
-## Doomsday for nerds
-
-<table><tr valign="top" align="center">
- <td><h1>1981</h1><img width="350px" alt="&nbsp;Personal Computer, Feb/1981: Programming is over" src="../../../../../_rsc/_img/snap/media/magazines/endOfProg/1981.Feb-PC-end_of_programming.jpg" /></td>
- <td><h1>1 Jan 2023</h1><h3>COMMUNICATIONS of the ACM</h3><h4>The End of Programming</h4>
-  <a href="https://cacm.acm.org/opinion/the-end-of-programming"><img width="350px" alt="&nbsp;Communications ACM 01/Jan/2023: End of programming" src="../../../../../_rsc/_img/snap/media/magazines/endOfProg/2023.01.01-CACM-end_of_programming.jpg" /></a></td>
- <td><h1>June 2023</h1><img width="350px" alt="&nbsp;NYT, June/2023: End of programming" src="../../../../../_rsc/_img/snap/media/magazines/endOfProg/2023.06.02-NYT-end_of_programming.jpg" />
-</td>
-</tr> </table>
-
-\___________\
+___________\
 🔚 ... to be continued ...
