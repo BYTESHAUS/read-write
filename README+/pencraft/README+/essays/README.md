@@ -1,4 +1,4 @@
-# Pencraft ↝ <samp><i><mark>T</mark></i></samp>&thinsp;<sup><mark>R</mark></sup>&thinsp;<sub><mark>I</mark></sub>&thinsp;<sup><mark>E</mark></sup>&thinsp;<samp><mark>S</mark></samp><sub>✒️</sub>
+# &Pscr;encraft ↝ <samp><i><mark>T</mark></i></samp>&thinsp;<sup><mark>R</mark></sup>&thinsp;<sub><mark>I</mark></sub>&thinsp;<sup><mark>E</mark></sup>&thinsp;<samp><mark>S</mark></samp><sub>✒️</sub>
 
 <table>
   <tr align="center" valign="top">
@@ -8,11 +8,11 @@
     </td>
       <td><!--                        L O T U S   N O T E S      --!>
       <a href="README+/rec/LN-view.md"><img src="../../../_rsc/_img/_nav/tiles/LotusNotes_bw-200px.jpg" alt="&nbsp;LN-view.md" title="&nbsp;Lotus Notes - This used to be my playground" />
-      <br /><b>LOTUS NOTES</b></a>
+      <br /><b>LOTUS &Nscr;OTES</b></a>
     </td>
     <td><!--                        P U N C H C A R D S      --!>
       <a href="README+/rec/punchcard.md"><img src="../../../_rsc/_img/_nav/tiles/punchcard_bw-200px.png" alt="&nbsp;used punchacrd" title="&nbsp;Punchcards - once upon a time"/>
-        <br /><b>PUNCHCARDS</b></a>
+        <br /><b>&Pscr;UNCHCARDS</b></a>
     </td>
         <td rowspan="5"><picture><img alt="&nbsp;BYTESHAUS" src="../../../_rsc/_img/logo/byteshaus/vert/basic-v750px.jpg" height="100%"/></picture></td>
                                  </tr><tr></tr><tr align="center">
@@ -26,7 +26,7 @@
      </td>
     <td><!--                                Q U O T E S      --!>
         <a href="../quotes/README+/inspirational.md"><img src="../../../_rsc/_img/_nav/tiles/InspitationQuotes_bw-200px.png" alt="&nbsp; inspirational.md" title="&nbsp;Quotes to work and rest"/>
-        <br /><b>QUOTES for INSPIRATION</b></a>
+        <br /><b>&Qopf;UOTES for INSPIRATION</b></a>
     </td>
         </tr><tr></tr><tr align="center">                                                  
   <td><!--                  T D D   W A T E R S H E D !-->
@@ -35,7 +35,7 @@
     </td>
     <td>
       <picture><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="&nbsp;Coming up next..." title="&nbsp;Next essay coming sooner or later.."/></picture>
-      <br /><b>? PEN RESISTANCE ?</b>
+      <br /><b>? &Pscr;EN RESISTANCE ?</b>
     </td>
     <td>
       <a href="../offtopic/anti-home-office.md"><img src="../../../_rsc/_img/_nav/tiles/_BonusTrack_bw-200px.png" alt="&nbsp;Bonus track: anti-home-office" title="&nbsp;Neither office nor home spots"/>
