@@ -1,31 +1,31 @@
-# IT &Qopf;uotes &nbsp; &mdash; &nbsp; Aged not that good
+# IT &Qopf;uotes &nbsp;&mdash;&nbsp; Aged not that good
 
-## Skills
+## &Sscr;kills
 
 ### Math
  
-> Prolonged contact with the computer turns mathematicians into clerks and vice versa.\
+> **Prolonged contact with the computer turns mathematicians into clerks and vice versa.**\
 [Alan Perlis](../contributors/README.md#Alan-Perlis)
 
-> Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.\
+> **Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.**\
 [Edsger W. Dijkstra](../contributors/README.md#Edsger-W-Dijkstra), 1975
 
 The respected masters couldn't foresee the exponential growth of "applied" development and the dramatic sinking of the entry threshold.
 
 I venture to reformulate: "Most advanced in exact sciences can be good programmers (unless they already are), but not vice versa." 
 
-Nevertheless, capabilities are not the only ones to blame — the load of learning and abstraction in IT doesn't leave much time for a deep dive into other studies.
+Nevertheless, capabilities are not the only ones to blame &thinsp;&ndash;&thinsp; the load of learning and abstraction in IT doesn't leave much time for a deep dive into other studies.
 
-## Software
+## &Sscr;oftware
 
 ### Languages
 
 > **In 30 years <mark>Lisp</mark> will likely be ahead of C++/Java (but behind something else).**\
 _Peter Norvig_, computer scientist at Google, **1999**
 
-With the elapsed **25** of 30 popular metrics put __`Java`__ in the top five, and __`C++`__ - in ten. __`Lisp`__ remains on the margins.
+With the elapsed **25** of 30 popular metrics put __`Java`__ in the top five, and __`C++`__ &thinsp;&ndash;&thinsp; in ten. __`Lisp`__ remains on the margins.
 
-## Hardware
+## &Hscr;ardware
 
 ### Performance 
 
