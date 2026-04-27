@@ -1,14 +1,14 @@
-<h1 align="center">Software &thinsp;&mdash;&thinsp; Prog<samp>[</samp><sup>rammed</sup>/<sub>rammatic</sub><samp>]</samp> Tests</h1>
+<h1 align="center">&Sscr;oftware &thinsp;&mdash;&thinsp; &Popf;rog<samp>[</samp><sup>rammed</sup>/<sub>rammatic</sub><samp>]</samp> &Topf;ests</h1>
 
 <table><tr valign="top"><td><picture><img alt="&nbsp;LOGO" src="../../_rsc/_img/LOGO_PROG_TESTS_PENDING.jpg" /></picture>
 </td><td>
   
-### Coded tests, as a discipline and an idea<sup>💡</sup>, appeared together with high-level languages.
+### Programmatc tests, as a discipline and an idea<sup>💡</sup>, appeared together with high-level languages.
   
 + They became a unique part of the software: optional but integral.
 + They don't contribute to product contents but are as essential as the foundation code.
-+ They are versatile since they can be applied to any extent and direction and for differing purposes.
-+ They can follow any practices and methodologies, even &thinsp;&mdash;&thinsp; no tests at all<sup>💫</sup>.
++ They are versatile, as being applicable to any extent, direction, and for differing purposes.
++ They can follow any practices and methodologies, even &thinsp;&ndash;&thinsp; no tests at all<sup>💫</sup>.
 
 <div dir="rtl"><sub>.The <b>idea</b> of writing procedures with the single objective to examine another code</sub><sup>💡</sup></div>
 <div dir="rtl"><sub>Some algorithms or particular artifacts can be hardly testable or be fruitless. Or only personal evaluation</sub><sup>💫</sup></div>
@@ -23,15 +23,14 @@
 
 ### Getting started with testing is a no-brainer:
 
-+ It's **simple** because neither special skills nor prescribed processes are obligatory.\
-(You can adhere to a methodology later.)
-+ The start requires **minimal** expertise &thinsp;&mdash;&thinsp;  basics of a programming language.
-+ Popular and mostly free **frameworks** and auxiliaries unleash the writing and provide templates, test doubles, and device simulation.
++ It's **simple** because neither special skills nor prescribed processes or frameworks are obligatory.\
+<samp>One can adhere to a methodology later and begin with bare parametrized calls of core functions and properties, followed by a log/error for (un)expected results.</samp>
++ The start requires **minimal** expertise &thinsp;&ndash;&thinsp;  basics of a programming language.
++ Popular and mostly free **frameworks** and auxiliaries unleash the writing and provide templates, test doubles, and modules/devices simulation.
++ Tests can be written in the same or another programming language than their subjects.
++ Popular frameworks are simple to extend. Those custom from scratch aren't verboten either.
 
-Tests can be written in the same or another programming language than their subjects. Even without a framework. &nbsp;&mdash;&nbsp; 
-Bare parametrized calls of core functions and properties followed by a log/error for unexpected results.
-
-<p align="center"><b>We've uncorked a very vast theme, and its further discussions can't avoid this <mark>principal</mark> branching:</b></p>
+<h3 align="center">We've uncorked a very vast theme, and its further discussions can't avoid this <mark>principal</mark> branching:</h3>
 
 <table align="center"><tr><td>
   <div align="center"><b>TESTS<br><mark>&thinsp;f&thinsp;o&thinsp;r&thinsp;</mark></b>
