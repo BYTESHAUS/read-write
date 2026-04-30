@@ -1,4 +1,4 @@
-# P<samp>ROJECT </samp>S<samp>TORIES</samp> &thinsp;&larr;&thinsp; from all over the globe ... and beyond
+# &Pscr;<samp>ROJECT </samp>S<samp>TORIES</samp> &thinsp;&larr;&thinsp; from all over the globe ... and beyond
 
 ## Marsupial Covariance
 
@@ -12,7 +12,7 @@
           alt="&nbsp; a flying kangaroo" title="&nbsp; A kangaroo clears a fence in Beveridge,&#013;&#010;&nbsp;37 km north of Melbourne's CBD&#013;&#010;&nbsp;(snapshot by Nathan Xuebsy, 2024)"></a>
     </td>
     <td align="center">
-      <h2>🦘&thinsp;<a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/">&nbsp;Object-oriented kangaroos &nbsp;</b></a></h2>
+      <h2>🦘&thinsp;<a href="https://www.snopes.com/fact-check/shoot-me-kangaroo-down-sport/">&nbsp;Object-oriented<br />kangaroos &nbsp;</b></a></h2>
       <p><a href="../../../../_rsc/_backup/ref/Marsupial/">downloaded safe-copy</a> <br />if the URL above doesn't work</samp></p>
     </td>
 
