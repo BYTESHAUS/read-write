@@ -1,7 +1,7 @@
-# Software &nbsp;&mdash;&nbsp; External parts
+# &Yscr;our &Sopf;oftware &nbsp;&mdash;&nbsp; &Escr;xternal &Popf;arts
 
-What are the cornerstones of a big new project &thinsp;&mdash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither. \
-**The fundamentals already exist and are proven concepts/components to adopt.**
+What are the cornerstones of a big new project &thinsp;&ndash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither. \
+**The fundamentals already exist, and they are vetted concepts/components to adopt.**
 
 > **This follows the universal paradigm: learn first from others.**
 
@@ -32,7 +32,7 @@ Developers get the best out-of-the-box: state-of-the-art UI, professional look a
 
 ## Backend
 
-Simple to moderate applications need no elaborate structure - they begin with a few data context classes. For large projects, teams shall weigh evaluation, learning curve, and fitting of the chosen framework against the hardship of their own development.
+Simple to moderate applications need no elaborate structure - they begin with a few data context classes. For large projects, teams shall weigh the evaluation, learning curve, and fitting of the chosen framework against the hardship of their own development.
 
 Many frameworks are good in themselves, but will burden your project with too much unclaimed "ballast" code.
 
@@ -46,10 +46,10 @@ Components for testing are so organic for applications that are associated/integ
 
 Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has filled the JSON blank in C# for years.
  
-Most license allow commercial use but when applying such 3d-party assets consider if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects. 
-Thus the readable source code with transparent design concepts is above all: releases, active contributors, extra features, popularity.
+Most licenses allow commercial use, but when applying such 3d-party assets, consider if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects. 
+Thus, the readable source code with transparent design concepts is above all: releases, active contributors, extra features, and popularity.
 
-Also, freeware means pretty often open-source, and here, not all are ready to give out the best ideas and realizations.
+Also, freeware often means open-source, and here, not all are ready to give out the best ideas and realizations.
 
 ### commercial and proprietary
 
@@ -58,4 +58,4 @@ All-around pro solutions aren't free, but annual dev licenses below $1K will qui
 &nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Compare to the exciting accomplished but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks ... last updated 10 years ago.</samp>
 
 ___________\
-🔚 .. 2024-2025 ..
+🔚 .. 2024-2026.. <samp><b>B</b>yteshausmeister</samp>
