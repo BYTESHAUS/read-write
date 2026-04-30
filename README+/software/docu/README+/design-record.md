@@ -1,4 +1,4 @@
-# Software &nbsp;&mdash;&nbsp; Design &nbsp;&mdash;&nbsp; Documentation
+# Software &nbsp;&mdash;&nbsp; Design &nbsp;&mdash;&nbsp; &Dscr;ocumentation
 
 + ### [Quality code](../../QA/code_quality/README.md) with profound and thoroughly categorized [names](../../design/code_org/README.md) must explain design brainchilds in intuitive manner. 
 
