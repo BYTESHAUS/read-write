@@ -1,4 +1,4 @@
-# Technical documentation&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Tips
+# Technical &Dscr;ocumentation&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Tips
 
 ## Content
 
@@ -6,13 +6,13 @@
 
 Long-running sentences, paragraphs, and chapters are first-degree misdemeanors.
 
-Does such a commonplace deserve a reminder? Yes, it still has to be met everywhere and became more poignant in the era of smartphones.
+Does such a commonplace deserve a reminder? Yes, it still has to be met everywhere and has become more poignant in the era of smartphones.
 
 ### Emphasizing
 
 #### Quotes
 
-* Except for citations use quotation marks for metaphors while _italic_ to introduce terms. Example:
+* Except for citations, use quotation marks for metaphors while _italic_ to introduce terms. Example:
 > To compare _multitasking_ vs. _parallelism_ imagine the CPU being a "kitchen" where a quick cook vs. an orderly brigade can prepare the same courses.
 
 #### References
@@ -30,7 +30,7 @@ Page 3 of **7**, Appendix 1/**3**, Chapter 11 of **20**.
 
 ### Replacements
 
-Many typography symbols may appear in text when markup is broken. To exclude doubts it's better to insert their symbolic versions, escape tags, or codes when possible:
+Many typography symbols may appear in text when the markup is broken. To exclude doubts, it's better to insert their symbolic versions, escape tags, or codes when possible:
 
 * <mark>“”</mark>, <mark>«»</mark>, or <tt>\&quot;</tt> instead of <mark>""</mark>,
 * <mark>⟨ ⟩</mark> or <tt>\&lt; \&gt;</tt> instead of angle brackets <mark><></mark>,
@@ -38,7 +38,7 @@ Many typography symbols may appear in text when markup is broken. To exclude dou
 * <tt>\&mdash;</tt> for long dash\
 [and so on](https://www.w3schools.com/html/html_entities.asp).
 
-Using/defining shortcuts for them in your editors will be fastly rewarded. (Like <tt>Ctrl+Shift-Space</tt> for non-breaking space in Microsoft Word)
+Using/defining shortcuts for them in your editors will quickly reward you. (Like <tt>Ctrl+Shift-Space</tt> for non-breaking space in Microsoft Word)
 
 ### Helpers
 
@@ -46,7 +46,7 @@ Replacements can be coded and ensure the text layout: <tt>\&nbsp</tt> for non-br
 
 ### Pictograms / emojis
 
-Small images are smart helpers to annotate, navigate, and focus unless heavily overused. They may apply to everything - text, solution items (folders and filenames), and even program output (UTF-8 glyphs to rescue).
+Small images are smart helpers to annotate, navigate, and focus, unless heavily overused. They may apply to everything - text, solution items (folders and filenames), and even program output (UTF-8 glyphs to rescue).
 
 A team should limit them to a subset<sup>🍋</sup>, define the exact meaning of most, and put some on a blacklist (for ambiguity or cultural issues).
 
@@ -54,9 +54,9 @@ A team should limit them to a subset<sup>🍋</sup>, define the exact meaning of
 
 #### Side effects
 
-Special characters and escape tags spoil the familiar "plain" search but as a side-effect create a sort of bookmarking/tagging.
+Special characters and escape tags spoil the familiar "plain" search, but as a side-effect create a sort of bookmarking/tagging.
 
-Ensure that your spell- and grammarcheckers recognize replacements.
+Ensure that your spell- and grammar checkers recognize replacements.
 
 ## Checklist
 
@@ -65,7 +65,7 @@ Ensure that your spell- and grammarcheckers recognize replacements.
 - [ ]  Run spell/grammar check.
 - [ ] Prove internal links
 - [ ] Prove external links for existence
-// much resources degrade with time to _404_. 
+// many resources degrade with time to _404_. 
 - [ ] check for "hidden" typos as double spaces
 - [ ] SynonymIZE: repeated terms and buzzwords.
 - [ ] ...
