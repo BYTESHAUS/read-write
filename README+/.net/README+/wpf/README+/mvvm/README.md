@@ -1,4 +1,4 @@
-# MVVM _and_ WPF
+# MVVM _and_ &Wopf;&Popf;&Fopf;
 
 > ### Model-View-ViewModel (_abbr_. MVVM) is a well-accepted, easy, powerful concept of __separation of concerns__, also known as [MVP](https://martinfowler.com/eaaDev/uiArchs.html)<sup>🔗</sup>.
 
@@ -35,8 +35,6 @@ For greater applications, you may select between commercial frameworks and freew
 Let me stress once again that MVVM is not a template but a concept. It got WPF implementations from open source communities (e.g., Prism), big provider names, and private initiatives, but neither has achieved the status of a "built-in" feature.
 
 Alas, there are not too many popular and interchangeable pluggable "bricks" to build effective WPF-MVVM (that is, no common specification). There's no thesis on dynamic MVP resting on tasks, not obsolete static models.
-
-🚧🚧🚧 PENDING: Link to MVVM on promises! 🖋️
 
 ## Wrapping up
 
