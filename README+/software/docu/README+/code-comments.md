@@ -1,8 +1,8 @@
-# Code _`// Comments`_
+# Code `//`_`Comments`_
 
-<p align="right">Compilers don't read comments (or design documents) <br/>and neither do many programmers (consistently).<br />
-<a href="https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#p1-express-ideas-directly-in-code">C++ Core Guidelines</a></p>
-
+<div align="right">Compilers don't read comments (or design documents) <br/>and neither do many programmers (consistently).<br />
+<a href="https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#p1-express-ideas-directly-in-code">C++ Core Guidelines</a></div>
+<p align="right">___________</p>
 <div dir="rtl">,<i>When you feel the need to write a comment<br />first try to refactor the code so that<br />.any comment becomes superfluous</i><br />
  <a href="../../../pencraft/README+/quotes/README+/contributors/README.md#Kent-Beck">Kent Beck</a>, "Refactoring", 1999</div>
 <p align="right">___________</p>
@@ -26,7 +26,7 @@ ___________\
 
 TEMPORARY BOOKMARKS
 
-🔷 First and foremost, descriptive comments and blocks of them in **demo tests** &thinsp;&mdash;&thinsp; to serve as guides for devs and presentations for users. 
+🔷 First and foremost, descriptive comments and blocks of them in **demo tests** &thinsp;&ndash;&thinsp; to serve as guides for devs and presentations for users. 
 
 Other valid points are:
  
@@ -61,16 +61,16 @@ Tests shall fragment distinctions but are not comfortable for hints and unavaila
 Switching off code lines is a common and legitimate manipulation, but committing one requires a comment at least stating that it was intentional. 
 It might be just three slashes `///` or a team may decide on acronyms like:
 
-&nbsp; &nbsp; `///DEL` — delete after review\
-&nbsp; &nbsp; `///ALT` — alternative implementation \
-&nbsp; &nbsp; `///ERR` — doesn't work\
-&nbsp; &nbsp; `///EXC` — causes an exception\
-&nbsp; &nbsp; `///IDEA` — It was a fast sketch, which one may simplify or elaborate\
-&nbsp; &nbsp; `///LOL` — i did it for lulz
+&nbsp; &nbsp; `///DEL` &thinsp;—&thinsp; delete after review\
+&nbsp; &nbsp; `///ALT` &thinsp;—&thinsp; alternative implementation \
+&nbsp; &nbsp; `///ERR` &thinsp;—&thinsp; doesn't work\
+&nbsp; &nbsp; `///EXC` &thinsp;—&thinsp; causes an exception\
+&nbsp; &nbsp; `///IDEA` &thinsp;—&thinsp; It was a fast sketch, which one may simplify or elaborate\
+&nbsp; &nbsp; `///LOL` &thinsp;—&thinsp; i did it for lulz
 
 ### Related themes
 
-|&thinsp;- [**Code organization** (naming)](../../design/code_org/README.md)
+|&thinsp;- [Code organization: **naming**](../../design/code_org/🐘names/README.md)
 
 ___________\
  🔚 🌘 2023-2026..
