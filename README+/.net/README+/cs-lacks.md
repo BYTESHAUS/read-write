@@ -1,4 +1,4 @@
-# `C#` &nbsp;&mdash;&nbsp; Nice to have &nbsp;&mdash;&nbsp; Syntax, constructs and features
+# `C#` &thinsp;&larr;&thinsp; &Nscr;ice to have &thinsp;&rarr;&thinsp; Syntax, constructs and features
 
 > ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> isn't a universal formula, and its team with the community doesn't possess unlimited resources.<br />However, this platform could offer extra features and foundations, which would only boost its charm.
 
@@ -184,11 +184,10 @@ This wish isn't new &thinsp;&mdash;&thinsp; here's a long old discussion of [typ
 ### Builders / Wizards
 
 The intuitive supply of syntax in chained calls (for code completion) is one of the best programming techniques. 
-`C#` could provide out-of-the-box templates for builders and wizards boiling down custom projects (as my attempted [WizConstr](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/WizConstr/README.md)).
-
+**`C#`** could provide out-of-the-box templates for builders and wizards boiling down custom projects (as my attempted [WizConstr](https://github.com/Kyriosity/use-dev/tree/main/src/TuttiFrutti/WizConstr/README.md)).
 
 <ins>&nbsp;**More nice-to-have:**&nbsp;</ins>\
-|- [Parts and frameworks](parts/cs-lacks-parts.md)\
-|- [WPF lacks](wpf/README+/wpf-drawbacks.md)
+|&thinsp;- [Parts and frameworks](parts/cs-lacks-parts.md)\
+|&thinsp;- [WPF lacks](wpf/README+/wpf-drawbacks.md)
 
 🔚 🌓 2021-2026..
