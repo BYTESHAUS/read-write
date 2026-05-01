@@ -1,4 +1,4 @@
-# Memes on templates
+# &Mopf;emes on &Tscr;emplates
 
 ## Expectation vs. Reality
 
@@ -18,4 +18,4 @@ Billions spent to prevent [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem)
 ## Cesspit
 
 ___________\
-🔚 .. to be continued ..
+🔚 .. under construction ..
