@@ -1,4 +1,4 @@
-# `C#` &nbsp;&mdash;&nbsp; <samp>Nice to have</samp> &nbsp;&mdash;&nbsp; Parts and Frameworks
+# `C#`&thinsp;&larr;&thinsp; <samp>Nice to have</samp> &thinsp;&rarr;&thinsp; &Pscr;arts and &Fscr;rameworks
 
 > ### Along with [nice-to-have syntax/features](../cs-lacks.md) there are some bigger blocks of _ideational_ <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub>.
 
