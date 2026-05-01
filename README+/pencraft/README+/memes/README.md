@@ -1,4 +1,4 @@
-#  IT memes&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Idiomatic collection
+#  IT &Mopf;emes &nbsp;&mdash;&nbsp; &Iscr;diomatic collection
 
 <div dir="rtl"><i>I like epigraphs for<br/>magnificent look and<br>.vertical indent</i></div>
 
@@ -69,7 +69,7 @@ However, this answer is justified because of changed requirements to programmers
 <details><summary>📱 <b><ins>&nbsp;<mark>1926</mark>: Mobile phones rock Berlin&nbsp;</ins></b></h3></summary>
 &nbsp;
 
-<picture><img alt="&nbsp;&nbsp;Berlin, drahtlose Telephonie" src="../../../_rsc/_img/snap/media/1926.Simplicissimus-KarlArnold_drahtloseTelefonie.jpg" 
+<picture><img alt="&nbsp; Berlin, drahtlose Telephonie" src="../../../_rsc/_img/snap/media/1926.Simplicissimus-KarlArnold_drahtloseTelefonie.jpg" 
  title="&nbsp;Colored to highlight the hardware (original: black&white)" /></picture>
 <div dir="rtl">,<b><i>Berlin Drahtlose Telephonie</i></b> <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd> Berlin wireless telephony<br />
 <b><i>Bier Ausable zur Zeit Cafe Friedrich-Behrenstraße .&thinsp;.&thinsp;. gut &mdash; bon &mdash; gemacht &mdash; comme sofort</i></b><br />
@@ -100,7 +100,7 @@ The caricature may look sloppy, but its author, Karl Arnold, had astonishingly e
 <details><summary>🚗 <b><ins>&nbsp;<mark>19<i>nn</i></mark>: Full self-drive "next year" since 2014? Buckle up...&nbsp;</ins></b></h3></summary>
 &nbsp;
 
-<picture><img alt="&nbsp;&nbsp;LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
+<picture><img alt="&nbsp; LIFE Magazine in 1957 predicts both e-cars and FSD" src="../../../_rsc/_img/snap/media/1957.02.25_LIFE_Page8_FSD.jpg" /></picture><br/>
 
 > ELECTRICITY MAY BE THE DRIVER. One day, your car may speed along an electric highway, its speed and steering automatically controlled by electronic devices embedded in the road.\
 _LIFE Magazine, 25 Feb 1957, Page&nbsp;8 (Available on Google Books)_
@@ -119,18 +119,20 @@ A store of punched cards for a casual program. I'm proud to have some [little ex
 
 <h2 align="right">Mosaic</h2>
 
-<table><tr align="center"><td>
+<table><tr align="center"><td widh="33%">
 <samp><b>IT WORKS</b></samp><br />
   <mark>&thinsp;<b>¯\_(ツ)_/¯</b>&thinsp;</mark><br />
   on my MACHINE<br />
   <mark>&thinsp;<b>☁️ ¯\_(ツ)_/¯ ☁️</b>&thinsp;</mark><br />
   in my CLOUD<br />
 <br /><a href="README+/polyptych_works.md"><b>POLYPTYCH</b></a>
-</td><td>
-    <a href="README+/tale-memory_masters.md"><img src="../../../_rsc/_img/_nav/tiles/ChessBox_bw-200px.jpg" alt="&nbsp;&nbsp;Tales from the crypt" /><br />
+</td>
+  <td  widh="34%">
+    <a href="README+/tale-memory_masters.md"><img src="../../../_rsc/_img/_nav/tiles/ChessBox_bw-200px.jpg" alt="&nbsp; Tales from the crypt" /><br />
   <b>&Mscr;<samp>EMORY</samp> &Mscr;<samp>ASTER</samp>s</b></a>
-</td><td>
-  <a href="README+/nerd-doomsday-calendar.md"><b>NERDs' DOOMSDAYs</b></a>
+</td>
+  <td widh="33%">
+  <a href="README+/nerd-doomsday-calendar.md"><img src="../../../_rsc/_img/art/Karl_Brullov.The_Last_Day_of_Pompeii-bw.jpg" alt="&nbsp; The Last Day of Pompeii" /><br /><b>NERDs' DOOMSDAYs</b></a>
 </td>
                     </tr><tr></tr><tr align="center">
 <td>
@@ -143,7 +145,7 @@ flowchart TD
   <a href="README+/prj_cases.md"><b>PROJECT STORIES</b></a>
 </td>
 <td>
-  <a href="README+/template_memes.md"><img src="../../../_rsc/_img/_nav/tiles/dashed_bw-200px.jpg" alt="&nbsp;&nbsp;Memes from templates" /><br />
+  <a href="README+/template_memes.md"><img src="../../../_rsc/_img/_nav/tiles/dashed_bw-200px.jpg" alt="&nbsp; Memes from templates" /><br />
   <a href="README+/template_memes.md"><b>TEMPLATED</b></a>  
 </td>
 <td>
