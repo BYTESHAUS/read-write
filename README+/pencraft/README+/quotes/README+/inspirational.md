@@ -3,7 +3,8 @@
 ## I&thinsp;n&thinsp;c&thinsp;i&thinsp;t&thinsp;e&nbsp; m&thinsp;e&nbsp; t&thinsp;o &thinsp;.&thinsp;.&thinsp;.
 
 <details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; <b>WRITE and DOCUMENT</b>&nbsp;</ins></summary>&nbsp;
-> **Epistula non erubescit**\
+ 
+ > **Epistula non erubescit**\
 ― _Marcus Tullius Cicero (106-43 BC)_\
 <sub>[Compiler too]</sub>
 
@@ -26,7 +27,7 @@
 
 <p dir="rtl"><b>!Gimme the torch, FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />reading the <i>Twilight</i> novels (*assumed)</p>
 
-\_________________________________</details>
+\_____ <samp>end: write</samp> ____________________________</details>
 
 <details><summary><ins>&nbsp;<b>&thinsp;.&thinsp;.&thinsp;.&thinsp; PROCRASTINATE</b>&nbsp;</ins></summary>&nbsp;
  
@@ -62,7 +63,7 @@ _Procrastinators' Club of America_ (with international membership) established [
 
 Coming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki/National_Procrastination_Week).
 
-\_________________________________</details>
+\________ <samp>end: procrastinate</samp> ________________________</details>
 
 <details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; PERFECT</b>&nbsp;</ins></summary>&nbsp;
  
@@ -99,7 +100,7 @@ Not only does the East grant us profound and eloquent teaching! Whatever Mr. Kip
 
 &nbsp; &nbsp; <sup>©️</sup> <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
 
-\_________________________________</details>
+\_____ <samp>end: perfect </samp> ____________________________</details>
 
 <details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; to TAKE a BREAK</b>&nbsp;</ins></summary>&nbsp;
  
@@ -135,7 +136,7 @@ To name a few of the officially recognized:
 > **If you have a fountain, shut it down. Let even a fountain have a rest.**\
 _K. Proutkoff_, Selection, ~1850
 
-\_________________________________</details>
+\______ <samp>end: break</samp> ___________________________</details>
 
 <details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;. vindicate NOT doing/learning</b>&nbsp;</ins></summary>&nbsp;
  
@@ -193,7 +194,7 @@ _Plato_'s account of _Socrates_
 
 Should we defy the fundamentals of Western philosophy ...
 
-\_________________________________</details>
+\____ <samp>end: vindicate</samp> _____________________________</details>
 
 <details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; INTERPRET ERRORS RIGHT&thinsp;...</b>&nbsp;</ins></summary>&nbsp;
  
@@ -235,8 +236,7 @@ _Alexander Pope_, poet (1688-1744)
 
 > **Commit a few bugs, and they call you a failure. Release a million, and you're a Founder.**
 
-
-\_________________________________</details>
+\______ <samp>end: vindicate</samp> ___________________________</details>
 
 <details><summary><ins>&nbsp;<b>.&thinsp;.&thinsp;.&thinsp; </b>but <b>TEST and DEBUG</b>&nbsp;</ins></summary>
 &nbsp;
@@ -260,7 +260,7 @@ in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-li
 <sup>🙋</sup> <samp>Media had hyperbolized the story to a "century cyberattack". But being tricky and long planned, it was far off to infiltrate most "distros". 
 This required many conditions to coincide, and would manifest itself swiftly.</samp>
 
-\_________________________________</details>
+\_____ <samp>end: test</samp> ____________________________</details>
 
 <details><summary><ins>&nbsp;.&thinsp;.&thinsp;.&thinsp; and <b>... QUOTE&nbsp;</b></ins>♾️</summary>&nbsp;
 
