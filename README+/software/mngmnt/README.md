@@ -1,6 +1,6 @@
 # Code, Dev, and Docu &nbsp;&#8646;&nbsp; M&thinsp;A&thinsp;N&thinsp;A&thinsp;G&thinsp;E&thinsp;M&thinsp;E&thinsp;N&thinsp;T <sup>&#8665; OPINION</sup>
 
-The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
+> ### The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
 
 You are likely reading from a **Git**<sup>:octocat:</sup> repository, while other platforms, frameworks, and methodologies may require some screen scrolling to name just the trending ones.
 
@@ -39,10 +39,10 @@ And not because chosen methodologies and tools are massively promoted.
 ## Conclusion
 
 DevOps grew from primitive file check-in/out to cloud solutions<sup>☁️</sup> and now claims to use neural networks and <samp>LLM</samp>. 
-However, as outspoken in my ["Lotus notes"](../../pencraft/README+/essays/README+/rec/LN-view.md), simple and sound tools still can do the job.\
+However, as outspoken in my ["Lotus &Nscr;otes"](../../pencraft/README+/essays/README+/rec/LN-view.md), simple and sound tools still can do the job.\
 &nbsp; &nbsp; <sup>☁️</sup> <samp>like TFS became Azure DevOps Server</samp>
 
 **How?** No methodology, organization, and automation can beat _the laissez-faire_ of responsible craftsmen with win-win attitude.
 
 ___________\
-🔚 🌘 2023-2026.. <b>B</b>yteshausmeister
+🔚 🌘 2023-2026.. <samp><b>B</b>yteshausmeister</samp>
