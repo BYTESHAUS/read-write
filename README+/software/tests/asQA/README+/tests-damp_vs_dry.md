@@ -105,7 +105,7 @@ Such a salute will hardly provide a clue, but rather hide it in dependencies - i
     
 > &nbsp;\
 > As in the anecdote about **Napoleon** enraged by the silence of cannons on a flank.\
-A summoned general was eager to recount seven reasons, he knew, but was shortly interrupted with\
+A summoned general was eager to recount seven reasons he knew, but was shortly interrupted with\
 <samp>«Already one is more than enough for me».</samp>
 >
 > The same, the prominent physicist replied to [_"One Hundred Authors Against Einstein", 1931_](https://archive.org/details/HundertAutorenGegenEinstein):\
@@ -116,7 +116,7 @@ A summoned general was eager to recount seven reasons, he knew, but was shortly 
 
 ### Normalization
 
-Grouping _Asserts_ for the same _Arrange_ is a call of reason &thinsp;&mdash;&thinsp; otherwise method opening/closing will eat half of the screen.
+Grouping _Asserts_ for the same _Arrange_ is a call of reason &thinsp;&mdash;&thinsp; otherwise, method opening/closing will eat half of the screen.
 
 ```csharp
 // EXAMPLE PENDING
@@ -138,7 +138,7 @@ Imagine a math engine for a project. If a floating error emerges, neither API er
 
 <h1 align="center">Conclusion: D<samp>RY</samp> but not drain</h1>
 
-<mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> **or** <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>&thinsp;**?** Neither, but a compromise. (Could I omit set phrases to backup?) 
+### <mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> **or** <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>&thinsp;**?** Neither, but a compromise. (Could I omit set phrases for justification?) 
 
 Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that units of tests are elusive, and there's no distinct division.
 
@@ -160,4 +160,4 @@ With all readability, the handicap is that the _test subjects_ are hidden in ext
 The alternative can be a condensed, terser syntax, like these ["coagulated" expressions](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
 
 ___________\
-🔚 🌙 2024-2026 .. <b>Β</b>ytesHausMeister
+🔚 🌙 2024-2026 .. <sanp><b>Β</b>ytesHausMeister</samp>
