@@ -2,7 +2,7 @@
 
 # Intramural experience (short and vintage)
 
-<p align="right"><b>Guaranteed to be authentic</b> &thinsp;&ndash;&thinsp; not another paraphrase of <a href="https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era">wiki articles</a><sup><b>w</b></sup></p>
+<p align="right"><b>Guaranteed to be authentic</b> &thinsp;&ndash;&thinsp; neithre generated slop nor paraphrase of <a href="https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era">wiki articles</a><sup><b>w</b></sup></p>
 
 <table><tr valign="top"><td><picture><img width="333px" alt="&nbsp;Ancient Egypt bas-relief" src="../../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture><br />
       <a href="../../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg">
