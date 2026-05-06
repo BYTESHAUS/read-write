@@ -2,7 +2,7 @@
 
 # Intramural experience (short and vintage)
 
-<p align="right"><b>Guaranteed to be authentic</b> &thinsp;&ndash;&thinsp; not another paraphrase of <a href="https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era">wiki articles</a><sup><b>w</b></sup></p>
+<p align="right"><b>Guaranteed to be authentic</b> &thinsp;&ndash;&thinsp; neither generated slop nor paraphrase of <a href="https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era">wiki articles</a><sup><b>w</b></sup></p>
 
 <table><tr valign="top"><td><picture><img width="333px" alt="&nbsp;Ancient Egypt bas-relief" src="../../../../../_rsc/_img/af/ancient_egypt-bas-relief.jpg" /></picture><br />
       <a href="../../../../../_rsc/_img/photo/hist/1966.punch_cards-stack.jpg">
@@ -10,7 +10,7 @@
       <picture><img width="333px" alt="&nbsp;Please do not bend" src="../../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
                   </td><td>
                         
-Long after their decline, punching technology and its carton carrier survived as a coursework at my university. **But&nbsp;till** the&nbsp;remaining supply of cards became extinct &thinsp;&ndash;&thinsp; I caught the last year of this legacy.
+Long after their decline, punching technology and its carton carrier survived as coursework at my university. **But&nbsp;till** the&nbsp;remaining supply of cards became extinct &thinsp;&ndash;&thinsp; I caught the last year of this legacy.
                         
 ## The Task
       
@@ -18,10 +18,10 @@ It was an exercise in PL/I&thinsp;<sup>🔢</sup> &thinsp;&ndash;&thinsp; output
 
 Believe it or not, this story had no electronic display.
 
-&nbsp; <sup>🔢</sup>&nbsp;<samp>IBM's procedural <a href="https://en.wikipedia.org/wiki/PL/I">Programming Language One</a><sup><b>w</b></sup><br />
+&nbsp; <sup>🔢</sup>&nbsp;<samp>IBM's procedural <a href="https://en.wikipedia.org/wiki/PL/I">Programming Language One</a></samp><sup><b>w</b></sup><br />
 &nbsp; &nbsp;(<code><b>PL/1</b>, <b>DB2</b>, <b>OS/2</b>, <b>Type-III</b>, <b>BS12</b>,</code> ... this Blue Giant was the lord of imagination and naming.)</samp>
 <br />
-&nbsp; <sup>:cinema:</sup> <samp>Curious fact: traces of PL/1 appear in the epic <a href="https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago">2001: A Space Odyssey</a>.</samp>
+&nbsp; <sup>🎦</sup> <samp>Curious fact: traces of PL/1 appear in the epic <a href="https://www.wired.com/story/2001-a-space-odyssey-predicted-the-future50-years-ago">2001: A Space Odyssey</a>.</samp>
 
 ## Carton in, paper out
 
@@ -71,4 +71,4 @@ and volatile mundane [phonograph records](https://en.wikipedia.org/wiki/Voyager_
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>🪢</sup> <samp>Though there was a joke that IBM's positioning of holes won the US government bid for encryption.</samp>
 
 ___________\
- 🔚&nbsp; 🌙 <b>Β</b>ytesHausMeister 2024-2026 ...
+ 🔚&nbsp; 🌙 <samp><b>Β</b>ytesHausMeister 2024-2026...</samp>
