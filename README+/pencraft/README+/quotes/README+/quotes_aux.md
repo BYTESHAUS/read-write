@@ -7,6 +7,11 @@
 > **If privacy is outlawed, only outlaws will have privacy.**\
 _Philip Zimmermann_, [Why I Wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 
+## Intelligence
+
+> ...&nbsp;**it takes something more than intelligence to act intelligently.**\
+_Fyodor Dostoevsky_, «Crime&nbsp;and&nbsp;Punishment» (1866)
+
 ## Philosophy
 
 ### German philosophy</b>&nbsp;</ins></summary>
