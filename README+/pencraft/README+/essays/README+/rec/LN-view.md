@@ -1,3 +1,5 @@
+# Lotus &Nscr;&oscr;&tscr;&escr;&sscr;
+
 <table><tr><td>
 
 #### `Lotus Notes` (henceforth also `LN`), the multiplatform groupware, was first released at the turn of 1991. 
