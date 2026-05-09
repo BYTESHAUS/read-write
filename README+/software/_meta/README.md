@@ -1,7 +1,7 @@
-# Software &thinsp;&mdash;&thinsp; Metaphysics, awareness, observations, side nots ...
+# Everything over Software &thinsp;&mdash;&thinsp; Metaphysics, awareness, observations, side notes ...
 
 THEORETISING
 
 NOTES
 
-ARCDECO
+ArcDeco
