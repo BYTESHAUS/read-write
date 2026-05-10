@@ -27,15 +27,14 @@ ___________\
 
 > <sup>🎥</sup>&nbsp; If you've watched this public confession but __can't__ couple the 1950s subscripts **and** today's exceptions &thinsp;&ndash;&thinsp; you are **not** alone (and probably in a good company).
 
-### There's no specific `boolean` or machine value for  `Null` &thinsp;&ndash;&thinsp; it's a logical consensus to designate not initialized values.
+### There's no specific `boolean` or machine value for  `Null` &thinsp;&ndash;&thinsp; it's a logical consensus to designate not initialized values, i.e.our fault or sloth
 
-The error occurs chiefly when we, developers, overlook initializations as C# ells:
+PLAIN TEXT, As Side note
+
 - You forgot to instantiate a reference type.
 - You forgot to dimension an array before initializing it.
 - You get a null return value from a method, and then call a method on the returned type.
 -  [and so on...](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception)
-
-❗**Neither `null` nor broken reference dispatches our objects and values nowhere but our fault or sloth.**
 
 <h2 align="center">Much Ado About <code>Nothing</code>❓</h2>
 
