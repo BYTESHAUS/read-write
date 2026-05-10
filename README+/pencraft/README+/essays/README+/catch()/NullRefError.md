@@ -5,12 +5,12 @@
 
 ### Programmatic `NULL` earned a gruesome notoriety of _exceptional_ plague:
 
-**Its outbreaks appear literally from `nothing` and are too common to tag them as `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _and_ data clouds, they spare neither junior nor seasoned developers.**
+**Its outbreaks appear literally from `nothing` and are too common to tag them as `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _and_ data clouds. They spare neither junior nor seasoned developers.**
 
 _Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) gave himself up as being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into our software Eden. 
 
-But nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain" to stop  collecting its billion toll.\
+But nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain", still collecting its billion toll.\
 ___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null" itself).
 
@@ -23,18 +23,21 @@ ___________\
 </td>
 </tr></table>
 
-### The fallacy of equivocation 
+&nbsp; &nbsp; <sup>🎥</sup>&nbsp; <samp>If you've watched this public confession but __can't__ couple the 1950s subscripts **and** today's exceptions &ndash; you are **not** alone (and probably in a good company).</samp>
 
-> <sup>🎥</sup>&nbsp; If you've watched this public confession but __can't__ couple the 1950s subscripts **and** today's exceptions &thinsp;&ndash;&thinsp; you are **not** alone (and probably in a good company).
+### There's no specific `Boolean` or machine value for `Null`, but a logical consensus to designate not initialized values. And its unexpected retrieval is a logical flaw, coding slip, or our sloth.
 
-### There's no specific `boolean` or machine value for  `Null` &thinsp;&ndash;&thinsp; it's a logical consensus to designate not initialized values, i.e.our fault or sloth
+<details><summary><ins><b>Don't take my word but C# documentation:</b></ins></summary>
+&nbsp;
+   
+"Exception typically reflects developer error ..."
 
-PLAIN TEXT, As Side note
-
-- You forgot to instantiate a reference type.
-- You forgot to dimension an array before initializing it.
-- You get a null return value from a method, and then call a method on the returned type.
+- **You** forgot to instantiate a reference type.
+- **You** forgot to dimension an array before initializing it.
+- **You** get a null return value from a method, and then call a method on the returned type.
 -  [and so on...](https://learn.microsoft.com/en-us/dotnet/api/system.nullreferenceexception)
+
+___________</details>
 
 <h2 align="center">Much Ado About <code>Nothing</code>❓</h2>
 
@@ -44,21 +47,21 @@ PLAIN TEXT, As Side note
 * Null reference isn't a CPU (or memory) vulnerability as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix.
 * It's not even comparable to the <a href="https://en.wikipedia.org/wiki/Year_2000_problem">Y2K problem</a>, which stemmed from explicit negligence (and was eliminated with a sheer format enhancement).
 * Errors of different origins caused botched global updates, blackouts, and catastrophic failures when exception names didn't matter. 
-* Logical flaws that don't protrude errors may be even more disastrous and harder to find out.
+* "Silent" logical flaws that don't protrude exceptions may be even more disastrous and harder to find.
   
 </td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
-When the number of software installations is significant, providers continuously collect reports on errors that crash their products, get handled, or run undercover (unnoticed).
-
-- Their statistics (and private experience) give `NullReference` top places.
+- Statistics<sup></sup> (and private experience) put `NullReference` in the top places.
 - Many of these errors are difficult to trace, reproduce, and debug. 
 - Those not regular and critical may stay for years with the lowest priority for investigation.
 
 Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&mdash;&thinsp; the syndrome of the design decadence, which often gets symptomatic treatment.
 
+When the number of software installations is significant, providers continuously collect reports on errors that crash their products, get handled, or run undercover (unnoticed).
+
 </td></tr></table>
 
-<h2 align="center">The Mistake&thinsp;?</h2>
+<h2 align="center">What's the mistake&thinsp;...</h2>
 
 <p align="right">Accusing <code><b>null</b></code> for errors is like <br />charging <mark>&thinsp;<b><i>0</i></b>&thinsp;</mark> for one can divide by it.</b></p>
 
