@@ -37,7 +37,8 @@ I dare say that this battle is over, and resource starvation with performance hi
 > **Software gets slower faster than hardware gets faster.**\
 [Niklaus Wirth](../contributors/README.md#Niklaus-Wirth), 1995, "A Plea for Lean Software" (aka Wirth's law)
 
-Much has changed since the 1990s, when sparing half a byte in a DOS program was a worthy trick. The grace of auto memory allocation with garbage collection and intermediate languages spread only because the hardware could facilitate them.
+Much has changed since the 1990s, when sparing half a byte in a DOS program was a worthy trick. The grace of auto memory allocation with garbage collection and intermediate languages spread only because the hardware could facilitate them.\
+(Though slop generators now flip this script.)
 
 ___________\
 🔚 ... to be continued ...
