@@ -7,10 +7,10 @@
 
 **Its outbreaks appear literally from `nothing` and are too common to tag them as `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _and_ data clouds. They spare neither junior nor seasoned developers.**
 
-_Turing_ awardee [Sir&nbsp;Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) gave himself up as being this _Frankenstein_ who brought the 
+The _Turing_ awardee and Sir [Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) gave himself up as being this _Frankenstein_ who brought the 
 [**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into our software Eden. 
 
-But nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain", still collecting its billion toll.\
+Inspite of that nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain", still collecting its billion toll.\
 ___________\
 <samp>**BEWARE**</samp>**!** `Null` may be disguised as `Nothing`, `nil`, `none`, `undef[ined]`, or even `NaN`. And `Reference` may be `Pointer`, `dereferencing`, or none (just "null" itself).
 
@@ -23,11 +23,11 @@ ___________\
 </td>
 </tr></table>
 
-&nbsp; &nbsp; <sup>🎥</sup>&nbsp; <samp>If you've watched this public confession but __can't__ couple the 1950s subscripts **and** today's exceptions &ndash; you are **not** alone (and probably in a good company).</samp>
+<div align="right"><sup>🎥</sup>&nbsp; <samp>If you've watched this public confession but <b>can't</b> couple the 1950s subscripts <b>and</b> today's exceptions &ndash; <br />you are <b>not</b> alone (and probably on the right side).</samp></div>
 
 ### There's no specific `Boolean` or machine value for `Null`, but a logical consensus to designate not initialized values. And its unexpected retrieval is a logical flaw, coding slip, or our sloth.
 
-<details><summary><ins><b>Don't take my word but C# documentation:</b></ins></summary>
+<details><summary><ins><b>Don't take my word but <code>C#</code> documentation:</b></ins></summary>
 &nbsp;
    
 "Exception typically reflects developer error ..."
@@ -41,7 +41,7 @@ ___________</details>
 
 <h2 align="center">Much Ado About <code>Nothing</code>❓</h2>
 
-<table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S❗</b></td><td width="20%" ><b><samp>A&thinsp;N&thinsp;D</samp></b></td><td width="40%" ><b>N&thinsp;O‼️</b></td>
+<table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S❗</b></td><td width="20%" ><b><samp>A&thinsp;N&thinsp;D</samp></b></td><td width="40%" ><b>N&thinsp;O❗</b></td>
 </tr><tr valign="center"><td>
   
 * Null reference isn't a CPU (or memory) vulnerability as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix.
@@ -51,13 +51,13 @@ ___________</details>
   
 </td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
-- Statistics<sup></sup> (and private experience) put `NullReference` in the top places.
+- Statistics (and private experience) put `NullReference` in the top places.<sup>🧮</sup>
 - Many of these errors are difficult to trace, reproduce, and debug. 
 - Those not regular and critical may stay for years with the lowest priority for investigation.
 
-Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&mdash;&thinsp; the syndrome of the design decadence, which often gets symptomatic treatment.
+Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&ndash;&thinsp; the syndrome of the design decadence, which often gets symptomatic treatment.
 
-When the number of software installations is significant, providers continuously collect reports on errors that crash their products, get handled, or run undercover (unnoticed).
+<sup>🧮</sup>&nbsp;<sub>When the number of software installations is significant, providers continuously collect reports on errors that crash their products, get handled, or run undercover (unnoticed).</sub>
 
 </td></tr></table>
 
@@ -94,7 +94,7 @@ It's tempting to relate the perplexed cases of `NullReference` to the peculiarit
 
 ## Foam &rarr; Apply theory</samp>
 
-**Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with the problem.
+> **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with the problem.
 
 Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as <span title="&nbsp; &nbsp; &nbsp;Arab mathematicians brought&#013; 0️⃣&nbsp;to Europe from India only&#010; in the Middle Ages."><ins>Phygaros</ins></span> at zero.
 
