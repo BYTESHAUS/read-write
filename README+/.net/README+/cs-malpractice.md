@@ -8,8 +8,9 @@ However, habitual programming them for business applications isn't C# intrinsic,
 ### CLR digging
 
 The Microsoft learn corner thoroughly documents which .NET constructs are better or risky for performance/memory, and guessing them from CLR is counter-productive.<sup>📍</sup>
-As well, **`C#`** doesn't guarantee the same CLR output for future releases or every platform.\
-&nbsp; &nbsp; <sup>📍</sup> <samp>As an example, Q&A sites may cite contradictory opinions about string interpolation, await/async, and other constructs under the hood.</samp>
+As well, **`C#`** doesn't guarantee the same CLR output for future releases or every platform.
+
+&nbsp; <sup>📍</sup> <samp>E.g., Q&A sites may cite contradictory opinions about string interpolation, await/async, and other constructs under the hood.</samp>
 
 The best optimization from individuals on a "low level" may occur in parallel with the .NET team, and the latter will mostly win (if not cross out the amateur hack).
 
@@ -35,7 +36,7 @@ To stay with **`C#`** in such a case, hardware acceleration patches or external 
 
 ### Bloated interfaces
 
-Interfaces (as in **&nbsp; &thinsp;11**) allow declarations that defy imagination: static members, internal classes, and default implementations.
+Interfaces allow "loaded" declarations: static members, internal classes, and default implementations.
 
 Nevertheless, let them remain granulated and lightweight with:
 
@@ -89,10 +90,9 @@ try {
 
 ```
 
-Now, consider that we submit a popular legal name, "John", and land again in the catch clause. Why?
-Filtering to the expected type doesn't exclude its throw from other code parts (e.g., internal bug of our register). 
+Now, consider that we submit a popular legal name, "Mike", and land nevertheless again in the catch clause. Why? Another code part (as `.Register()`) may throw the same type (e.g., because of internal bug). 
 
 A test framework, throwing its own `ArgumentException`, can make matters even worse.
 
 ___________\
-🔚 ... <sub> 🌔 2023-2026.. TO BE CONTINUED ... 🚧</sub>
+🔚 ... <samp> 🌔 2023-2026.. TO BE CONTINUED ... 🚧</samp>
