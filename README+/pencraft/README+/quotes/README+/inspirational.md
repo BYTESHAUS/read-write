@@ -15,16 +15,15 @@
 **no such nonsense that won't find a proper reader.**\
 ― _Anton Chekhov (1860-1904)_, "Rules for novice writers"
 
-> **_If you could know in what a dirty drain_**\
-> **_The verse does grow without knowing shame,_** ...\
-― _Anna Akhmatova (1889-1966)_, 1964 Nobel Prize in Literature nominee\
-"I have no use for odes in battles...", 1964
-
 > **If they give you lined paper, write the other way.**\
 ― _Juan Ramón Jiménez (1881-1958)_, 1956 Nobel Prize in Literature awardee\
 **And so I invented the Monospace.**\
 ― _George Williams_ (*assumed)
 
+> **_If you could know in what a dirty drain_**\
+> **_The verse does grow without knowing shame,_** ...\
+― _Anna Akhmatova (1889-1966)_, 1964 Nobel Prize in Literature nominee\
+"I have no use for odes in battles...", 1964
 <p dir="rtl"><b>!Gimme the torch, FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />reading the <i>Twilight</i> novels (*assumed)</p>
 
 \_____ <samp>end: write</samp> ____________________________</details>
