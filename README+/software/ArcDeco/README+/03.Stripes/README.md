@@ -3,6 +3,7 @@
 |- **Intro**\
 |- Arch vs Design\
 |- Dev vs. Coding\
+|- "SCRIPTING" named coding\
 |- [Worth of coding](README+/coding-worth.md)
 
 ---
