@@ -2,7 +2,7 @@
 
 <table><tr valign="top"><td width="45%">
    
-### Big thoughts &nbsp;&mdash;&nbsp; big pictures 
+### Big thoughts &nbsp;&larr;&nbsp; Big pictures 
 
 Shallow, childish, or blurred, plane sections or angled, they are better than naked prose and give readers an eagle view.
 
@@ -22,9 +22,12 @@ Let's begin with contours, **intentionally** left without annotations to defy yo
 <picture><img alt="&nbsp;image not found: ArcDeco-BigPict-forces_annotated.jpg" src="../../../../_rsc/_img/ArcDeco/BigPict/ArcDeco-BigPict-forces_annotated.jpg" /></picture>
 </td><td>
 
+### What seems the first united will be stretched and squeezed.
+
 The «<b>tearing X and Y axes</b>» in the intro were for a two-dimensional simplification for a figure of speech.
 
-What seems the first united will be stretched and squeezed.
+* The "abstractional" arrow means the growth of its level.
+
 </td></tr></table>
 
 </details>
