@@ -132,7 +132,7 @@ Normalization doesn't apply well to advanced evaluation as [gradual asserts](htt
 
 ### Master cautions
 
-When a mass of tests exceeds the sight capabilities, it's clever to select the "key" ones &mdash; which fail must be investigated first (an order and classification can be set there too).
+When a mass of tests exceeds the sight capabilities, it's clever to select the "key" ones &mdash; failure of which must be investigated first (an order and classification can be set there too).
 
 Imagine a math engine for a project. If a floating error emerges, neither API error will matter.
 
@@ -148,16 +148,16 @@ Does <mark>**DRY**</mark> apply to <samp>T</samp>est <samp>D</samp>riven <samp>D
     
 When covering existing code, you shall find out the repetitions to group.
 
-The opposite is for **Test Driven Development** &nbsp;&mdash;&nbsp; think in test unions prior.
+The opposite is for **Test Driven Development** &nbsp;&mdash;&nbsp; think in test unions/bundles prior.
 
 </td></tr></table>
 
 ## Alternative: Short but&thinsp;<mark>/</mark>&thinsp;and descriptive
 
-The accent of most frameworks and add-ins to them (as [fluent assertions](https://fluentassertions.com)<sup>🔗</sup>) is on the long articulated wording. 
+The accent of most frameworks and add-ins to them (as [fluent assertions](https://fluentassertions.com)<sup>🔗</sup>) is on the long, articulated wording. 
 With all readability, the handicap is that the _test subjects_ are hidden in extra clauses and parentheses.
 
 The alternative can be a condensed, terser syntax, like these ["coagulated" expressions](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
 
 ___________\
-🔚 🌙 2024-2026 .. <sanp><b>Β</b>ytesHausMeister</samp>
+🔚 🌙 2024-2026 .. <samp><b>Β</b>ytesHausMeister</samp>
