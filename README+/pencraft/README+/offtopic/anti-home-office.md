@@ -1,6 +1,6 @@
-# Photoblog: Anti-Home-Office
+<h1 align="center"> &Pscr;hotoblog: Anti-Home-Office</h1>
 
-<p align="center"><b><samp>NOT HOME, NOT OFFICE</samp></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;❗🏠 && ❗🏢 = 🏞️ 🚋🛸</p>
+<p align="center"><b>Neither HOME, nor OFFICE</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;❗🏠 && ❗🏢 = 🏞️ 🚋🛸</p>
 
 ## Planes, Trains & ... whatever
 
@@ -17,6 +17,7 @@
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE1007.jpg" title="&nbsp;DB ICE Sprinter, &#010;Berlin&rarr;München" height="300"/></span>
 <p>... not that convenient always ... <sup>⚠️</sup></p>
 <span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE228.jpg" title="&nbsp;DB ICE228, &#010;Wien&rarr;Dortmund" height="300"/></span>
+<span><img alt="&nbsp;&nbsp;&nbsp;image not found" src="../../../_rsc/_img/photo/blog/rw/DB/ICE1228.jpg" title="&nbsp;DB ICE1228, &#010;Feel like a machinist" height="300"/></span>
 
 ## Nature
 
