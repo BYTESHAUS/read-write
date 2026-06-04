@@ -9,24 +9,24 @@
 
 <table><tr valign="top"><td width="50%">
 <details><summary><ins>&thinsp;Who is your opponent in software?&thinsp;</ins></summary>
-Users, managers, other developers, or the Architect? None ...
+Obviously &ndash; users, managers, other developers, or the Architect? None&nbsp;...
 <p align="center"><b><samp>The &thinsp;D&thinsp;E&thinsp;V&thinsp;E&thinsp;L&thinsp;O&thinsp;P&thinsp;M&thinsp;E&thinsp;N&thinsp;T&thinsp; itself<sup>⬇️</sup></samp></b></p>
 </details>
   <p><img alt="&nbsp;IT chess phantasy" src="../../../../_rsc/_img/illus/ChessIT.jpg" /></p>
 
-🎇**Win** &thinsp;&mdash;&thinsp; pattern teasers make up frameworks. Breaking changes go light.\
+🎇**Win** &thinsp;&ndash;&thinsp; pattern teasers make up frameworks. Breaking changes go light.\
 The more realistic **draw** means "the controllable chaos" of development. 
 
-Checked &thinsp;&mdash;&thinsp; principal changes are done with Woodoo programming.
+🛄Checked &ndash; principal changes are done with Woodoo programming.
 
-Stalemate — the project works, but it's challenging to add significant features.
+🚏Stalemate &ndash; the project works, but it's challenging to add or change significant features.
 
-**Mate** &thinsp;&mdash;&thinsp; dev stops, support only. The proper time to hand the project over to another team or discuss a remake in other technologies.
+🛑**Mate** &ndash; dev stops, support only. The proper time to hand the project over to another team or lower the curtain of remake in better technologies.
 
-_Sacrifices_ mean not team members or customers, but refactoring (to give up a piece of achieved for the better).
+_Sacrifices_ mean not team members or customers, but refactoring (to give up a piece of what's committed for the better).
 
-\___________\
-<sup>⬇️</sup> **Why development?** It lures you in with shortcuts and involves you in positional traps: details, design trade-offs, techno deby etc.
+___________\
+<sup>⬇️</sup> **Why development?** It lures you in with shortcuts and involves you in positional traps: pesky details, design trade-offs, techno debt,  etc.
 
 </td><td>
   
@@ -42,14 +42,14 @@ and external parts, when experimentation and creativity are abnormal.
 ♘ Then the perception of combinatory vastness and the need to think in several moves lifts the curtain of first naive impressions.\
 There are only three "moves" in programming: `AND`, `OR`, `NOT` over bits, but they provide even the bigger than <code><b>&gt;</b>&thinsp;8x8</code> space for fantasies and alternative solutions.
 
-<p>Passion wouldn't be enough to rise much higher, and the number of games or written applications won't break the ceiling. Learning and understanding of theory become essential, along with games against stronger opponents.
+<p>Passion wouldn't be enough to rise much higher, and the number of games or written applications won't break the ceiling. Learning and understanding of theory becomes essential, along with games against stronger opponents.
 <sup>👑</sup></p>
   
 In chess, learning roadmaps and schools lead to higher ratings, ruthlessly and indisputably pointing out one's place. <b>Here, the metaphor breaks down.</b> 
 Software ways to craftsmanship are inscrutable and assessed by eye.
 
 ___________\
-<sup>👑</sup> <samp>Popular chess servers can brag about living legends (not bots) pausing for sleep only to continue incrementing an astronomical number of games. <br />Nevertheless, their ELO ratings grow slightly above other amateurs.</samp>
+<sup>👑</sup> <samp>Popular chess servers can brag about living legends (not bots) pausing for sleep only by incrementing an astronomical number of games. <br />Nevertheless, their ELO ratings grow slightly above peer amateurs.</samp>
 
 </td></tr></table></details>
 
@@ -80,7 +80,7 @@ Now veneer the frustration/anxiety facet with <ins>**rhetorical**</ins> _vs._ <i
 **More (de)motivation:**
   
 Successful projects from the neighboring materiality, less patchable and less reversible but much more fragile, may both hearten or intimidate:\
-**Liquefied gas tankers, skyscrapers, aviational auto-navigation, implants, space telescopes, robotic lines**, ...
+**Liquefied gas tankers, skyscrapers, civic aviation, implants, space telescopes, robotic lines**, ...
 
 And these are your peers with different backgrounds who created them: «Not gods fired these pots».
   
