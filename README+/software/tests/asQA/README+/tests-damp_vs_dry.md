@@ -1,4 +1,4 @@
-# `Programmatic Tests` &nbsp;&mdash;&nbsp; DAMP <samp>NOT</samp> DRY
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture> DAMP <samp>NOT</samp> DRY
 
 <table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code: <b>a conventional approach</b> is to</p>
     <ul>
@@ -14,7 +14,7 @@
 ### Writing tests this way shall<sup>☝🏼no warranty</sup> wrap features in pleasing <mark>&thinsp;D&thinsp;A&thinsp;M&thinsp;P&thinsp;</mark> (<samp><mark>D</mark>escriptive <mark>A</mark>nd <mark>M</mark>eaninigful <mark>P</mark>hrases</samp>).
 <samp>(Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario)<sup>🔗</sup> that wrap tests into phrases, which not only programmers but also sane people can comprehend.)</samp>
 
-#### Needless to point out the virtues of this approach, but one big flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by:
+### Needless to point out the virtues of this approach, but one big flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by:
 
 * the number of test cases, rows of test data, and their combinations,
 * re-testing of common functionality (units of test aren't atomic),
@@ -57,7 +57,7 @@ Each of these items alone proportionally enhances the number of test cases (with
 ### Combinatorial explosion
 
 **This is the greatest hit.** Any combination of two factors from the list (or picture) above _powers_ the progression. 
-For honest test coverage there, no copy-paste will help (but [T4 templates](https://en.wikipedia.org/wiki/Text_Template_Transformation_Toolkit)<sup><b>w</b></sup>).
+For honest test coverage, no copy-paste will help (but [T4 templates](https://en.wikipedia.org/wiki/Text_Template_Transformation_Toolkit)<sup><b>w</b></sup>).
 
 ### Multitype parameters
 
@@ -71,7 +71,7 @@ Many languages support generic types, which a test method may discern.
 
 ## Solutions&thinsp;/&thinsp;Workarounds
 
-The easiest and alluring response is to write fewer tests, concentrating on guiding ones and stowing routine checks in folders where nobody will look (till an error occurs). 
+The easiest and most alluring response is to write fewer tests, concentrating on guiding ones and stowing routine checks in folders where nobody will look (till an error occurs). 
 Auto-generation tools may help, but their setting and tuning may be overkill.
 
 <table><tr></tr><tr>
