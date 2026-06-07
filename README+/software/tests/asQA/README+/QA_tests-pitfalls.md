@@ -1,6 +1,6 @@
 ........... 🚧🐝🚧 ... WORK in PROGRESS... 🚧✏️🚧
 
-# QA Tests &nbsp;&mdash;&nbsp; Pitfalls 
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture>QA &nbsp;&larr;&nbsp; Pitfalls 
 
 <p dir=rtl>Testers hate it when<br />.developers know these catches<br/>(Clickbait🪝)</p>
 
@@ -24,7 +24,7 @@ UI tests are a protruding example, but on top of other specific, badly formulate
 
 ### Tests of tests
 
-Writing tests of test frameworks may put one into the infernal loop while running and analyzing application tests, which will find the errors there.
+Writing tests of test frameworks may put one into an infernal loop while running and analyzing application tests, which will find the errors there.
 
 ### Falsely green tests
 
@@ -32,7 +32,7 @@ The worst case of malfunctioning tests is a passing one that indeed shields a fa
 
 The following guidelines help to avoid the trap:
 
-+ Periodically botch and then check vital tests to show the "red" result.
++ Periodically, botch and then check vital tests to show the "red" result.
 + Add counterpart test with the opposite result (e.g., that shall throw exceptions)
 
 ### TDD tribute
