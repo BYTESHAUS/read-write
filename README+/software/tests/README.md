@@ -1,6 +1,6 @@
-<h1 align="center">&Sscr;oftware &thinsp;&mdash;&thinsp; &Popf;rog<samp>[</samp><sup>rammed</sup>/<sub>rammatic</sub><samp>]</samp> &Topf;ests</h1>
+<h1 align="center">&Sscr;oftware &thinsp;&larr;&thinsp; &Popf;rog<samp>[</samp><sup>rammed</sup>/<sub>rammatic</sub><samp>]</samp> &Topf;ests</h1>
 
-<table><tr valign="top"><td><picture><img alt="&nbsp;LOGO" src="../../_rsc/_img/LOGO_PROG_TESTS_PENDING.jpg" /></picture>
+<table><tr valign="center"><td><picture><img alt="&nbsp;LOGO" src="../../_rsc/_img/logo/progtests/vert/bw-350px.jpg" /></picture>
 </td><td>
   
 ### Programmatc tests, as a discipline and an idea<sup>💡</sup>, appeared together with high-level languages.
@@ -10,14 +10,14 @@
 + They are versatile, as being applicable to any extent, direction, and for differing purposes.
 + They can follow any practices and methodologies, even &thinsp;&ndash;&thinsp; no tests at all<sup>💫</sup>.
 
-<div dir="rtl"><sub>.The <b>idea</b> of writing procedures with the single objective to examine another code</sub><sup>💡</sup></div>
-<div dir="rtl"><sub>Some algorithms or particular artifacts can be hardly testable or be fruitless. Or only personal evaluation</sub><sup>💫</sup></div>
 </td><td>
   <picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/tests/test_fw-emblems(blur).jpg" /></picture>
 </td></tr></table>
+<div align="right"><sup>💡</sup>&thinsp;<samp>The <b>idea</b> of writing procedures with the single objective to examine another code.</samp></div>
+<div align="right"><sup>💫</sub&thinsp;<samp>Some algorithms or particular artifacts can be hardly testable or be fruitless. Or only personal evaluation.</samp></div>
 
 > [!IMPORTANT]  
-> **_Prog tests_ aren't the synonym of the <i>automated</i>❗ And vice versa.** (Albeit the overlap is big.)
+> **_Prog tests_ aren't the synonym of the <i>automated</i>❗ And vice versa.** (Albeit the overlap is vast.)
 > 
 > Test-driven design doesn't require automation as well as debugging routines. Automated tests may imply hardware and even mechanical tools, or may schedule/guide manual user actions and collect reports. And so on.
 
@@ -37,9 +37,9 @@
     <h3><a href="asQA/"><samp><ins>&nbsp;Q&thinsp;U&thinsp;A&thinsp;L&thinsp;I&thinsp;T&thinsp;Y<br />
     A&thinsp;S&thinsp;S&thinsp;U&thinsp;R&thinsp;A&thinsp;N&thinsp;C&thinsp;E&nbsp;</ins></samp></a></h3></div>
 </td><td><picture><img alt="&nbsp;arrows down left and right" src="../../_rsc/_img/signs/arrows/arrows-overlay_bifurc-down-deco.png"/></picture></td><td>
-  <div align="center"><b>TESTS<br /><mark>a&thinsp;s</mark></b><h3><a href="asDrive/"><b><ins>&nbsp;<samp>C&thinsp;R&thinsp;E&thinsp;A&thinsp;T&thinsp;I&thinsp;O&thinsp;N<br />
+  <div align="center"><b>TESTS<br /><mark>a&thinsp;s</mark></b><h3><a href="asDrive/"><b><ins>&nbsp;<samp>C&thinsp;R&thinsp;E&thinsp;A&thinsp;T&thinsp;I&thinsp;V&thinsp;E<br />
     D&thinsp;R&thinsp;I&thinsp;V&thinsp;E</samp>&nbsp;</ins></b></a></h3></div>
 </td></tr></table>
 
 ___________\
-🔚 🌘 2024-2026.. (image credits: emblems of miscellaneous free test frameworks)
+🔚 🌘 2024-2026.. (image credits: _i.a._ emblems of miscellaneous free test frameworks)
