@@ -1,4 +1,4 @@
-<h1 align="center">Test Drive &thinsp;&rarr;&thinsp; Big Watershed</h1>
+<h1 align="center">Test &Dscr;rive &thinsp;&rarr;&thinsp; Big &Wscr;atershed</h1>
 
 <table><tr valign="center"><td align="center">🌧️🌦️⛈️🌨️🌧️🌫️
 <picture><img width="150px" alt="&nbsp;Y-fork: black on yellow" src="../../../../../_rsc/_img/signs/road/Y-fork_yellow(cleanpng.com)_250px.png" title="&nbsp;Courtesy of www.cleanpng.com" /></picture>
@@ -7,23 +7,23 @@
    <p align="center">Is this <mark><b>𝓓</b></mark> for <b><i>Design</i></b> or <b><i>Development</i></b>❓</p>
 <p>It wasn't about the destination of this ride but the principal divergence. 
 (For the record, the title of the lecture resonated with my anxiety: «<i>Failed with TDD? Here, you know why.</i>»)</p>
-<p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup><b>w</b></sup>,</p>
+<p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup>&thinsp;<b>w</b></sup>,</p>
    <p align="center"><b>b&thinsp;u&thinsp;t&thinsp; .&thinsp;.&thinsp;.</b/></p>
 </td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn.jpg" /></picture></td></tr></table>
 
-### The de-abbreviation raised another doubt: Where's _Design_? &thinsp;&mdash;&thinsp; I actively searched by <kbd>**T&thinsp;D&thinsp;D**</kbd> and fairly retrospected the found&nbsp;...<sup>🙋</sup>
+### .&thinsp;.&thinsp;.&nbsp;the de-abbreviation raised another anxiesty: where's _Design_? I actively searched by <code>&thinsp;<samp>T&thinsp;D&thinsp;D</samp>&thinsp;</code> and fairly retrospected the found:<sup>🙋</sup>
 
-Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothered about distinction, and some exploited both terms interchangeably. 
+Presentations and lectures favored _development_ with _design_ as a natural<sup>🌵</sup> spin-off, not much bothered about the distinction, and some exploited both terms interchangeably. 
 Books and tutorials were inclined toward techniques, patterns, and testing frameworks.
 
-<div align="right"><sup>🙋</sup> <samp>Despite my energetic recherche, there could be better findings, and alternative conclusions.</samp></div>
-<div align="right"><sup>🌵</sup> <samp><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</samp></div>
+<div align="right"><sup>🙋</sup> <samp>Despite my energetic recherche, I admit there could be better findings and alternative conclusions.</samp></div>
+<p align="right"><sup>🌵</sup> <samp><b>Natural</b> since any complete snippet can't escape design or must fit into the given.</samp></p>
 
 Test-driven Development, fine for discourses, bootcamps, and `class`<samp>es</samp>, and encouraging to start features, didn't set forth for me to design just a mediocre project: hypothetical or tried.
 
 <table align="center"><tr></tr><tr><td>
-<h3>The initial </ins><mark><b><code>O&thinsp;R</code></b></mark><ins>-question was answered first </ins><code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to </ins><code><b>X&thinsp;O&thinsp;R</b></code><ins>
-&thinsp;</ins>&nbsp; &nbsp;</h3></td></tr></table>
+<h3><ins>The initial</ins> <code>O&thinsp;R</code><ins>-question was answered first</ins> <code><b>A&thinsp;N&thinsp;D</b></code><ins> and then refined to</ins> <code><b>X&thinsp;O&thinsp;R</b></code>
+&thinsp;.</h3></td></tr></table>
 
 <h2 align="center">Could I explain my shismatic take?</h2>
 
