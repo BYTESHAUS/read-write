@@ -1,6 +1,6 @@
 ........... 🚧🐝🚧 ... WORK in PROGRESS... 🚧✏️🚧
 
-# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture>QA &nbsp;&larr;&nbsp; Pitfalls 
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&thinsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture>&thinsp;QA &nbsp;&larr;&nbsp; Pitfalls 
 
 <p dir=rtl>Testers hate it when<br />.developers know these catches<br/>(Clickbait🪝)</p>
 
