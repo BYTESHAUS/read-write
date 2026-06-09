@@ -1,4 +1,4 @@
-# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&nbsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-300px.jpg" /></picture> DAMP <samp>NOT</samp> DRY
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&thinsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture>&thinsp;DAMP <samp>NOT</samp> DRY
 
 <table><tr><td><p>Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQA">proof</a> of the provided code: <b>a conventional approach</b> is to</p>
     <ul>
