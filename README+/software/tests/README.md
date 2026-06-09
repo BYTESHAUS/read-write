@@ -1,20 +1,20 @@
-<h1 align="center">&Sscr;oftware &thinsp;&larr;&thinsp; &Popf;rog<samp>[</samp><sup>rammed</sup>/<sub>rammatic</sub><samp>]</samp> &Topf;ests</h1>
+<h1 align="center">&Sscr;oftware &thinsp;&larr;&thinsp; Prog<samp>[</samp><sup>rammed</sup>/<sub>rammatic</sub><samp>]</samp> Tests</h1>
 
-<table><tr valign="center"><td><picture><img alt="&nbsp;LOGO" src="../../_rsc/_img/logo/progtests/vert/bw-350px.jpg" /></picture>
+<table><tr valign="center"><td><picture><img alt="&nbsp;LOGO" src="../../_rsc/_img/logo/progtests/vert/bw_ink-350px-rounded.png" /></picture>
 </td><td>
   
-### Programmatc tests, as a discipline and an idea<sup>💡</sup>, appeared together with high-level languages.
+### Programmatic tests as an idea<sup><sub>💡</sub></sup> came into view with the first digital procedures and took disciplinary shape as high-level languages unfolded.
   
 + They became a unique part of the software: optional but integral.
 + They don't contribute to product contents but are as essential as the foundation code.
-+ They are versatile, as being applicable to any extent, direction, and for differing purposes.
++ They are versatile, as they can be applied to any extent, direction, hierarchy level of entities, and for differing purposes.
 + They can follow any practices and methodologies, even &thinsp;&ndash;&thinsp; no tests at all<sup>💫</sup>.
 
 </td><td>
   <picture><img alt="&nbsp;Plenty of test frameworks" src="../../_rsc/_img/illus/tests/test_fw-emblems(blur).jpg" /></picture>
 </td></tr></table>
-<div align="right"><sup>💡</sup>&thinsp;<samp>The <b>idea</b> of writing procedures with the single objective to examine another code.</samp></div>
-<div align="right"><sup>💫</sub&thinsp;<samp>Some algorithms or particular artifacts can be hardly testable or be fruitless. Or only personal evaluation.</samp></div>
+<div align="right"><sup>💡</sup>&thinsp;<samp>The <b>idea</b> of writing procedures with the single objective of examining another code.</samp></div>
+<div align="right"><sup>💫</sup>&thinsp;<samp>Some algorithms or particular artifacts can be hardly testable or be fruitless. Or only personal evaluation.</samp></div>
 
 > [!IMPORTANT]  
 > **_Prog tests_ aren't the synonym of the <i>automated</i>❗ And vice versa.** (Albeit the overlap is vast.)
@@ -30,7 +30,7 @@
 + Tests can be written in the same or another programming language than their subjects.
 + Popular frameworks are simple to extend. Those custom from scratch aren't verboten either.
 
-<h3 align="center">We've uncorked a very vast theme, and its further discussions can't avoid this <mark>principal</mark> branching:</h3>
+<h3 align="center">We've uncorked an immense domain, and its further discussions can't avoid this <mark>principal</mark> branching:</h3>
 
 <table align="center"><tr><td>
   <div align="center"><b>TESTS<br><mark>&thinsp;f&thinsp;o&thinsp;r&thinsp;</mark></b>
@@ -42,4 +42,4 @@
 </td></tr></table>
 
 ___________\
-🔚 🌘 2024-2026.. (image credits: _i.a._ emblems of miscellaneous free test frameworks)
+🔚 🌘 2024-2026.. (collage credits: emblems of miscellaneous free test frameworks)
