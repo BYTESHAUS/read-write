@@ -1,12 +1,12 @@
-# Software &nbsp;&mdash;&nbsp; Quality Assurance &rarr; `Programmatic Tests`
+# <picture><img alt="&nbsp;PROG TESTS" src="../../../_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture> for Quality Assurance
 
 <table><tr valign="top"><td><picture><img width="555px" alt="&nbsp;Software tests pyramid" src="../../../_rsc/_img/illus/tests/test_pyramid-deco-750px.jpg"></picture></td><td>
   
-  ### Programmatic tests are operational bricks of the QA pyramid.
+### Programmatic tests are operational bricks of the QA pyramid.
   
-  Though **unit tests** are at the bottom of the pyramid, any higher-level test subject is a **unit** of its own (even the whole application or service).
+Though **unit tests** are at the bottom of the pyramid, any higher-level test subject is a **unit** of its own (even the whole application or service).
   
-  This works in the opposite direction: there are no atomic units &thinsp;&mdash;&thinsp; any can be dissolved into lesser ones. Nevertheless, there's a bar below which irrational unit tests will overflow the project and one - above over which the meaning of automation dissolves.
+This works in the opposite direction: there are no atomic units &thinsp;&mdash;&thinsp; any can be dissolved into lesser ones. Nevertheless, there's a bar below which irrational unit tests will overflow the project and one - above  which the meaning of automation dissolves.
   
 </td></tr></table>
 
