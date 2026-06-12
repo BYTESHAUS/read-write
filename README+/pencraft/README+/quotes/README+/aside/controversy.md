@@ -27,7 +27,7 @@ Derogatory and illogical. Finding expert developers who can save a failing proje
 > **Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.** Code for readability.\
 _John F. Woods_, /comp.lang.c++/, 1991
 
-This accidental quote in a newsgroup became one of the most cited in IT (often for fun). Unrealistic and excessive "always" (harmful and wrong) demotivates aspiration to [quality code](../../../../../software/QA/code_quality).
+This accidental quote in a newsgroup became one of the most cited in IT (often for fun). Unrealistic and excessive "always" (harmful and wrong) demotivates aspiration to [quality code](../../../../../software/QA/README+/code-quality.md).
 
 > **You can't trust code that you did not totally create yourself.** &hellip; No amount of source-level verification or scrutiny will protect you from using untrusted code.\
 > [Ken Thompson](../contributors/README.md#ken-thompson), 1983 Turing Award Lecture

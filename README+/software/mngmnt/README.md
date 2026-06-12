@@ -12,7 +12,7 @@ You are likely reading from a **Git**<sup>:octocat:</sup> repository, while othe
 
 + facilitates development, `// minimazes installation, and maintenance`
 + spares human resources, `//especially in communication, procedures, and pushover tasks`,
-+ stimulates _good&nbsp;design_ and [quality&nbsp;code](../QA/code_quality/README.md) and prevents errors,
++ stimulates _good&nbsp;design_ and [quality&nbsp;code](../QA/README+/code-quality.md) and prevents errors,
 + automates routines when only justified.
 
 And not because chosen methodologies and tools are massively promoted.

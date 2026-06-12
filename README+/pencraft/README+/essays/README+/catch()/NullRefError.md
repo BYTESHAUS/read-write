@@ -114,7 +114,7 @@ _Enums_ (enumerations), i.e., declarative numbers, are rather prone to such erro
 
 First and foremost, there is no magic wand to eliminate `NullReference` errors, as clickbait titles often try to suggest. And there shall be none.
 
-Besides sound logic, [quality code](../../../../../software/QA/code_quality/README.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
+Besides sound logic, [quality code](../../../../../software/QA/README+/code-quality.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
 
 ### Do not hide
 
