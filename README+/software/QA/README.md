@@ -1,4 +1,4 @@
-<h1 align="center">Software &nbsp; &mdash; &nbsp; Quality Assurance (QA)</h1>
+<h1 align="center">&Sscr;oftware &nbsp; &mdash; &nbsp; Quality Assurance (QA)</h1>
 
 <table><tr valign="center"><td width="42%">
  
@@ -33,7 +33,7 @@ graph TB
      c1 o--o TDDev
     end
     subgraph "<h3>Quality Assurance</h3>"
-    a1(<b>Code</b>)-->a2(<a href="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/QA/code_quality/README.md">Quality</a>)
+    a1(<b>Code</b>)-->a2(<a href="https://github.com/BYTESHAUS/read-write/blob/main/README%2B/software/QA//README+/code-quality.md">Quality</a>)
   a1-->a3("Review")
     T1("<b>Testing</b>")-->QA1("Manual")
     T1("<b>Testing</b>")-->QA2(Automated)
@@ -117,18 +117,18 @@ Executable code routines are the biggest cornerstone of modern QA. Automation of
 
 ### Simulators
 
-It's more challenging to find an unavailable UI simulator or platform emulator, or virtual machine than a popular one.
+It's more challenging to find an unavailable UI simulator, or platform emulator, or virtual machine than a popular one.
 
 ## Appendix. Natural-born quality
 
-There were and will be remarkable works done from scratch **without** allotted proof and validation measures (let alone code reviews and test automation) **but robust** from the first release. 
+There were and will be remarkable works done from scratch **without** allotted proof and validation measures (let alone code reviews and test automation), **but robust** from the first release. 
 
 This may (but mostly _will not_) happen in localized high-pro teams of responsible individuals, but as an exclusion underlines the need for __QA__.
 
 > Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed/&thinsp;fluctuating, and stressed. Add human nature to sweep problems under the carpet &thinsp;&mdash;&thinsp; one quite big and thick in the software.
 <h3 align="center"><ins>&nbsp;bottom line&nbsp;</ins></h3>
 
-**QA** couldn't exist without errors &thinsp;&ndash;&thinsp; the catch-all term, with a dedicated [**corner**](README+/errors/) for its inmates. Where 🪲[bugs](README+/errors/README+/bugs.md)🪳 are the first-class citizens.
+**QA** couldn't exist without <mark>**errors**</mark> &ndas; and they deserve a dedicated [**corner**](README+/errors/), where 🪲[bugs](README+/errors/README+/bugs.md)🪳 are the first-class citizens.
 
 ___________\
-:end: ... continued in ... &nbsp;🚧[Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](code_quality) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [**TDD**](../tests/asDrive)
+🔚 ... continued in ... &nbsp;🚧[Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](code_quality) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [**TDD**](../tests/asDrive)
