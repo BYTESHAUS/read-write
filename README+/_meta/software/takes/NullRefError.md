@@ -8,7 +8,7 @@
 **Its outbreaks appear literally from `nothing` and are too common to tag them as `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _and_ data clouds. They spare neither junior nor seasoned developers.**
 
 The _Turing_ awardee and Sir [Tony&nbsp;Hoare](../../../pencraft/README+/quotes/README+/contributors/README.md#tony-hoare) gave himself up as being this _Frankenstein_ who brought the 
-<span title="&nbsp;If the link expires it was the video of T.&nbsp;Hoare&#010;&nbsp;lecture at QCon conference at Aug 25, 2009.">[**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup></span> into our software Eden. 
+<span title="&nbsp;If the link expires it was the video of T.&nbsp;Hoare&#010;lecture at QCon conference at Aug 25, 2009.">[**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup></span> into our software Eden. 
 
 Inspite of that nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain", still collecting its billion toll.\
 ___________\
@@ -76,7 +76,7 @@ Contrary to pretty odd ideas of null-free programming languages, mainstream prog
 
 ### Blaming the messenger
 
-Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../../memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified dislove.
+Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../../pencraft/README+/memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified dislove.
 
 The bad approach is that ignoring or silencing may cure the problem (though sometimes it works, for a while).
 
@@ -114,7 +114,7 @@ _Enums_ (enumerations), i.e., declarative numbers, are rather prone to such erro
 
 First and foremost, there is no magic wand to eliminate `NullReference` errors, as clickbait titles often try to suggest. And there shall be none.
 
-Besides sound logic, [quality code](../../../../../software/QA/README+/code-quality.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
+Besides sound logic, [quality code](../../../software/QA/README+/code-quality.md) and apparent measures (including language aid), the following practices must prevent unexpected exceptions:
 
 ### Do not hide
 
@@ -163,7 +163,7 @@ Bad approach: setting a specific object that will only mask `null` to make matte
 Private anecdotes are the last shelter of narrators unless it's a full match and a good argument. This must be the case.
 
 >  I can remember a contractor for a big, really one, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
-After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](../rec/LN-view.md) and returned to his daily need &ndash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
+After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](../../../pencraft/README+/essays/README+/rec/LN-view.md) and returned to his daily need &ndash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
 > For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, he coincided the slices of Swiss cheese to reveal a malicious an<i>null</i>er. To be trivially fixed.
 > <div align="center"><b>MORAL</b>❔</div>
@@ -178,7 +178,7 @@ After sacrificing a couple of hours, he addressed this pesky _null_ to the dark 
 
 ## See also
 
-### |&thinsp;- [Zero index take](take_zero-index.md)
+### |&thinsp;- [Zero index take](0vs1-index.md)
 
 ___________\
 🔚 &empty; 2025-2026.. <b>Β</b>ytesHausMeister .. image credits: Wiki Commons, 
