@@ -21,7 +21,7 @@
       <br /><b>ARCHITECT(URE)</b></a>
     </td>
       <td><!--                          N U L L   W A S H I N G      --!>
-        <a href="README+/catch()/NullRefError.md"><img src="../../../_rsc/_img/_nav/tiles/nullref-buoy_bw-200px.jpg" alt="&nbsp; Null sign as buoy" title="&nbsp; Null, its reference, and their mistake"/>
+        <a href="../../../_meta/software/takes/NullRefError.md"><img src="../../../_rsc/_img/_nav/tiles/nullref-buoy_bw-200px.jpg" alt="&nbsp; Null sign as buoy" title="&nbsp; Null, its reference, and their mistake"/>
         <br /><b>WASHING <i>NULL</i></b></a>
      </td>
     <td><!--                                Q U O T E S      --!>
