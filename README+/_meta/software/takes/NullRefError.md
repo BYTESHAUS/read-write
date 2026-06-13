@@ -7,8 +7,8 @@
 
 **Its outbreaks appear literally from `nothing` and are too common to tag them as `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _and_ data clouds. They spare neither junior nor seasoned developers.**
 
-The _Turing_ awardee and Sir [Tony&nbsp;Hoare](../../../quotes/README+/contributors/README.md#tony-hoare) gave himself up as being this _Frankenstein_ who brought the 
-[**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup> into our software Eden. 
+The _Turing_ awardee and Sir [Tony&nbsp;Hoare](../../../pencraft/README+/quotes/README+/contributors/README.md#tony-hoare) gave himself up as being this _Frankenstein_ who brought the 
+<span title="&nbsp;If the link expires it was the video of T.&nbsp;Hoare&#010;&nbsp;lecture at QCon conference at Aug 25, 2009.">[**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup></span> into our software Eden. 
 
 Inspite of that nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain", still collecting its billion toll.\
 ___________\
@@ -17,7 +17,7 @@ ___________\
 </td>
 <td align="right" valign="bottom">
    <div align="left"><samp><b><i>Let's explore this rabbit hole,</i></b></samp></div>
-   <picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
+   <picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
    title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture><br />
    <samp><b><i>which sucks (our objects and coins).</i></b></samp>
 </td>
@@ -49,7 +49,7 @@ ___________</details>
 * Errors of different origins caused botched global updates, blackouts, and catastrophic failures when exception names didn't matter. 
 * "Silent" logical flaws that don't protrude exceptions may be even more disastrous and harder to find.
   
-</td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
+</td><td><picture><img alt="&nbsp; Yin&Yang under null sign" src="../../../_rsc/_img/signs/YinYangNull.png" /></picture></picture></td><td>
 
 - Statistics (and private experience) put `NullReference` in the top places.<sup>🧮</sup>
 - Many of these errors are difficult to trace, reproduce, and debug. 
