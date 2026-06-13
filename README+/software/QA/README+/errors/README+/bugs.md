@@ -1,4 +1,4 @@
-# Software &thinsp;&mdash;&thinsp; Bugs and their Fixes
+# &Sscr;oftware &thinsp;&mdash;&thinsp; &Bscr;ugs and their &Fscr;ixes
 
 > ### Let's assume the short word &thinsp;<mark><samp>&thinsp;<b>B&thinsp;U&thinsp;G</b>&thinsp;</samp></mark>&thinsp; as a catch-all for any unintentional significant and evident deviation of software from expected behaviour in the faultless environment. 
 > 
@@ -7,22 +7,22 @@
 </td><td>
 
 **Software bugs range:**\
-&nbsp; <sub>🪲</sub><sup>☁️</sup> from a wrong bit setting up to highly abstract logical modelling errors.\
-&nbsp; <sub>🔎</sub><sup>👻</sup> from permanent and easy reproducible to sporadic and phantom.\
-&nbsp; <sub>🎪</sub><sup>🌩️</sup> from ignorable triffles to severe crashes or production blocking.
+&nbsp; <sub>🔹</sub><sup>☁️</sup> **from** a wrong bit setting up **to** highly abstract errors in logic.\
+&nbsp; <sub>🔎</sub><sup>👻</sup> **from** permanent and easy reproducible **to** sporadic and phantom.\
+&nbsp; <sub>🎪</sub><sup>🌩️</sup> **from** ignorable triffles **to** severe crashes or production blocking.
 
-Bugs must not definitely cause negative effects &thinsp;&ndash;&thinsp; they can be all of a sudden handy and even propose workarounds or remain as features.
+### Bugs must not definitely cause negative effects &thinsp;&ndash;&thinsp; they can be all of a sudden handy and even propose workarounds and features.
 
 **What are not bugs:**\
-&nbsp; 🚫 Hardware fails even if they mimic programmatic fails or open software vulnerabilities as _Meltdown_<sup>&thinsp;<a href="https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)" title="&nbsp; &nbsp;One of the original transient execution &#010;CPU vulnerabilities (along with Spectre).">**W**</a></sup>.\
-(Regardless of the story with a relay that coined the _debugging_ term.)\
+&nbsp; 🚫 Hardware fails even if they mimic programmatic fails or execution CPU vulnerability.<sup>🪲</sup>\
 &nbsp; 🚫 Design misconceptions are **not** bugs.\
 &nbsp; 🚫 Viruses and malware are **not** bugs. As well as missing features or bad UX.\
-&nbsp; 🚫 Vulnerability to external errors and attacks: SQL injection, flooding, nonsense input
-  
+&nbsp; 🚫 Vulnerability to external errors and attacks: SQL injection, flooding, nonsense input. 
 </td></tr></table>
 
-> ### Let's assume the samely short &thinsp;<mark><samp>&thinsp;<b>F&thinsp;I&thinsp;X</b>&thinsp;</samp></mark>&thinsp; for attempts to handle the **found** bugs.<br />(They can be succeful or not, complete or cancelled.)
+<div align="right"?<sup>🪲</sup> <samp>Regardless of the story with a relay that neoligized "debugging@.</samp></div>
+
+> ### Let's assume the samely short &thinsp;<mark><samp>&thinsp;<b>F&thinsp;I&thinsp;X</b>&thinsp;</samp></mark>&thinsp; for attempts to handle the **found** bugs. (They can be succeful or not, complete or cancelled.)
 
 🚧 🚧 🚧 ... PLACEHOLDER to CONTINUE the TOPIC ... 🚧 🚧 🚧
 
