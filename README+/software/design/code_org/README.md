@@ -4,7 +4,7 @@
 
 <table><tr valign="top"><td width="50%"><picture><img alt="&nbsp; Three Elephants of code org" src="../../../_rsc/_img/illus/code-org_3elephants.jpg" /></picture></td><td>
   
-### Denomination of titles _and_ their classification (that imply domain partitioning) is a pivotal but underrated activity <ins>in&nbsp;every&nbsp;exploration</ins>.
+### Denomination of titles _and_ their classification (that imply domain partitioning) is a pivotal but underrated activity <ins>in&nbsp;every&nbsp; exploration</ins>.
   
 #### In software, names with categories, which smoothly guide developers through the design and make development intuitive, are often taken for granted.
 
@@ -15,7 +15,7 @@
 
 ## 🐘 Categorization
 
-### _Categorisation_ (aka _classification_) is more profound than breaking collocations with sentences, and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
+### _Categorisation_ (aka _classification_) is more profound than breaking collocations with sentences and building the folder hierarchy &thinsp;&mdash;&thinsp; **it&nbsp;frames abstractions.**
 
 If enthusiasts with magnifying glasses could logically group swarms of wretched boulders in far space and paltry insects, it wouldn't be such a burden for unique by-nature software entities.
 
@@ -44,7 +44,7 @@ The only limitation of categorization is the strict tree graph. Tags may rationa
 ❌ contains jargon and slang, or terms, dubious in other tongues or cultures. 
   
 </td>
-<td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/ORly.Book-CodeNaming.jpg" /></a></td>
+<td width="25%"><a href="https://orlybooks.com/books/variable-naming"><img alt="&nbsp;O RLY? Variable name. The hardest part of coding" src="../../../_rsc/_img/snap/media/books/ORly.Book-CodeNaming.jpg" /></a></td>
   <td>
 
 
@@ -65,7 +65,7 @@ The inevitable and heavy expenses will pay off with the formation of ***lingua f
 + comfy **navigation** in the source code (beginning from <kbd>CTRL+F</kbd>).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>:family:</sup><sub> The team means not only developers and managers but customers, testers, and end users.</sub>\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meetings protocols, and primers - hard to follow but easy to misunderstand or forget</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>📒</sup><sub> reqs/specs, DoU, meeting protocols, and primers - hard to follow but easy to misunderstand or forget</sub>
 
 It's an ingredient of successful [domain-driven design](../drive/README.md#Domain-drive) (and vice versa).
 
@@ -77,8 +77,8 @@ It's an ingredient of successful [domain-driven design](../drive/README.md#Domai
 
 ## Wrapping up
 
-+ Even top consonant teams under time pressure and brakes on perfectionism would rarely be proud of their naming implementation. 
-+ The naming (akin to [code quality](../../QA/code_quality/README.md)) will never be perfect, but efforts to improve it must be honest and continuous.
++ Even top-consonant teams under time pressure and brakes on perfectionism would rarely be proud of their naming implementation. 
++ The naming (akin to [code quality](../../QA/README+/code-quality.md)) will never be perfect, but efforts to improve it must be honest and continuous.
 
 ## Appendix. Learning from others
 
@@ -88,7 +88,7 @@ It's an ingredient of successful [domain-driven design](../drive/README.md#Domai
 🏆 _Bread crumbling_ for navigation &thinsp;&mdash;&thinsp; win for both the idea and name
 
 \___________\
-Audience choice Price goes to Mrs. [Grace Hopper](../../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper) 
+Audience choice Price goes to Mrs. [Grace Hopper](../../../pencraft/README+/quotes/README+/contributors/README.md#Grace-Hopper) 
 who suggested tongue (English) semantics for programming (so natural now that one can't estimate).
 
  ...  _TO BE CONTINUED_ ...
