@@ -7,7 +7,7 @@
 > Both their foresight and enough delusions count.
 
 ___________\
-&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Their labor backed up physicists and engineers in mega-projects as the Apollo Program, but not that popularized  &thinsp;&mdash;&thinsp; only Turing got an A-movie (as far as I know).</samp>
+&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Their labor backed up physicists and engineers in mega-projects such as the Apollo Program, but not that popularized  &thinsp;&mdash;&thinsp; only Turing got an A-movie (as far as I know).</samp>
 
 ### John von Neumann
 
@@ -39,7 +39,7 @@ _Richard Wesley Hamming_ (**1915** - 1988), a mathematician known for prize-winn
 
 ### Christopher Strachey
 
-_Christopher S. Strachey_ (1916 - 1975), University of Cambridge. A British founder of denotational semantics, and other early groundstones of programming.
+_Christopher S. Strachey_ (1916 - 1975), University of Cambridge. A British founder of denotational semantics and other early groundstones of programming.
 
 ### Richard Bellman
 
@@ -86,7 +86,7 @@ _Gerald Marvin Weinberg_ (**1933** - 2018), UMich, IBM, a computer scientist, a 
 
 _C.A.R. Hoare_, Sir _Charles Antony Richard Hoare_ (born **1934**)<sup title="Turing Award, 1980">🥇</sup> a fundamental contributor to programming languages and algorithms.
 
-He coined the (in)famous [Billion Dollar Mistake](../../../essays/README+/catch()/NullRefError.md) for _NullReference_.
+He coined the (in)famous [Billion Dollar Mistake](../../../../../_meta/software/takes/NullRefError.md) for _NullReference_.
 
 ### Niklaus Wirth
 
@@ -171,7 +171,7 @@ _Theodore von Kármán_ (**1881**-1963)<sup>👽</sup>, outstanding aerospace en
 
 _Hubert Lederer Dreyfus_ (1929-2017), Professor of Philosophy at UC Berkeley
 
-He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)<sup><b>w</b></sup> in the years it wasn't commercial hype but the research. Known for the books:
+He dared to [question AI](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)<sup><b>w</b></sup> in the years when it wasn't commercial hype but research. Known for the books:
 
 + _Alchemy and Artificial Intelligence_, 1965
 + _What Computers Can't Do_, 1972\
@@ -179,7 +179,7 @@ He was brave enough to be [critical of AI](https://en.wikipedia.org/wiki/Hubert_
 
 ### Bjarne Stroustrup
 
-Bjarne Stroustrup (1950, Aarhus 🇩🇰) /ˈbjɑːrnə ˈstrɒvstrʊp/ father of C++, evangelist of paradigms.
+Bjarne Stroustrup (1950, Aarhus 🇩🇰) /ˈbjɑːrnə ˈstrɒvstrʊp/ &ndash; father of C++, evangelist of paradigms.
 Beyond the great programming, he did a good job of maintaining his own [quotes](https://www.stroustrup.com/quotes.html)<sup>:link:</sup>, saving us from misinterpretations.
 
 ### Kent Beck
