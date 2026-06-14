@@ -16,10 +16,10 @@ ___________\
 
 </td>
 <td align="right" valign="bottom">
-   <div align="left"><samp><b><i>Let's explore this rabbit hole,</i></b></samp></div>
+   <div align="left"><samp><b><i>Let's explore this rabbit hole&thinsp;...</i></b></samp></div>
    <picture><img alt="&thinsp; Gibson Dam, Montana - drain (Wiki)" src="../../../_rsc/_img/photo/build/Gibson_Dam-Montana-drain.jpg" 
    title="&nbsp;Gibson Dam, Montana, drain&#010;Source: Wiki media" /></picture><br />
-   <samp><b><i>which sucks (our objects and coins).</i></b></samp>
+   <samp><b><i>...&thinsp;which sucks (our objects and coins).</i></b></samp>
 </td>
 </tr></table>
 
