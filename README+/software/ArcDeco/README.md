@@ -51,7 +51,7 @@
 
 <table><tr></tr><tr align="center"><td colspan="2">
    
-### <picture><img width="500px" alt="&nbsp; X ------------------>" src="../../_rsc/_img/signs/arrows/orange_right_skew-hor_750px.png" /></picture><br />Coercive resource scaling against "horizontal" growth will build up a horrific pile...
+### <picture><img width="500px" alt="&nbsp; X ------------------>" src="../../_rsc/_img/signs/arrows/orange_right_skew-hor_750px.png" /></picture><br />Coercive resource scaling against "horizontal" expansion will build up a horrific pile...
 
 #### Getting harder and more expensive to evolve and maintain, with little rational heritage except "how not to do" tips.
 </td>
@@ -63,21 +63,21 @@
 #### That is, the chaos inherent to any programming will spiral out of control.
 
 ___________\
-&nbsp; &nbsp;<sup>🙋</sup> <samp>This said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or 3D engines) but challenges beyond the ordinary: 
+&nbsp; &nbsp;<sup>🙋</sup> <samp>This was said not about megastructures and prize-winning brainteasers (like OS, DBMS, IDE, or 3D engines) but challenges beyond the ordinary: 
 new LOB foundation, unfamiliar domains (such as CAD or interpreters), or remakes (original graph base, making async from legacy, and dividing modules).</samp>
 
 </td></tr></table>
 
-Such menaces must encourage us to articulate the metaphysics of software. 
+### Such menaces must encourage us to articulate the metaphysics of software. 
 
 <h2 align="right">... opening ...</h3>
 
-<h3 align="center"><picture><img alt="&nbsp; A&thinsp;R&thinsp;C &nbsp; D&thinsp;E&thinsp;C&thinsp;O" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-45px.jpg" /></picture><br />
+<h3 align="center"><picture><img alt="&nbsp; A&thinsp;R&thinsp;C &nbsp; D&thinsp;E&thinsp;C&thinsp;O" src="../../_rsc/_img/ArcDeco/ArcDeco-bar-45px-rounded.png" /></picture><br />
 <mark><b>Arc</b></mark>hitecture <mark><b>D</b></mark>esign D<mark><b>e</b></mark>velopment <mark><b>Co</b></mark>ding</h3>
  
 I couldn't find a better tag, but a mocking acronym<sup>🎨</sup> to distinguish the following survey (at least as a folder).
 
-\___________\
+___________\
 &nbsp; &nbsp;<sup>🎨</sup> <samp>Homonym to __Arc&nbsp;Deco__ - [Arts décoratifs](https://en.wikipedia.org/wiki/Art_Deco)</samp><sup><b>w</b></sup><samp> (`är-dā-ˈkō`) 
 with its comeback, _ca._ a century after its introduction at the _International Exhibition of Modern Decorative and Industrial Arts_ in Paris.</samp>
 
