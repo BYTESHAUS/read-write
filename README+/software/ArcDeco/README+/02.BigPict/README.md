@@ -26,7 +26,7 @@ Let's begin with contours, **intentionally** left without annotations to defy yo
 
 The «<b>tearing X and Y axes</b>» in the intro were for a two-dimensional simplification for a figure of speech.
 
-* The "abstractional" arrow means the growth of its level.
+* The "abstractional" arrow means the progress of its level.
 
 </td></tr></table>
 
