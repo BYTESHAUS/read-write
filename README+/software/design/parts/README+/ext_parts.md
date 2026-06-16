@@ -1,6 +1,6 @@
-# &Yscr;our &Sopf;oftware &nbsp;&mdash;&nbsp; &Escr;xternal &Popf;arts
+# &Yscr;our Software &nbsp;&mdash;&nbsp; &Escr;xternal Parts
 
-What are the cornerstones of a big new project &thinsp;&ndash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither. \
+What are the cornerstones of a big project &thinsp;&ndash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither. \
 **The fundamentals already exist, and they are vetted concepts/components to adopt.**
 
 > **This follows the universal paradigm: learn first from others.**
@@ -38,24 +38,27 @@ Many frameworks are good in themselves, but will burden your project with too mu
 
 ## Testing
 
-Components for testing are so organic for applications that are associated/integrated with popular languages/platforms/IDEs (Java, Angular) and DevOps. Their state for .NET got a piece of discussion in [C# nice-to-have](../../../../../README+/.net/README+/parts/cs-lacks-parts.md#testing).
+Components for testing are so organic to applications that are associated/integrated with popular languages/platforms/IDEs (Java, Angular) and DevOps. Their state for <sub>[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)</sub> got a piece of discussion in [C# nice-to-have](../../../../../README+/.net/README+/parts/cs-lacks-parts.md#testing).
 
 ## Selection
 
 ### Free and open source
 
+<p align="right">Free software is software that respects your freedom <br />and the social solidarity of your community. <br />So it's free as in freedom.
+<br /><a href="../../../../pencraft/README+/quotes/README+/contributors/README.md#Richard-Stallman">Richard Stallman</a></p>
+
 Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has filled the JSON blank in C# for years.
  
-Most licenses allow commercial use, but when applying such 3d-party assets, consider if there's a community (maybe, only you) able to maintain the stuff within the lifecycles of dependent projects. 
-Thus, the readable source code with transparent design concepts is above all: releases, active contributors, extra features, and popularity.
+> ### Many licenses allow commercial (and not) use, but when applying such 3rd-party assets, consider whether there's a community (maybe only you) able to curate and maintain the assets throughout the lifecycles of dependent projects. 
+Thus, the readable source code with transparent design concepts is above everything else: releases, active contributors, extra features, and popularity.
 
 Also, freeware often means open-source, and here, not all are ready to give out the best ideas and realizations.
 
-### commercial and proprietary
+### Commercial and proprietary
 
 All-around pro solutions aren't free, but annual dev licenses below $1K will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable, motivated community.&nbsp;<sup>:raising_hand:</sup>
 
-&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Compare to the exciting accomplished but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks ... last updated 10 years ago.</samp>
+&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Compare to the exciting accomplished, but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks ... last updated 10 years ago.</samp>
 
 ___________\
 🔚 .. 2024-2026.. <samp><b>B</b>yteshausmeister</samp>
