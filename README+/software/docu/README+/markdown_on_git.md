@@ -1,14 +1,15 @@
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 # <mark>Markdown</mark> on Git :octocat: &larr;&thinsp; Hands-on experience <sup>😹</sup>
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br />a <i>markdown</i> newbie and an expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
 <sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use with plenty of guides and cheat sheets for advanced techniques.
 
-Despite building it in and assigning it the role of primary documentation, <sub>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)</sub> itself doesn't render its site in markdown or a flavor. This markup and its dialects were never designed to provide rich content.
+Despite building it in and assigning it the primary role in documentation, <sub>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)</sub> itself doesn't render its site in markdown or a flavor. This markup and its dialects were never planned to provide rich content.
 
 <table align="center"><tr></tr><tr><td>
     
-<h4 align="center"><samp>NEVERTHELESS</samp> you need <mark>markdown</mark> beyond a moderately formatted text?<br />Here is my ounce of teaching illustrated by this repository.</h4>
+<h4 align="center"><samp>NEVERTHELESS</samp>if you need <mark>markdown</mark> beyond a moderately formatted text,<br />here is my ounce of teaching illustrated by this repository.</h4>
 
 </td></tr></table>
 
@@ -29,20 +30,20 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 ### Markdown
 
-- Markdown doesn't have codes akin to HTML or rich-text formats (to begin with, essential non-breaking elements).
+- Markdown doesn't supply codes/symbols akin to HTML or rich-text formats (to begin with essential non-breaking elements).
 - Native markdown tables are intended for small portions.
 - There are no variables in markup (Remember, it's plain text).
 
 ### Git
 
-<b>The saddest experience:</b> you can't include shared content and snippets but <samp>copy-paste</samp>. (While even elementary repositories have common headers and footers of READMEs.) Next:
+<b>The saddest experience:</b> you can't include shared content and snippets but <kbd>COPY-PASTE</kbd>. (While even elementary repositories have common headers and footers of READMEs.) Next:
 
 - GitHub removes styles, classes, and most other formatting.\
-(Thus, there are always borders in both "marked down" and HTML-made tables.)
-- There's no overlay for image loading, but blank space &mdash; readers may be unaware of this and skip your beautiful illustrations.
+(Thus, you can't remove borders in both "marked down" and HTML-made tables.)
+- There's no overlay for image loading, but blank space &ndash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
 - It's easier to list what the GitHub site editor has (a few shortcut keys) rather than what's wanted: toolbars, context menus, auto-saving, and so on.
-- GitHub isn't the fastest or the smartest markdown engine.
+- GitHub isn't the fastest or the smartest markdown engine. Love it or leave it.
 
 ## More than text
 
@@ -53,7 +54,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 + Entity names can be made into HTML links (but not in every type&thinsp;**!**).
 + "Mermaids" mushrooming gives hope to see WYSIWYG tooling soon.
 
-"Mermaids" are beautiful, but not for drawings. For a specific layout or artistic look, you need to save a drawing in another program.
+"Mermaids" are beautiful, but not for drawings. For a specific layout or artistic look, you need to save a drawing in another app.
 
 ### Pictures
 
@@ -82,7 +83,7 @@ Keep in mind inherently supported `code snippets` with `diffs`, [math expression
 
 HTML elements must be in play even for the purest text: markdown has neither a non-breaking space nor a hyphen. The richer the content, the more HTML you will use.
 
-Surprisingly, the inevitable `<table>` can keep pure or mixed markdown in cells &thinsp;&mdash;&thinsp; put an empty line before and after.
+Surprisingly, the inevitable `<table>` can keep pure or mixed markdown in cells &thinsp;&ndash;&thinsp; put an empty line before and after.
 
 ## Tips and advice
 
@@ -99,7 +100,7 @@ Besides symbols, the best HTML pals of markdown writers are
 Numbered footnotes are academic and convenient, and you shall use [the :octocat:supported](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/).
 
 But a digit itself won't tell much about its subject (and you may not want to jump forth and back between clauses). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup> <sub>You can invent your footnotes vocabulary, as I use _raising hand_ to voice my opinion.</sub>
+&nbsp; &nbsp; <sup>🙋</sup> <sub>You can invent your footnotes vocabulary, as I use _raising hand_ to voice my opinion.</sub>
 
 ### Links suffixes
 
@@ -126,7 +127,7 @@ Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeab
 
 ### Images
 
-Don't leave clickable images unless they are links or a detailed (bigger) version &thinsp;&mdash;&thinsp; HTML `<picture>` to rescue.
+Don't leave clickable images unless they are links or a detailed (bigger) version &thinsp;&ndash;&thinsp; HTML `<picture>` to rescue.
 
 </td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../../_rsc/_img/signs/LongRead/3000px_rotate90.jpg" /></picture>
 </td></tr></table>
@@ -138,7 +139,7 @@ Don't leave clickable images unless they are links or a detailed (bigger) versio
 You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>.\
 And/or GitHub Pages (GitHub.io) that you can add to a Git profile.
 
-There are legions of content management and site creation tools for big projects that are more suitable and professional than markdown-on-Git. 
+There are loads of content management and site creation tools for big projects that are more suitable and professional than markdown-on-Git. 
 There are rich environments for collaboration on tech/sci documents, like [Jupyter Notebook](https://jupyter.org)<sup>🔗</sup>.
 
 </td></tr></table>
@@ -147,13 +148,13 @@ There are rich environments for collaboration on tech/sci documents, like [Jupyt
 
 Besides obvious gimmicks, some others require disclosure.
 
-<details><summary><ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>F<samp>&thinsp;O&thinsp;R&thinsp;M&thinsp;A&thinsp;T&thinsp;T&thinsp;I&thinsp;N&thinsp;G</samp></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins></summary>
+<details><summary><ins>&nbsp; &nbsp; &nbsp;<b>F<samp>&thinsp;O&thinsp;R&thinsp;M&thinsp;A&thinsp;T&thinsp;T&thinsp;I&thinsp;N&thinsp;G</samp></b>&nbsp; &nbsp; &nbsp;</ins></summary>
 
 <table align="center"><tr></tr><tr><td>Centered or right-aligned block quote</td></tr></table>
 
 \___________</details>
 
-<details><summary><ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>T<samp>&thinsp;A&thinsp;B&thinsp;L&thinsp;E&thinsp;S&thinsp;</samp></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins></summary>
+<details><summary><ins>&nbsp; &nbsp; &nbsp;<b>T<samp>&thinsp;A&thinsp;B&thinsp;L&thinsp;E&thinsp;S&thinsp;</samp></b>&nbsp; &nbsp; &nbsp;</ins></summary>
 &nbsp;
     
 + Markdown automatically highlights alternative rows, but by inserting `</tr><tr>` you can master it.
