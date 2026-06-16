@@ -1,4 +1,4 @@
-<h1 align="center">&Sopf;oftware &nbsp;&rarr;&nbsp; Design &nbsp;&larr;&nbsp;  &Nscr;<i>otes bundle</i>🎗️</h1>
+<h1 align="center">&Sopf;oftware &nbsp;&rarr;&nbsp; Design &nbsp;&larr;&nbsp; misc. &Nscr;<i>otes</i></h1>
 
 ### Here, <mark>_Design_</mark> means a bridge **between** the highly conceptual and platform/application-agnostic theory (also <mark>*Architecture*</mark>) **and** closer to the routine programming (<mark>*Development*</mark>).
 
