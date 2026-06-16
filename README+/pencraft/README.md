@@ -1,11 +1,11 @@
 <div align="right"><picture><image alt="&nbsp;AI free" src="../_rsc/_img/illus/AiFree/AI-free_900px.png" /></picture></div>
 
-<h1 align="center">✒️&Pscr;<samp>EN</samp> 🙴 &Bscr;<samp>RUSH</samp>🎨<br />Craft<i><br />on formal service</i></h1>
+<h1 align="center">✒️&Pscr;<samp>EN & </samp>&Bscr;<samp>RUSH</samp>🎨 Craft<i><br />on formal service</i></h1>
 
 <table align="center"><tr></tr><tr><td>
 
 ### Depicting skills for facts (either technical, scientific, and even artistic) have two dissimilar employments with opposing values of freestyle, creativity, envisaging, and styling:
-<h3 align="center"><mark>__&Dopf;ocumentation__</mark> and <mark>__&Ascr;uthoring__</mark></h3>
+<h3 align="center"><mark>&Dopf;<i>ocumentation</i></mark> and <mark>&Ascr;<i>uthoring</i></mark></h3>
 
 ### with opposing values of formalism, creativity, envisaging, and styling.
 
@@ -55,7 +55,7 @@ Namely, formalization and structuring compel us to reexamine and refine concepts
 
 * The subject of **private** taste, inclination, vision, and fallacies. It's up to you to look them over or recoil in distaste.
 * The subject of **continuous** delivery (i.e., endless edit and modification).\
-<code>// <i>Nevertheless, it's not all blurred &thinsp;&mdash;&thinsp; most articles are complete.</i></code>
+<code>// <i>Nevertheless, it's not all blur &ndash; most articles are complete.</i></code>
 * Few opuses may be in the badly readable state of 🚧<samp><b>draft</b></samp>🐝\
 <code>// <i>Skip them while I do my best to finish</i>.</code>
 
