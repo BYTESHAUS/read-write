@@ -3,11 +3,11 @@
 <table><tr valign="top"><td><picture><img width="500px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.png" /></picture>
        </td><td>
 
-The essence of architecture appeared with constructions more extravagant and durable than a hut of piled branches &thinsp;&mdash;&thinsp; namely, with megaliths.
+The essence of architecture appeared with constructions more extravagant and durable than a hut of piled branches &thinsp;&ndash;&thinsp; namely, with megaliths.
 
-### Certain ancient Hellenes were so prominent at building sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &thinsp;&mdash;&thinsp; the term romanized to <i>architecture</i> centuries later.
+### Certain ancient Hellenes were so prominent at building sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &thinsp;&ndash;&thinsp; the term romanized to <i>architecture</i> centuries later.
 
-Next, ages passed till the art of immobile acknowledged and methodized architects as a detached trade &thinsp;&mdash;&thinsp; 
+Next, ages passed till the art of immobile acknowledged and methodized architects as a detached trade &thinsp;&ndash;&thinsp; 
 refined craftsmen, exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.
 
 Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complexity.
@@ -64,8 +64,8 @@ However, the goal is to define operating wholes quickly rather than ripen aesthe
  <picture><img alt="&nbsp;Germany-Danube-Walhalla" src="../../../../_rsc/_img/photo/blog/2024.DE-Danube-Walhalla.jpg" title="&nbsp;Image credit: BytesHausemeister, 2024"/></picture><br />
   <i>Walhalla</i> on the river Danube, Bavaria (built 1820-1842) is an exemplary neoclassicism.
 </td><td>
- Buildings are <b>immobile</b>, conservative, and traditional &mdash; software is <b>ephemeral</b>, fluid, and doesn't know nostalgia (like neoclassicism).</p>
- <p>Constructions are embossed with materials (and their costs), locations &mdash; software abstracts from pure boolean logic (lacking relay, transistor, or warm lamp vibes). However, software buildings propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
+ Buildings are <b>immobile</b>, conservative, and traditional &ndash; software is <b>ephemeral</b>, fluid, and doesn't know nostalgia (like neoclassicism).</p>
+ <p>Constructions are embossed with materials (and their costs), locations &ndash; software abstracts from pure boolean logic (lacking relay, transistor, or warm lamp vibes). However, software buildings propagate the "philosophy" of a selected stack (languages/frameworks/libraries, storage, servers, communication protocols, ...).
  
  The software can't rust or erode, but it becomes obsolete in a few years. Decades (bare minimum for wood cabins) set lifecycle records in residual mainframe software - unlikely to recur (till interstellar flights).
 
@@ -79,8 +79,8 @@ Contrariwise, months of upfront planning and prototyping are adverse to software
 
 <table><tr valign="top"><td width="*">
  <p>A construction engineer, whose modeling tasks mingle with stirring concrete, who is up and there on the spot to supervise the progress and for master classes in laying bricks and blocks, knows tectonics vs. mechanics of materials as well as electrics with electronics, is licensed to operate excavators and cranes, may inspect constructions for cracks, interviews candidates for woodworking ...<br />
-... must be a fantastic creature &mdash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
-  <p>Building education and activities are very narrow and regulated (also legally). &mdash; <b>IT</b>&nbsp;is&nbsp;reluctant about formalities of schooling.</p>
+... must be a fantastic creature &ndash; but a usual Jack-of-all-trades in software teams where construction places are open 🕙24x7 💻laptop.</p>
+  <p>Building education and activities are very narrow and regulated (also legally). &thinsp;&mdash;&thinsp; <b>IT</b>&nbsp;is&nbsp;reluctant about formalities of schooling.</p>
 </td><td width="40%">
   
 ```mermaid
@@ -131,7 +131,7 @@ Extravagant (and still working) IT features are available for every developer; h
 
 <p dir=rtl><samp>"<b>.I AM THE ARCHITECT</b>"</samp><br /><sup>🎦</sup><i>The Architect</i><br/>Dr. Freud looking character)<br/>(of <i>The Matrix Reloaded</i>, 2003</p>
 
-Contrary to the evolution of building **programming disperses the classical figure of the architect** &mdash; allowing and demanding from **everybody** to <mark>zoom IN</mark> implementation details and <mark>zoom OUT</mark> concepts (up to top design).<sup>🔎</sup>
+Contrary to the evolution of building **programming disperses the classical figure of the architect** &ndash; allowing and demanding from **everybody** to <mark>zoom IN</mark> implementation details and <mark>zoom OUT</mark> concepts (up to top design).<sup>🔎</sup>
 
 
 <table><tr valign="center"><td>‼️</td><td>
@@ -185,12 +185,12 @@ from computer science`"((
 
 </details>
 
-↖️ `//` Not to mention ♾️<b>D<samp>EV</samp>O<samp>PS</samp></b>♾️ &thinsp;&mdash;&thinsp; a separate software domain.
+↖️ `//` Not to mention ♾️<b>D<samp>EV</samp>O<samp>PS</samp></b>♾️ &thinsp;&ndash;&thinsp; a separate software domain.
 
 <details><summary><ins>&nbsp;.. <b>or for personal aptitudes:</b>&nbsp;</ins> ➡️</summary>
 
 + **memorizing** "big pictures" in enough detail (finer than general diagrams),
-+ ability to **unify** and simplify logic (where it's not evident for others),
++ ability to **unify** and simplify logic (where it's not evident to others),
 + staying **over** (but not ignoring) known patterns, practices, and common inclinations,
 + strength to **admit** poor decisions and dead-ends on time with energy to find better and redo the work,
 + humility to keep on searching existing snippets and features ahead of implementing the great own,
@@ -212,7 +212,7 @@ leaving as few cavities of misconstruing and design anarchy as possible. If one 
 > ### Above all, **_software architect_** on a project is natural and convincing for stakeholders, who won't plunge into the intricacies of tech stacks and team roles.
 > #### _Great expectations_ of a mage who unerringly guesses the outlines of future products. 
 
-It distinguishes the position from slurred experts, team leads (thought of as admins), and legions of senior developers &thinsp;&mdash;&thinsp; the title fairly profaned by quantity growth and outsourcing.<sup>🙋</sup>
+It distinguishes the position from slurred experts, team leads (thought of as admins), and legions of senior developers &thinsp;&ndash;&thinsp; the title fairly profaned by quantity growth and outsourcing.<sup>🙋</sup>
 
 Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogramming</samp> O<samp>fficer</samp></i></b> will sound that coherent.
 
@@ -225,7 +225,7 @@ Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogr
 </td></tr></table>
 
 ## &nbsp;
-#### Finally, salt all this: major software projects don't raise P<samp>ANTHEONS</samp> but turn dusty flagstones of the local S<samp>TONEHENGE</samp>: cast requirements to known and tried solutions with a decent input of cutting-edge stuff, invention, and artistism.
+#### Finally, salt all this: major software projects don't raise P<samp>ANTHEONS</samp> but turn dusty flagstones of the local S<samp>TONEHENGE</samp>: cast requirements to known and tried solutions with a decent input of cutting-edge stuff, invention, and artistry.
 
 <div dir=rtl><samp>"<b>.SMITH WILL SUFFICE</b>"</samp><br /><i><sup>🔨</sup>Agent Smith</i></div>
 
@@ -237,7 +237,7 @@ Neither _**guru**_, _**dev&nbsp;tsar**_ nor <b><i>C<samp>hief</samp> P<samp>rogr
 
 <table><tr></tr><tr>
  <td>☝️</td><td>This essay doesn't split <i>architecture</i> and <i>design</i> (as everything over particular and imaginary applications/systems/constructions) while
-<a href="../../../../software/ArcDeco/README+/01.Rationale/README.md"><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px.jpg" 
+<a href="../../../../software/ArcDeco/README+/01.Rationale/README.md"><img alt="&nbsp;Arc Deco" src="../../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png" 
 title="Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D&nbsp; &nbsp; &nbsp; &nbsp;Design&#013;&#010;e&nbsp; &nbsp; &nbsp; &nbsp; dEvelopment&#013;&#010;co&nbsp; &nbsp; &nbsp; COde" /></a>
  (from which this essay descends) discriminates them as <a href="../../../../software/ArcDeco/README+/03.Stripes">kin or adjacent activities</a>.
  </td></tr></table>
