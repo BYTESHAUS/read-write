@@ -2,7 +2,7 @@
 
 > ### The _Model_, though a rather obscure term, is a <samp><ins>CORNERSTONE</ins></samp> of software design. It shapes and formalizes entities and tasks of the application.
 
-#### A model may range from the dumbest `new Brick { w = 20, d = 12, h = 6,5 }` up to a universe of media franchises, from private proof of concept to enterprise solution, and from bubble sort to 3D engine.
+#### A model may range from the crude `new Brick { w=20, d=12, h=6.5 }` up to elaborated universes of media franchises, from a fast private proof of concept to enterprise solutions, and from a bubble sort to 3D engines.
 
 ## Insight into _Model_ data
 
