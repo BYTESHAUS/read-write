@@ -1,4 +1,4 @@
-# Resources&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Artistic and other non-code 
+# Resources &nbsp;&mdash;&nbsp; &Ascr;rtistic and other non-code 
 
 The non-code stuff in repositories here contains diverse pictures, snapshots, schemes, quotes, wiki references, and other materials, both borrowed (from 3D parties) and owned.
 
@@ -14,14 +14,13 @@ I have searched for and used works of others for fair and limited use:
 * just for fun,
 * non-commercial.
 
-When possible, I refer the source or/and attribute to the author.
+When possible, I refer to the source and/or attribute it to the author.
 
 ## Miscellaneous
 
-I couldn't trace the authors of certain images/texts. (Archaeologists say that the source of any can be found in cuneiform.) 
-Some memes are too folk (public) or old to be proprietary or copyright-protected.
-
-Some known images are utilized in collages for entertainment or presentation purposes only.
+* I couldn't trace the authors of certain images/texts. (&Ascr;lbeit archaeologists say that the origin of any can be found in cuneiform.) 
+* Some memes are too folk (public) or too old to be proprietary or copyright-protected.
+* Some famed images are utilized in collages for entertainment or presentation purposes only.
 
 ## Tools
 
@@ -34,4 +33,4 @@ The tools mostly utilized to stuff the repositories are:
 + and **GitHub**.
 
 ___________\
-🔚 2022-2026... <samp><b>B</b>yteshausmeister</samp> If you have questions or demands, feel free to contact me through Git (e.g. pull request)...
+🔚 2022-2026... If you have questions or demands, feel free to contact me through Git ... <samp><b>B</b>yteshausmeister</samp>
