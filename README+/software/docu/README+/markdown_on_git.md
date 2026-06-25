@@ -1,5 +1,5 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-# <mark>Markdown</mark> on Git :octocat: &larr;&thinsp; Hands-on experience <sup>😹</sup>
+# <mark>Markdown</mark>-on-Git :octocat: &larr;&thinsp; &Hscr;ands-on experience <sup>😹</sup>
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br />a <i>markdown</i> newbie and an expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
@@ -9,7 +9,7 @@ Despite building it in and assigning it the primary role in documentation, <sub>
 
 <table align="center"><tr></tr><tr><td>
     
-<h4 align="center"><samp>NEVERTHELESS</samp>if you need <mark>markdown</mark> beyond a moderately formatted text,<br />here is my ounce of teaching illustrated by this repository.</h4>
+<h4 align="center"><samp>NEVERTHELESS</samp> if you need <mark>markdown</mark> beyond a moderately formatted text,<br />here is my ounce of teaching illustrated by this repository.</h4>
 
 </td></tr></table>
 
@@ -38,12 +38,12 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 <b>The saddest experience:</b> you can't include shared content and snippets but <kbd>COPY-PASTE</kbd>. (While even elementary repositories have common headers and footers of READMEs.) Next:
 
-- GitHub removes styles, classes, and most other formatting.\
+- GitHub (predictibly) wipes out _styles_, _classes_, and most other formatting.\
 (Thus, you can't remove borders in both "marked down" and HTML-made tables.)
 - There's no overlay for image loading, but blank space &ndash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
 - It's easier to list what the GitHub site editor has (a few shortcut keys) rather than what's wanted: toolbars, context menus, auto-saving, and so on.
-- GitHub isn't the fastest or the smartest markdown engine. Love it or leave it.
+- GitHub is neither the swiftest nor the smartest markdown engine. Love it or leave it.
 
 ## More than text
 
@@ -58,7 +58,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 ### Pictures
 
-+ There's nothing wrong with including images in documents, but their size. Also, markdown on Git won't support goodies like linkable picture areas, images in pop-ups, or big icons.
++ There's nothing wrong with including images in documents, but their size is. Also, markdown on Git won't support goodies like linkable picture areas, images in pop-ups, or big icons.
 
 ### Pictograms / Symbols
 
@@ -77,7 +77,7 @@ Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<s
 
 ### Miscellany
 
-Keep in mind inherently supported `code snippets` with `diffs`, [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)<sup>:octocat:</sup>, and [badges](https://shields.io/)<sup>🔗</sup>.
+Keep in mind inherently supported `code snippets` with `diffs`, [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)<sup>:octocat:</sup>, and [badges](https://github.com/badges/awesome-badges)<sup>🔗</sup>.
 
 ## HTML
 
@@ -100,7 +100,7 @@ Besides symbols, the best HTML pals of markdown writers are
 Numbered footnotes are academic and convenient, and you shall use [the :octocat:supported](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/).
 
 But a digit itself won't tell much about its subject (and you may not want to jump forth and back between clauses). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
-&nbsp; &nbsp; <sup>🙋</sup> <sub>You can invent your footnotes vocabulary, as I use _raising hand_ to voice my opinion.</sub>
+&nbsp; &nbsp; <sup>🙋</sup> <sub>You can invent your footnotes vocabulary, as I use _raising hand_ to voice presonal opinion.</sub>
 
 ### Links suffixes
 
@@ -163,6 +163,4 @@ Besides obvious gimmicks, some others require disclosure.
 
 🐝 ... _to be continued_ ... 🐝 
 
-\___________
-
-<div align="center"> 🔚 ... 🌙 2025-2026.. <b>Β</b>yteshausmeister</div> 
+<div align="center">___________<br />🔚... 🌙 2025-2026.. <samp><b>Β</b>yteshausmeister</samp> </div>
