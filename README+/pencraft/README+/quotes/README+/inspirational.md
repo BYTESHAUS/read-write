@@ -26,7 +26,7 @@
 "I have no use for odes in battles...", 1964
 <p dir="rtl"><b>!Gimme the torch, FAST</b><br /><i>Ray Bradbury (1920-2012)</i><br />reading the <i>Twilight</i> novels (*assumed)</p>
 
-\_____ <samp>end: write</samp> ____________________________</details>
+_____ <samp>end: write</samp> ____________________________</details>
 
 <details><summary><b>&thinsp;.&thinsp;.&thinsp;.&thinsp;<ins> PROCRASTINATE</b>&nbsp;</ins></summary>&nbsp;
  
@@ -62,7 +62,7 @@ _Procrastinators' Club of America_ (with international membership) established [
 
 Coming next&mdash;[National Procrastination Week](https://en.wikipedia.org/wiki/National_Procrastination_Week).
 
-\________ <samp>end: procrastinate</samp> ________________________</details>
+________ <samp>end: procrastinate</samp> ________________________</details>
 
 <details><summary><b>.&thinsp;.&thinsp;.&thinsp;<ins> PERFECT</b>&nbsp;</ins></summary>&nbsp;
  
@@ -88,20 +88,20 @@ having a good move, to seek for a better.**\
 ― _Domenico Lorenzo Ponziani (1719-1796)_, best known for chess writing\
 <sub>Misattributed to _Emanuel Lasker_</sub>
 
-#### East meets West
+#### East meets West&thinsp;
 
-![Brevity - sibling of talent](https://img.shields.io/badge/Brevity-Sister_of_Talent-yellow)
+[![Brevity - sibling of talent](https://img.shields.io/badge/Brevity-Sister_of_Talent-yellow)](#)
 
 > **Do only what only you can do.**\
 ― [Edsger W. Dijkstra](contributors/README.md#Edsger-W-Dijkstra)
 
-Not only does the East grant us profound and eloquent teaching! Whatever Mr. Kipling* did say.<sup>©️</sup>
+Not only does the East grant us profound and eloquent teaching! Whatever Mr.&nbsp;Kipling did say.<sup>©️</sup>
 
-&nbsp; &nbsp; <sup>©️</sup> <sub>"East is East, and West is West, and never the twain shall meet..."</sub>
+&nbsp; &nbsp; <sup>©️</sup> <samp>«East is East, and West is West, and never the twain shall meet...»</samp>
 
-\_____ <samp>end: perfect </samp> ____________________________</details>
+_____ <samp>end: perfect </samp> ____________________________</details>
 
-<details><summary><b>.&thinsp;.&thinsp;.&thinsp;<ins> to TAKE a BREAK</b>&nbsp;</ins></summary>&nbsp;
+<details><summary><b>.&thinsp;.&thinsp;.&thinsp;<ins> TAKE a BREAK</b>&nbsp;</ins></summary>&nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
 <br /><picture><img src="../../../../_rsc/_img/photo/misc/Twitter-FTX_SamFried.jpg" alt="&nbsp;nap in FTX office" /></picture><br />
@@ -135,7 +135,7 @@ To name a few of the officially recognized:
 > **If you have a fountain, shut it down. Let even a fountain have a rest.**\
 _K. Proutkoff_, Selection, ~1850
 
-\______ <samp>end: break</samp> ___________________________</details>
+______ <samp>end: break</samp> ___________________________</details>
 
 <details><summary><b>.&thinsp;.&thinsp;.<ins> vindicate NOT DOING/learning</b>&nbsp;</ins></summary>&nbsp;
  
@@ -193,7 +193,7 @@ _Plato_'s account of _Socrates_
 
 Should we defy the fundamentals of Western philosophy ...
 
-\____ <samp>end: vindicate</samp> _____________________________</details>
+____ <samp>end: vindicate</samp> _____________________________</details>
 
 <details><summary><b>.&thinsp;.&thinsp;.&thinsp;<ins> INTERPRET ERRORS RIGHT&thinsp;</ins>&thinsp;.&thinsp;.&thinsp;.</b></summary>&nbsp;
  
@@ -218,7 +218,7 @@ but one who notices this.
 
 The rule of medieval feasts and merciful testers
 
-\___________
+___________
 
 > **Is software craft or art?**\
 To interpret a bug as a feature is a craft.\
@@ -235,13 +235,13 @@ _Alexander Pope_, poet (1688-1744)
 
 > **Commit a few bugs, and they call you a failure. Release a million, and you're a Founder.**
 
-\______ <samp>end: vindicate</samp> ___________________________</details>
+______ <samp>end: vindicate</samp> ___________________________</details>
 
 <details><summary><b>.&thinsp;.&thinsp;.&thinsp;<ins> but TEST and DEBUG</b>&nbsp;</ins></summary>
 &nbsp;
  
 <mark><b>&nbsp;Presented to you by ...</b></mark>
-<br /><picture><img alt="&nbsp; Teleevanglist: If there's no more room in stack, the bugs will walk the Earth..." 
+<br /><picture><img alt="&nbsp; Teleevangelist: If there's no more room in Stack, the bugs will walk the Earth..." 
         src="../../../../_rsc/_img/memes/misquote-no_more_stack.jpg" title="&nbsp;Stack is overflowing..." /></picture><br />
 <mark><b>...Ken Foree fandom</b></mark>
 
@@ -259,7 +259,7 @@ in <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-li
 <sup>🙋</sup> <samp>Media had hyperbolized the story to a "century cyberattack". But being tricky and long planned, it was far off to infiltrate most "distros". 
 This required many conditions to coincide, and would manifest itself swiftly.</samp>
 
-\_____ <samp>end: test</samp> ____________________________</details>
+_____ <samp>end: test</samp> ____________________________</details>
 
 <details><summary>.&thinsp;.&thinsp;.&thinsp;<ins> and <b>... QUOTE&nbsp;</b></ins>♾️</summary>&nbsp;
 
