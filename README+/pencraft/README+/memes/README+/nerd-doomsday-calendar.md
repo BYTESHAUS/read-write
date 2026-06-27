@@ -42,7 +42,9 @@
 
 <picture><img alt="&nbsp; Dario Amadei, World Economic Forum, 2026" title="Dario Amadei, CEO Antjropic,&#010;World Economic Forum,&#010;Davos, January 2026" src="../../../../_rsc/_img/snap/events/2026.01_WEF-Davos_DAmadei.jpg" /></picture>
 
-### "We might be 6 to 12 months away from when the model is doing most, maybe all of what SWEs do end-to-end."
+### "We might be 6 to 12 months away from when the model is doing most, <mark>maybe all</mark> of what SWEs do end-to-end."[^1]
+
+[^1]: Sometimes one _maybe_ may be not enough.
 
 </td>
 <td>
