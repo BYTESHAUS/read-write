@@ -144,7 +144,7 @@ Don't leave clickable images unless they are links or a detailed (bigger) versio
 <--          THIS ANCHOR WILL CATCH YOUR VIEW                   -->
 ```
 
-</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../../_rsc/_img/signs/LongRead/3000px_rotate90.jpg" /></picture>
+</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../../_rsc/_img/signs/LongRead/bar/vert/3200x50px.jpg" /></picture>
 </td></tr></table>
 <!--                                                         W R A P - U P                       --!>
 <table><tr valign="center"><td><picture><img width="200px" alt="&nbsp;WRAP UP" src="../../../_rsc/_img/signs/WrapUp/counter-rotate/80x144_fold.jpg" /></picture></td><td>
@@ -171,7 +171,7 @@ Besides obvious gimmicks, some others require disclosure.
 
 <details><summary><ins>&nbsp; &nbsp; &nbsp;<b>T<samp>&thinsp;A&thinsp;B&thinsp;L&thinsp;E&thinsp;S&thinsp;</samp></b>&nbsp; &nbsp; &nbsp;</ins></summary>
 &nbsp;
-    
+
 + Markdown automatically highlights alternative rows, but by inserting `</tr><tr>` you can master it.
 
 \___________</details>
