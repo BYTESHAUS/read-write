@@ -144,12 +144,12 @@ Don't leave clickable images unless they are links or a detailed (bigger) versio
 <--          THIS ANCHOR WILL CATCH YOUR VIEW                   -->
 ```
 
-</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../../_rsc/_img/signs/LongRead/bar/vert/3200x50px.jpg" /></picture>
+</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../../_rsc/_img/signs/LongRead/bar/vert/3500x50px.jpg" /></picture>
 </td></tr></table>
 <!--                                                         W R A P - U P                       --!>
 <table><tr valign="center"><td><picture><img width="200px" alt="&nbsp;WRAP UP" src="../../../_rsc/_img/signs/WrapUp/counter-rotate/80x144_fold.jpg" /></picture></td><td>
 
-### 🎉 You made it to a markdown lord🎈and now ...
+### 🎉You made it to a markdown lord🎈and now&nbsp;...
 
 You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>.\
 And/or GitHub Pages (GitHub.io) that you can add to a Git profile.
@@ -176,6 +176,6 @@ Besides obvious gimmicks, some others require disclosure.
 
 \___________</details>
 
-🐝 ... _to be continued_ ... 🐝 
+🐝 ... _to be continued_ ... 🐝
 
 <div align="center">___________<br />🔚... 🌙 2025-2026.. <samp><b>Β</b>yteshausmeister</samp> </div>
