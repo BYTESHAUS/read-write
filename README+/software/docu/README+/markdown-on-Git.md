@@ -144,7 +144,7 @@ Don't leave clickable images unless they are links or a detailed (bigger) versio
 <--          THIS ANCHOR WILL CATCH YOUR VIEW                   -->
 ```
 
-</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../../_rsc/_img/signs/LongRead/bar/vert/3500x50px.jpg" /></picture>
+</td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../../_rsc/_img/signs/LongRead/bar/vert/3300x50px.jpg" /></picture>
 </td></tr></table>
 <!--                                                         W R A P - U P                       --!>
 <table><tr valign="center"><td><picture><img width="200px" alt="&nbsp;WRAP UP" src="../../../_rsc/_img/signs/WrapUp/counter-rotate/80x144_fold.jpg" /></picture></td><td>
