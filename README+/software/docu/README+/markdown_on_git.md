@@ -20,7 +20,7 @@ Despite building it in and assigning it the primary role in documentation, <sub>
 ## Editors and Tools
 
 A simple markdown is readable without <span title="&nbsp; What You See Is What You Get"><ins>WYSIWYG</ins></span>, and no editor will support it. 
-No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.github.com, toggling _Edit_ and _Preview_.
+No IDE (such as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.github.com, toggling _Edit_ and _Preview_.
 
 * There's no excuse to avoid grammar check browser plugins.
 * View releases on browsers with different engines.
@@ -38,7 +38,7 @@ No IDE (as Visual Studio) guarantees a "native" browser experience. Thus, the ed
 
 <b>The saddest experience:</b> you can't include shared content and snippets but <kbd>COPY-PASTE</kbd>. (While even elementary repositories have common headers and footers of READMEs.) Next:
 
-- GitHub (predictibly) wipes out _styles_, _classes_, and most other formatting.\
+- GitHub <s>mercilessly</s>&thinsp;predictibly wipes out _styles_, _classes_, and most other formatting.\
 (Thus, you can't remove borders in both "marked down" and HTML-made tables.)
 - There's no overlay for image loading, but blank space &ndash; readers may be unaware of this and skip your beautiful illustrations.
 - Many (if not most) Q&A tricks for markdown won't work on Git.
@@ -77,7 +77,7 @@ Review [HTML symbols](https://www.w3schools.com/charsets/ref_html_symbols.asp)<s
 
 ### Miscellany
 
-Keep in mind inherently supported `code snippets` with `diffs`, [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)<sup>:octocat:</sup>, and [badges](https://github.com/badges/awesome-badges)<sup>🔗</sup>.
+Keep in mind inherently supported `code snippets` with `diffs`, [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)<sup>:octocat:</sup>, admonitions, and [badges](https://github.com/badges/awesome-badges)<sup>🔗</sup>.
 
 ## HTML
 
@@ -128,6 +128,21 @@ Prefer `<a id="anchor_name" />` for sustained (internal) links to avoid changeab
 ### Images
 
 Don't leave clickable images unless they are links or a detailed (bigger) version &thinsp;&ndash;&thinsp; HTML `<picture>` to rescue.
+
+### Last but not least &thinsp;&ndash;&thinsp; hiding things
+
+💡 You may like to **preserve** some contents (e.g., draft or preliminary).\
+⚓ The rich format proposed here will need **anchors** for editing navigation.\
+💬 **Comments**.
+
++ You can use a `markdown` footnote trick:
+```markdown
+[Any content you want to hide]: #
+```
++ But the `HTML` comment is trimmer:
+```HTML
+<--          THIS ANCHOR WILL CATCH YOUR VIEW                   -->
+```
 
 </td><td><picture><img width="150px" alt="&nbsp;LONG READ" src="../../../_rsc/_img/signs/LongRead/3000px_rotate90.jpg" /></picture>
 </td></tr></table>
