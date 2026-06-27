@@ -22,8 +22,8 @@
     <!-- -->
      <!--                              P E N C R A F T          --!>
      <!-- -->
-     <a href="../README+/pencraft"><b>&Pscr;&thinsp;E&thinsp;N&thinsp;C&thinsp;R&thinsp;A&thinsp;F&thinsp;T</b></a>&nbsp;<sup>∏</sup>&nbsp; &nbsp; &nbsp; &nbsp;
-        :octocat:&thinsp;<mark><a href="../README+/software/docu/README+/markdown_on_git.md">Markdown</a></mark><br/>
+     <a href="../README+/pencraft"><b>&Pscr;&thinsp;e&thinsp;n&thinsp;c&thinsp;r&thinsp;a&thinsp;f&thinsp;t</b></a>&nbsp;<sup>∏</sup>&nbsp; &nbsp; &nbsp; &nbsp;
+        <mark><a href="../README+/software/docu/README+/markdown_on_git.md">Markdown</a></mark>&thinsp;<sub>:octocat:</sub><br/>
       &nbsp; 🥱<a href="../README+/pencraft/README+/essays/README.md">&thinsp;<b><samp>ESSAYS</samp></b>&thinsp;</a>&nbsp;🪝<a href="../README+/pencraft/README+/memes/README.md">Memes</a>&nbsp; 🥨<a href="../README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>
                                                                                         <!--          A R C  D E C O   S I D E B A R    --!>
