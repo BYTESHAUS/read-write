@@ -17,6 +17,6 @@ Fully self-explanatory code (the product and its tests) is a chimera &ndash; int
 
 |&thinsp;- **Documents management**:\
 |&thinsp;-&thinsp;- [docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)\
-|&thinsp;-&thinsp;- [Markdown on Git](README+/markdown_on_git.md)
+|&thinsp;-&thinsp;- [Markdown on Git](README+/markdown-on-Git.md)
 
 🔚
