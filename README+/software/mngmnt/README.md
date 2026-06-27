@@ -1,8 +1,8 @@
-# Code, Dev, and Docu &nbsp;&#8646;&nbsp; M&thinsp;A&thinsp;N&thinsp;A&thinsp;G&thinsp;E&thinsp;M&thinsp;E&thinsp;N&thinsp;T <sup>&#8665; OPINION</sup>
+# C<samp>ODE</samp>, D<samp>EV</samp>, and D<samp>OCU</samp> &nbsp;&#8646;&nbsp; M&thinsp;A&thinsp;N&thinsp;A&thinsp;G&thinsp;E&thinsp;M&thinsp;E&thinsp;N&thinsp;T <sup>&#8665; &Oscr;&Pscr;&Iscr;&Nscr;&Iscr;&Oscr;&Nscr;</sup>
 
 > ### The exponential (and chaotic) growth of software projects in the 2000s founded the "parallel" realm of their organization: requirements/issue tracking, code collecting/versioning, collaboration tools, deployment services, and project management.
 
-You are likely reading from a **Git**<sup>:octocat:</sup> repository, while other platforms, frameworks, and methodologies may require some screen scrolling to name just the trending ones.
+You are likely reading from a **Git**<ssub>:octocat:</sub> repository, while other platforms, frameworks, and methodologies may require some screen scrolling to name just the trending ones.
 
 ## Good organization
 
@@ -31,7 +31,7 @@ And not because chosen methodologies and tools are massively promoted.
 ### Behavioral advantages wanted
 
 + <mark>Processes</mark> do not suppress direct and casual communication (also with customers and users).
-+ <mark>Meetings</mark> are condensed, involving concerned participants and oriented toward tangible outcomes on code and documentation.
++ <mark>Meetings</mark> are concise, involve the relevant participants, and are oriented toward tangible outcomes for users (code and documentation).
 + <mark>Iteration</mark> cycles plan feasible and ponderable results with relatively small organizational overhead.
 + <mark>Coaching</mark> and mentoring focus on the domain and software (and much less on the dev environment).
 + <mark>Commits/submits</mark> are for integrity (not to report or show the work mainly).
