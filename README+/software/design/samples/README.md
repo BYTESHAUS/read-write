@@ -1,7 +1,8 @@
-# Design &nbsp;&larr;&nbsp; Model &thinsp;&rarr;&thinsp; &Sscr;<samp>AMPLES</samp> &nbsp;<sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub>
+<h1 align="right">Design &nbsp;&larr;&nbsp; M<samp>ODEl</samp> &thinsp;&rarr;&thinsp; &Sscr;<samp>AMPLES</samp> &nbsp;<sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub></h1>
 
 > ### The planning and presentation of general-purpose software features require a pictorial and encouraging [modelling](../parts/README+/app-model.md) playground. We'll often rely on the next samples:
 
+## &nbsp;
 # <a id="chess"/>♟️&thinsp;&Cscr;<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&mdash;&nbsp; [<ins>&Mscr;<samp>ath</samp></ins>](#math) &nbsp;&mdash;&nbsp; [<ins>&Iscr;<samp>mages</ins></samp>](#images) &nbsp;&mdash;&nbsp; [<ins>&Sscr;<samp>tills</samp></ins>](#stills)
 
 <p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
@@ -19,7 +20,7 @@ The layout can be reproduced from moves and vice versa, thus mixed notation can 
 
 ### Multiuser
 
-Chess assumes two players (i.e., a multiuser application), who make moves in turn or decide to end the game, but there's a judge and timer, who follow the game and may change its progress.
+Chess assumes two players (_i.e._, a multiuser application), who make moves in turn or decide to end the game, but there's a judge and timer, who follow the game and may change its progress.
 Thus, any action (start, move, resign, undo) requires the approval or notification of others.
 
 ### Multi-value note of the _move_
@@ -55,14 +56,14 @@ More specific functions can be found in external libraries, and if not, are the 
 
 Codes may rely on mathematical *invertibility* (to undo and browse changes) while [one-way functions](https://en.wikipedia.org/wiki/One-way_function)<sup><b>w</b></sup> may suit for trace or hack safety.
 
-Value differences may suggest a mathematical operation to reproduce, or disclose a function (e.g., one point for an exponent, and two for a line).
+Value differences may suggest a mathematical operation to reproduce, or disclose a function (_e.g._, one point for an exponent, and two for a line).
 
 ### Optimization
 
 Parallelization (multi-threading) of algorithms, when applicable, tangibly speeds up calculations even on mediocre two-core machines.
 
 ## &nbsp;
-# <a id="images"/>[&Cscr;<samp>hess</samp>](#math) &nbsp;&mdash;&nbsp; [&Mscr;<samp>ath</samp>](#math) &nbsp;&mdash;&nbsp; 🎨&thinsp;<ins>&Iscr;<samp>&thinsp;M&thinsp;A&thinsp;G&thinsp;E&thinsp;S</samp></ins> &nbsp;&mdash;&nbsp; [&Sscr;<samp>tills</samp>](#stills)
+# <a id="images"/>[<ins>&Cscr;<samp>hess</samp></ins>](#math) &nbsp;&mdash;&nbsp; [<ins>&Mscr;<samp>ath</samp></ins>](#math) &nbsp;&mdash;&nbsp; 🎨&thinsp;&Iscr;<samp>&thinsp;M&thinsp;A&thinsp;G&thinsp;E&thinsp;S</samp> &nbsp;&mdash;&nbsp; [<ins>&Sscr;<samp>tills</samp></ins>](#stills)
 
 <p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
 
@@ -97,14 +98,14 @@ Writing/books may be a perfect case, and the neighbor repo use-dev➡️ explore
 
 Developers can select a sample or model that fits the features under development and implement (or reuse) prototypes with tests. 
 
-However, put them all together on the mental green field of a growing application to plan:
+> ### However, put them all together on the mental green field of a growing application to plan:
 
 + multitasking,
 + multi-cultural,
 + undo-redo,
 + conversions.
 
-and mix them (e.g., async undo-redo,  or multi-culture as units).
+and mix them (_e.g._, async undo-redo,  or multi-culture as units).
 
 </td></tr></table>
 
