@@ -1,4 +1,4 @@
-#  IT &Mopf;emes &nbsp;&mdash;&nbsp; &Iscr;diomatic collection
+<h1 align="center">IT &Mopf;emes &nbsp;&mdash;&nbsp; &Iscr;diomatic collection</h1>
 
 <div dir="rtl"><i>I like epigraphs for<br/>magnificent look and<br>.vertical indent</i></div>
 
@@ -7,12 +7,12 @@
   
 ![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
 
-[![If to learn is to swim against the current then IT must be a waterfall.](../../../_rsc/_img/memes/ITLearnWaterfall_horiz.png)](../../../software/)
+[![&nbsp; If to learn is to swim against the current, then IT must be a waterfall. &nbsp;](../../../_rsc/_img/memes/HausIT/LearnItWaterfall-horz-signed.jpg)](../../../software/ArcDeco/README.md)
 
 The grains of truth in this wisdom:
 
 * **No other knowledge erodes so quickly** as the IT tech stack &nbsp;&mdash;&nbsp; languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the pace of the year.\
-(<samp>**For example**, JavaScript/HTML, which one learned in 2000, remains only as kernel syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and transformed into single-page application frameworks, which now govern the web dev.</samp>)
+(<samp>**For example**, JavaScript/HTML, which folks learned in 2000, remains only as kernel syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and transformed into single-page application frameworks, which now govern the web dev.</samp>)
 * In the orthogonal (to time) dimension, a developer can't stick to a favorite syntax and must be fluent in a wide techno spectrum.
 
 **Escape?**
@@ -20,7 +20,7 @@ The grains of truth in this wisdom:
 > Don't swim against the current. Stay in the river, become the river; and the river is already going to the sea. This is great teaching.\
 — _Rajneesh, aka Osho_ (1931-1990)
 
-Translated east-to-west, this means: follow career paths to a sinecure in a big company.
+Translated east-to-west, this means: follow career paths to sinecures in big companies.
 
 \___________</details>
 
