@@ -1,12 +1,12 @@
-# Design &nbsp;&larr;&nbsp; Model &thinsp;&rarr;&thinsp; S<samp>AMPLES</samp> &nbsp; <sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub>
+# Design &nbsp;&larr;&nbsp; Model &thinsp;&rarr;&thinsp; &Sscr;<samp>AMPLES</samp> &nbsp;<sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub>
 
-The planning and presentation of general-purpose software features require a pictorial and encouraging [modelling](../parts/README+/app-model.md) playground. We'll often rely on the next samples:
+> ### The planning and presentation of general-purpose software features require a pictorial and encouraging [modelling](../parts/README+/app-model.md) playground. We'll often rely on the next samples:
 
-# <a id="chess"/>♟️&thinsp;<ins>C<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp></ins> &nbsp;&mdash;&nbsp; [<samp>Math<samp>](#math) &nbsp;&mdash;&nbsp; [<samp>Images</samp>](#images) &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
+# <a id="chess"/>♟️&thinsp;&Cscr;<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&mdash;&nbsp; [<ins>&Mscr;<samp>ath</samp></ins>](#math) &nbsp;&mdash;&nbsp; [<ins>&Iscr;<samp>mages</ins></samp>](#images) &nbsp;&mdash;&nbsp; [<ins>&Sscr;<samp>tills</samp></ins>](#stills)
 
 <p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
 
-This popular board strategy of all time, with fast-to-learn rules, renders a favorable playground for software logic.  Other traits are...
+This popular board strategy of all time, with fast-to-learn rules, renders a favorable playground for software logic. Other traits are...
 
 ### Reversibility: full and plain
 
@@ -39,7 +39,7 @@ Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may u
 Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to maintain and output an archive of all known tournaments.
 
 ## &nbsp;
-# <a id="math"/>[<samp>Chess</samp>](#chess) &nbsp;&mdash;&nbsp; 🧮&thinsp;<ins>M<samp>&thinsp;A&thinsp;T&thinsp;H<samp></ins> &nbsp;&mdash;&nbsp; [<samp>Images</samp>](#images) &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
+# <a id="math"/>[<ins>&Cscr;<samp>hess</ins></samp>](#chess) &nbsp;&mdash;&nbsp; 🧮&thinsp;&Mscr;<samp>&thinsp;A&thinsp;T&thinsp;H</samp> &nbsp;&mdash;&nbsp; [<ins>&Iscr;<samp>mages</samp></ins>](#images) &nbsp;&mdash;&nbsp; [<ins>&Sscr;<samp>tills</samp></ins>](#stills)
 
 <p dir=rtl>«<b>&thinsp;A&thinsp;l&thinsp;l &nbsp; i&thinsp;s &nbsp; N&thinsp;u&thinsp;m&thinsp;b&thinsp;e&thinsp;r</b>&thinsp;»<br ><span title="Pythagoras, 570-495 BC"><i><ins>Πυθαγόρας</ins></i></span></p>
 
@@ -62,7 +62,7 @@ Value differences may suggest a mathematical operation to reproduce, or disclose
 Parallelization (multi-threading) of algorithms, when applicable, tangibly speeds up calculations even on mediocre two-core machines.
 
 ## &nbsp;
-# <a id="images"/>[<samp>Chess</samp>](#math) &nbsp;&mdash;&nbsp; [<samp>Math<samp>](#math) &nbsp;&mdash;&nbsp; 🎨&thinsp;<ins>I<samp>&thinsp;M&thinsp;A&thinsp;G&thinsp;E&thinsp;S</samp></ins> &nbsp;&mdash;&nbsp; [<samp>Stills</samp>](#stills)
+# <a id="images"/>[&Cscr;<samp>hess</samp>](#math) &nbsp;&mdash;&nbsp; [&Mscr;<samp>ath</samp>](#math) &nbsp;&mdash;&nbsp; 🎨&thinsp;<ins>&Iscr;<samp>&thinsp;M&thinsp;A&thinsp;G&thinsp;E&thinsp;S</samp></ins> &nbsp;&mdash;&nbsp; [&Sscr;<samp>tills</samp>](#stills)
 
 <p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
 
@@ -77,7 +77,7 @@ Changes on canvas differ from unique artistic strokes to strict procedures and m
 Actions vary from simple (flip, rotate) to highly processed retouching or effects.
 
 ## &nbsp;
-# <a id="stills"/>[<samp>Chess</samp>](#chess) &nbsp;&mdash;&nbsp; [<samp>Math</samp>](#math) &nbsp;&mdash;&nbsp; [<samp>Images<samp>](#images) &nbsp;&mdash;&nbsp; 🧱&thinsp;<ins>S<samp>&thinsp;T&thinsp;I&thinsp;L&thinsp;L&thinsp;S</samp></ins>
+# <a id="stills"/>[<ins>&Cscr;<samp>hess</samp></ins>](#chess) &nbsp;&mdash;&nbsp; [<ins>&Mscr;<samp>ath</samp></ins>](#math) &nbsp;&mdash;&nbsp; [<ins>&Iscr;<samp>mages</samp></ins>](#images) &nbsp;&mdash;&nbsp; 🧱&thinsp;&Sscr;<samp>&thinsp;T&thinsp;I&thinsp;L&thinsp;L&thinsp;S</samp>
 
 <p dir=rtl>In some mysterious way woods have<br />
 .never seemed to me to be <mark><b>static</b></mark> things<br />
@@ -85,7 +85,7 @@ Actions vary from simple (flip, rotate) to highly processed retouching or effect
 ,yet in metaphysical ones<br />
 .they seem to move through me<br />
 ___________<br />
-<b>John Fowles</b> (1926-2005), <i>(post)modernist</i></p>
+<b><i>John Fowles</i></b> (1926-2005), <i>(post)modernist</i></p>
 
 **First and foremost**, software design asks for <ins>"static" plain bare figures</ins>, which make core models. The preceding samples are more in motion ("dynamic") &thinsp;&mdash;&thinsp; they have properties and hierarchies but are more demonstrative of processes that change them.
 
@@ -109,4 +109,4 @@ and mix them (e.g., async undo-redo,  or multi-culture as units).
 </td></tr></table>
 
 ___________\
-🔚 🌕 <samp>**B**yteshausmeister</samp> 2023-2026 ..
+🔚 🌕 <samp>2023-2026.. **B**yteshausmeister</samp>
