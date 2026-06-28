@@ -146,4 +146,5 @@ If it works why does it matter?
 <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;
 
 ___________\
-🔚 ...🌜2023-2026.. **B**yteshausMeister
+<picture><img src="https://img.shields.io/badge/code-quality-brightgreen?logo=pinboard" /></picture>
+<div align="right"><samp>...🌜2023-2026.. <b>B</b>yteshausMeister</samp> 🔚</div>
