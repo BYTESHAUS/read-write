@@ -13,7 +13,7 @@
 
 </td><td>
   
-### &Tscr;he lore goes in times of the ▪️two-row ▪️monochrome ▪️text _monitors_ (if not arrays of light bulbs) when every programmer was a computer scientist, or a mathematician, or both.
+### &Tscr;he lore goes in times of the&thinsp;▪️two-row&thinsp;▪️monochrome&thinsp;▪️text _monitors_ (if not arrays of light bulbs) when every programmer was a computer scientist, or a mathematician, or both.
 
 &Tscr;hose senior in age and title occupied relatively idle nighttime<sup>🌛</sup> to connect their computer centers via antediluvian _wide-area networks_ and combat resources with all possible (for warming up) and impossible, and unthinkable hacks in _machine languages_.
     
@@ -28,5 +28,5 @@
 <sup>🌛</sup> <samp>Relatively, since computer time was so deficient, a couple of hours in night shifts on BIG machines was a big luck for junior fellows to book (daytime was out of reach for them at all).</samp>
 
 ___________\
-🔚 🌘 2025-2026.. <samp><b>B</b>yteshausmeister</samp>\
+🔚 🌘 <samp>2025-2026.. <b>B</b>yteshausmeister</samp>\
 Image credits: screengrab, imdb.com: <i>Born Invincible</i>, 1978; Wiki media: Intel 1103 memory
