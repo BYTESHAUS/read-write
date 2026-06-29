@@ -52,7 +52,7 @@ Arc&nbsp; &nbsp; &nbsp;ARChitecture&#013;&#010;D &nbsp; &nbsp; &nbsp; Design&#01
  <br />
  &nbsp; &nbsp;<b>.&thinsp;.&thinsp;.</b>&nbsp; and more on <a href="https://github.com/BYTESHAUS/use-dev/blob/main/.github/README.md"><b>&thinsp;use-dev&thinsp;</b></a>&nbsp;
 </td><td colspan="2" align="left">
-<picture><img src="../README+/_rsc/_img/memes/HausIT/IT_is_waterfall.png" alt="&nbsp; ... then IT must be a waterfall." /></picture>
+<picture><img src="../README+/_rsc/_img/memes/HausIT/IT_is_waterfall(white_tap).png" alt="&nbsp; ... then IT must be a waterfall." /></picture>
      </td>
 </table>
 Baffled by navigation &rArr; start with <a href="../README+/pencraft/README+/essays/README.md"><b>&thinsp;E<samp>SSAYS</samp>&thinsp;</b></a> ... 🌘 2020-2026.. 🔚
