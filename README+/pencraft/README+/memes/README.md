@@ -76,7 +76,8 @@ However, this answer is justified because of changed requirements to programmers
 <i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &mdash; be there in a moment] <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd>
 </div><br />
 
-The caricature may look sloppy, but its author, Karl Arnold, had astonishingly escaped futuristic cringe. Source: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
+The caricature may look sloppy, but its author, Karl Arnold, had astonishingly escaped futuristic cringe.\
+Source: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/31/31_38.pdf#page=2), 1926 (the Roaring Twenties).
 
 </details>
 
@@ -86,7 +87,7 @@ The caricature may look sloppy, but its author, Karl Arnold, had astonishingly e
 <picture><img alt="&nbsp; Movie poster: IT Conquered the World, 1956. Tagline: EVERT NAN ITS PRISONER ... EVERT WOMAN ITS SLAVE!" src="../../../_rsc/_img/snap/movies/1956.IT_conquered_the_World.jpg" 
      title="Sci-Fi, Horror,&#010;&#013;Sunset Productions (III), 1956,&#010;&#013;Director: Roger Corman" /></picture>
 
-**Another striking prediction** (note the uncompromising _past tense_) from the year when **IT** were embryonic but just before their boom. The horrific to horrible backend was also the hit.
+**Another striking prediction** (note the uncompromising _past tense_) from the year when **IT** were embryonic but on the eve of their boom. The horrific to horrible backend was also the hit.
 
 </details>
 
