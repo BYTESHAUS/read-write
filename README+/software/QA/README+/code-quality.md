@@ -1,5 +1,5 @@
 <table><tr></tr><tr valign="center"><td width=30%>
-  <picture><img src="../../../_rsc/_img/photo/misc/pour_concrete.jpg" alt="&nbsp;pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
+  <picture><img src="../../../_rsc/_img/photo/build/pour_concrete.jpg" alt="&nbsp; Pouring concrete" title="&nbsp;Image credit: jkcement.com&#013;&#010;(for illustration purposes only)" /></picture>
 </td><td>
 
 ### Code is the <mark>cement</mark> of software. Its quality is hard for spectators to notice and isn't critical for booths.
