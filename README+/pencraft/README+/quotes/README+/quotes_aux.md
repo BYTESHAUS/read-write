@@ -2,6 +2,9 @@
 
 # &Qopf;uotes for IT &nbsp;&mdash;&nbsp; &Cscr;ounterforts
 
+> **IBM machines can do the work, so that people have time to think.**\
+ Short film "Paperwork Explosion", The Jim Henson Company, 1967.
+
 ## Privacy
 
 > **If privacy is outlawed, only outlaws will have privacy.**\
