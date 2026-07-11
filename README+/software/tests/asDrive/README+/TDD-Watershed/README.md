@@ -9,7 +9,7 @@
 (For the record, the title of the lecture resonated with my anxiety: «<i>Failed with TDD? Here, you know why.</i>»)</p>
 <p align="center">Mystery solved: it was <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven <b>Development</b></a><sup>&thinsp;<b>w</b></sup>,</p>
    <p align="center"><b>b&thinsp;u&thinsp;t&thinsp; .&thinsp;.&thinsp;.</b/></p>
-</td><td><picture><img alt="&nbsp;LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn.jpg" /></picture></td></tr></table>
+</td><td><picture><img alt="&nbsp; LONG READ" src="../../../../../_rsc/_img/signs/LongRead/plates/plsStayOn.png" /></picture></td></tr></table>
 
 ### .&thinsp;.&thinsp;.&nbsp;the de-abbreviation raised another anxiesty: where's _Design_? I actively searched by <code>&thinsp;<samp>T&thinsp;D&thinsp;D</samp>&thinsp;</code> and fairly retrospected the found:<sup>🙋</sup>
 
