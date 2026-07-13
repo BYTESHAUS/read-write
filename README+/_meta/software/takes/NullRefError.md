@@ -30,7 +30,7 @@ ___________\
 <details><summary><ins><b>Don't take my word but <code>C#</code> documentation:</b></ins></summary>
 &nbsp;
    
-"Exception typically reflects developer error ..."
+«**Exception typically reflects developer error**&thinsp;...»
 
 - **You** forgot to instantiate a reference type.
 - **You** forgot to dimension an array before initializing it.
@@ -65,7 +65,7 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 <p align="right">Accusing <code><b>null</b></code> for errors is like <br />charging <mark>&thinsp;<b><i>0</i></b>&thinsp;</mark> for one can divide by it.</b></p>
 
-### `Null` is not a bug but a signal
+### `Null` is not a fallacy but a signal
 
 First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or singularity. It's not more than a logical placeholder for unassigned variables and the initial and valid state of objects. 
 When neglected, it sincerely warns about a breach.
@@ -76,13 +76,13 @@ Contrary to pretty odd ideas of null-free programming languages, mainstream prog
 
 ### Blaming the messenger
 
-Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../../pencraft/README+/memes/README+/polyptych_works.md), and **_2)_** they could be a headache to debug. No wonder `NullReference` got a magnified dislove.
+Errors in delivered software are annoying since **_1)_** [it worked on my machine](../../../pencraft/README+/memes/README+/polyptych_works.md), and **_2)_** they can become a burden to debug. No wonder `NullReference` got a magnified dislove.
 
-The bad approach is that ignoring or silencing may cure the problem (though sometimes it works, for a while).
+The bad approach is that ignoring or silencing may cure the headache (though sometimes it works, for a while).
 
 ### "Scapegoating" (≠ Goatscaping) 
 
-When the source of a problem isn't evident, it's a time to explain it with the order of planets, air from bogs, bad demeanor, or faults of others. 
+When the source of mishaps isn't evident, it's time to attribute it to the order of planets, air from bogs, bad demeanor, or, universally, to faults of others. 
 
 It's tempting to relate the perplexed cases of `NullReference` to the peculiarities and bugs of the underlying platforms.
 
@@ -94,9 +94,9 @@ It's tempting to relate the perplexed cases of `NullReference` to the peculiarit
 
 ## Foam &rarr; Apply theory</samp>
 
-> **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with the problem.
+> **Math**, as the mother of all sciences, is believed to solve all their problems. Ironically, it has no concept of _null_ to aid its firsthand employment, leaving us alone with the issue.
 
-Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as <span title="&nbsp; &nbsp; &nbsp;Arab mathematicians brought&#013; 0️⃣&nbsp;to Europe from India only&#010; in the Middle Ages."><ins>Phygaros</ins></span> at zero.
+Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as <span title="&nbsp; &nbsp; &nbsp; Arab mathematicians brought&#013; 0️⃣&nbsp;to Europe from India only&#010; in the Middle Ages."><ins>Phygaros</ins></span>would at zero.
 
 I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
 
