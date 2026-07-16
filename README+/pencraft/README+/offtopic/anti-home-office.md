@@ -56,4 +56,13 @@
 &nbsp; &nbsp; <sup>🚝</sup> <samp>These photos are for entertainment only and in no way promote Deutsche Bahn.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sup>⚠️ You may miss important meetings or connections because of regular delays and cancellations of this service!</sup></p>
 &nbsp; &nbsp; <sup>🐈‍⬛</sup> <samp>_German_ "for cat" &mdash; idiomatically "for nothing"</samp>
+
+<h1 align="center">🚧 &Ascr;ppendix</h1>
+
+Ads of notebook on the beach (The Net snapshot)
+Pound of salt
+Weather conditions
+Hardware damage
+Data safety regulations (entry point for social engineering)
+
 <div align="right">🔚 <samp>All snapshots are personal and genuine .. 🌘 <b>Β</b>ytesHausMeister ..2000-2026..</samp></div>
