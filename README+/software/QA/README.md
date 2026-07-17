@@ -125,7 +125,7 @@ There were and will be remarkable works done from scratch **without** allotted p
 
 This may (but mostly _will not_) happen in localized high-pro teams of responsible individuals, but as an exclusion underlines the need for __QA__.
 
-> Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed/&thinsp;fluctuating, and stressed. Add human nature to sweep problems under the carpet &thinsp;&mdash;&thinsp; one quite big and thick in the software.
+> Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed/&thinsp;fluctuating, and stressed. Add human nature to sweep blunders under the carpet &thinsp;&mdash;&thinsp; one quite big and thick in the software.
 <h3 align="center"><ins>&nbsp;bottom line&nbsp;</ins></h3>
 
 **QA** couldn't exist without <mark>**errors**</mark> &ndas; and they deserve a dedicated [**corner**](README+/errors/), where 🪲[bugs](README+/errors/README+/bugs.md)🪳 are the first-class citizens.
