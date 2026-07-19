@@ -97,10 +97,10 @@ Besides symbols, the best HTML pals of markdown writers are
 
 ### Fancy (mnemonic) footnotes
 
-Numbered footnotes are academic and convenient, and you shall use [the :octocat:supported](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/).
+Numbered footnotes are academic and convenient, and, with maintenance overhead, you can use [the <samp>:octocat:</samp>supported](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/).
 
 But a digit itself won't tell much about its subject (and you may not want to jump forth and back between clauses). Mnemonic superscript references are eye-catching<sup>🙋</sup>.\
-&nbsp; &nbsp; <sup>🙋</sup> <sub>You can invent your footnotes vocabulary, as I use _raising hand_ to voice presonal opinion.</sub>
+&nbsp; &nbsp; <sup>🙋</sup> <samp>You can invent your footnotes vocabulary, as I use _raising hand_ to voice presonal opinion.</samp>
 
 ### Links suffixes
 
