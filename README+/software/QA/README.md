@@ -1,4 +1,4 @@
-<h1 align="center">&Sscr;oftware &nbsp; &mdash; &nbsp; Quality Assurance (QA)</h1>
+<h1 align="center">Software &nbsp;&mdash;&nbsp; &Qscr;uality &Ascr;ssurance (QA)</h1>
 
 <table><tr valign="center"><td width="42%">
  
@@ -11,7 +11,7 @@ The frivolous, fleeting, and exploding spirit of development makes it inherently
 
 **Software has become an irreplaceable stratum of civilization, as technology.**
 
-Its applications manage crucial systems of all kinds and must be
+Its applications manage crucial systems of all kinds, record the world history and must be
 
 <div align="center"><b><samp>S&thinsp;T&thinsp;A&thinsp;B&thinsp;L&thinsp;E&thinsp; </samp>and<samp> &thinsp;R&thinsp;O&thinsp;B&thinsp;U&thinsp;S&thinsp;T&thinsp;.</samp></b></div>
 </td></tr></table>
@@ -42,7 +42,7 @@ graph TB
 
 <h2 align="center">Prerequisites for QA</h2>
 
-QA will be a profanation without knowledge of&thinsp;/&thinsp;experience in
+QA will be a profanation without knowledge **of**&thinsp;/&thinsp;experience **in**
 
 + **domain**/subjects,\
 `//` or it will be programming "telephone charades" with the customer, or a great overhead of specifications
@@ -50,7 +50,7 @@ QA will be a profanation without knowledge of&thinsp;/&thinsp;experience in
 `//` learning complex technologies on critical projects is a burnout path or/and programming what's already available,
 + **fails** and retreats (preferably of others).
 
-When security risks are a concern, other approaches for hacking vulnerabilities come into play &thinsp;&mdash;&thinsp; and devs aren't writing code in a criminal-minded mode.
+When security risks are a concern, other approaches for hacking vulnerabilities come into play &thinsp;&ndash;&thinsp; and devs aren't writing code in a criminal-minded mode.
 
 This statement applies to all other cases where IT pundits lack the expertise to test the domain.
 
@@ -87,7 +87,7 @@ What's admissible on "tangible" projects may lead to epic fails on a larger scal
 
 Customer/user experience is the top mark (not only on the positive scale), and not every user is eager to share it.
 
-Besides errors, surveys must find out frustration and, even more important &mdash; neglected features.
+Besides errors, surveys must find out frustration and, even more important &thinsp;&ndash;&thinsp; neglected features.
  
 </td>
  <td><picture><img alt="&nbsp;&nbsp;IT came from the outer space" width="250px"
@@ -96,7 +96,9 @@ Besides errors, surveys must find out frustration and, even more important &mdas
 
 ### Meetings
 
-With many "lessons learned", "sprint reviews" and similar behind I must say that they make sense provided the attendees will apply what they heard ASAP.
+<span title="&nbsp;personal &#010;opinion"><sup>🙋</sup></span> After many "lessons learned", planing, learning and retrospectives my point is ...
+
+> The best ideas will vanish unless the attendees promptly apply what they heard.
 
 <h2 align="center">🧪Tests📏🪲</h2>
 
@@ -104,7 +106,7 @@ _Tests_ and _Testing_ are a <samp>CENTERPIECE</samp> of QA and <ins>&thinsp;w&th
 
 ### Manual (spontaneous and planned)
 
-There's no full replacement of manual tests &thinsp;&mdash;&thinsp; only their underestimate
+There's no full replacement of manual tests &thinsp;&ndash;&thinsp; only their underestimate
 
 Unlike the olden days with blind commits of punchcards and tapes, most development allows its creators to assess the product (in whole or by feature) with every step and at the same time: just build and run.
  Responsible programmers are the primary, most prepared, most effective, and critical testers.
@@ -128,7 +130,7 @@ This may (but mostly _will not_) happen in localized high-pro teams of responsib
 > Coding cleanly and qualitatively must be the primary goal, but teams will be uneven, distributed/&thinsp;fluctuating, and stressed. Add human nature to sweep blunders under the carpet &thinsp;&mdash;&thinsp; one quite big and thick in the software.
 <h3 align="center"><ins>&nbsp;bottom line&nbsp;</ins></h3>
 
-**QA** couldn't exist without <mark>**errors**</mark> &ndas; and they deserve a dedicated [**corner**](README+/errors/), where 🪲[bugs](README+/errors/README+/bugs.md)🪳 are the first-class citizens.
+**QA** couldn't exist without <mark>**errors**</mark> &ndash; and they deserve a dedicated [**corner**](README+/errors/), where 🪲[bugs](README+/errors/README+/bugs.md)🪳 are the first-class citizens.
 
 ___________\
 🔚 ... continued in ... &nbsp;🚧 [Errors](README+/errors/)  .&thinsp;.&thinsp;.  [Code quality](README+/code-quality.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [Tests for QA](../tests/asQA/) &nbsp;...&nbsp; [Pitfalls](README+/QA-pitfalls.md) &nbsp;.&thinsp;.&thinsp;.&nbsp; [**TDD**](../tests/asDrive)
