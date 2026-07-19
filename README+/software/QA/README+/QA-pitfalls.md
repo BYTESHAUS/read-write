@@ -1,8 +1,8 @@
-# Quality Assurance &nbsp; &mdash; &nbsp; Pitfalls
+# Quality Assurance &nbsp;&mdash;&nbsp; Pitfalls
 
-> **I've collected some observations and bookmarks to share &mdash; not for tirades but as theses for countermeasures.**
+> **I've collected some observations and bookmarks to share &ndash; not for tirades but as theses for countermeasures.**
  
-## Conceptual
+<h2 align="center">Conceptual</h2>
 
 ### Fatigue
 
@@ -45,7 +45,7 @@ This will discourage testers from reporting the facts or soft-pedaling them.
 
 Stories of many system breaches and epic fails began with "Who would ever...". 
 
-## Practical
+<h1 align="center">Practical</h1>
 
  ### QA for TDD
 
@@ -59,7 +59,7 @@ Usual conditions can be too good and stable.  Select a bad loc. A must for netwo
 
 The easiest recipe is to develop/test applications in [unusual locations](../../../pencraft/README%2B/offtopic/anti-home-office.md).
 
-## REMEDIES ?
+<h1 align="center">REMEDIES ?</h1>
 
 Easter eggs
 
