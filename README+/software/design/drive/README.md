@@ -1,4 +1,4 @@
-<h1 align="center"><samp>SOFTWARE CREATION</samp> &thinsp;&larr; <sub>⚙️</sub>D&thinsp;r&thinsp;i&thinsp;v&thinsp;e&thinsp;s<sup>⚙️</sup></h1>
+<h1 align="center"><samp>SOFTWARE CREATION</samp>&thinsp;<sup>⚙️</sup>&#10554;<sub>⚙️</sub>D&thinsp;r&thinsp;i&thinsp;v&thinsp;e&thinsp;s</h1>
 
 > ### What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few of loud household names.
 > ### Even <i>functional programming</i> is a driven approach.
@@ -60,7 +60,7 @@ One of the motives and benefits of object-oriented design is that it directly ma
 
 ### R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E&nbsp; there?
 
-**<mark>&thinsp;Y&thinsp;e&thinsp;s&thinsp;</mark>**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about _Operating Systems_ &thinsp;&mdash;&thinsp; the product of <i><b>Hardware</b></i>&<i><b>Software</b>-Driven-Domain</i>.
+**<mark>&thinsp;Y&thinsp;e&thinsp;s&thinsp;</mark>**, remember the aphorism «_Computers solve problems that we didn't have without them_»? That's definitely about _Operating Systems_ &thinsp;&ndash;&thinsp; the product of <i><b>Hardware</b></i>&<i><b>Software</b>-Driven-Domain</i>.
 
 Many other systems are projections of rudimentary software possibilities before large-scale computerization: social networks, email, and blockchains. And less corresponding to the term 
 <span title="&nbsp;Content Management System"><ins>CMS</ins></span>, <span title="&nbsp;Customer Relationship Management "><ins>CRM</ins></span>, and <span title="&nbsp;Erterpise Resource Planning"><ins>ERP</ins></span> (as SAP).
@@ -83,9 +83,9 @@ Many other systems are projections of rudimentary software possibilities before 
 
 <h3 align="center"><ins>&thinsp;B&thinsp;O&thinsp;T&thinsp;T&thinsp;O&thinsp;M &nbsp; L&thinsp;I&thinsp;N&thinsp;E&thinsp;</ins></h3>
 
-**Particular development must be ingeniously multi-driven with one selected main wheel &thinsp;&mdash;&thinsp; DDD in most cases.**
+**Particular development must be ingeniously multi-driven with one selected main wheel &thinsp;&ndash;&thinsp; DDD in most cases.**
 
-And there must be Ariadne's thread &thinsp;&mdash;&thinsp; explanation drive: how yuu and your code will explain design to another developer.
+And there must be Ariadne's thread &thinsp;&ndash;&thinsp; explanation drive: how yuu and your code will explain design to another developer.
 
 <p align="center">___________</p>
 
