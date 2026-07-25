@@ -24,9 +24,10 @@
         <a href="../../../_meta/software/takes/NullRefError.md"><img src="../../../_rsc/_img/_nav/tiles/nullref-buoy_bw-200px.jpg" alt="&nbsp; Null sign as buoy" title="&nbsp; Null, its reference, and their mistake"/>
         <br /><b>WASHING <i>NULL</i></b></a>
      </td>
-    <td><!--                                Q U O T E S      --!>
-        <a href="../quotes/README+/inspirational.md"><img src="../../../_rsc/_img/_nav/tiles/InspitationQuotes_bw-200px.png" alt="&nbsp; inspirational.md" title="&nbsp;Quotes to work and rest"/>
-        <br /><b>&Qopf;UOTES for INSPIRATION</b></a>
+    <td>
+        <!--                                Z E R O   I N D E X      --!>
+        <a href="../../../_meta/software/takes/0vs1-index.md"><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.png" alt="&nbsp; 0vs1-index.md" title="&nbsp;Quotes to work and rest"/>
+        <br /><b>&Sopf;HAMING 0-UNDEX</b></a>
     </td>
         </tr><tr></tr><tr align="center">                                                  
   <td><!--                  T D D   W A T E R S H E D !-->
@@ -34,12 +35,13 @@
       <br /><b>TD<mark>?D</mark> WATERSHED</b></a>
     </td>
     <td>
-      <picture><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.jpg" alt="&nbsp;Coming up next..." title="&nbsp;Next essay coming sooner or later.."/></picture>
+      <picture><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.png" alt="&nbsp;Coming up next..." title="&nbsp;Next essay coming sooner or later.."/></picture>
       <br /><b>? &Pscr;EN RESISTANCE ?</b>
     </td>
     <td>
-      <a href="../offtopic/anti-home-office.md"><img src="../../../_rsc/_img/_nav/tiles/_BonusTrack_bw-200px.png" alt="&nbsp;Bonus track: anti-home-office" title="&nbsp;Neither office nor home spots"/>
-        <br /><b>ANTI-HOME-OFFICE</b></a>
+      <!--                                Q U O T E S      --!>
+        <a href="../quotes/README+/inspirational.md"><img src="../../../_rsc/_img/_nav/tiles/InspitationQuotes_bw-200px.png" alt="&nbsp; inspirational.md" title="&nbsp;Quotes to work and rest"/>
+        <br /><b>&Qopf;UOTES for INSPIRATION</b></a>
     </td>
   </tr>
 </table>
