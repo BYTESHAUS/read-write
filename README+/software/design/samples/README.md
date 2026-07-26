@@ -1,11 +1,13 @@
-<h1 align="right">Design &nbsp;&larr;&nbsp; M<samp>ODEl</samp> &thinsp;&rarr;&thinsp; &Sscr;<samp>AMPLES</samp> &nbsp;<sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub></h1>
+<h1 align="right">Design &nbsp;&larr;&nbsp; M<samp>ODEl</samp> &thinsp;&rarr;&thinsp; &Sscr;<samp>AMPLES</samp> <sup>♟️</sup><samp>🧮</samp><sup>🎨</sup><sub>🧱</sub></h1>
 
-> ### The planning and presentation of general-purpose software features require a pictorial and encouraging [modelling](../parts/README+/app-model.md) playground. We'll often rely on the next samples:
+> ### The planning and presentation of general-purpose software features require both pictorial and [driving](../drive/README.md) playground for [modelling](../parts/README+/app-model.md) .
+>
+> ### The following samples are here to serve us with inspiration and prototypes:
 
 ## &nbsp;
-# <a id="chess"/>♟️&thinsp;&Cscr;<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&mdash;&nbsp; [<ins>&Mscr;<samp>ath</samp></ins>](#math) &nbsp;&mdash;&nbsp; [<ins>&Iscr;<samp>mages</ins></samp>](#images) &nbsp;&mdash;&nbsp; [<ins>&Sscr;<samp>tills</samp></ins>](#stills)
+# <a id="chess"/>♟️&thinsp;&Cscr;<samp>&thinsp;H&thinsp;E&thinsp;S&thinsp;S</samp> &nbsp;&ndash;&nbsp; [<ins>M<samp>ath</samp></ins>](#math) &nbsp;&ndash;&nbsp; [<ins>I<samp>mages</ins></samp>](#images) &nbsp;&ndash;&nbsp; [<ins>S<samp>tills</samp></ins>](#stills)
 
-<p dir=rtl>Chess speaks for itself<br><i><b>Hans Moke Niemann</b>, GM, 2022</i></p>
+<p dir=rtl><b>.Chess speaks for itself</b><br /><i>Hans Moke Niemann, GM, 2022</i></p>
 
 This popular board strategy of all time, with fast-to-learn rules, renders a favorable playground for software logic. Other traits are...
 
@@ -16,11 +18,11 @@ The conventional record of moves allows one to track a finished or in-progress g
 ### Value-action substitution
 
 A game "macro" can be either moves (*actions* that change the board) or alternating board layout (*value*, which moves result). 
-The layout can be reproduced from moves and vice versa, thus mixed notation can also serve (though extraordinarily).
+The layout can be reproduced from moves and vice versa; thus mixed notation can also serve (though extraordinarily).
 
 ### Multiuser
 
-Chess assumes two players (_i.e._, a multiuser application), who make moves in turn or decide to end the game, but there's a judge and timer, who follow the game and may change its progress.
+Chess assumes two (i.e., a multiplayer application), who make moves in turn or decide to end the game, but there's a judge and timer, who follow the game and may change its progress.
 Thus, any action (start, move, resign, undo) requires the approval or notification of others.
 
 ### Multi-value note of the _move_
@@ -40,7 +42,7 @@ Playing chess is predictably finite<sup>:1234:</sup>, while any initiative may u
 Concise notation of moves and layout could allow IBM&nbsp;305 RAMAC in 1957 to maintain and output an archive of all known tournaments.
 
 ## &nbsp;
-# <a id="math"/>[<ins>&Cscr;<samp>hess</ins></samp>](#chess) &nbsp;&mdash;&nbsp; 🧮&thinsp;&Mscr;<samp>&thinsp;A&thinsp;T&thinsp;H</samp> &nbsp;&mdash;&nbsp; [<ins>&Iscr;<samp>mages</samp></ins>](#images) &nbsp;&mdash;&nbsp; [<ins>&Sscr;<samp>tills</samp></ins>](#stills)
+# <a id="math"/>[<ins>C<samp>hess</ins></samp>](#chess) &nbsp;&ndash;&nbsp; 🧮&thinsp;M<samp>&thinsp;A&thinsp;T&thinsp;H</samp> &nbsp;&ndash;&nbsp; [<ins>I<samp>mages</samp></ins>](#images) &nbsp;&ndash;&nbsp; [<ins>S<samp>tills</samp></ins>](#stills)
 
 <p dir=rtl>«<b>&thinsp;A&thinsp;l&thinsp;l &nbsp; i&thinsp;s &nbsp; N&thinsp;u&thinsp;m&thinsp;b&thinsp;e&thinsp;r</b>&thinsp;»<br ><span title="Pythagoras, 570-495 BC"><i><ins>Πυθαγόρας</ins></i></span></p>
 
@@ -54,7 +56,7 @@ More specific functions can be found in external libraries, and if not, are the 
 
 ### Reversibility
 
-Codes may rely on mathematical *invertibility* (to undo and browse changes) while [one-way functions](https://en.wikipedia.org/wiki/One-way_function)<sup><b>w</b></sup> may suit for trace or hack safety.
+Codes may rely on mathematical *invertibility* (to undo and browse changes) while [one-way functions](https://en.wikipedia.org/wiki/One-way_function)<sup><b>w</b></sup> may suit trace or hack safety.
 
 Value differences may suggest a mathematical operation to reproduce, or disclose a function (_e.g._, one point for an exponent, and two for a line).
 
@@ -63,9 +65,9 @@ Value differences may suggest a mathematical operation to reproduce, or disclose
 Parallelization (multi-threading) of algorithms, when applicable, tangibly speeds up calculations even on mediocre two-core machines.
 
 ## &nbsp;
-# <a id="images"/>[<ins>&Cscr;<samp>hess</samp></ins>](#math) &nbsp;&mdash;&nbsp; [<ins>&Mscr;<samp>ath</samp></ins>](#math) &nbsp;&mdash;&nbsp; 🎨&thinsp;&Iscr;<samp>&thinsp;M&thinsp;A&thinsp;G&thinsp;E&thinsp;S</samp> &nbsp;&mdash;&nbsp; [<ins>&Sscr;<samp>tills</samp></ins>](#stills)
+# <a id="images"/>[<ins>C<samp>hess</samp></ins>](#chess) &nbsp;&ndash;&nbsp; [<ins>M<samp>ath</samp></ins>](#math) &nbsp;&ndash;&nbsp; 🎨&thinsp;&Iscr;<samp>&thinsp;M&thinsp;A&thinsp;G&thinsp;E&thinsp;S</samp> &nbsp;&ndash;&nbsp; [<ins>S<samp>tills</samp></ins>](#stills)
 
-<p dir=rtl>,When I am in a painting<br>.I'm not aware of what I'm doing<br><i><b>Jackson Pollock</b> (1912-1956) </i></p>
+<p dir=rtl><b>,When I am in a painting<br>.I'm not aware of what I'm doing</b><br><i>Jackson Pollock (1912-1956) </i></p>
 
 Editor of **raster images** is the richest and most multifaceted support for thinking in application design: presentation, processing, and persistence. 
 All three of these ask for optimization (equally logical and tricky).
@@ -78,15 +80,15 @@ Changes on canvas differ from unique artistic strokes to strict procedures and m
 Actions vary from simple (flip, rotate) to highly processed retouching or effects.
 
 ## &nbsp;
-# <a id="stills"/>[<ins>&Cscr;<samp>hess</samp></ins>](#chess) &nbsp;&mdash;&nbsp; [<ins>&Mscr;<samp>ath</samp></ins>](#math) &nbsp;&mdash;&nbsp; [<ins>&Iscr;<samp>mages</samp></ins>](#images) &nbsp;&mdash;&nbsp; 🧱&thinsp;&Sscr;<samp>&thinsp;T&thinsp;I&thinsp;L&thinsp;L&thinsp;S</samp>
+# <a id="stills"/>[<ins>C<samp>hess</samp></ins>](#chess) &nbsp;&ndash;&nbsp; [<ins>M<samp>ath</samp></ins>](#math) &nbsp;&ndash;&nbsp; [<ins>I<samp>mages</samp></ins>](#images) &nbsp;&ndash;&nbsp; 🧱&thinsp;&Sscr;<samp>&thinsp;T&thinsp;I&thinsp;L&thinsp;L&thinsp;S</samp>
 
-<p dir=rtl>In some mysterious way woods have<br />
-.never seemed to me to be <mark><b>static</b></mark> things<br />
+<p dir=rtl><b>In some mysterious way woods have<br />
+.never seemed to me to be <mark><b>static</b></mark> things<br /></b>
 ;In physical terms, I move through them<br />
 ,yet in metaphysical ones<br />
 .they seem to move through me<br />
 ___________<br />
-<b><i>John Fowles</i></b> (1926-2005), <i>(post)modernist</i></p>
+<i>John Fowles</i> (1926-2005), <i>(post)modernist</i></p>
 
 **First and foremost**, software design asks for <ins>"static" plain bare figures</ins>, which make core models. The preceding samples are more in motion ("dynamic") &thinsp;&mdash;&thinsp; they have properties and hierarchies but are more demonstrative of processes that change them.
 
@@ -100,12 +102,11 @@ Developers can select a sample or model that fits the features under development
 
 > ### However, put them all together on the mental green field of a growing application to plan:
 
-+ multitasking,
-+ multi-cultural,
++ parallelism and asynchrony,
 + undo-redo,
-+ conversions.
++ conversions, as of [physical units](https://github.com/BYTESHAUS/use-dev/blob/main/README+/parts/MultifacetVal/README.md) or multi-cultural UI.
 
-and mix them (_e.g._, async undo-redo,  or multi-culture as units).
+and mix them (_e.g._, async undo-redo,  or multi-cultural as units).
 
 </td></tr></table>
 
