@@ -1,22 +1,22 @@
-# _A<samp>RCHITECTURE</samp>_ &thinsp;and&thinsp; _A<samp>RCHITECTS</samp>_
+# &Ascr;<samp>_RCHITECTURE_</samp> &thinsp;and&thinsp; &Ascr;<samp>_RCHITECTS_</samp>
 
 <table><tr valign="top"><td><picture><img width="500px" alt="&nbsp;CODE-STONE DYPTICH" src="../../../../_rsc/_img/illus/stone-cold_dyptich.png" /></picture>
        </td><td>
 
 The essence of architecture appeared with constructions more extravagant and durable than a hut of piled branches &thinsp;&ndash;&thinsp; namely, with megaliths.
 
-### Certain ancient Hellenes were so prominent at building sites that the impressed observers coined "<i>architect</i>"<sup>🏛️</sup> &thinsp;&ndash;&thinsp; the term romanized to <i>architecture</i> centuries later.
+### Unknown ancient Hellenes used to be so prominent at building sites that their impressed observers gasped "<i>architect!</i>"<sup>🏛️</sup> &thinsp;&ndash;&thinsp; the term endured and was romanized to <i>architecture</i> centuries later.
 
 Next, ages passed till the art of immobile acknowledged and methodized architects as a detached trade &thinsp;&ndash;&thinsp; 
 refined craftsmen, exempt from chores and narrow-profile burdens to focus on vision, design, blueprints, aesthetics, and their presentation.
 
-Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) loaned «architecture» to figuratively underline systematic complexity.
+Much later, diverse spheres (from mega-vessels and supercomputers to less determinate economics and politics) lent «architecture» to figuratively underscore systemic complexity.
 
 Even so, <span title="&nbsp;Microarchitecture of hardware systems"><ins><code><b>μ</b>arch</ins></code></span> hasn't fostered micro-architects (neither _nano_- nor _giga_-) 
-and architects of <em>détente</em> or <em>economic miracle</em> are compliments (or flattery).
+and architects of <em>détente</em> or <em>economic miracle</em> are rater compliments (or flattery).
 
 ___________\
-<sup>🏛️</sup> <samp>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation existed much prior as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest.</samp>
+<sup>🏛️</sup> <samp>Greek: ἀρχιτέκτων, “master/chief builder/maker" but this occupation existed much earlier, as the <i>Ziggurat of Ur</i> and Egyptian Pyramids suggest.</samp>
 </td></tr></table>
 
 <h1 align="right">Part&nbsp;I. Software <i>vs.</i> Building</h1>
