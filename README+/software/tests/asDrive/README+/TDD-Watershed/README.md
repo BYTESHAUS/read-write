@@ -159,7 +159,7 @@ The course will also unveil tasks of a higher or parallel level, but they will b
 
 <h2 id="TDD-ISie" align="center">Reconcile by example: TDD ⭐I&thinsp;S&thinsp;<samp>I&thinsp;E</samp>⭐</h2>
 
-Let's take an [ISIe](https://github.com/BYTESHAUS/use-dev/tree/main/README%2B/parts/_ext/ISie) example, 
+Let's take an [ISIe](https://github.com/BYTESHAUS/use-dev/tree/main/README%2B/parts/extensions/ISie) example, 
 which started with designing and redesigning API builders.
 
        🚧🐝🚧 .. WORK IN PROGRESS .. 🚧🐝🚧
