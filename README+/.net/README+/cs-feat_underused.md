@@ -1,10 +1,10 @@
-# `C#` &thinsp;&larr;&thinsp; _Good sides_ &thinsp;&rarr;&thinsp; <mark>&thinsp;&Uscr;nderused&thinsp;</mark>
+# `C#` &thinsp;&larr;&thinsp; &Gscr;_ood sides_ &thinsp;&rarr;&thinsp; <mark>&thinsp;Underused&thinsp;</mark>
 
 > ### Parts of <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> syntax, its certain features, libraries, and frameworks are <ins>preferable</ins> in development but often remain <ins>unrevealed</ins>.
 
-## Above all and foremost: unclaimed language descriptiveness 
+## <ins>Above all and foremost</ins>: unclaimed language descriptiveness 
 
-**`C#`** allows the creation of domain-itemized constructs close to requirements specifications instead of obfuscating instructions. Nevertheless, listings usually resemble a virtual runtime with inclusions of homemade `Managers`.
+**`C#`** allows the creation of domain-itemized constructs close to requirements texts instead of obfuscating instructions. Nevertheless, listings usually resemble a virtual runtime with inclusions of homemade `Managers`, `Utilities`, and `Helpers`.
 
 ## Freshly released
 
