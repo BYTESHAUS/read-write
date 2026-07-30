@@ -1,4 +1,4 @@
-<h1 align="center">&Ascr;&bscr;&oscr;&uscr;&tscr; C# &nbsp;<sup><code>//&thinsp;heavily biased&thinsp;</code></sup></h1>
+<h1 align="center">&Ascr;&bscr;&oscr;&uscr;&tscr; &nbsp;C# &nbsp;<sup><code>//&thinsp;heavily biased&thinsp;</code></sup></h1>
 
 ### This premier **.NET** language deserves to be noted as one of the most eloquent and all-around languages/platforms for multi-OS deployments.
 
@@ -8,9 +8,9 @@ It evolves nonstop, providing us with state-of-the-art, concise, comprehensible 
 
 Its devoted team<sup><mark>🧑‍🤝‍🧑</mark></sup> learns from the drawbacks and advantages of other languages, own [community](https://github.com/dotnet/csharplang/tree/main/proposals)<sup>:octocat:</sup>, and looks up trade-offs between readability and brevity.
 
-**`C#`** allows developers to focus on [code quality](../software/QA/README+/code-quality.md), which .NET will compile into effective and safe executables. 
+**`C#`** allows developers to focus on the [quality code](../software/QA/README+/code-quality.md), which .NET will compile into effective and safe executables. 
 
-> **The cleaner the code, the better the performance.**<sup><mark>🪩</mark></sup>
+> **The cleaner the code, the better the performance too.**<sup><mark>🪩</mark></sup>
 
 Nonetheless, **`C#`** offers "lower-level" _unsafe_ syntax, optimized collections, concurrent structures, and memory spans for specific boosts, intensive tasks, and parallel calculations.
 
@@ -19,7 +19,7 @@ In addition to new features, each annual release enhances the performance of key
 Amazingly **`C#`** is widely utilized in APIs and drivers to industry-standard **embedded** software (_i.a._ automotive and machinery) and **game**/**simulation dev** ([Unity engine](https://unity.com/solutions/programming)<sup>🔗</sup>).
 
 ___________\
-&nbsp; &nbsp; <sup><mark>⛵</mark></sup>&nbsp;<samp>Microsoft neither acquired the language (like Oracle &ndash; <code>Java</code>) nor outsourced (it could be <code>Python</code>), but recruited a team to compose it from square one.</samp>\
+&nbsp; &nbsp; <sup><mark>⛵</mark></sup>&nbsp;<samp>Microsoft neither acquired the language (like Oracle &ndash; <code>Java</code>) nor outsourced (it could be <code>Python</code>), but recruited a prominent team to compose it from square one.</samp>\
 &nbsp; &nbsp; <sup><mark>🧑‍🤝‍🧑</mark></sup>&nbsp;<samp>Where you know top figures by name and can follow them on Git, media, and social networks.</samp>\
 &nbsp; &nbsp; <sup><mark>🪩</mark></sup>&nbsp;<samp>«<b>Good code should be fast.</b>» _Bjarne Stroustrup_, 2018</samp>\
 &nbsp; &nbsp; <sup><mark>⌨️</mark></sup>&nbsp;<samp>Visual Studio Community Edition and JetBrains Rider besides <i>Visual Studio Code</i>.</samp>
