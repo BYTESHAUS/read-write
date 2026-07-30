@@ -1,6 +1,8 @@
-# `C#` &thinsp;&larr;&thinsp; &Nscr;ice to have &thinsp;&rarr;&thinsp; Syntax, constructs and features
+# `C#`.NET &thinsp;&larr;&thinsp; &Nscr;ice to have &thinsp;&rarr;&thinsp; Syntax, constructs and features
 
-> ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> isn't a universal formula, and its team with the community doesn't possess unlimited resources.<br />However, this platform could offer extra features and foundations, which would only boost its charm.
+> ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> is neither universal nor magic formula, and its team with the community doesn't possess unlimited resources.
+>
+> ### However, .NET could offer extra features and foundations, which would only heave its charm.
 
 ## More common interfaces
 
