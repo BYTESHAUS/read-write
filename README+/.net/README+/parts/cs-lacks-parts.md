@@ -2,22 +2,22 @@
 
 > ### Along with [nice-to-have syntax/features](../cs-lacks.md) there are some bigger blocks of _ideational_ <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub>.
 
-## Testing
+## 🧪&thinsp;Testing
 
 Tests for drive or coverage are optional but a natural part of development. The three most popular frameworks for .NET (NUnit, xUnit, MSTest) have pros and cons, but none is state-of-the-art.
 
 Besides weak points (like bulky names), there are lacks:
 
-- no support for dynamic test data,
-- no way to auto-test code that must not compile (e.g., to exclude the wrong branches of building calls) ➡️ [semantic posers](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-posers.md),
-- no gradual asserts ➡️ [discussion of workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/tests-gradual_assert.md),
-- only a single data source ➡️ [multi-feed workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/prog_tests-cut_feeds.md).
+- no support for **dynamic** attributes and test data,
+- no way to auto-test code that **must not compile** (e.g., to exclude the wrong branches of building calls) ➡️ [semantic posers](https://github.com/Kyriosity/use-dev/blob/main/README+/tests/README+/prog_tests-posers.md),
+- no **gradual** asserts and value **tolerance** ➡️ [proposals how to loose asserts](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/tests-loose_assert.md),
+- only a **single-dimension** data source ➡️ [multi-feed workaround](https://github.com/Kyriosity/use-dev/tree/main/README+/tests/README+/prog_tests-cut_feeds.md).
 
-## Math
+## 🧮&thinsp;Math
 
-Native [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🪟</sup> is pretty scarce, and neither 3d-party library is modern or all-around.
+Native [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>🪟</sup> is pretty scarce, and no third-party library is modern or all-around.
 
-<b>C#</b> would only profit from a lightweight assembly that could: 
+**`C#`** would only profit from a lightweight assembly that could: 
 
 + inventory more [constants](https://en.wikipedia.org/wiki/Mathematical_constant)<sup><b>w</b></sup>,
 + provide more useful functions (there are myriads uncovered),
@@ -26,20 +26,20 @@ Native [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math)<sup>�
 + introduce complex numbers,
 + parallelize, async heavy algorithms with progress report and cancellation option
 
-## Dates
+## 🗓️&thinsp;Dates
 
 Rudimentary `DateTime` and `DateOnly` are not intuitive (e.g. `new DateTime(1999, 9, 1, 9, 5, 6, 7)`), rather constrained (e.g., no BCE years), and inflexible. 
 Built-in calendars render limited expansion.
 
 ➡️ [AbcChrono](https://github.com/Kyriosity/use-dev/tree/main/README+/parts/AbcChrono) in the _use-dev_ repo extends data handling (e.g., to origin from Bing Bang).
 
-## Measurement systems
+## ⚖️&thinsp;Measurement systems
 
 Definition of natural values (geometry, masses, temperature, electricity, movement _u.a._) and their conversions between systems of measurements (metric, US customary, UK imperial _u.a._) are more than essential tools (e.g., Celsius-Fahrenheit-Kelvin).
 
-The approach for such is proposed in [C# Multifaceted-Value](https://github.com/Kyriosity/use-dev/tree/6ab68c7af589d37715c171e61dc51d0b5a208c73/README+/projects/U-Val)<sup>➡️</sup>.
+[C# Multifaceted-Value](https://github.com/Kyriosity/use-dev/tree/6ab68c7af589d37715c171e61dc51d0b5a208c73/README+/projects/U-Val)<sup>➡️</sup> proposes an approach.
 
-## Lingua
+## 🔊&thinsp;Lingua
 
 Let's take some output from fictitious tree search `$"Branches: {found}, ≥ leaves: {cutoff}"`. That can be quickly refactored for a narrative or voice generator:\
 `$"{found} {(1 == found ? "branch has" : "branches have")} no less than {cutoff} {(1 == cutoff ? "leaf" : "leaves")}"`
@@ -96,7 +96,7 @@ And, not least, add syntax sugar like
 
 ### Classification and attributes
 
-The custom _use-dev_  ➡️ [⭐ISie⭐](https://github.com/Kyriosity/use-dev/blob/main/README+/parts/_ext/ISie/README.md) demanded me to make fast [AbcLingua](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcLingua) folders. But I'd rather find such a structure in C# language or frameworks.
+The custom _use-dev_  ➡️ [⭐ISie⭐](https://github.com/Kyriosity/use-dev/blob/main/README+/parts/_ext/ISie/README.md) demanded me to make fast [AbcLingua](https://github.com/Kyriosity/use-dev/blob/main/src/TuttiFrutti/AbcLingua) folders. But I'd rather find such a structure in **`C#`** or "official" frameworks.
 
 ___________\
 🔚 🌔 .. 2021-2026..
