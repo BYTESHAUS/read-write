@@ -16,7 +16,7 @@ Fully self-explanatory code (the product and its tests) is a chimera &ndash; int
 |&thinsp;- ✒️ [**&Pscr;<samp>ENCRAFT</samp>**](../../pencraft/) drives documentation and authoring
 
 |&thinsp;- **Documents management**:\
-|&thinsp;-&thinsp;- [docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)\
+|&thinsp;-&thinsp;- [docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)<sup>🔗</sup>\
 |&thinsp;-&thinsp;- [Markdown on Git](README+/markdown-on-Git.md)
 
 🔚
