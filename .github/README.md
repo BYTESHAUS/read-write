@@ -18,7 +18,7 @@
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
-     <h4>&nbsp;<a href="../README+/software/docu"><b><ins>D&thinsp;o&thinsp;c&thinsp;u</ins></b></a> ➿ <a href="../README+/software/mngmnt"><b><ins>O&thinsp;r&thinsp;g&thinsp;a&thinsp;n&thinsp;i&thinsp;z&thinsp;a&thinsp;t&thinsp;i&thinsp;o&thinsp;n</ins></b></a></h4>
+     <h4>&nbsp;<a href="../README+/software/docu"><b><ins>D&thinsp;o&thinsp;c&thinsp;u</ins></b></a> ➿ <a href="../README+/software/mngmnt/README.md"><b><ins>O&thinsp;r&thinsp;g&thinsp;a&thinsp;n&thinsp;i&thinsp;z&thinsp;a&thinsp;t&thinsp;i&thinsp;o&thinsp;n</ins></b></a></h4>
     <!-- -->
      <!--                              P E N C R A F T          --!>
      <!-- -->
