@@ -12,17 +12,17 @@
      <!-- -->
      <!--                               QA and TESTS          --!>
      <!-- -->
-     &nbsp; <a href="../README+/software/QA/"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="../README+/software/tests/"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp; &nbsp;<i>feat.</i>
+     &nbsp; <a href="../README+/software/QA/README.md"><b>Q&thinsp;A</b></a>&thinsp;&nbsp;⊃&thinsp;⊂&nbsp;<a href="../README+/software/tests/README.md"><b>T&thinsp;e&thinsp;s&thinsp;t&thinsp;s</b></a>&nbsp; &nbsp;<i>feat.</i>
      <br />
     &nbsp; &nbsp; &nbsp; <a href="../README+/software/QA/README+/code-quality.md">Code quality</a>&nbsp; &nbsp;🧪&thinsp;<a href="../README+/software/tests/asQA/README+/tests-damp_vs_dry.md">D<samp>AMP</samp>⚔️D<samp>RY</samp></a>
      <!-- -->
      <!--                               DOCU and ORG          --!>
      <!-- -->
-     <h4>&nbsp;<a href="../README+/software/docu"><b><ins>D&thinsp;o&thinsp;c&thinsp;u</ins></b></a> ➿ <a href="../README+/software/mngmnt"><b><ins>O&thinsp;r&thinsp;g&thinsp;a&thinsp;n&thinsp;i&thinsp;z&thinsp;a&thinsp;t&thinsp;i&thinsp;o&thinsp;n</ins></b></a></h4>
+     <h4>&nbsp;<a href="../README+/software/docu/README.md"><b><ins>D&thinsp;o&thinsp;c&thinsp;u</ins></b></a> ➿ <a href="../README+/software/mngmnt/README.md"><b><ins>O&thinsp;r&thinsp;g&thinsp;a&thinsp;n&thinsp;i&thinsp;z&thinsp;a&thinsp;t&thinsp;i&thinsp;o&thinsp;n</ins></b></a></h4>
     <!-- -->
      <!--                              P E N C R A F T          --!>
      <!-- -->
-     <a href="../README+/pencraft"><b>&Pscr;&thinsp;e&thinsp;n&thinsp;c&thinsp;r&thinsp;a&thinsp;f&thinsp;t</b></a>&nbsp;<sup>∏</sup>&nbsp; &nbsp; &nbsp; &nbsp;
+     <a href="../README+/pencraft/README.md"><b>&Pscr;&thinsp;e&thinsp;n&thinsp;c&thinsp;r&thinsp;a&thinsp;f&thinsp;t</b></a>&nbsp;<sup>∏</sup>&nbsp; &nbsp; &nbsp; &nbsp;
         <mark><a href="../README+/software/docu/README+/markdown-on-Git.md">Markdown</a></mark>&thinsp;<sub>:octocat:</sub><br/>
       &nbsp; 🥱<a href="../README+/pencraft/README+/essays/README.md">&thinsp;<b><samp>ESSAYS</samp></b>&thinsp;</a>&nbsp;🪝<a href="../README+/pencraft/README+/memes/README.md">Memes</a>&nbsp; 🥨<a href="../README+/pencraft/README+/quotes/README.md">Quotes</a>
      </td>

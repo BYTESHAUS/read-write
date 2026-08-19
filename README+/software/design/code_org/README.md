@@ -127,7 +127,7 @@ SQL COALESCE is nothing but `FirstNotNull`
 - 'Emoji' defines pictograms overall, while being only a subset. 
 - "Icons" are .. eh .. a bit blasphemous.
 
-🗼"Tower of Babel" award for naming in different alphabets. (Unless it's a highly localized domain or business.)
+🗼"Tower of Babel" award for naming in different alphabets. (Except highly localized domains or business: ERP, bookkeeping, ...)
 
 _First-class citizens_ for functions or other techniques have a discrimination flair ...
 

@@ -1,7 +1,7 @@
 <h1 align="center"><samp>SOFTWARE CREATION</samp>&thinsp;<sup>⚙️</sup>&#10554;<sub>⚙️</sub>D&thinsp;r&thinsp;i&thinsp;v&thinsp;e&thinsp;s</h1>
 
-> ### What guides programming minds (and how) is a separate IT discipline. _Test-Driven Development_, _Domain-Driven Design_, and _Event-Driven Architecture_ are only a few of loud household names.
-> ### Even <i>functional programming</i> is a driven approach.
+> <h3 align="center">What guides programming minds (and how) is a sovereign IT discipline.</h3>
+> <b><i>Test-Driven Development</i>, <i>Domain-Driven Design</i>, and <i>Event-Driven Architecture</i> are only a few of the loud household names.</b>
 
 <details align="center"><summary><h3><ins>&nbsp;<b>Fancying more items on both sides of <samp>DRIVEN</samp> will scheme a grotesque gearbox&thinsp;:</b>&thinsp;</ins></h3>&nbsp;⬇️</summary>
 <br />
@@ -45,7 +45,7 @@ For example, Development Driven/Crippled Design from the gross use of _Test Driv
 <i>Bounded Contexts</i>
 </td><td>
   
-If <i>domain-driven</i> is a distinct approach, there must be alternatives without that. And I <b>doubt there are</b>...
+If <i>domain-driven</i> is a distinct approach, there must be alternatives without that. And <b>doubtfully there are</b>... (Even _functional programming_ is a driven approach.)
 
 ### Software as a phenomenon abstracts domains, explicitly or implicitly. _Domain Drive_ is a permanent force (like the gravitation of abstractions).
 

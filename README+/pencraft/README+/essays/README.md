@@ -26,8 +26,8 @@
      </td>
     <td>
         <!--                                Z E R O   I N D E X      --!>
-        <a href="../../../_meta/software/takes/0vs1-index.md"><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.png" alt="&nbsp; 0vs1-index.md" title="&nbsp;Quotes to work and rest"/>
-        <br /><b>&Sopf;HAMING 0-UNDEX</b></a>
+        <a href="../../../_meta/software/takes/0vs1-index.md"><img src="../../../_rsc/_img/_nav/tiles/_ComingNext_200px.png" alt="&nbsp; 0vs1-index.md" title="&nbsp;Take on base index"/>
+        <br /><b>0&thinsp;<i>vs.</i>&thinsp;1&thinsp; INDEX</b></a>
     </td>
         </tr><tr></tr><tr align="center">                                                  
   <td><!--                  T D D   W A T E R S H E D !-->

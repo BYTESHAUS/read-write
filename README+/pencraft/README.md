@@ -1,23 +1,24 @@
 <div align="right"><picture><image alt="&nbsp;AI free" src="../_rsc/_img/illus/AiFree/AI-free_900px.png" /></picture></div>
 
-<h1 align="center">✒️&Pscr;<samp>EN & </samp>&Bscr;<samp>RUSH</samp>🎨 Craft<i><br />on formal service</i></h1>
+<h1 align="center">✒️&Pscr;<samp><i>EN</i> & </samp>&Bscr;<samp><i>RUSH</i></samp>🎨 Craft<i><br />on formal service</i></h1>
 
 <table align="center"><tr></tr><tr><td>
 
-### Depicting skills for facts (either technical, scientific, and even artistic) have two dissimilar employments with opposing values of freestyle, creativity, envisaging, and styling:
-<h3 align="center"><mark>&Dopf;<i>ocumentation</i></mark> and <mark>&Ascr;<i>uthoring</i></mark></h3>
+### Depicting skills for facts (either technical, scientific, or even artistic) have two dissimilar approaches:
 
-### with opposing values of formalism, creativity, envisaging, and styling.
+<h3 align="center"><mark>&Dopf;ocumentation</mark> and <mark>&Ascr;<i>uthoring</i></mark></h3>
+
+### They can rub along on the same page, but their values are opposing: formalism, creativity, freestyle, and styling.
 
 </td></tr></table>
 
 ### The principled distinction is __*driven*__ vs __*drives*__:
 
-* [**Documentation**](README+/tech_docu.md) is **on-demand**/request derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
+* [**&Dopf;ocumentation**](README+/tech_docu.md) is **on-demand**/request derivative of a product or service, must follow templates, and shall be (auto-)generated and reused as much as possible.<sup>📖</sup>\
 &nbsp; &nbsp; &nbsp; &nbsp;<sup>📖</sup> <samp>A strict _User manual_ of hazardous tools is an exemplary story.</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <samp>Microsoft [documentation](https://learn.microsoft.com/) follows this line but, honestly, this doesn't help to "Learn</b>" as declared in URL.</samp>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <samp>Microsoft [documentation](https://learn.microsoft.com/) follows this line but, honestly, this doesn't help to "Learn</b>" as declared in the URL.</samp>
 
-* [**Authoring**](README+/tech-authoring.md) is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
+* [**&Ascr;_uthoring_**](README+/tech-authoring.md) is **initiative**, must take a bird's view of the subject, inspire and explain sophisticated and regulated ideas in an abstractive, friendly, and sometimes informal/playful manner.
 
 <ins>**Documentation**</ins> assumes defined, if not available, subjects (as software applications), while <ins>**authoring**</ins> may begin with a pure idea. (Enough technical _oeuvres_, such as concepts of relational DBs or REST, were based on "paper" concepts with little or no implementation.)
 

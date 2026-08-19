@@ -32,9 +32,8 @@ Solution? Any popular language has some mainstream frameworks. Many frameworks a
 
 The more pragmatic use-dev repo discusses [better tests](https://github.com/byteshaus/use-dev/tree/main/README+/tests).
 
-## Poststriptum. Big problem and challenge
-
+## Postscriptum. The crux
 With all the benefits of proof coverage and TDD<sup>eV</sup>, tests constitute a second project that requires development and maintenance. 
 
-\___________\
+___________\
 🔚 ... but [**README+**](README+) &nbsp; ... &nbsp; <sub>collage credit: LibreOffice clipart; The Outer Limits.The&nbsp;Mutant, 1964 (imdb screenshot)</sub>

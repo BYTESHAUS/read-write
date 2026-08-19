@@ -5,6 +5,8 @@ Paris, Australia, Mayan calendar, `C++`, and `Java`,\
 **but differs from**\
 Santiago<sup>&thinsp;🇨🇱</sup>, `FORTRAN` with `Basic`, and Common Era&thinsp;**?**
 
+POINTER RUDIMENT
+
 <details><summary><b><ins>&thinsp;Answer</ins>&thinsp;:</b></summary>
 Base index of floors, years, and arrays.
 </details>
@@ -12,12 +14,18 @@ Base index of floors, years, and arrays.
 
 <br /><br /><br /><br /><br /><br /><br />
 
+off by one errors. 
+
 # <sup>_CODING_</sup> &nbsp; `++`Take on `zero` Index
 
-Could not be a big error: [NullRefError.md](Null error)
+Instead of [NullRefError.md](Null error) the RUDIMENT of 0-index is an EXPENSIVE error in HIGH-LEVEL LANGUAGEs
 
-> ### I must declare my inclination to the 1-based indices and prejudice of 0-based as a bug source.
+> ### There're different opinions, but my "Greek" take is:<br />one-base index is natural;<br />zero-base index in error-prone
 
+INITIALIZATION OVERKILL (either declare extra nullability (undefined) or use signed (mark -1 but it's error-prone further)
+
+
+PREHISTORY and A SIDE-BUGsy
 REAL BUG when cross-referencing language modules (e.g., C# to Basic).
 
 // NOTE: `1` is the `default` for Basic, which can be changed

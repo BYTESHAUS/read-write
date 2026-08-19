@@ -1,4 +1,4 @@
-# Software &nbsp;&mdash;&nbsp; &Dscr;ocumentation
+# Software &thinsp;&larr;&thinsp; &Dscr;ocumentation
 
 <p dir="rtl">,Code in English<br/>,comment in &Lopf;atin<br/>,document en français<br/>but think in 3D diagrams</p>
 
@@ -16,7 +16,7 @@ Fully self-explanatory code (the product and its tests) is a chimera &ndash; int
 |&thinsp;- ✒️ [**&Pscr;<samp>ENCRAFT</samp>**](../../pencraft/) drives documentation and authoring
 
 |&thinsp;- **Documents management**:\
-|&thinsp;-&thinsp;- [docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)\
-|&thinsp;-&thinsp;- [Markdown on Git](README+/markdown-on-Git.md)
+|&thinsp;-&thinsp;- [<mark>Markdown</mark> on Git](README+/markdown-on-Git.md)\
+|&thinsp;-&thinsp;- [docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)<sup>🔗</sup>
 
 🔚
