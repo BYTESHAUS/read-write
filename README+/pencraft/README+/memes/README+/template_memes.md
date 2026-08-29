@@ -9,7 +9,7 @@
   <td><picture><img alt="&nbsp; green digits attached left to clock flip numbers" src="../../../../_rsc/_img/memes/Y2K_collage.jpg" /></picture></td>
 </tr></table>
 
-Billions spent to prevent [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem) could seem exaggerated, but they went to modernization and sanitation of the software worldwide.
+Billions spent to prevent [Y2K](https://en.wikipedia.org/wiki/Year_2000_problem)<sup><b>W</b></sup> could seem exaggerated, but they went to modernization and sanitation of the software worldwide.
 
 ### Philosophisaurus
 
