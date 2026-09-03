@@ -1,4 +1,4 @@
-# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&thinsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture>&thinsp;DAMP <samp>NOT</samp> DRY <code>// comma pending</code>
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&thinsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture>&thinsp;DAMP <samp>NOT</samp> DRY &larr; <samp>comma pending</samp>
 
 <table><tr><td>
     
@@ -74,7 +74,7 @@ Many languages support generic types, which a test method may discern.
 ## Solutions&thinsp;/&thinsp;Workarounds
 
 The easiest and most alluring response is to write fewer tests, concentrating on guiding ones and stowing routine checks in folders where nobody will look (till an error occurs). 
-Auto-generation tools may help, but their setting and tuning may be overkill.
+Auto-generation tools may help, but their setup and tuning may be overkill.
 
 <table><tr></tr><tr>
 <td><picture><img alt="&nbsp;READ-WRITE meets USE-DEV" width="100px" src="../../../../_rsc/_img/_nav/read-write_use-dev.png" /></picture></td><td>
@@ -82,7 +82,7 @@ Auto-generation tools may help, but their setting and tuning may be overkill.
 </td>
 <td>
 
-What known frameworks and less-known workarounds can do is a subject of the repository with more close-ups to practical code:
+What known frameworks and lesser-known workarounds can do is the subject of the repository with more close-ups to practical code:
     
 </td></tr></table>
 
@@ -92,13 +92,13 @@ If *Arrange* could be the **<mark>&thinsp;X&thinsp;</mark>** axis of extension, 
 
 ## Keep It Single... Or Multiple?
 
-The widely adopted practice &mdash; one *Assert* per test method/test case &mdash; became the teaching and often a written rule.
+The widely adopted practice &ndash; one *Assert* per test method/test case &ndash; became the teaching and often a written rule.
 
 However, the subject isn't always as atomic as it may seem. An _Act_ may assume many actions, and the test result can be split.\
-For example, consider native methods as `string.IsNullOrWhitespace(..)` for either *Act* or *Assert*.
+For example, consider native methods such as `string.IsNullOrWhitespace(..)` for either *Act* or *Assert*.
 
 Repeating arrangements for miscellaneous _Asserts_ is a growth steroid. 
-And there can be even a deeper negative side effect &thinsp;&mdash;&thinsp; a small error can trigger a salvo of failing tests. 
+And there can be even a deeper negative side effect &thinsp;&ndash;&thinsp; a small error can trigger a salvo of failing tests. 
 Such a salute will hardly provide a clue, but rather hide it in dependencies - inevitable even with granulated and isolated units and best-structured folders.
 
 ## 💡I<samp>DEAS</samp>💡
@@ -118,7 +118,7 @@ A summoned general was eager to recount seven reasons he knew, but was shortly i
 
 ### Normalization
 
-Grouping _Asserts_ for the same _Arrange_ is a call of reason &thinsp;&mdash;&thinsp; otherwise, method opening/closing will eat half of the screen.
+Grouping _Asserts_ for the same _Arrange_ is a call of reason &thinsp;&ndash;&thinsp; otherwise, method opening/closing will eat half of the screen.
 
 ```csharp
 // EXAMPLE PENDING
@@ -134,7 +134,7 @@ Normalization doesn't apply well to advanced evaluation as [gradual asserts](htt
 
 ### Master cautions
 
-When a mass of tests exceeds the sight capabilities, it's clever to select the "key" ones &mdash; failure of which must be investigated first (an order and classification can be set there too).
+When a mass of tests exceeds the sight capabilities, it's clever to select the "key" ones &ndash; failure of which must be investigated first (an order and classification can be set there too).
 
 Imagine a math engine for a project. If a floating error emerges, neither API error will matter.
 
@@ -142,7 +142,7 @@ Imagine a math engine for a project. If a floating error emerges, neither API er
 
 ### <mark>&thinsp;<b>D&thinsp;U&thinsp;M&thinsp;P</b>&thinsp;</mark> **or** <mark>&thinsp;<b>D&thinsp;R&thinsp;Y</b>&thinsp;</mark>&thinsp;**?** Neither, but a compromise. (Could I omit set phrases for justification?) 
 
-Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that units of tests are elusive, and there's no distinct division.
+Was it all about unit tests? Yes, but it can work for others in the pyramid. Remember that test units are elusive, and there's no distinct division.
 
 Does <mark>**DRY**</mark> apply to <samp>T</samp>est <samp>D</samp>riven <samp>D</samp>esign? Yes, but **very** constrained by <mark>DAMP</mark> as its main motive.
 
@@ -150,7 +150,7 @@ Does <mark>**DRY**</mark> apply to <samp>T</samp>est <samp>D</samp>riven <samp>D
     
 When covering existing code, you shall find out the repetitions to group.
 
-The opposite is for **Test Driven Development** &nbsp;&mdash;&nbsp; think in test unions/bundles prior.
+The opposite is for **Test Driven Development** &nbsp;&ndash;&nbsp; think in test unions/bundles beforehand.
 
 </td></tr></table>
 
