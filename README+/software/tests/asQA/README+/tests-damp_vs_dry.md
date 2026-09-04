@@ -82,7 +82,7 @@ Auto-generation tools may help, but their setup and tuning may be overkill.
 </td>
 <td>
 
-What known frameworks and lesser-known workarounds can do is the subject of the repository with more close-ups to practical code:
+What known frameworks and lesser-known workarounds can do is the subject of the repository, with more close-ups to practical code:
     
 </td></tr></table>
 
@@ -90,7 +90,10 @@ What known frameworks and lesser-known workarounds can do is the subject of the 
 
 If *Arrange* could be the **<mark>&thinsp;X&thinsp;</mark>** axis of extension, then *Assert* must be **<mark>&thinsp;Y&thinsp;</mark>**. (It looks so on the screen.)
 
-## Keep It Single... Or Multiple?
+## Keep It Single&thinsp;... Or Multiple?
+
+<div align="right"><a href="https://archive.org/details/HundertAutorenGegenEinstein" title="100 Autoren gegen Einstein, 1931">"One Hundred Authors Against Einstein"</a></div>
+<p align="right" title="Orig.: Wenn ich falsch läge, würde einer genügen."><samp><u>"If I were wrong, it would only take one."</u></samp></p>
 
 The widely adopted practice &ndash; one *Assert* per test method/test case &ndash; became the teaching and often a written rule.
 
@@ -99,22 +102,7 @@ For example, consider native methods such as `string.IsNullOrWhitespace(..)` for
 
 Repeating arrangements for miscellaneous _Asserts_ is a growth steroid. 
 And there can be even a deeper negative side effect &thinsp;&ndash;&thinsp; a small error can trigger a salvo of failing tests. 
-Such a salute will hardly provide a clue, but rather hide it in dependencies - inevitable even with granulated and isolated units and best-structured folders.
-
-## 💡I<samp>DEAS</samp>💡
-
-<details><summary><ins>&nbsp; History teaches us that one failure might be enough to know...&nbsp;</ins></summary>
-    
-> &nbsp;\
-> As in the anecdote about **Napoleon** enraged by the silence of cannons on a flank.\
-A summoned general was eager to recount seven reasons he knew, but was shortly interrupted with\
-<samp>«Already one is more than enough for me».</samp>
->
-> The same, the prominent physicist replied to [_"One Hundred Authors Against Einstein", 1931_](https://archive.org/details/HundertAutorenGegenEinstein):\
-> <samp>"If I were wrong, it would only take one."</samp>\
-> &nbsp;
-
-</details>
+Such a salute will hardly provide a clue, but rather hide it in dependencies &ndash; inevitable even with granulated and isolated units and best-structured folders.
 
 ### Normalization
 
@@ -148,7 +136,7 @@ Does <mark>**DRY**</mark> apply to <samp>T</samp>est <samp>D</samp>riven <samp>D
 
 <table align="center"><tr></tr><tr><td>👆</td><td>
     
-When covering existing code, you shall find out the repetitions to group.
+When covering existing code, you shall find the repetitions to group.
 
 The opposite is for **Test Driven Development** &nbsp;&ndash;&nbsp; think in test unions/bundles beforehand.
 
