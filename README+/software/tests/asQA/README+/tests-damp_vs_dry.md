@@ -13,7 +13,7 @@ Either <a href="../../asDrive">TDD<sup>e<b>V</b></sup></a> or <a href="../../asQ
 <p><b>&#8598;&nbsp;R&thinsp;E&thinsp;P&thinsp;E&thinsp;A&thinsp;T</b></p></td><td><p>After polishing the logic and wording,<br />consider and write other test cases.</p>
 </td></tr></table>
 
-### Writing tests this way shall<sup>☝🏼no warranty</sup> wrap features in pleasing <mark>&thinsp;D&thinsp;A&thinsp;M&thinsp;P&thinsp;</mark> (<samp><mark>D</mark>escriptive <mark>A</mark>nd <mark>M</mark>eaninigful <mark>P</mark>hrases</samp>).
+### Writing tests this way shall<sup>☝🏼no warranty</sup> wrap features in pleasing <mark>&thinsp;D</mark>&thinsp;<mark>A</mark>&thinsp;<mark>M</mark>&thinsp;<mark>P&thinsp;</mark> (<samp><mark>D</mark>escriptive <mark>A</mark>nd <mark>M</mark>eaninigful <mark>P</mark>hrases</samp>).
 <samp>(Particularly with adorning tools like [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java#write-a-scenario)<sup>🔗</sup> that wrap tests into phrases, which not only programmers but also sane people can comprehend.)</samp>
 
 ### Needless to point out the virtues of this approach, but one big flaw: <ins>&thinsp;<b>S&thinsp;I&thinsp;Z&thinsp;E</b>&nbsp;</ins>&thinsp;, fermented by:
@@ -36,7 +36,14 @@ More and more tests will slightly but steadily erode this core into a badly main
 
 ## Feed expansion
 
+```mermaid
+graph TD
+    idCx@{ shape: docs, label: "Context &lpar;Arrange&rpar;" } -->|<br />&nbsp; Arguments,&nbsp; <br />&nbsp; Test Data,&nbsp; <br />&nbsp; Settings&nbsp; <br />...| UT(TEST<br />Arange/Act/Assert)
+    idSrv[(Providers<br />&lpar;Arrange&rpar;)] -->|<br />&nbsp; Imports, Services&nbsp; <br />&nbsp; vs. Mocks, Doubles&nbsp; <br />...| UT
+    idFnc@{ shape: procs, label: "Functionality &lpar;Act&rpar;" } -->|&nbsp; Implementation A, B, C, ...&nbsp;<br >&nbsp;Sample func, ...&nbsp;</br>&nbsp;Stubs, Dummies, ...&nbsp;| UT
+    idErr@{ shape: bolt, label: "Abuse" } -->|&nbsp; <i>NULL</i>s, out-of-range,&nbsp;<br />&nbsp;timeouts, exceptions,&nbsp;<br />&nbsp;invalid/illegal calls/funcs&nbsp;<br />...| UT
 
+```
 
 ### Dimensional growth
 
