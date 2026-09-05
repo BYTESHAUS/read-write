@@ -36,14 +36,7 @@ More and more tests will slightly but steadily erode this core into a badly main
 
 ## Feed expansion
 
-```mermaid
-graph TD
-    idCx@{ shape: docs, label: "Context &lpar;Arrange&rpar;" } -->|<br />&nbsp; Arguments,&nbsp; <br />&nbsp; Test Data,&nbsp; <br />&nbsp; Settings&nbsp; <br />...| UT(TEST<br />Arange/Act/Assert)
-    idSrv[(Providers<br />&lpar;Arrange&rpar;)] -->|<br />&nbsp; Imports, Services&nbsp; <br />&nbsp; vs. Mocks, Doubles&nbsp; <br />...| UT
-    idFnc@{ shape: procs, label: "Functionality &lpar;Act&rpar;" } -->|&nbsp; Implementation A, B, C, ...&nbsp;<br >&nbsp;Sample func, ...&nbsp;</br>&nbsp;Stubs, Dummies, ...&nbsp;| UT
-    idErr@{ shape: bolt, label: "Abuse" } -->|&nbsp; <i>NULL</i>s, out-of-range,&nbsp;<br />&nbsp;timeouts, exceptions,&nbsp;<br />&nbsp;invalid/illegal calls/funcs&nbsp;<br />...| UT
 
-```
 
 ### Dimensional growth
 
@@ -63,7 +56,7 @@ For honest test coverage, no copy-paste will help (but [T4 templates](https://en
 
 ### Multitype parameters
 
-Whether for strictly or weakly typed languages, the same argument value may appear in different types (e.g., integer and floating point for the same calculations).
+Whether for strictly or weakly typed languages, the same argument value may appear in different types (e.g., integer and floating-point for the same calculations).
 
 ## 💡I<samp>DEAS</samp>💡
 
@@ -92,8 +85,9 @@ If *Arrange* could be the **<mark>&thinsp;X&thinsp;</mark>** axis of extension, 
 
 ## Keep It Single&thinsp;... Or Multiple?
 
-<div align="right"><a href="https://archive.org/details/HundertAutorenGegenEinstein" title="100 Autoren gegen Einstein, 1931">"One Hundred Authors Against Einstein"</a></div>
-<p align="right" title="Orig.: Wenn ich falsch läge, würde einer genügen."><samp><u>"If I were wrong, it would only take one."</u></samp></p>
+<p align="right" title="«100 Autoren gegen Einstein», 1931.&#013;&#010; &nbsp; A:&thinsp;Einstein:&#013;&#010;“Wenn ich falsch läge, würde einer genügen.”">
+<kbd>ARRANGE:</kbd> <a href="https://archive.org/details/HundertAutorenGegenEinstein">"One Hundred Authors Against Einstein"</a>
+<br /><kbd>ASSERT: </kbd><samp><i>"If I were wrong, it would only take one."</i></samp></p>
 
 The widely adopted practice &ndash; one *Assert* per test method/test case &ndash; became the teaching and often a written rule.
 
@@ -112,7 +106,7 @@ Grouping _Asserts_ for the same _Arrange_ is a call of reason &thinsp;&ndash;&th
 // EXAMPLE PENDING
 ```
 
-As intuition must suggest, they can be best ordered from the most autonomous to the most dependent (not only by reference/hierarchy but, principally, logic).
+As intuition must suggest, they can be best ordered from the most autonomous to the most dependent (not only by reference/hierarchy but, principally, by logic).
 
 Advanced versions shall deal with _Arrange_ and _Act_ blending and branching, but this asks for <s>funding</s> a good, big, pragmatic case to study and implement.
 
