@@ -93,7 +93,7 @@ First of all, numerous errors should be moved from `System` to their own `namesp
 
 - [Named tuples](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained)<sup>🪟</sup> and anonymous objects are very handy to submit sporadic composed results, but can't cast to an interface or class.
 - Some obvious inheritance is missing (e.g., can't cast `DateTime` to `DateOnly`).
-- Neither implicit nor explicit downcasting works while JSON (de)serialization legally does this operation.\
+- Neither implicit nor explicit downcasting works, while JSON (de)serialization legally does this operation.\
 Allowing this cast doesn't contradict type safety.\
 `// ToDo:` an example with [contravariance](https://learn.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)<sup>🪟</sup>
 
@@ -102,10 +102,10 @@ Allowing this cast doesn't contradict type safety.\
 ### Numbers
   
 - Does either developer ponder ten(!) primitive whole types when writing ordinary `for (var i = 0; i < count; i++)`?
-- Summing up 0.1 and 0.2 will reveal a [floating arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>🔗</sup> unless explicitly declared decimal.<sup>🪲</sup>\
+- Summing up 0.1 and 0.2 will reveal a [floating-point arithmetic flaw](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)<sup>🔗</sup> unless explicitly declared as a <code>decimal</code>.<sup>🪲</sup>\
 &nbsp; &nbsp; &nbsp; <sup>🪲</sup> Debug `var roundErr = 0.1 + 0.2;` to prove.
 
-Developers should better declare just a *numeric* and distinguish only the way it's processed: fixed (default) or floating. It would be a great option to derive subclasses from this _numeric_ could (with range and precision constraints).
+Developers should better declare just a *numeric* type and distinguish only the way it's processed: fixed (default) or floating. It would be a great option to derive subclasses from this _numeric_ &ndash; with range and precision constraints.
 
 C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>🪟</sup>, which genericizes numbers but in a bulky and restricted fashion.<sup>🙋</sup>
 
@@ -114,7 +114,7 @@ C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.nu
 Laconic `==` implies _ordinal_ _case-sensitive_ comparison while `String.Compare()` is bulky and turbid.
 `IndexOf` and other methods with numerous overloads invoke comparison, for which Microsoft advises explicit `Comparison` options.
 
-Syntax shortcuts here could make the code both shorter and readable.
+Syntax shortcuts here could make the code both shorter and more readable.
 
 ### DateTime
 
@@ -140,8 +140,8 @@ The **`I...`**_ prefix is not that essential for distinguishing interfaces (espe
 - LINQ [`Reverse()`](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
-## Bottom line
+<h2 align="center">Bottom line</h2>
 
-The list is far from being complete, but maybe one day (more correctly to say a year) the team will strike a higher note &thinsp;&mdash;&thinsp; D-flat or even&nbsp;`D#`. Or it will be `TypeScript`.
+The list is far from being complete, but maybe one day (more correctly to say a year) the team will strike a higher note &thinsp;&mdash;&thinsp; _D_-flat or even&nbsp;`D#`. Or it will be `TypeScript`.
 
 <div align="center">🔚 ... 🌘 2023-2026.., to be continued ...</div>
