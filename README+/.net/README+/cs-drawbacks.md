@@ -44,7 +44,15 @@ if (response.IsSuccessStatusCode) /// or differentiate for more specific conditi
 ## Collections
 
 - Pointer-style `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and should better start from **`1`**.
-- Size setters (as for arrays and collections) must have been unsigned integers: <code><b>u</b>int Length { get; }</code>. This could eliminate a big share of bugs and run-time errors.
+- Size setters (as for arrays and collections) must be unsigned integers: <code><b>u</b>int Length { get; }</code>. This could eliminate a big share of bugs and run-time errors.
+
+### IEnumerable and LINQ
+
+- `IEnumerable<T>` vs. `List<T>` &ndash; what's neater?
+
+... 🚧 to be continued...
+
+ToList() ...
 
 ## Generics
 
@@ -135,9 +143,11 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 
 The **`I...`**_ prefix is not that essential for distinguishing interfaces (especially with the cawling merge of abstract classes and interfaces). _**I**_ may significantly harm the wording.
 
+
+
 ### One-liners
 
-- LINQ [`Reverse()`](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse), is actually *flip*.
+- LINQ [`Reverse()`](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse) is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
 <h2 align="center">Bottom line</h2>
