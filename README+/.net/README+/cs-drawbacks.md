@@ -1,19 +1,19 @@
-# `C#` &nbsp;&mdash;&nbsp; Drawbacks &nbsp;&mdash;&nbsp; _"Minority report"_
+# [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) drawbacks <sup>_"Minority report"_</sup>
 
-> ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are downsides&nbsp;...
+> ### `C#` isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are downsides&nbsp;...
 
-To begin with
+To begin with ...
 
 - **single inheritance**,
 - **rigid interfaces** (e.g., no ad-hoc definition),
 - **bounded _generics_** and **their _constraints_**.
 
-The following language artifacts might be found awkward. 
+... and continue with ... 
 
 ## Syntax
 
 - Rudimentary **`;`** ending a line brings nothing but visual noise.<sup><mark>&thinsp;&thinsp;🔊</mark></sup>
-- Constructor names imply extra refactoring on class/struct renaming &thinsp;&mdash;&thinsp; better it was "anonymous" `ctor()` or `this()`.\
+- Constructor names imply extra refactoring on class/struct renaming &thinsp;&ndash;&thinsp; better it was "anonymous" `ctor()` or `this()`.\
 Compare to the `base()` call in the same constructors.
 - Default when missing access modifier<sup>⭕</sup> shall be better reserved for "ultimate" `private` or  `public` than for a less explicit and used `internal`
 - The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but shall prevent re-assignment, as `init` and `readonly` do.
@@ -83,7 +83,7 @@ The next definition is terse and clear, `class CollWrapper<C, T> where C : IColl
 
 A class may refer to only one base class but have multiple interfaces with default method implementations. This dismantles the argument for conceptual single-class inheritance (which must have been technically restrained).
 
-However, arranging the code from some interfaces is rather cumbersome and restrictive &thinsp;&mdash;&thinsp; shall be reserved for limited technical purposes (not multiinheritance design).
+However, arranging the code from some interfaces is rather cumbersome and restrictive &thinsp;&ndash;&thinsp; shall be reserved for limited technical purposes (not multiinheritance design).
 
 Other peculiar and arbitrary alternatives are [extension members](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>🪟</sup> and dynamic composition (notably facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>🔗</sup>).
 
@@ -152,6 +152,6 @@ The **`I...`**_ prefix is not that essential for distinguishing interfaces (espe
 
 <h2 align="center">Bottom line</h2>
 
-The list is far from being complete, but maybe one day (more correctly to say a year) the team will strike a higher note &thinsp;&mdash;&thinsp; _D_-flat or even&nbsp;`D#`. Or it will be `TypeScript`.
+The list is far from being complete, but maybe one day (more correctly to say a year) the team will strike a higher note &thinsp;&ndash;&thinsp; _D_-flat or even&nbsp;`D#`. Or it will be `TypeScript`.
 
 <div align="center">🔚 ... 🌘 2023-2026.., to be continued ...</div>
