@@ -1,12 +1,12 @@
-<h1 align="center"><code>WPF</code>.<samp>NET</samp> &nbsp;&mdash;&nbsp; <i>Freshener</i> in 2020s</h1>
+<h1 align="center">&Wopf;&Popf;&Fopf;.<samp>NET</samp> &nbsp;&larr;&nbsp; <i>Freshener</i> for the late 2020s</h1>
 
-### Despite justifiable concerns and fetched skepticism, regardless of hard criticism from the very dawn, &Wopf;&Popf;&Fopf; (Windows Presentation Foundation) became a fully established successor of _WinForms_.
+### Despite justifiable concerns and fetched skepticism, regardless of harsh criticism from the very dawn, &Wopf;&Popf;&Fopf; (Windows Presentation Foundation) became a fully established successor of _WinForms_.
 
 (Unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots, like Xamarin.)
 
-Now **WPF** is the number one platform for Windows desktops, hosting millions codelines of custom and enterprise software, profiting a definite ebb in cross-platform demand.
+Now **WPF** is the number one platform for Windows desktops, hosting millions of lines of code, packed in custom and enterprise software, profiting from a definite ebb in cross-platform demand.
  
-Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&mdash;&thinsp; the natural and permanent satellite. Alternatives are either petite, marginal, exotic, still immature, or already deprecated.<sup>🌘</sup>\
+Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&ndash;&thinsp; the natural and permanent satellite. Alternatives are either petite, marginal, exotic, still immature, or already deprecated.<sup>🌘</sup>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🌘</sup> <samp>You must know about WinForms and may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI.</samp>
 
 Web framework [**Blazor**](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to web browsers and tug a big part of applications, but it's too early to predict this.
@@ -28,7 +28,7 @@ ___________\
 The learning curve of WPF is distinctly steeper, and the concepts to learn are much broader than those of _WinForms_. 
 Nonetheless, a WPF newbie<sup>🔰</sup> entering either a new or established project has the luck to delay advanced topics till less stressful times. 
 
-&nbsp; &nbsp; <sup>🔰</sup> <samp>But experienced in .NET and thinking in MVW<sup>hatever</sup> patterns.</samp>
+&nbsp; &nbsp; <sup>🔰</sup> <samp>But experienced in .NET and thinking in MVW<sup>HATEVER</sup> patterns.</samp>
 
 This includes IDEs/tools, sketching, running, testing, and deployment.
 
