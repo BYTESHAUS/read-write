@@ -1,6 +1,6 @@
-# [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) drawbacks <sup>_"Minority report"_</sup>
+# `C#` drawbacks <sup>_“Minority report”_</sup>
 
-> ### `C#` isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are downsides&nbsp;...
+> ### [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are noticeable downsides&thinsp;...
 
 To begin with ...
 
@@ -13,10 +13,10 @@ To begin with ...
 ## Syntax
 
 - Rudimentary **`;`** ending a line brings nothing but visual noise.<sup><mark>&thinsp;&thinsp;🔊</mark></sup>
-- Constructor names imply extra refactoring on class/struct renaming &thinsp;&ndash;&thinsp; better it was "anonymous" `ctor()` or `this()`.\
-Compare to the `base()` call in the same constructors.
-- Default when missing access modifier<sup>⭕</sup> shall be better reserved for "ultimate" `private` or  `public` than for a less explicit and used `internal`
-- The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but shall prevent re-assignment, as `init` and `readonly` do.
+- Constructor names imply extra refactoring on class/struct renaming  &ndash; better if it were "anonymous" `ctor()` or `this()`.\
+As the `base()` call in the same constructors.
+- Default when missing access modifier<sup>⭕</sup> shall be better reserved for "ultimate" `private` or  `public` than for a less explicit and less-used `internal`
+- The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but shall prevent reassignment, as `init` and `readonly` do.
 - No constant option for default values in signatures. `Do(int val, string remark=string.Empty)` won't compile.
 - Nullable declaration (with `?` prefix) is evident for value types but ambiguous for references and objects, which can be nulled anyway:\
 `string a = null; string? b = null;`
@@ -26,14 +26,14 @@ Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# read
 
 \_______________
 
-&nbsp; &nbsp; &nbsp; &nbsp; <sup><mark>&thinsp;&thinsp;🔊</mark></sup> <samp>Semicolon is optional before new line and not recommended in newer Kotlin and TypeScript.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup><mark>&thinsp;&thinsp;🔊</mark></sup> < samp> Concurrent _TypeScript_ and _Kotlin_ made semicolons optional and recommended only for inline splitting of statements.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>⭕</sup> <samp>These native features can't be changed.</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🙋</sup> <samp>Though you can avoid them, and hopefully, .NET team doesn't plan to make a Perl out of their language.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>🙋</sup> <samp>Though you can avoid them, hopefully the .NET team doesn't plan to make a Perl out of their language.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>❓</sup> <samp>Isn't `null` a value too (compare to the _undefined_ notion)?</samp>
 
 ### Fishy shortcuts
 
-Some shortcuts obfuscate original goodies with insignificant gains in size.
+Some shortcuts obscure the original goodies for insignificant size gains.
 
 For example, [`EnsureSuccessStatusCode`](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpresponsemessage.ensuresuccessstatuscode) looks better in its expansion:
 
@@ -43,12 +43,14 @@ if (response.IsSuccessStatusCode) /// or differentiate for more specific conditi
 ```
 ## Collections
 
-- Pointer-style `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and should better start from **`1`**.
+- Pointer-style `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and should start from **`1`**.
 - Size setters (as for arrays and collections) must be unsigned integers: <code><b>u</b>int Length { get; }</code>. This could eliminate a big share of bugs and run-time errors.
 
 ### IEnumerable and LINQ
 
-- `IEnumerable<T>` vs. `List<T>` &ndash; what's neater?
+- `IEnumerable<T>` is long and nondescript, &ndashl can't match to `List<T>`.
+
+It could be simplified to `string{} FindNames()`, `var primes = {1, 2, 3, 5}`.
 
 ... 🚧 to be continued...
 
@@ -87,7 +89,7 @@ However, arranging the code from some interfaces is rather cumbersome and restri
 
 Other peculiar and arbitrary alternatives are [extension members](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)<sup>🪟</sup> and dynamic composition (notably facilitated with [Roslyn](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)<sup>🔗</sup>).
 
-&nbsp; &nbsp; <sup>🙋</sup> <samp>I do object to multi-inheritance for logic as destructive for single-responsibility but would like it for operational adornment: `ToString()`, `NotifyPropertyChanged`, `Compare`, and similar.</samp>
+&nbsp; &nbsp; <sup>🙋</sup> <samp>I do object to multi-inheritance for logic as destructive to single responsibility but would like it for operational adornment: `ToString()`, `NotifyPropertyChanged`, `Compare`, and similar.</samp>
 
 ## Namespaces and class organization
 
