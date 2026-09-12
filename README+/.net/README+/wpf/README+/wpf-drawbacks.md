@@ -1,13 +1,15 @@
-# &Wopf;&Popf;&Fopf; &nbsp;&mdash;&nbsp; &Dscr;rawbacks and &Lscr;acks
+# &Wopf;&Popf;&Fopf; &thinsp;&mdash;&thinsp; Drawbacks and Lacks
 
 > ### **`WPF`** is a stable, modern, and so far popular platform &thinsp;&mdash;&thinsp; alive and well despite beaucoup gloomy prognoses.
 
 It remains the number one choice for new desktop applications (of any scale), yet without great add-ins, pivotal improvements, and new cutting-edge parts since its first release.
 
-## "WPF <mark>2.0</mark>" ?
+<h2 align="center">Where is "WPF&thinsp;<mark>2</mark>"&thinsp;?</h2>
 
-The wide use of WPF from 2006 has accumulated vast expertise, feedback, critique (naming), and [proposals](https://github.com/dotnet/wpf/discussions)<sup>:octocat:</sup>. 
-Microsoft resources allow its professionals to transform them into a breaking, cutting-edge version of the subsystem &thinsp;&mdash;&thinsp; not on the horizon in 2024.
+**The wide use of WPF from 2006 has accumulated vast expertise, feedback, critique (naming), and [proposals](https://github.com/dotnet/wpf/discussions)<sup>:octocat:</sup>. 
+Microsoft resources allow its professionals to transform them into a breaking, cutting-edge version of the subsystem**
+
+<p align="center"><b>Not on the horizon more than twenty years later</b>❗</p>
 
 Microsoft and the .NET team were more than busy with cross-platform, Web, and mobile solutions, .NET Core, but losing focus on a mainstream product (since it's all right and running) invites competitors to push it away.<sup>🥀</sup>
 
