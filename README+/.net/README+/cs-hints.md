@@ -1,6 +1,4 @@
-# `C#` &nbsp;&mdash;&nbsp; <samp>from everyday praxis</samp> &nbsp;&mdash;&nbsp; Hints
-
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
+# <code>&Cscr;#</code> &nbsp;&larr;&nbsp; Hints <sup>from everyday praxis</sup>
 
 ## Syntactic reminder
 
@@ -134,7 +132,7 @@ Leaving the default value for non-nullable values is bug-friendly, and nullable 
 Inline attributes as 
 [`CallerMemberName`](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callermembernameattribute) or 
 [`CallerArgumentExpression`](https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.callerargumentexpressionattribute) 
-set value in runtime, but you can't rely on them since the caller may accidentally overwrite the values (that tastes like a flaw). 
+set the value at runtime, but you can't rely on them since the caller may accidentally overwrite the values (that tastes like a flaw). 
 
 ```csharp
 
@@ -161,7 +159,7 @@ It's legal to write `throw` in any C# method, but there may be motives to delega
 
 * Other concurrent methods (not only parallel) may throw, and the caller accumulates and weights exceptions without a heavy `catch` for each.
 * You'd like to explicitly tell code readers what a method may throw (akin to a signature in Java).
-* Method unconditionally throws and any return value (also `void`) deceives.
+* Method unconditionally throws, and any return value (also `void`) deceives.
 
 ```csharp
 
@@ -204,7 +202,7 @@ class Benchmark : IDisposable
 
 "Historical" routines, like persistence or services, often present procedural flows with opening&thinsp;/&thinsp;closing statements: e.g., `.BeginEdit()`&thinsp;/&thinsp;`.EndEdit()`, `.OpenConnection()`&thinsp;/&thinsp;`.CloseConnection()`.
 
-Wrapping them with `IDisposable` object (no need for obvious snippet) not only provides readability but prevent bugs (forgetting to "end").
+Wrapping them with `IDisposable` object (no need for an obvious snippet) not only provides readability but prevents bugs (forgetting to "end").
 
 </details>
 
@@ -247,7 +245,7 @@ using Book = (string title, short year, (string Name, string Surname) author);
 <details><summary><ins>&nbsp;Distinct default of enums&nbsp;</ins></summary>
 &nbsp;
 
-Reserve, when appropriate, _none_, _undefined_ or _unknown_ as zero-value to prevent unexpected default assignment and consequent bugs.
+Reserve, when appropriate, _none_, _undefined_ or _unknown_ as a zero-value to prevent unexpected default assignment and consequent bugs.
 
 ```csharp
 enum FundamentalStatesOfMatter
@@ -269,5 +267,5 @@ enum FundamentalStatesOfMatter
 |- **Rules**, **frames**, design **decisions**\
 |--- ➡️ [**use-dev**](https://github.com/Kyriosity/use-dev/)
 
-___________\
+___  ________\
 🔚 ... 🎼 ©️# XXI&nbsp; <samp>Byteshausmeister</samp>
