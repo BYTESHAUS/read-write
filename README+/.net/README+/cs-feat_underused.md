@@ -1,4 +1,4 @@
-# `C#` &thinsp;&larr;&thinsp; &Gscr;_ood sides_ &thinsp;&rarr;&thinsp; <mark>&thinsp;Underused&thinsp;</mark>
+# <code>&Cscr;#</code> &thinsp;&larr;&thinsp; <i>Good Sides</i> &thinsp;&rarr;&thinsp; <mark>&thinsp;Underused&thinsp;</mark>
 
 > ### Parts of <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> syntax, its certain features, libraries, and frameworks are <ins>preferable</ins> in development but often remain <ins>unrevealed</ins>.
 
@@ -10,7 +10,7 @@
 
 `C#` evolves swiftly with a regular release pace, but not every developer is an early adopter, and not every team is eager to update the breadwinning environment.
 
-However, staying fit with `C#` is a reasonable and feasible attitude. Releases of .NET are cumulative and stable; besides introducing new syntax and structures, they provide improved performance, enhanced security, and extended support. 
+However, staying up to date with `C#` is a reasonable and feasible approach. Releases of .NET are cumulative and stable; besides introducing new syntax and structures, they provide improved performance, enhanced security, and extended support. 
 
 Devoted bloggers and speakers<sup>👨‍👩‍👧‍👦</sup> do a great job of separating the wheat from the chaff while IDEs hint at new features.
 
@@ -132,13 +132,13 @@ It doesn't involve a deranged imagination to improvise the auto-implementation o
 
 [`ValueTask`](https://learn.microsoft.com/dotnet/api/system.threading.tasks.valuetask-1) was introduced in .NET Core 2.0 to wrap the result of `Task`. It won't create overhead if the result is available.
 
-Along with another abstraction `IValueTaskSource`, it's a choice over `Task` for one-time calls without blocking and similar scenarios.
+Along with another abstraction, `IValueTaskSource`, it's a choice over `Task` for one-time calls without blocking and similar scenarios.
 
 ## Wrap up
 
 There must be other useful but neglected parts, features, and syntax of `C#` and its subsystems that you may know and contribute to this document.
 
-Plus to the mentioned above, there are:\
+Plus to the above-mentioned, there are:\
 |&thinsp;-&thinsp;- [Parts in shade](parts/cs-feat_shadow.md)\
 |&thinsp;-&thinsp;- Obsolete/bad parts, features, and [malpractices](cs-malpractice.md) 
 
