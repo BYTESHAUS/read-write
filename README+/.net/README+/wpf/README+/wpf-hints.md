@@ -1,4 +1,4 @@
-# &Wopf;&Popf;&Fopf; &nbsp;&mdash;&nbsp; from praxis &nbsp;&rarr;&nbsp; &Hscr;ints
+# <code>&thinsp;W&thinsp;P&thinsp;F&thinsp;</code> &nbsp;&larr;&nbsp; Hints <sup>from everyday praxis</sup>
 
 [![C#](https://custom-icon-badges.demolab.com/badge/WPF-keyboard_fresh-orangered.svg?logo=cshrp&logoColor=white&color=tomato)](#)
 
@@ -15,9 +15,9 @@ Here, the "inversion of control" is vital: don't let XAML drive you, but prepare
 
 ### _Binding_   &thinsp;&ndash;&thinsp; backup values
 
-Developers often neglect backup values<sup>🙋</sup> while they must be considered for every new `Binding`.
+Developers often neglect backup values<sup>🙋</sup>, but they must be considered for every new `Binding`.
 
-+ `FallbackValue` detects binding errors at both design and run time.
++ `FallbackValue` detects binding errors at both design and runtime.
 
 ```XAML
 <TextBox Text="{Binding Title, FallbackValue=-n/a-}" />
