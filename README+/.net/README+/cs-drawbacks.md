@@ -31,9 +31,9 @@ Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# read
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🙋</sup> <samp>Though you can avoid them, hopefully the .NET team doesn't plan to make a Perl out of their language.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>❓</sup> <samp>Isn't `null` a value too (compare to the _undefined_ notion)?</samp>
 
-### Fishy shortcuts
+### Fishy paths
 
-Some shortcuts obscure the original goodies for insignificant size gains.
+- Some shortcuts obscure the original goodies for insignificant size gains.
 
 For example, [`EnsureSuccessStatusCode`](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpresponsemessage.ensuresuccessstatuscode) looks better in its expansion:
 
@@ -41,6 +41,9 @@ For example, [`EnsureSuccessStatusCode`](https://learn.microsoft.com/en-us/dotne
 if (response.IsSuccessStatusCode) /// or differentiate for more specific conditions
      throw new HttpRequestException(); /// or specify explicitly any custom exception
 ```
+
+- Labeled `break` and `continue` ([introduced in C#15](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-15#labeled-break-and-continue)) smell like `goto`.
+
 ## Collections
 
 - Pointer-style `0` as the start index in collections<sup>⭕</sup>, which doesn't correlate with the count and should start from **`1`**.
