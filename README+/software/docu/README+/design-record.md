@@ -1,15 +1,15 @@
-# Software &nbsp;&mdash;&nbsp; Design &nbsp;&mdash;&nbsp; &Dscr;ocumentation
+# Software &nbsp;&rarr;&nbsp; Design &nbsp;&larr;&nbsp; &Dscr;ocumentation
 
-+ ### [Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/code_org/README.md) must explain design brainchilds in intuitive manner. 
++ ### [Quality code](../../QA/README+/code-quality.md) with profound and thoroughly categorized [names](../../design/code_org/README.md) must explain design brainchilds in intuitive manner,
 
-+ ### Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source code. 
++ ### Liably written [design-defining-tests](../../design/drive/) must smoothly introduce them. And nothing is more suitable for reverse engineering (manual or automatic) than source code,
 
 <h2 align="center">but &nbsp;.&nbsp;.&nbsp;.</h2>
 
 **The above-mentioned measures alone will gradually become tougher and steeper (until they hit the wall of the perfectionism exponent) and won't reveal remarkable design/architecture intentions. 
 It's warped to unfold the big canvas of abstractions.**
 
-In reality, the code will be partly or greatly obscure, and tests will lack clarity and both &thinsp;&mdash;&thinsp; seamless categorization. 
+In reality, the code will be partly or greatly obscure, and tests will lack clarity and both &thinsp;&ndash;&thinsp; seamless categorization. 
 Code prose and time will bury grand (no sarcasm intended) design decisions <mark>unless highlighted with a pen</mark>.
 
 Explorers may also overestimate weak decisions and search for deep meaning in shallow parts.
@@ -20,14 +20,14 @@ Explorers may also overestimate weak decisions and search for deep meaning in sh
 
 <table><tr valign="top"><td><picture><img alt="&nbsp;Docu pillar" src="../../../_rsc/_img/illus/docu/docu_pillar.jpg" /></picture></td><td>
 
-Even if there's extensive user guidance, even the best quality application code needs a fluent explanation: 
+Even if there's extensive user guidance, even the best-quality application code needs a fluent explanation: 
 
 * engaging intro,
 * navigation to source code,
 * clues to common and own patterns and templates used,
 * known design compromises, drawbacks, and "props" [props as supports].
 
-The higher the level and more concise (yet complete) the documentation &mdash; the better. Nobody will maintain volumes of papers up-to-date, and the rare will read them thoroughly.
+The higher the level and more concise (yet complete) the documentation &ndash; the better. Nobody will maintain volumes of papers up-to-date, and the rare will read them thoroughly.
 
 ### Log&thinsp;/&thinsp;Blog
 
@@ -46,9 +46,9 @@ Continuous ratification of design decisions (incl. rejection) in the form of Que
 **Any text document (except F.A.Q.) over a few pages will be a vapid blur without drawings, diagrams, and presentations.**
 
 There are elaborate methodologies and tools (to remember classical IBM Rational Rose and RUP) to evolve a project in UML and other diagrams. 
-However, they cost time, restrain presentation, stick the vision to **2D** (literally and metaphorically), and prompt to input of redundant details. Mutual synchronization with code will make matters even worse.
+However, they cost time, restrain presentation, stick the vision to **2D** (literally and metaphorically), and prompt the input of redundant details. Mutual synchronization with code will make matters even worse.
 
-The compromise is to maintain top diagrams with modest detailing. Make presentations with and root documentation from them. 
+The compromise is to maintain top diagrams with modest detailing. Make presentations with them and root documentation from them. 
 
 <details><summary><ins>&nbsp;Don't be shy with sketches. Look like NASA engineers charted it in 1960s:&nbsp</ins></summary>
 &nbsp;
@@ -67,7 +67,7 @@ They may start on a whiteboard<sup>🔲</sup> during a casual discussion and, as
 
 \_________
 
-&nbsp; &nbsp; <sup>🔲</sup> <samp>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from an unusual side but also attach various backgrounds (e.g., previous printout). _Trace paper_ is a compact individual variant.</samp>
+&nbsp; &nbsp; <sup>🔲</sup> <samp>Can anything be better than a whiteboard? The glass board! It allows one not only to look at the design from an unusual side but also to attach various backgrounds (e.g., previous printout). _Trace paper_ is a compact individual variant.</samp>
 
 <h2 align="center">Past sketches</h2>
 
@@ -86,10 +86,10 @@ The latter aren't routines but intellectual, lasting, and accurate tasks of desi
 ## Summary
 
 1. Docu shortage will obfuscate substantial concepts and require essential efforts to (re)gain focus on a software part later.<sup>🔖</sup>. 
-2. Instead of being a side-effect of development docu shall be an acknowledged task, requiring resources and enthusiasm.
+2. Instead of being a side effect of dev docu shall be an acknowledged task, requiring resources and enthusiasm.
 3. Docu shall evolve along with software for accuracy and mutual contribution.
 
-&nbsp; &nbsp; &nbsp; <sup>🔖</sup> <samp>You are self the consumer&nbsp;**#1** of this product - it's only a week to lose a grasp on the "unfocused" design part.</samp>
+&nbsp; &nbsp; &nbsp; <sup>🔖</sup> <samp>You (yourself) are the consumer&nbsp;**#1** of this product &ndash; it's only a week to lose a grasp on the "unfocused" design part.</samp>
 
 ## Wrap up. Sync with code!
 
@@ -105,7 +105,7 @@ Applying aesthetic traits to attribute images or enliven the text highly motivat
 
 ## Appendix 2/2. Alternatives to documentation
 
-### Video tutorial - Screen capture
+### Video tutorial &ndash; Screen capture
 
 "A picture is worth a thousand words", and the shortest video is made up of thousands of them. That's the absolute winner in the snap of design. 
 
