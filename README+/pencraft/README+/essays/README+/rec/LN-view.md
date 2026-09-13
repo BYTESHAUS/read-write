@@ -1,10 +1,10 @@
-# Lotus &Nscr;&oscr;&tscr;&escr;&sscr;
+<h1 align="center">Lotus &Nscr;&oscr;&tscr;&escr;&sscr;</h1>
 
 <table><tr><td>
 
 #### `Lotus Notes` (henceforth also `LN`), the multiplatform groupware, was first released at the turn of 1991. 
 
-Joining the best of computer sciences from the 1980s with _laissez-faire_ IT in the 1990s, it rapidly became the core asset for companies and teams.
+Joining the best of computer science from the 1980s with _laissez-faire_ IT in the 1990s, it rapidly became the core asset for companies and teams.
 
 </td><td width="30%">
 <picture><img alt="&nbsp; Lotus Notes R5 splash screen" src="../../../../../_rsc/_img/af/LN/LotusNotesR5_SplashWin.jpg" title="&nbsp;Splash screen of &#010;Lotus Notes R5"></picture>
@@ -19,7 +19,7 @@ Those who programmed and administered will reminisce about genuine Rapid Applica
 
 <div align="center">As a developer of Line-of-Business and corporate applications on Lotus Notes for over a decade (<samp>before I cast my lot with <a href="../../../../../.net">C#.NET</a>.</samp>),
 <br/>
-I must have deserved the privilege of personal<br /><b><i>LOTUS</i> NOTES</b>.</div>
+I must have deserved the privilege of personal <b><i>LOTUS</i> NOTES</b><br />👇</div>
 
 ### IBM PC users remember (or not) that it was a time and a <b>word</b> &thinsp;&mdash;&thinsp; neither Microsoft's one nor WordPerfect, but <br />«<mark>&thinsp;L<samp>&thinsp;O&thinsp;T&thinsp;U&thinsp;S&thinsp;</samp></mark>» &thinsp;&mdash;&thinsp; a synonym for spreadsheet, text processor, calendar, E-Mail client, and collaboration tools.
 
@@ -62,7 +62,7 @@ There was a never-realized plan to put DB2 under LN storage, akin to MS SQL behi
 
 Lotus developers _nolens volens_ coded in the out-of-date and too elementary _LotusScript_ &thinsp;&mdash;&thinsp; a branch of Visual Basic with built-in LN API (resting on `C++` API). 
 
-`Java` could be promoted to a primary language, but its API with a lagging version remained limited, poorly documented, and tricky (e.g., know to call the garbage collector in a cycle of LN docs.).
+`Java` could be promoted to a primary language, but its API, with a lagging version, remained limited, poorly documented, and tricky (e.g., know to call the garbage collector in a cycle of LN docs.).
 
 Even a greater option would be creating an object-oriented flavor of `JavaScript` for both front-end (to replace also `@formula`) and back-end (LN applications weren't exceedingly demanding for performance and semantics).
 
@@ -87,7 +87,7 @@ Great potential for [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_so
 ### 🙋 Last but not least
 
 This wishlist and quality sustainability would require top and liable teams/community instead of outsourcing. 
-("Migrating" myself from _LN_ to .NET, I experienced, for certain, that beta versions of Visual Studio&nbsp;2010 were less eager to crash than sametime releases of Notes Designer.)
+("Migrating" myself from _LN_ to .NET, I experienced, for certain, that beta versions of Visual Studio&nbsp;2010 were less eager to crash than same-time releases of Notes Designer.)
 
 <h2 align="center">⬆️ <mark>Was it technically doable? &thinsp;&ndash;&thinsp; <b>Absolutely</b>.</mark><br /><samp>Great cutting-edge again? &thinsp;&ndash;&thinsp; Possibly.</samp></h2>
 
