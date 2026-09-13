@@ -7,7 +7,7 @@
 
 **Its outbreaks appear literally from `nothing` and are too common to tag them as `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _and_ data clouds. They spare neither junior nor seasoned developers.**
 
-The _Turing_ awardee and Sir [Tony&nbsp;Hoare](../../../pencraft/README+/quotes/README+/contributors/README.md#tony-hoare) got it off his chest as being the _Frankenstein_ who brought the 
+The _Turing_ awardee and Sir [Tony&nbsp;Hoare](../../../pencraft/README+/quotes/README+/contributors/README.md#tony-hoare) got it off his chest as being this _Frankenstein_ who brought the 
 <span title="&nbsp;If the link expires it was the video of T.&nbsp;Hoare&#010;lecture at QCon conference at Aug 25, 2009.">[**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup></span> into our software Eden. 
 
 Inspite of that nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain", still collecting its billion toll.\
@@ -23,9 +23,9 @@ ___________\
 </td>
 </tr></table>
 
-<div align="right"><sup>🎥</sup>&nbsp; <samp>If you've watched this public confession but <b>can't</b> couple the 1950s subscripts <b>and</b> today's exceptions &ndash; <br />you are <b>not</b> alone (and probably on the right side).</samp></div>
+<div align="right"><sup>🎥</sup>&nbsp; <samp>If you've watched this public confession <br />but <b>can't</b> couple the 1950s subscripts <b>and</b> today's exceptions &ndash; <br />you are <b>not</b> alone (and probably on the right side).</samp></div>
 
-### There's no specific `Boolean` or machine value for `Null`, but a logical consensus to designate not initialized values. And its unexpected retrieval is a logical flaw, coding slip, or our sloth.
+### There's no specific `Boolean` or machine value for `Null`, but a logical consensus to designate uninitialized values. And its unexpected retrieval is a logical flaw, a coding slip, or our sloth.
 
 <details><summary><ins><b>Don't take my word but <code>C#</code> documentation:</b></ins></summary>
 &nbsp;
@@ -44,7 +44,7 @@ ___________</details>
 <table><tr></tr><tr align="center"><td width="40%"><b>Y&thinsp;E&thinsp;S❗</b></td><td width="20%" ><b><samp>A&thinsp;N&thinsp;D</samp></b></td><td width="40%" ><b>N&thinsp;O❗</b></td>
 </tr><tr valign="center"><td>
   
-* Null reference isn't a CPU (or memory) vulnerability as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix.
+* `Null` reference isn't a CPU (or memory) vulnerability as [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))<sup><b>w</b></sup> that no software patch can fix.
 * It's not even comparable to the <a href="https://en.wikipedia.org/wiki/Year_2000_problem">Y2K problem</a>, which stemmed from explicit negligence (and was eliminated with a sheer format enhancement).
 * Errors of different origins caused botched global updates, blackouts, and catastrophic failures when exception names didn't matter. 
 * "Silent" logical flaws that don't protrude exceptions may be even more disastrous and harder to find.
@@ -53,11 +53,11 @@ ___________</details>
 
 - Statistics (and private experience) put `NullReference` in the top places.<sup>🧮</sup>
 - Many of these errors are difficult to trace, reproduce, and debug. 
-- Those not regular and critical may stay for years with the lowest priority for investigation.
+- Those that are not regular and critical may stay for years with the lowest priority for investigation.
 
-Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&ndash;&thinsp; the syndrome of the design decadence, which often gets symptomatic treatment.
+Time and size populate projects' closets with ghost `NullReference` errors &thinsp;&ndash;&thinsp; the syndrome of design decadence, which often gets symptomatic treatment.
 
-<sup>🧮</sup>&nbsp;<sub>When the number of software installations is significant, providers continuously collect reports on errors that crash their products, get handled, or run undercover (unnoticed).</sub>
+<sup>🧮</sup>&nbsp;<sub>When the number of software installations is significant, providers continuously collect reports on errors that crash their products, are handled, or run undercover (unnoticed).</sub>
 
 </td></tr></table>
 
@@ -67,7 +67,7 @@ Time and size populate projects' closets with ghost `NullReference` errors &thin
 
 ### `Null` is not a fallacy but a signal
 
-First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or singularity. It's not more than a logical placeholder for unassigned variables and the initial and valid state of objects. 
+First, `Null` is not a popped transistor, phantom, bug, stub, rudiment, or singularity. It's not more than a logical placeholder for unassigned variables and the initial, valid, and suitable state of objects. 
 When neglected, it sincerely warns about a breach.
 
 Besides plain cases, `NullReference` may be the visible summit of the iceberg made of logical faults. 
@@ -98,7 +98,7 @@ It's tempting to relate the perplexed cases of `NullReference` to the peculiarit
 
 Null isn't a specific value (it may be memory 0), but a predefined constant. Quite convenient, though some programmes look at it as <span title="&nbsp; &nbsp; &nbsp; Arab mathematicians brought&#013; 0️⃣&nbsp;to Europe from India only&#010; in the Middle Ages."><ins>Phygaros</ins></span>would at zero.
 
-I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. reference vs index, but break them into three **BE**s:
+I wouldn't like to classify _null_ traps by managed/unmanaged, pointer vs. reference vs. index, but break them into three **BE**s:
 
 * **CAN'T** BE &thinsp;&mdash;&thinsp; the assignee (field, variable, or object) can **never** be null.\
 And only a peculiar glitch allowed setting it. E.g., objects coming from builders.
@@ -108,7 +108,7 @@ E.g., a booking request can be _null_ when returned or canceled, but not when su
 _Enums_ (enumerations), i.e., declarative numbers, are rather prone to such errors.
 
 <div align="right">&nbsp; &nbsp; <sup>&empty;</sup> <samp>Null in math means zero or empty set. As it's <i>zero</i> in German.</samp></div>
-<div align="right">&nbsp; &nbsp; <sup>&empty;🖱️</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte that state can't be read.</samp></div>
+<div align="right">&nbsp; &nbsp; <sup>&empty;🖱️</sup> <samp>Hardware has a kind of &thinsp;&mdash;&thinsp; the bit or byte whose state can't be read.</samp></div>
 
 ## Rinse &rarr; <samp>Back to keyboard</samo>
 
@@ -146,7 +146,7 @@ Inspired by [`string.IsNullOrWhitespace(..)`](https://learn.microsoft.com/en-us/
 
 ### Reduce direct declarations
 
-Avoid declaration, but use Builders/Factories/Wizards.
+Avoid declarations, but use Builders/Factories/Wizards.
 
 ### Utilize language protection
 
@@ -154,7 +154,7 @@ When possible, use attributes or constraints that a language provides. It won't 
 
 ### Distinguish
 
-JavaScript has a native `undefined`. In other languages, a never set value may throw a specific exception, like in this tailored property [`AbsYear`](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Timescales/Models/Hap.cs).
+JavaScript has a native `undefined`. In other languages, a never-set value may throw a specific exception, like in this tailored property [`AbsYear`](https://github.com/BYTESHAUS/use-dev/blob/main/src/TuttiFrutti/AbcChrono/Timescales/Models/Hap.cs).
 
 Bad approach: setting a specific object that will only mask `null` to make matters worse.
 
@@ -162,7 +162,7 @@ Bad approach: setting a specific object that will only mask `null` to make matte
 
 Private anecdotes are the last shelter of narrators unless it's a full match and a good argument. This must be the case.
 
->  I can remember a contractor for a big, really one, enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
+>  I can remember a contractor for a really big enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
 After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](../../../pencraft/README+/essays/README+/rec/LN-view.md) and returned to his daily need &ndash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
 >
 > For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, he coincided the slices of Swiss cheese to reveal a malicious an<i>null</i>er. To be trivially fixed.
