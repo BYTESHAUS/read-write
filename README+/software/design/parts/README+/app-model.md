@@ -1,4 +1,4 @@
-<h1 align="center">Application: Model &nbsp;&mdash;&nbsp; <i>Reminder</i></h1>
+<h1 align="center">Application Parts &nbsp;&mdash;&nbsp; Model <sup>REMINDER</sup></h1>
 
 > ### The _Model_, though a rather obscure term, is a <samp><ins>CORNERSTONE</ins></samp> of software design. It shapes and formalizes entities and tasks of the application.
 
