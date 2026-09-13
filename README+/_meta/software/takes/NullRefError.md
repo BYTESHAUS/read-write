@@ -7,7 +7,7 @@
 
 **Its outbreaks appear literally from `nothing` and are too common to tag them as `exceptions` &thinsp;&mdash;&thinsp; they strike in safe _vs._ unmanaged code, in the bolted-to-the-floor mainframes _and_ data clouds. They spare neither junior nor seasoned developers.**
 
-The _Turing_ awardee and Sir [Tony&nbsp;Hoare](../../../pencraft/README+/quotes/README+/contributors/README.md#tony-hoare) gave himself up as being this _Frankenstein_ who brought the 
+The _Turing_ awardee and Sir [Tony&nbsp;Hoare](../../../pencraft/README+/quotes/README+/contributors/README.md#tony-hoare) got it off his chest as being the _Frankenstein_ who brought the 
 <span title="&nbsp;If the link expires it was the video of T.&nbsp;Hoare&#010;lecture at QCon conference at Aug 25, 2009.">[**billion&#8209;dollar&nbsp;mistake**](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)<sup>🎥</sup></span> into our software Eden. 
 
 Inspite of that nobody else _Great_ has volunteered to cut this  _Gordian_ "nullchain", still collecting its billion toll.\
