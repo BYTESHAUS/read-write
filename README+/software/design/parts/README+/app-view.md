@@ -1,4 +1,4 @@
-# Application &thinsp;&mdash;&thinsp; &Vscr;iew &thinsp;&larr;&thinsp; _Reminder_
+<h1 align="center">Application Parts &nbsp;&larr;&nbsp; View <sup>REMINDER</sup></h1>
 
 The **_View_**, as an interface to human sensors and actions in response, could not even be a sight but a voice assistant, or other means of communication.<sup>🙋</sup>\
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>🙋</sup>&nbsp;<samp>Assuming how disabled people will use your application isn't only fair but can help with design posers. To separate business logic and vision (keyword: abstraction) from tinsel.</samp>
