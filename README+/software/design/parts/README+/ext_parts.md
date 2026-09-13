@@ -1,4 +1,4 @@
-# &Yscr;our Software &nbsp;&mdash;&nbsp; &Escr;xternal Parts
+# <ins>Your</ins> Development &nbsp;&larr;&nbsp; but <ins>External</ins> Parts
 
 What are the cornerstones of a big project &thinsp;&ndash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither. \
 **The fundamentals already exist, and they are vetted concepts/components to adopt.**
@@ -16,7 +16,7 @@ Such external parts are often a click away from evaluation and range:
 * **from** lib calls **to** injecting into frameworks,
 * **from** open source or/and free **to** commercial and obfuscated,
 
-Even great enterprises are reluctant to create the parts from the ground up and re-invent the wheel (unless it's rounder than others or "security first" rules).
+Even great enterprises are reluctant to create the parts from the ground up and reinvent the wheel (unless it's rounder than others or "security first" rules).
 
 ## Core components
 
@@ -26,13 +26,13 @@ The same applies to text editors.
 
 ## Frontend
 
-Downright a must, and an acute demand met by more than experienced providers of suites, frameworks, and controls for Rapid Application Development: Telerik, DevExpress, Google, and Infragistics - to name a few.
+Downright a must, and an acute demand met by more than experienced providers of suites, frameworks, and controls for Rapid Application Development: Telerik, DevExpress, Google, and Infragistics &ndash; to name a few.
 
 Developers get the best out-of-the-box: state-of-the-art UI, professional look and feel, binding logical classes to place onto Model/ViewModel/Controller (with _table_ as the finest demonstrator).
 
 ## Backend
 
-Simple to moderate applications need no elaborate structure - they begin with a few data context classes. For large projects, teams shall weigh the evaluation, learning curve, and fitting of the chosen framework against the hardship of their own development.
+Simple to moderate applications need no elaborate structure &ndash; they begin with a few data context classes. For large projects, teams shall weigh the evaluation, learning curve, and fit of the chosen framework against the hardship of their own development.
 
 Many frameworks are good in themselves, but will burden your project with too much unclaimed "ballast" code.
 
@@ -61,4 +61,4 @@ All-around pro solutions aren't free, but annual dev licenses below $1K will qui
 &nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Compare to the exciting accomplished, but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks ... last updated 10 years ago.</samp>
 
 ___________\
-🔚 .. 2024-2026.. <samp><b>B</b>yteshausmeister</samp>
+🔚 <samp>..2024-2026.. <b>B</b>yteshausmeister</samp>
