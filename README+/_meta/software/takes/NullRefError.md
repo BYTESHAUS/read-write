@@ -23,13 +23,13 @@ ___________\
 </td>
 </tr></table>
 
-<div align="right"><sup>🎥</sup>&nbsp; <samp>If you've watched this public confession <br />but <b>can't</b> couple the 1950s subscripts <b>and</b> today's exceptions &ndash; <br />you are <b>not</b> alone (and probably on the right side).</samp></div>
+<div align="right"><sup>🎥</sup>&nbsp; <samp>If you've watched this public confession but <b>can't</b><br />couple the 1950s subscripts <b>and</b> present errors &ndash;<br />&ndash; you are <b>not</b> alone (and probably on the right side).</samp></div>
 
 ### There's no specific `Boolean` or machine value for `Null`, but a logical consensus to designate uninitialized values. And its unexpected retrieval is a logical flaw, a coding slip, or our sloth.
 
 <details><summary><ins><b>Don't take my word but <code>C#</code> documentation:</b></ins></summary>
 &nbsp;
-   
+
 «**Exception typically reflects developer error**&thinsp;...»
 
 - **You** forgot to instantiate a reference type.
@@ -158,16 +158,20 @@ JavaScript has a native `undefined`. In other languages, a never-set value may t
 
 Bad approach: setting a specific object that will only mask `null` to make matters worse.
 
-## <a id="null-case" />Bottom lines
+## <a id="null-case" />Afterword
 
 Private anecdotes are the last shelter of narrators unless it's a full match and a good argument. This must be the case.
 
->  I can remember a contractor for a really big enterprise who was assigned a sporadic **NPE** (null pointer exception) in a tailored application. 
-After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of [Lotus Notes](../../../pencraft/README+/essays/README+/rec/LN-view.md) and returned to his daily need &ndash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
->
-> For the team's sake, a peer developer picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, he coincided the slices of Swiss cheese to reveal a malicious an<i>null</i>er. To be trivially fixed.
-> <div align="center"><b>MORAL</b>❔</div>
-> Imagining the multitude of such cases without a happy twist, <i>Sir Hoare</i> may surely write off a digit or two from the tech debt he shouldered.
+<table><tr></tr><tr><td><picture><img alt="&thinsp; NULL beer also exists" src="../../../_rsc/_img/photo/blog/NullBier/150x450px.png" /></picture></td><td>
+
+I can remember a contractor for a really big enterprise who was assigned a sporadic **NPE** (null pointer exception) in a [Lotus Notes](../../../pencraft/README+/essays/README+/rec/LN-view.md) application. 
+After sacrificing a couple of hours, he addressed this pesky _null_ to the dark forces of the platform and returned to his daily need &ndash; [N&thinsp;f&thinsp;S](https://en.wikipedia.org/wiki/Need_for_Speed)<sup><b>w</b></sup>.
+
+For the team's sake, a peer coder picked this ticket to dive into the hand-obfuscated code. After making the brain function on all cylinders, that coder coincided the slices of Swiss cheese to reveal a malicious an<i>null</i>er. To be trivially fixed.
+<div align="center"><b>MORAL</b>❔</div>
+Imagining the multitude of such cases without a happy twist, <i>Sir Hoare</i> may surely write off a digit or two from the tech debt he shouldered.
+   
+</td></tr></table>
 
 ### Appendices
 
