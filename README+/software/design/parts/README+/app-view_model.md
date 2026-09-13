@@ -1,7 +1,7 @@
-# Application &nbsp;&mdash;&nbsp; between View and Model
+<h1 align="center">Application Parts &nbsp;&mdash;&nbsp; between <i>View</i> and <i>Model</i></h1>
 
-Fine when the application is that straight that its [View](app-view.md) may present plain objects of its [Model](app-model.md) without mediators. 
-However, any elaborate application will ask for a middle layer to take the presentation logic.
+Fine when the application is so straightforward that its [View](app-view.md) may present plain objects of its [Model](app-model.md) without mediators. 
+However, any elaborate application will ask for a middle layer to handle the presentation logic.
 
 🚧 ... pending description ... 🚧
 
