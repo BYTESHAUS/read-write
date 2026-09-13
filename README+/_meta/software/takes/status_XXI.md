@@ -1,4 +1,4 @@
-# Software &thinsp;&ndash;&thinsp; Status XXI
+# Software in its middle ages
 
 ## Stagnation
 
