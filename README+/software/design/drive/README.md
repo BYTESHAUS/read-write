@@ -23,7 +23,7 @@ _______\
 
 ## Our gearbox has &nbsp; .&thinsp;.&thinsp;.&nbsp; <samp>R&thinsp;E&thinsp;V&thinsp;E&thinsp;R&thinsp;S&thinsp;E</samp>
 
-Consider any approach's counter "rotation," regardless of how twisted it looks first. For example, _Development-Driven Tests_ are nothing else than **test coverage** (e.g., for planning and automation).
+Consider any approach's counter "rotation," regardless of how twisted it looks at first. For example, _Development-Driven Tests_ are nothing more than **test coverage** (e.g., for planning and automation).
 
 <samp><b>REVERSE ENGINEERING</b></samp> is ... _Code-Driven-Design_, and _Design Driven Requirements_ can be percieved as Documentation.
 
@@ -35,7 +35,7 @@ For any particular application, some drives will drop out themselves (as UX for 
 
 For example, Development Driven/Crippled Design from the gross use of _Test Driven Development_.
 
-#  Domain drive
+#  Domainal drive
 
 ## ... for all
 
@@ -74,20 +74,26 @@ Many other systems are projections of rudimentary software possibilities before 
 
 # Test drive
 
-**T&thinsp;D&thinsp;D** is the oldest, still most talked over and practiced approach and earned its own corner, even the HALL❗, in the [**Tests area**](../../tests).
+**T&thinsp;D&thinsp;D** is the oldest, still most talked-over and practiced approach and earned its own corner, even the Palace, in the [**Tests area**](../../tests).
 
 ### To digest
 
 1) Test Driven **Development** and Test Driven **Design** are branching approaches.
-2) Tests better qualify not as drives but as tools for Driven Development and Design.
+2) Tests qualify better not as drives but as tools for Driven Development and Design.
 
 <h3 align="center"><ins>&thinsp;B&thinsp;O&thinsp;T&thinsp;T&thinsp;O&thinsp;M &nbsp; L&thinsp;I&thinsp;N&thinsp;E&thinsp;</ins></h3>
 
 **Particular development must be ingeniously multi-driven with one selected main wheel &thinsp;&ndash;&thinsp; DDD in most cases.**
 
-And there must be Ariadne's thread &thinsp;&ndash;&thinsp; explanation drive: how yuu and your code will explain design to another developer.
+And there must be Ariadne's thread &thinsp;&ndash;&thinsp; explanation drive: how you and your code will explain the design to another developer.
 
 <p align="center">___________</p>
+
+# Dusty gears
+
+## Safety first (from the end)
+
+🚧 TO WRITE ...
 
 # Appendix. Developer-friendly design
 
