@@ -1,4 +1,4 @@
-# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&thinsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture>&thinsp;DAMP <samp>NOT</samp> DRY &larr; <samp>comma pending</samp>
+# <picture><img alt="&nbsp;PROG TESTS &nbsp;&mdash;&thinsp;" src="../../../../_rsc/_img/logo/progtests/hor/bw-200px-rounded.png" /></picture>&thinsp;DAMP <samp>NOT</samp> DRY &larr; <samp>wandering comma</samp>
 
 <table><tr><td>
     
@@ -151,4 +151,4 @@ With all readability, the handicap is that the _test subjects_ are hidden in ext
 The alternative can be a condensed, terser syntax, like these ["coagulated" expressions](https://github.com/byteshaus/use-dev/blob/main/src/TuttiFrutti/FeatTest/README.md#assert-by-assign).
 
 ___________\
-🔚 🌙 2024-2026 .. <samp><b>Β</b>ytesHausMeister</samp>
+🔚 🌙 2024-2026.. <samp><b>Β</b>ytesHausMeister</samp>
