@@ -89,11 +89,13 @@ And there must be Ariadne's thread &thinsp;&ndash;&thinsp; explanation drive: ho
 
 <p align="center">___________</p>
 
-# Dusty gears
+# Gears in dust and web
 
 ## Safety first (from the end)
 
-🚧 TO WRITE ...
+Unless there're regulations (like cleaning the data) remains 
+
+🚧 TO CONTINUE ...
 
 # Appendix. Developer-friendly design
 
