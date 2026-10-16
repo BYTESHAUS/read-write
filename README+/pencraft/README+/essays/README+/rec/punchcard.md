@@ -10,7 +10,7 @@
       <picture><img width="333px" alt="&nbsp;Please do not bend" src="../../../../../_rsc/_img/signs/do_not_bend-vert_h200px.jpg" /></picture>
                   </td><td>
                         
-Long after their decline, punching technology and its carton carrier survived as coursework at my university. I caught the last year of this legacy &thinsp;&ndash;&thinsp; the remaining supply of cards became extinct.
+The punching technology and its carton carrier survived as coursework at my university long after their decline outside. I caught the last year of this legacy &thinsp;&ndash;&thinsp; the remaining supply of cards became extinct.
                         
 ## The Task
       
@@ -32,12 +32,12 @@ The moves the task took were hardly agile, even back in the day:
 &nbsp; <b>3️)</b> Submit this papyrus to the punching shop,<br />
 &nbsp; &nbsp; &nbsp; where good ladies were used to decypher student scribble.<sup><mark>&thinsp;🛠️&thinsp;<mark></sup><br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ... 🌙 _one day after_ ⛅ ...<br />
-&nbsp; <b>4️)</b>&nbsp;&thinsp;Fetch a deck of punched paperboard (~inch thick).<br />
+&nbsp; <b>4️)</b>&nbsp;&thinsp;Fetch a deck of punched paperboard (~an inch thick).<br />
 &nbsp; <b>5)</b> Bring it to the _computing center_<sup><mark>&thinsp;🏛️&thinsp;<mark></sup> where the mystery will occur.<br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ... 🌙 <i>one/two days after</i> ⛅ ...<br />
 &nbsp; <b>6)</b> Pick the medieval scroll in the "print" department.<br />
 &nbsp; <b>7)</b>  Search for a graph among collateral outputs.<br />
-&nbsp; &nbsp; &nbsp; &nbsp;  If fail, read errors, debug (mentally), and go to <b>(2)</b>.
+&nbsp; &nbsp; &nbsp; &nbsp;  In case of a failure, read errors, debug (mentally), and return to <b>(2)</b>.
 
 The motivation was so strong (as you might feel) that many succeeded from the first cast, but not me.
 
@@ -54,13 +54,13 @@ Between **(4)** and **(5)**, a fellow disciple intruded, shuffling my deck unnot
 __This mediocre story is also a chance to remind the reader of the outstanding traits of this medium__, &thinsp;&ndash;&thinsp; despite its fast decadence, predetermined by data density 
 (It couldn't evolve to double-sided and didn't to mini/micro).
 
-I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>. Just count:
+I venture to propose punch cards as a backup if computer illiteracy ages come<sup>📚</sup> or for extraterrestrial spam<sup>🚀</sup>.&nbsp; Just count:
 
 + The production is as easy as for papier-mâché. Neither rare minerals nor precious elements are involved.
 + The cards will be intact for millennia in harsh environments.\
 Any mechanical action, dirt, temperature, or humidity that can damage them will irreparably sweep other media.  And a low-end safe box will rescue them from direct fire and chemical agents.
 + Electromagnetic emission in the whole spectrum can't cause even a tiny data loss.\
-It's not about household magnets, short circuits, and solar flares. Punch cards will survive nuclear disasters and [gamma-ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)<sup><b>w</b></sup>.
+It's not about household magnets, short circuits, and solar flares &thinsp;&mdash;&thinsp; punch cards will survive nuclear disasters and [gamma-ray bursts](https://en.wikipedia.org/wiki/Gamma-ray_burst)<sup><b>w</b></sup>.
 + They have a look&feel of data storage, easy to read<sup>🪢</sup> manually or with DIY device.
 + Eco-friendly and highly utilizable. 
 Even if the data remains unclaimed, our heirs or other species may use the cards as our ancestors did: bookmarks, pads, or fans.
