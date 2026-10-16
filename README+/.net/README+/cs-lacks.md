@@ -1,8 +1,8 @@
 # `C#`.NET &thinsp;&larr;&thinsp; &Nscr;ice to have &thinsp;&rarr;&thinsp; Syntax, constructs and features
 
-> ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> is neither universal nor magic formula, and its team with the community doesn't possess unlimited resources.
+> ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> is neither universal nor a magic formula, and its team, along with the community, doesn't possess unlimited resources.
 >
-> ### However, .NET could offer extra features and foundations, which would only heave its charm.
+> ### However, .NET could offer extra features and foundations, which would only heave this language's charm.
 
 ## More common interfaces
 
@@ -13,7 +13,7 @@ Other promising members (like `IsReadOnly`) are defined within specific interfac
 
 ## Constraints
 
-Constraints could allow much more freedom. **Firstmost**, `new()` shall not limit type to a parameterless constructor of objects without `required` fields.
+Constraints could allow much more freedom. **Firstmost**, `new()` shall not limit the _type_ to a parameterless constructor of objects without `required` fields.
 
 <details>
     <summary><ins>&nbsp;Other syntax proposals&nbsp;</ins></summary>
@@ -55,7 +55,7 @@ method<N1, N2>(N1 left, N2 right) where N1, N2 : integer
 
 </details>
 
-\__________\
+__________\
 ☝️ Numerours high-rated queries on Q&A sites formulate demands for _constraints_ "grammar" further, better, and wider.
 
 # Syntax
@@ -192,4 +192,5 @@ The intuitive supply of syntax in chained calls (for code completion) is one of 
 |&thinsp;- [Parts and frameworks](parts/cs-lacks-parts.md)\
 |&thinsp;- [WPF lacks](wpf/README+/wpf-drawbacks.md)
 
+___________\
 🔚 🌓 2021-2026..
