@@ -24,14 +24,13 @@ ___________\
 
 ## Indulgences
 
-TEMPORARY BOOKMARKS
-
-🔷 First and foremost, descriptive comments and blocks of them in **demo tests** &thinsp;&ndash;&thinsp; to serve as guides for devs and presentations for users. 
+❗ First and foremost, descriptive comments and blocks of them in **demo tests** &thinsp;&ndash;&thinsp; to serve as guides for devs and presentations for users. 
 
 Other valid points are:
- 
+
++ short-term bookmarks,
 + stamps on auto-generated stuff,
-+ bizarre workarounds (especially for third-party bugs),
++ outlandish workarounds (especially for third-party bugs),
 + courtesy of Q&A sites,
 + worthy tricks that harm readability,
 + code snippets in documentation,
@@ -46,7 +45,7 @@ Comments may be anchored _theses_ for documentation, if you can effectively supp
 ##  Breaking exclusion❗ _Nota bene_
 
 Some members may require clarification, e.g., a _natural number_  constraint **may** include zero or not. Then a name may specify it (`IsNaturalNonzero` / `IsNaturalOrZero`). 
-This can't be a solution for cases such as `RemovePunctiation()`: what symbols exactly shall include `«»»` (guillemets), is `_` punctuation, ...?
+This can't be a solution for cases such as `RemovePunctiation()`: what symbols exactly shall be included, `«»»` (guillemets), is `_` punctuation, ...?
 
 Tests shall fragment distinctions but are not comfortable for hints and unavailable through API, services, or, generally speaking, interfaces.
 
@@ -56,7 +55,7 @@ Tests shall fragment distinctions but are not comfortable for hints and unavaila
 
 <picture><img alt="&nbsp;Tip for MiscSymbols listing these symbols" src="../../../_rsc/_img/snap/screen/VisualStudio/Tip-MiscSymbols.jpg" /></picture>
 
-## Appendix. Commenting the code 🧹out
+## Appendix 🧹. Commenting the code out
 
 Switching off code lines is a common and legitimate manipulation, but committing one requires a comment at least stating that it was intentional. 
 It might be just three slashes `///` or a team may decide on acronyms like:
