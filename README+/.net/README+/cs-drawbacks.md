@@ -26,12 +26,12 @@ Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# read
 
 \_______________
 
-&nbsp; &nbsp; &nbsp; &nbsp; <sup><mark>&thinsp;&thinsp;🔊</mark></sup> < samp> Concurrent _TypeScript_ and _Kotlin_ made semicolons optional and recommended only for inline splitting of statements.</samp>\
+&nbsp; &nbsp; &nbsp; &nbsp; <sup><mark>&thinsp;&thinsp;🔊</mark></sup> <samp>Concurrent _TypeScript_ and _Kotlin_ made semicolons optional and recommended only for inline splitting of statements.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>⭕</sup> <samp>These native features can't be changed.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>🙋</sup> <samp>Though you can avoid them, hopefully the .NET team doesn't plan to make a Perl out of their language.</samp>\
 &nbsp; &nbsp; &nbsp; &nbsp; <sup>❓</sup> <samp>Isn't `null` a value too (compare to the _undefined_ notion)?</samp>
 
-### Fishy paths
+### Fishy ways
 
 - Some shortcuts obscure the original goodies for insignificant size gains.
 
@@ -148,15 +148,15 @@ Continued in [C# lacks - Dates](parts/cs-lacks-parts.md#Dates).
 
 The **`I...`**_ prefix is not that essential for distinguishing interfaces (especially with the cawling merge of abstract classes and interfaces). _**I**_ may significantly harm the wording.
 
-
-
-### One-liners
+### "One-liners"
 
 - LINQ [`Reverse()`](https://learn.microsoft.com/de-de/dotnet/api/system.linq.enumerable.reverse) is actually *flip*.
 - Type modifiers _in_/_out_ for contra-/covariance collide with the same name parameter modifiers (_more_/_less_ can be better)
 
 <h2 align="center">Bottom line</h2>
 
-The list is far from being complete, but maybe one day (more correctly to say a year) the team will strike a higher note &thinsp;&ndash;&thinsp; _D_-flat or even&nbsp;`D#`. Or it will be `TypeScript`.
+The list is far from being complete and barely solvable, but maybe one day (more correctly to say a year) another team[^1] will strike a higher note &thinsp;&ndash;&thinsp; _**D**_-flat or even&nbsp;`D#`.
+
+[^1]: This team had chosen version increments. 
 
 <div align="center">🔚 ... 🌘 2023-2026.., to be continued ...</div>
