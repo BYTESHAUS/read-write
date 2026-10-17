@@ -9,8 +9,9 @@
 <sub>[Compiler too]</sub>
 
 > **Write what you know.**\
-― _Mark Twain (1835-1910)_\
-**Write what you want.** _Internet experts_
+― _Mark Twain (1835-1910)_
+> 
+> <sub>(**Write what you want.** ― _Internet experts_)</sub>
 
 > **There's no such freak who wouldn't find a mate and there's**\
 **no such nonsense that won't find a proper reader.**\
