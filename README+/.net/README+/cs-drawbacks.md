@@ -1,12 +1,11 @@
 # `C#` drawbacks <sup>_“Minority report”_</sup>
 
-> ### [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are noticeable downsides&thinsp;...
+> ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are noticeable downsides&thinsp;...
 
 To begin with ...
-
 - **single inheritance**,
 - **rigid interfaces** (e.g., no ad-hoc definition),
-- **bounded _generics_** and **their _constraints_**.
+- **bounded _generics_** and **their _constraints_**,
 
 ... and continue with ... 
 
@@ -14,7 +13,7 @@ To begin with ...
 
 - Rudimentary **`;`** ending a line brings nothing but visual noise.<sup><mark>&thinsp;&thinsp;🔊</mark></sup>
 - Constructor names imply extra refactoring on class/struct renaming  &ndash; better if it were "anonymous" `ctor()` or `this()`.\
-As the `base()` call in the same constructors.
+As the `base()` call in the same constructors is.
 - Default when missing access modifier<sup>⭕</sup> shall be better reserved for "ultimate" `private` or  `public` than for a less explicit and less-used `internal`
 - The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but shall prevent reassignment, as `init` and `readonly` do.
 - No constant option for default values in signatures. `Do(int val, string remark=string.Empty)` won't compile.
@@ -131,7 +130,7 @@ Syntax shortcuts here could make the code both shorter and more readable.
 
 ### DateTime
 
-`DateTime` and refined `DateOnly` (non-casting from the first) are error-prone, awkward, and limited. 
+`DateTime` and refined `DateOnly` (non-casting from the first) are error-prone for input, awkward, and limited. 
 Ironically, you may specify a date close to the year 9999 (when only regular astronomical events can be predicted that precisely) but not a recorded one before [Common&nbsp;Era](https://en.wikipedia.org/wiki/Common_Era)<sup><b>w</b></sup>.
 
 Ambiguous order and `int` input of year/month/day allows nonsense values, which only the running code may or may not detect (_viz_. a bad bug).<sup>🐛</sup>.
