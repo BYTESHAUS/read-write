@@ -1,4 +1,4 @@
-# &Pscr;encraft ↝ <samp><i><mark>T</mark></i></samp>&thinsp;<sup><mark>R</mark></sup>&thinsp;<sub><mark>I</mark></sub>&thinsp;<sup><mark>E</mark></sup>&thinsp;<samp><mark>S</mark></samp><sub>✒️</sub>
+<h1 align="center">&Pscr;encraft ↝ <samp><i><mark>T</mark></i></samp>&thinsp;<sup><mark>R</mark></sup>&thinsp;<sub><mark>I</mark></sub>&thinsp;<sup><mark>E</mark></sup>&thinsp;<samp><mark>S</mark></samp><sub>✒️</sub></h1>
 
 <table>
   <tr align="center" valign="top">
