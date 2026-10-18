@@ -1,6 +1,6 @@
-# `C#` drawbacks <sup>_“Minority report”_</sup>
+# [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) drawbacks <sup>&#11011;_“Minority report”_</sup>
 
-> ### <sub>[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</sub> isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are noticeable downsides&thinsp;...
+> ### `C#` isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are noticeable downsides&thinsp;...
 
 To begin with ...
 - **single inheritance**,
@@ -21,18 +21,18 @@ As the `base()` call in the same constructors is.
 `string a = null; string? b = null;`
 - a perplexing extension of nullable as `((int?)1).Value` and `((bool?)true).HasValue`<sup>❓</sup>.
 
-Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup> While shortcuts as `[]` for empty collections are rational and eye-pleasing.
+Gradual releases of syntax shortcuts, such as `?` or `!`, silently erode C# readability.<sup>🙋</sup> Opposite to contractions as `[]` for empty collections &ndash; rational and eye-pleasing.
 
-\_______________
+_______________
 
-&nbsp; &nbsp; &nbsp; &nbsp; <sup><mark>&thinsp;&thinsp;🔊</mark></sup> <samp>Concurrent _TypeScript_ and _Kotlin_ made semicolons optional and recommended only for inline splitting of statements.</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>⭕</sup> <samp>These native features can't be changed.</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🙋</sup> <samp>Though you can avoid them, hopefully the .NET team doesn't plan to make a Perl out of their language.</samp>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>❓</sup> <samp>Isn't `null` a value too (compare to the _undefined_ notion)?</samp>
+&nbsp; &nbsp; &nbsp; <sup><mark>&thinsp;&thinsp;🔊</mark></sup> <samp>Concurrent _TypeScript_ and _Kotlin_ made semicolons optional and recommended only for inline splitting of statements.</samp>\
+&nbsp; &nbsp; &nbsp; <sup>⭕</sup> <samp>These native features can't be changed.</samp>\
+&nbsp; &nbsp; &nbsp; <sup>🙋</sup> <samp>Though you can avoid them, hopefully the .NET team doesn't plan to make a Perl out of their language.</samp>\
+&nbsp; &nbsp; &nbsp; <sup>❓</sup> <samp>Isn't `null` a value too<b>?</b> (compare to the _undefined_ notion)</samp>
 
 ### Fishy ways
 
-- Some shortcuts obscure the original goodies for insignificant size gains.
+- Some shortcuts obscure the original goodies for insignificant reductions.
 
 For example, [`EnsureSuccessStatusCode`](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpresponsemessage.ensuresuccessstatuscode) looks better in its expansion:
 
