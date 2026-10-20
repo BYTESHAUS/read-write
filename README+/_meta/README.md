@@ -5,3 +5,11 @@ THEORETISING
 NOTES
 
 ArcDeco
+
+## Badly charted areas
+
+E2E TDD
+
+Multitasking as system
+
+Impedances ?
