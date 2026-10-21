@@ -6,7 +6,10 @@ NOTES
 
 ArcDeco
 
-## Badly charted areas
+## Poorly charted areas
+
+
+DRAWING of CHART pending !
 
 E2E TDD
 
