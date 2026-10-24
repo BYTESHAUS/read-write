@@ -1,6 +1,6 @@
 <h4 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h4>
 
-<h1><code>Code</code> organization</h1>
+# `Code` layout 🚧 <samp>(under construction)</samp>
 
 <table><tr valign="top"><td width="50%"><picture><img alt="&nbsp; Three Elephants of code org" src="../../../_rsc/_img/illus/code-org_3elephants.jpg" /></picture></td><td>
   
@@ -12,6 +12,12 @@
 
 **one wading through the thorns of pathetic epithets, labyrinths (or flats) of entities, and abatises of documents will curse complexity, learning curve, technologies, and order of planets, but at last the naming.**
 </td></tr></table>
+
+## 🐘 Partitioning
+
+... more than one dimension (example with abstraction layers and tech/skills)
+
+🚧🚧🚧
 
 ## 🐘 Categorization
 
