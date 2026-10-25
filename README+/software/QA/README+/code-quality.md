@@ -4,7 +4,7 @@
 
 ### Code is the <mark>cement</mark> of software. Its quality is hard for spectators to notice and isn't critical for booths.
 
-### Nevertheless, it ought to be of the superior grade for sky-scraping, heavy-duty, or complex constructions.
+### Nevertheless, it ought to be of a superior grade for sky-scraping, heavy-duty, or complex constructions.
 
 > ### As in buildings, poor code quality leads to menacing cracks, which no design clamps would hold for long.
 
@@ -15,12 +15,12 @@ MERMAID MERMAID <ER<AID
 <div dir="rtl">,<b>Junior</b> developers write poor code<br/>
 ,those who <b>advance</b> &ndash; good code<br/>
 ,<b>experts</b> avoid to write code<br/>
-<ins>,<b>gurus</b> only delete code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </ins></div>
+<ins>,<b>gurus</b> only delete code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</ins></div>
 <p dir="rtl">(.and the &nbsp;<b><i><samp>A&thinsp;N&thinsp;O&thinsp;N&thinsp;Y&thinsp;M&thinsp;O&thinsp;U&thinsp;S</samp></i></b>&nbsp; nailed it)</p>
 
 <h1 align="center"><sub><code>Code&nbsp;</code><mark><code>quality</code></mark></sub><br />&#8659;<br />HIGH Q<samp>UALITY</samp> C<samp>ODE</samp></h3>
 
-### &nbsp; 👓reviewed&thinsp;_&_&thinsp;tested🧪,<br />&nbsp; &nbsp;  &nbsp; <sub>🪳</sub>bug-unfriendly<sub>⛔</sub>, <br /> &nbsp; &nbsp; &nbsp; &nbsp; 🐘rests on well-tempered [**partitioning and names**](../../design/code_org/README.md), <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 🥼follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...), <br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; and also: 
+### &nbsp; 👓reviewed&thinsp;_&_&thinsp;tested🧪,<br />&nbsp; &nbsp;  &nbsp; <sub>🪳</sub>bug-unfriendly<sub>⛔</sub>, <br /> &nbsp; &nbsp; &nbsp; &nbsp; 🐘rests on well-tempered [**partitioning and names**](../../design/code-layout/README.md), <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 🥼follows acknowledged guidelines (ꜱᴏʟɪᴅ, ᴅʀʏ, ᴋɪꜱꜱ, ...), <br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; and also: 
 
 + [x] **reads** in both directions<sup>↔️</sup>,
 + [x] accumulates and **teaches** techniques and gimmicks,
@@ -33,7 +33,7 @@ MERMAID MERMAID <ER<AID
 
 ### Does quality clean code?
 
-Tentative yes. For example, bug-adverse boilerplate suggested here decreases clarity.
+Tentatively, yes. For example, bug-adverse boilerplate suggested here decreases clarity.
 
 CAN BEAUTIFY, CAN SPOIL
 
@@ -49,7 +49,7 @@ Bug-**free** code can nevertheless be bug-**prone**. Coding style must be bug-**
 
 The highest merit is that even a breaking change won't surprise authors and users with unexpected side effects.
 
-Code optimization (deleting redundancies, merging common logic and data, shortening syntax) that retains readability<sup>📖</sup> is prizewinning:\
+Code optimization (deleting redundancies, merging common logic and data, shortening syntax) that retains readability<sup>📖</sup> is prize-winning :\
 **less code** yields **less soil for bugs**.
 
 \___________
@@ -61,7 +61,7 @@ Code optimization (deleting redundancies, merging common logic and data, shorten
 ## <samp>Re:</samp> Quality assurance 🧪
 
 > [!NOTE]
-> Test coverage may (and shall) share realization with or even origin from [Test Driven Development](../../tests/), but is **primarily** intended to examine software mechanically 
+> Test coverage may (and shall) share realization with or even originate from [Test Driven Development](../../tests/), but is **primarily** intended to examine software mechanically 
 (no matter whether implemented before the subject or _post factum_).
 > 
 
@@ -95,7 +95,7 @@ Quality code does the work of <ins>introducing</ins> design rather than prompt d
 2️⃣ Benefits of quality code lag for all beneficiaries<sup>👨‍👩‍👧‍👦</sup>, as exponentially growing issues from bad software parts.\
 The point at which trivial changes cost extremely much, security breaches manifest themselves, or controllable chaos goes out of control may be crucial, but is often postponed to future releases<sup>🪂</sup> or sometimes product lifecycles<sup>🏠</sup>.
 
-3️⃣ Intentions for quality are commendable, but if efforts aren't unanimous and **complete**, the resulting code will be the same deficient but incur a massive overhead. 
+3️⃣ Intentions for quality are commendable, but if efforts aren't unanimous and **complete**, the resulting code will be the same deficient, but incur a massive overhead. 
 
 Top up with the fact that not every developer self-reflects on "_submit and forget_" practice, and not every project lead/manager will draw a golden section between profanity and academism. 
 
@@ -134,14 +134,14 @@ ___________\
   <a href="../../../_rsc/_img/photo/blog/mount/DevVsMonolyth.jpg"><img alt="&nbsp; Stone monolyth" src="../../../_rsc/_img/photo/nat/DerAlteSchwede.jpg" title="Waterfall monolyth again..." /></a>
 </td></tr></table>
 
-Also, prominent individuals may develop great parts/apps alone and are so keen at keeping all details and the whole picture in mind that they don't need to and like to lose time with code organization. 
+Also, prominent individuals may develop great parts/apps alone and are so keen on keeping all details and the whole picture in mind that they don't need to, and like to lose time with code organization. 
 
-However, these cases are exceptional, not about enterprise development, and mostly past.
+However, these cases are exceptional, not about enterprise development, and mostly in the past.
 
 
 BENTO MENU
 
-If it works why does it matter?
+If it works, why does it matter?
 
 <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;
 
