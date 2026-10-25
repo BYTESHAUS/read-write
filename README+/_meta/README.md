@@ -19,4 +19,6 @@ true BUILDERs
 
 advanced Un/Redo
 
++ non-tree graph (tags) instead of hierarchy => file sys in IDEs is obsolete
+
 Impedances ?
