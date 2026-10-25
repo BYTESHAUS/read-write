@@ -69,7 +69,7 @@ It might be just three slashes `///` or a team may decide on acronyms like:
 
 ### Related themes
 
-|&thinsp;- [Code layout (**naming**)](../../design/code_layout/README.md)
+|&thinsp;- [Code layout (**naming**)](../../design/code-layout/README.md)
 
 ___________\
  🔚 🌘 2023-2026..
