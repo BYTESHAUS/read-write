@@ -3,13 +3,13 @@
 
 <p align="right"><b>&ndash;</b>&nbsp;What is the difference between<br />a <i>markdown</i> newbie and an expert?<br /><b>&ndash;</b>&nbsp;Half an hour.</p>
 
-<sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use with plenty of guides and cheat sheets for advanced techniques.
+<sub>[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)</sub> is lightweight to learn and use, with plenty of guides and cheat sheets for advanced techniques.
 
 Despite building it in and assigning it the primary role in documentation, <sub>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)</sub> itself doesn't render its site in markdown or a flavor. This markup and its dialects were never planned to provide rich content.
 
 <table align="center"><tr></tr><tr><td>
     
-<h4 align="center"><samp>NEVERTHELESS</samp> if you need <mark>markdown</mark> beyond a moderately formatted text,<br />here is my ounce of teaching illustrated by this repository.</h4>
+<h4 align="center"><samp>NEVERTHELESS</samp> if you need <mark>markdown</mark> beyond moderately formatted text,<br />here is my ounce of teaching illustrated by this repository.</h4>
 
 </td></tr></table>
 
@@ -19,10 +19,10 @@ Despite building it in and assigning it the primary role in documentation, <sub>
     
 ## Editors and Tools
 
-A simple markdown is readable without <span title="&nbsp; What You See Is What You Get"><ins>WYSIWYG</ins></span>, and no editor will support it. 
+Simple Markdown is readable without <span title="&nbsp; What You See Is What You Get"><ins>WYSIWYG</ins></span>, and no editor will support it. 
 No IDE (such as Visual Studio) guarantees a "native" browser experience. Thus, the editor of choice is www.github.com, toggling _Edit_ and _Preview_.
 
-* There's no excuse to avoid grammar check browser plugins.
+* There's no excuse to avoid grammar-checking browser plugins.
 * View releases on browsers with different engines.
 * Always preview the mobile presentation to ensure it is passable and navigable (but don't expect a pretty layout on small screens).
 
@@ -131,7 +131,7 @@ Don't leave clickable images unless they are links or a detailed (bigger) versio
 
 ### Last but not least &thinsp;&ndash;&thinsp; hiding things
 
-💡 You may like to **preserve** some contents (e.g., draft or preliminary).\
+💡 You may like to **preserve** some content (e.g., draft or preliminary).\
 ⚓ The rich format proposed here will need **anchors** for editing navigation.\
 💬 **Comments**.
 
@@ -149,13 +149,13 @@ Don't leave clickable images unless they are links or a detailed (bigger) versio
 <!--                                                         W R A P - U P                       --!>
 <table><tr valign="center"><td><picture><img width="200px" alt="&nbsp;WRAP UP" src="../../../_rsc/_img/signs/WrapUp/counter-rotate/80x144_fold.jpg" /></picture></td><td>
 
-### 🎉You made it to a markdown lord🎈and now&nbsp;...
+### 🎉You made it to a markdown lord and now&nbsp;...
 
 You may consider Git-supported dialects as [flavored markdown](https://github.github.com/gfm/)<sup>:octocat:</sup> and converters as [PanDoc](https://pandoc.org)<sup>🔗</sup>.\
 And/or GitHub Pages (GitHub.io) that you can add to a Git profile.
 
 There are loads of content management and site creation tools for big projects that are more suitable and professional than markdown-on-Git. 
-There are rich environments for collaboration on tech/sci documents, like [Jupyter Notebook](https://jupyter.org)<sup>🔗</sup>.
+There are also richer environments for collaboration on tech/sci documents, like [Jupyter Notebook](https://jupyter.org)<sup>🔗</sup>.
 
 </td></tr></table>
 
