@@ -7,7 +7,7 @@
      <!-- -->
      <!--                               NAMES (Code org), DRIVES, SAMPLES          --!>
      <!-- -->
-     &nbsp; &nbsp; &nbsp; <a href="../README+/software/design/code_org/README.md">Names</a>&thinsp;⚙️&thinsp;
+     &nbsp; &nbsp; &nbsp; <a href="../README+/software/design/code-layout/README.md">Names</a>&thinsp;⚙️&thinsp;
     <a href="../README+/software/design/drive//README.md">Drives</a>&thinsp;➰&thinsp;<a href="../README+/software/design/samples/README.md">Samples</a><br/>
      <!-- -->
      <!--                               QA and TESTS          --!>
