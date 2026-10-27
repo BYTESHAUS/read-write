@@ -21,4 +21,12 @@ advanced Un/Redo
 
 + non-tree graph (tags) instead of hierarchy => file sys in IDEs is obsolete
 
-Impedances ?
+### Categorization
+
+Incl. IDEs browsers
+
++ Tags to enrich tree hierarchy
++ Order not alphabetically (manual and indent descendants)
++ Loosen cross-dependancies
+
+### ? Impedances ?
