@@ -8,6 +8,7 @@ ArcDeco
 
 ## Poorly charted areas
 
+RE-USE in the very broad sense (logically connected with TDD)
 
 DRAWING of CHART pending !
 
