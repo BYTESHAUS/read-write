@@ -8,23 +8,24 @@ ArcDeco
 
 ## Poorly charted areas
 
-RE-USE in the very broad sense (logically connected with TDD)
+DRAWING of CHART pending ! // all themes are connected here
 
-DRAWING of CHART pending !
+### RE-USE in the very broad sense (logically connected with TDD)
 
-E2E TDD
+MOST UNSUSTAINABLE INDUSTRY
 
-Multitasking as system
+### E2E TDD
 
-true BUILDERs
+### Multitasking as system
 
-advanced Un/Redo
+### true BUILDERs
 
-+ non-tree graph (tags) instead of hierarchy => file sys in IDEs is obsolete
+### advanced Un/Redo
+
 
 ### Categorization
 
-Incl. IDEs browsers
++ non-tree graph (tags) instead of hierarchy => file sys in IDEs is obsolete
 
 + Tags to enrich tree hierarchy
 + Order not alphabetically (manual and indent descendants)
