@@ -9,7 +9,15 @@ To begin with ...
 
 ... and continue with ... 
 
-## Syntax
+<h2 align="center">Syntax</h2>
+
+### 🔎Readability and logic
+
+### 🗜️Volume
+
+Unrealized extension methods `string.IsNullOrWhiteSpace()` => [⭐ISie⭐](https://github.com/BYTESHAUS/use-dev/blob/main/README+/parts/extensions/ISie/README.md)
+
+### 🐠 Fishy ways
 
 - Rudimentary **`;`** ending a line brings nothing but visual noise.<sup><mark>&thinsp;&thinsp;🔊</mark></sup>
 - Constructor names imply extra refactoring on class/struct renaming  &ndash; better if it were "anonymous" `ctor()` or `this()`.\
