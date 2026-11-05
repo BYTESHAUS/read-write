@@ -129,12 +129,15 @@ Developers should better declare just a *numeric* type and distinguish only the 
 
 C#11 introduced [INumber](https://learn.microsoft.com/en-us/dotnet/api/system.numerics.inumber-1)<sup>🪟</sup>, which genericizes numbers but in a bulky and restricted fashion.<sup>🙋</sup>
 
-### String
+### `String`
 
 Laconic `==` implies _ordinal_ _case-sensitive_ comparison while `String.Compare()` is bulky and turbid.
 `IndexOf` and other methods with numerous overloads invoke comparison, for which Microsoft advises explicit `Comparison` options.
 
+IN GENERAL OPS ARE A MESS (also due to the 0-based index). 
 Syntax shortcuts here could make the code both shorter and more readable.
+
+LACK OF HIGHER-LEVEL REGEX (beaten keyboard meme)
 
 ### DateTime
 
