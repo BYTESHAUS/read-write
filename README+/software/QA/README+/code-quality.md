@@ -84,7 +84,7 @@ Even if a team comes close to them, the code won't be a book of design revelatio
 
 **C)** Coding isn't a self-contained activity but an ingredient of software, along with design, tests, and documentation. Where quality is a motive, derivative, and bonus.
 
-Quality code does the work of <ins>introducing</ins> design rather than prompt deciphering and patching.
+Quality code does the work of <ins>introducing</ins> design rather than prompting deciphering and patching.
 
 ## Moralité
 
@@ -115,7 +115,7 @@ Apart from environments where seeds of good code won't bloom<sup>:wilted_flower:
 
 Besides "classical" over-creativity and procrastination, the trivial reasons could be:
 
-- gross of formal processes at the expense of design and communication,
+- gross formality at the expense of design and communication,
 - "egocentrism": low feedback (code review, pair programming, coaching) and reluctance to learn (especially from critique),
 - canceled or postponed iterations&thinsp;/&thinsp;refactoring&thinsp;/&thinsp;cleaning,
 - hesitation in using and contributing to shared code (from team/enterprise foundations up to open source)
@@ -142,6 +142,10 @@ However, these cases are exceptional, not about enterprise development, and most
 BENTO MENU
 
 If it works, why does it matter?
+
+## CHAPTER. TRAITS of BAD DECISIONS
+
+Variable litter (still in scope but not required there).
 
 <sub>[![Arc Deco.](../../../_rsc/_img/ArcDeco/ArcDeco-bar-14px_rounded.png)](../../../software/ArcDeco/README.md)</sub>&thinsp;
 
