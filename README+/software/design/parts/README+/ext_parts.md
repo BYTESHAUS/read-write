@@ -1,4 +1,4 @@
-# <ins>Your</ins> Development &nbsp;&larr;&nbsp; but <ins>External</ins> Parts
+# <ins>Your</ins> Development &nbsp;&larr;&nbsp; but <ins>Their</ins> Parts
 
 What are the cornerstones of a big project &thinsp;&ndash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither. \
 **The fundamentals already exist, and they are vetted concepts/components to adopt.**
@@ -7,13 +7,13 @@ What are the cornerstones of a big project &thinsp;&ndash;&thinsp; technologies,
 
 Full-fledged third-party frameworks, libraries, and services allow developers to focus on application business and UX rather than tame technologies, type and maintain tons of boilerplate code; test, find, and fix extra bugs.<sup>🙋</sup>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>I like their pragmatic and eloquent motto «_We are your extended team_» (DevExpress).</samp>
+&nbsp; &nbsp; &nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Wouldn't you like their pragmatic and eloquent motto «_We are your extended team_» (DevExpress).</samp>
 
 Such external parts are often a click away from evaluation and range:
 
 * **from** solo algorithm **to** browser engine (the latter is surprisingly easier to borrow),
 * **from** built-in source code **to** remote black-box service,
-* **from** lib calls **to** injecting into frameworks,
+* **from** library calls **to** injecting into frameworks,
 * **from** open source or/and free **to** commercial and obfuscated,
 
 Even great enterprises are reluctant to create the parts from the ground up and reinvent the wheel (unless it's rounder than others or "security first" rules).
@@ -47,18 +47,19 @@ Components for testing are so organic to applications that are associated/integr
 <p align="right">Free software is software that respects your freedom <br />and the social solidarity of your community. <br />So it's free as in freedom.
 <br /><a href="../../../../pencraft/README+/quotes/README+/contributors/README.md#Richard-Stallman">Richard Stallman</a></p>
 
-Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has filled the JSON blank in C# for years.
+Some non-commercial projects launched by individuals or groups have grown to industry standards and been adopted in mainstream languages. Recall [Newton.json](https://www.newtonsoft.com/json)<sup>🔗</sup> that has covered the JSON vacancy in **`C#`** for years. _JUnit_ and _NUnit_ are still native components of enterprise solutions.
  
-> ### Many licenses allow commercial (and not) use, but when applying such 3rd-party assets, consider whether there's a community (maybe only you) able to curate and maintain the assets throughout the lifecycles of dependent projects. 
-Thus, the readable source code with transparent design concepts is above everything else: releases, active contributors, extra features, and popularity.
+> ### Many licenses allow commercial (and not) use, but when applying such 3rd-party assets, consider whether there's a community (maybe only you) able to curate and maintain the assets throughout the lifecycles of dependent projects.
 
-Also, freeware often means open-source, and here, not all are ready to give out the best ideas and realizations.
+Thus, readable source code with transparent design concepts is above everything else: releases, active contributors, extra features, and popularity.
+
+Also, freeware often means open-source, and here, not all are ready to post the best ideas and implementations. Particularly in the era when LLMs can grab, shuffle, and strip the content of authorship.
 
 ### Commercial and proprietary
 
 All-around pro solutions aren't free, but annual dev licenses below $1K will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable, motivated community.&nbsp;<sup>:raising_hand:</sup>
 
-&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Compare to the exciting accomplished, but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks ... last updated 10 years ago.</samp>
+&nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Compare to the exciting, accomplished, but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks&thinsp;&hellip;&thinsp;last updated 10 years ago.</samp>
 
 ___________\
 🔚 <samp>..2024-2026.. <b>B</b>yteshausmeister</samp>
