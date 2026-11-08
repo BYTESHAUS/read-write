@@ -1,7 +1,10 @@
-# <ins>Your</ins> Development &nbsp;&larr;&nbsp; but <ins>Their</ins> Parts
+<h1 align="center">External Parts:<br /><ins>Your</ins> Development &nbsp;&larr;&nbsp; but <ins>Their</ins> Work</h1>
 
-What are the cornerstones of a big project &thinsp;&ndash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither. \
-**The fundamentals already exist, and they are vetted concepts/components to adopt.**
+<div align="right"><samp>«If I have seen further than others,<br />it is by standing on the shoulders of giants.»</samp><br /><i>Isaac Newton</i></div>
+
+> ### What are the cornerstones of a big project &thinsp;&ndash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither.
+
+### The fundamentals already exist, and they are vetted concepts/components to adopt.
 
 > **This follows the universal paradigm: learn first from others.**
 
@@ -28,7 +31,7 @@ The same applies to text editors.
 
 Downright a must, and an acute demand met by more than experienced providers of suites, frameworks, and controls for Rapid Application Development: Telerik, DevExpress, Google, and Infragistics &ndash; to name a few.
 
-Developers get the best out-of-the-box: state-of-the-art UI, professional look and feel, binding logical classes to place onto Model/ViewModel/Controller (with _table_ as the finest demonstrator).
+Developers get the best out-of-the-box: state-of-the-art UI, professional look and feel, binding logical classes to place onto `Model/ViewModel/Controller` (with _table_ as the finest demonstrator).
 
 ## Backend
 
@@ -57,9 +60,12 @@ Also, freeware often means open-source, and here, not all are ready to post the 
 
 ### Commercial and proprietary
 
-All-around pro solutions aren't free, but annual dev licenses below $1K will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable, motivated community.&nbsp;<sup>:raising_hand:</sup>
+All-around pro solutions aren't free, but **annual** dev licenses, costing less than a developer week, will quickly pay off even for a humble undertaking. Let alone live support and membership in a durable, motivated community.&nbsp;<sup>🙋</sup>
 
 &nbsp; &nbsp; <sup>:raising_hand:</sup> <samp>Compare to the exciting, accomplished, but then abandoned [Iron Python](https://ironpython.net/)<sup>🔗</sup> or prominent test mocks&thinsp;&hellip;&thinsp;last updated 10 years ago.</samp>
+
+_______________________________ **bottom line** ___________________________________
+
 
 ___________\
 🔚 <samp>..2024-2026.. <b>B</b>yteshausmeister</samp>
