@@ -12,7 +12,7 @@
 The grains of truth in this wisdom:
 
 * **No other knowledge erodes so quickly** as the IT tech stack &nbsp;&mdash;&nbsp; languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the pace of the year.\
-(<samp>**For example**, JavaScript/HTML, which folks learned in 2000, remains only as kernel syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and transformed into single-page application frameworks, which now govern the web dev.</samp>)
+(<samp>**For example**, JavaScript/HTML, which folks learned in 2000, remains only as kernel syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and transformed into single-page application frameworks, which now govern web dev.</samp>)
 * In the orthogonal (to time) dimension, a developer can't stick to a favorite syntax and must be fluent in a wide techno spectrum.
 
 **Escape?**
@@ -60,7 +60,7 @@ As the extraordinary [**John von&nbsp;Neumann**](../quotes/README+/contributors/
 
 <picture><img alt="Here is X. Calm down Pythagoras" src="../../../_rsc/_img/memes/PythagoreanTheorem_findX.jpg" /></picture><br/><br/>
 
-However, this answer is justified because of changed requirements to programmers, as discussed a bit in [quotes](../quotes/README+/aside/sour_quotes.md#math)<sup>💬</sup>.
+However, this answer is justified because of changed requirements for programmers, as discussed a bit in [quotes](../quotes/README+/aside/sour_quotes.md#math)<sup>💬</sup>.
 
 \___________</details>
 
@@ -87,7 +87,7 @@ Source: [Simplicissimus](http://www.simplicissimus.info/uploads/tx_lombkswjourna
 <picture><img alt="&nbsp; Movie poster: IT Conquered the World, 1956. Tagline: EVERT NAN ITS PRISONER ... EVERT WOMAN ITS SLAVE!" src="../../../_rsc/_img/snap/movies/1956.IT_conquered_the_World.jpg" 
      title="Sci-Fi, Horror,&#010;&#013;Sunset Productions (III), 1956,&#010;&#013;Director: Roger Corman" /></picture>
 
-**Another striking prediction** (note the uncompromising _past tense_) from the year when **IT** were embryonic but on the eve of their boom. The horrific to horrible backend was also the hit.
+**Another striking prediction** (note the uncompromising _past tense_) from the year when **IT** were embryonic but on the eve of their boom. The horrific-to-horrible backend was also the hit.
 
 </details>
 
