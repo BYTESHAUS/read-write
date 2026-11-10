@@ -1,4 +1,4 @@
-<h1 align="center">Software &nbsp;&mdash;&nbsp; &Qscr;uality &Ascr;ssurance (QA)</h1>
+<h1 align="center">Software &larr; &Qscr;uality &Ascr;ssurance (QA)</h1>
 
 <table><tr valign="center"><td width="42%">
  
@@ -11,7 +11,7 @@ The frivolous, fleeting, and exploding spirit of development makes it inherently
 
 **Software has become an irreplaceable stratum of civilization, as technology.**
 
-Its applications manage crucial systems of all kinds, record the world history and must be
+Its applications manage crucial systems of all kinds, keep global annals, and must be
 
 <div align="center"><b><samp>S&thinsp;T&thinsp;A&thinsp;B&thinsp;L&thinsp;E&thinsp; </samp>and<samp> &thinsp;R&thinsp;O&thinsp;B&thinsp;U&thinsp;S&thinsp;T&thinsp;.</samp></b></div>
 </td></tr></table>
