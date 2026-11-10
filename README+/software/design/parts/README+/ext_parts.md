@@ -1,6 +1,6 @@
-<h1 align="center">External Parts:<br /><ins>Your</ins> Development &nbsp;&larr;&nbsp; but <ins>Their</ins> Work</h1>
+<div align="right"><samp>«If I have seen further than others, it is<br />by standing on the shoulders of giants.»</samp><br /><i>Isaac Newton</i></div>
 
-<div align="right"><samp>«If I have seen further than others,<br />it is by standing on the shoulders of giants.»</samp><br /><i>Isaac Newton</i></div>
+<h1 align="center">External Parts:<br /><ins>Your</ins> Development &nbsp;&larr;&nbsp; but <ins>Their</ins> Work</h1>
 
 > ### What are the cornerstones of a big project &thinsp;&ndash;&thinsp; technologies, tools, requirements, planning, team, and budget? Neither.
 
