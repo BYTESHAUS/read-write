@@ -5,13 +5,13 @@
 <details><summary><h3><ins>&nbsp;<b>West meets East</b>&nbsp;</ins></h3></summary>
 &nbsp;
   
-![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)
+[![Mobilis in Mobili](https://img.shields.io/badge/Mobilis-in_Mobili-blue)](#)
 
 [![&nbsp; If to learn is to swim against the current, then IT must be a waterfall. &nbsp;](../../../_rsc/_img/memes/HausIT/LearnItWaterfall-horz-signed.jpg)](../../../software/ArcDeco/README.md)
 
 The grains of truth in this wisdom:
 
-* **No other knowledge erodes so quickly** as the IT tech stack &nbsp;&mdash;&nbsp; languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the pace of the year.\
+* **No other knowledge erodes so quickly** as the IT tech stack &thinsp;&ndash;&thinsp; languages/scripts, markup, frameworks, and their IDEs, UX styles emerge, submerge, and mutate with the pace of the year.\
 (<samp>**For example**, JavaScript/HTML, which folks learned in 2000, remains only as kernel syntax. It went through numerous libs, polyfills, jQuery, and other cool tools and transformed into single-page application frameworks, which now govern web dev.</samp>)
 * In the orthogonal (to time) dimension, a developer can't stick to a favorite syntax and must be fluent in a wide techno spectrum.
 
@@ -27,7 +27,7 @@ Translated east-to-west, this means: follow career paths to sinecures in big com
 <details><summary><h3><a name="AIxorIT"></a><ins>&nbsp;<b>AI&nbsp;</ins><code><samp>XOR</samp></code><ins>&nbsp;IT</b>&nbsp;</ins></h3></summary>
 &nbsp;
 
-![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue) ![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow) ![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white) 
+[![Cheat GPT](https://img.shields.io/badge/Bridge-in_time-blue)](#) [![Cheat GPT](https://img.shields.io/badge/Cheat-GPT-yellow)](#) [![Stochastic Sam](https://img.shields.io/badge/Stochastic-🦜-white)](https://www.content-technologist.com/stochastic-parrots/)
 
 [![AI: 1500s vs 2020s](../../../_rsc/_img/memes/AI_medieval_now-spot_the_diff.jpg)](../essays/README+/AI-2020s.md)\
 <sub>(Answer: Homunculus shows the middle finger on the left hand.)</sub>
@@ -71,9 +71,9 @@ However, this answer is justified because of changed requirements for programmer
 
 <picture><img alt="&nbsp; Berlin, drahtlose Telephonie" src="../../../_rsc/_img/snap/media/1926.Simplicissimus-KarlArnold_drahtloseTelefonie.jpg" 
  title="&nbsp;Colored to highlight the hardware (original: black&white)" /></picture>
-<div dir="rtl">,<b><i>Berlin Drahtlose Telephonie</i></b> <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd> Berlin wireless telephony<br />
-<b><i>Bier Ausable zur Zeit Cafe Friedrich-Behrenstraße .&thinsp;.&thinsp;. gut &mdash; bon &mdash; gemacht &mdash; comme sofort</i></b><br />
-<i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &mdash; be there in a moment] <kbd><b>DE</b>&thinsp;->&thinsp;<b>EN</b></kbd>
+<div dir="rtl">,<b><i>Berlin Drahtlose Telephonie</i></b> <kbd><b>DE</b>&thinsp;&rarr;&thinsp;<b>EN</b></kbd> Berlin wireless telephony<br />
+<b><i>Bier Ausable zur Zeit Cafe Friedrich-Behrenstraße .&thinsp;.&thinsp;. gut &thinsp;&thinsp;&thinsp; bon &thinsp;&mdash;&nbsp; gemacht &thinsp;&mdash;&thinsp; comme sofort</i></b><br />
+<i>a fellow shares the location of cafe</i>] .&thinsp;.&thinsp;. good, <i>bon</i>, agreed, &thinsp;&mdash;&thinsp; be there in a moment] <kbd><b>DE</b>&thinsp;&rarr;&thinsp;<b>EN</b></kbd>
 </div><br />
 
 The caricature may look sloppy, but its author, Karl Arnold, had astonishingly escaped futuristic cringe.\
