@@ -39,4 +39,10 @@ Tree diagram showing reused and individual subparrts. Circular refs ....
 
 Multifaticism (incl. timesscale)
 
+
+## 🚧 GOOD DESIGN offs
+
+🚧 enthuasiams stops - designs shades off 
+
+
 ### ? Impedances ?
