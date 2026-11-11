@@ -40,9 +40,11 @@ Tree diagram showing reused and individual subparrts. Circular refs ....
 Multifaticism (incl. timesscale)
 
 
-## 🚧 GOOD DESIGN offs
+## 🚧 "Desctructors" (vs. Constructors)
 
 🚧 enthuasiams stops - designs shades off 
+
+adjustment to biz vs. recreation (example on sync of systems)
 
 
 ### ? Impedances ?
