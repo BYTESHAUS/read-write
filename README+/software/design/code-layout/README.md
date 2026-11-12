@@ -1,16 +1,16 @@
-<h4 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h4>
+<h3 dir="rtl"><i>«&thinsp;.&thinsp;.&thinsp;.&nbsp;&thinsp;In the beginning was the Word</i>&thinsp;»&thinsp;</h3>
 
-# `Code` layout 🚧 <samp>(under construction)</samp>
+# `Code` Layout
 
 <table><tr valign="top"><td width="50%"><picture><img alt="&nbsp; Three Elephants of code org" src="../../../_rsc/_img/illus/code-org_3elephants.jpg" /></picture></td><td>
   
 ### Denomination of titles _and_ their classification (that imply domain partitioning) is a pivotal but underrated activity <ins>in&nbsp;every decent exploration</ins>.
   
-#### In software, names with categories, which smoothly guide developers through the design and make development intuitive, are often taken for granted.
+#### In software, names and folders, which smoothly guide developers through the design and make development intuitive, are taken for granted.
 
 <div align="center"><b>O&thinsp;t&thinsp;h&thinsp;e&thinsp;r&thinsp;w&thinsp;i&thinsp;s&thinsp;e</b></div>
 
-**one wading through the thorns of pathetic epithets, labyrinths (or flats) of entities, and abatises of documents will curse complexity, learning curve, technologies, and order of planets, but at last the naming.**
+**even authors wading through the thorns of pathetic epithets, labyrinths (or flats) of entities, and abatises of documents will curse complexity, learning curve, technologies, and order of planets, but at last the naming.**
 </td></tr></table>
 
 ## 🐘 Partitioning
