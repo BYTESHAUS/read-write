@@ -1,15 +1,14 @@
 <h1 align="center">&Wopf;&Popf;&Fopf;.<samp>NET</samp> &nbsp;&larr;&nbsp; <i>Freshener</i> for the late 2020s</h1>
 
-### Despite justifiable concerns and fetched skepticism, regardless of harsh criticism from the very dawn, &Wopf;&Popf;&Fopf; (Windows Presentation Foundation) became a fully established successor of _WinForms_.
+> ### Despite justifiable concerns and fetched skepticism, regardless of harsh criticism from the very dawn, &Wopf;&Popf;&Fopf; (Windows Presentation Foundation) became a fully established successor of _WinForms_.
+> (Unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots, like Xamarin.)
 
-(Unlike its Web companion _manqué_ <code><b>Silverlight</b></code>, and cross-platform offshoots, like Xamarin.)
+Now **WPF** is the number one platform for Windows desktops, hosting millions of lines of code, packed in custom and enterprise software, profiting from a definite ebb in cross-platform demand. Thus, WPF to .NET/Win is like the Moon to Earth &ndash; the natural and permanent satellite. 
 
-Now **WPF** is the number one platform for Windows desktops, hosting millions of lines of code, packed in custom and enterprise software, profiting from a definite ebb in cross-platform demand.
- 
-Thus, WPF to .NET/Win is like the Moon to Earth &thinsp;&ndash;&thinsp; the natural and permanent satellite. Alternatives are either petite, marginal, exotic, still immature, or already deprecated.<sup>🌘</sup>\
-&nbsp; &nbsp; &nbsp; &nbsp; <sup>🌘</sup> <samp>You must know about WinForms and may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI.</samp>
-
-Web framework [**Blazor**](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to web browsers and tug a big part of applications, but it's too early to predict this.
+Alternatives are either petite, marginal, exotic, still immature, or deprecated:
+- You must know about WinForms and may have heard about [Avalonia XPF](https://avaloniaui.net/XPF)<sup>🔗</sup>, Xamarin, WinUI.
+- Web framework [**Blazor**](https://learn.microsoft.com/aspnet/core/blazor/hybrid/tutorials/wpf)<sup>🪟</sup> may become the same native unconstrained "bridge" to web browsers and tug a big part of applications, but it's too early to predict this.
+- Microsoft [Reactor](https://microsoft.github.io/microsoft-ui-reactor/latest/)<sup>🪟</sup> puts forth _Model-View-Update_ without XAML but is experimental now.
 
 ### For developers `WPF`:
 
@@ -17,20 +16,17 @@ Web framework [**Blazor**](https://learn.microsoft.com/aspnet/core/blazor/hybrid
 + is backed by Microsoft and .NET experts, concerned with its stability and progress,
 + implies [MVVM](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)<sup>🪟</sup> and has promoted it to other platforms,
 + grants <ins>true</ins> **RADD** (Rapid Application Development and Deployment),
-+ provides **full stack** development on .NET (+MS&nbsp;SQL) without the mix of platforms (and involvement of their providers), languages, and tools with differing paradigms<sup>☕</sup>.
-
++ provides **full stack** development on .NET (+MS&nbsp;SQL) without the mix of platforms (and involvement of their providers), languages, and tools with differing paradigms<sup>☕</sup>.\
 ___________\
-&nbsp; &nbsp; <sup>☕</sup> <samp>Compare to Java, JavaScript/TypeScript stacks with a "botanical garden" of frameworks, libraries, and technologies. When scaffolding and interops may devour a quarter of the programmer's time (and most at the start).</samp>\
-&nbsp; &nbsp; <sup>🌳</sup> <samp>Full stack here means more than the language and platforms, but a single-point definition of entities and functions (mitigating the front-back-end impedance).</samp>
+&nbsp; &nbsp;<sup>☕</sup> <samp>Compare to Java, JavaScript/TypeScript stacks with a "botanical garden" of frameworks, libraries, and technologies. When scaffolding and interops may devour a quarter of the programmer's time (and most at the start).</samp>\
+&nbsp; &nbsp;<sup>🌳</sup> <samp>Full stack here means more than the language and platforms, but a single-point definition of entities and functions (mitigating the front-back-end impedance).</samp>
 
 ## Rapid Development and Deployment with `WPF`
 
 The learning curve of WPF is distinctly steeper, and the concepts to learn are much broader than those of _WinForms_. 
-Nonetheless, a WPF newbie<sup>🔰</sup> entering either a new or established project has the luck to delay advanced topics till less stressful times. 
+Nonetheless, a WPF newbie<sup>🔰</sup> entering either a new or established project has the luck to delay advanced topics till less stressful times. This includes IDEs/tools, sketching, running, testing, and deployment.
 
 &nbsp; &nbsp; <sup>🔰</sup> <samp>But experienced in .NET and thinking in MVW<sup>HATEVER</sup> patterns.</samp>
-
-This includes IDEs/tools, sketching, running, testing, and deployment.
 
 ### Initiatives
 
