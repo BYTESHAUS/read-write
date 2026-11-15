@@ -7,12 +7,20 @@
 
 <a href="../../../../_rsc/_img/snap/media/books/IDR_CobolForDummies_byA.Griffith.jpg"><img alt="&nbsp;COBOL for Dummies" src="../../../../_rsc/_img/snap/media/books/IDR_CobolForDummies_byA.Griffith_frag.jpg" /></a>
 
-### <mark>CO</mark>mmon <mark>B</mark>usiness-<mark>O</mark>riented <mark>L</mark>anguage &ndash; deabbreviation reveals that COBOL was intended for non-programmers to describe their tasks in English.
+### <mark>CO</mark>mmon <mark>B</mark>usiness-<mark>O</mark>riented <mark>L</mark>anguage &ndash; the abbreviation reveals that COBOL was intended for non-programmers to describe their tasks in English.
 
 (It never happened.)
   </td>
  <td width="34%"><h1>1981</h1><img width="350px" alt="&nbsp; Personal Computer, Feb/1981: Programming is over" src="../../../../_rsc/_img/snap/media/magazines/endOfProg/1981.Feb-PC-end_of_programming.jpg" /></td>
- 
+ <td>
+
+# No Code, 2015
+
+### Anyone can create software. We think it’s even better if people don’t code anymore, it’s just faster. You can build pretty sophisticated applications
+
+Emmanuel Straschnov, CEO of Bubble, [July 28, 2015](https://technical.ly/brooklyn/2015/07/28/bubble-emmanuel-straschnov-josh-haas/)
+   
+ </td>
 </tr><tr></tr><tr valign="top">
  <td>
    
