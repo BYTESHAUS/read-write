@@ -1,4 +1,4 @@
-<h1 align="center">Lotus &Nscr;&oscr;&tscr;&escr;&sscr;</h1>
+<h1 align="center">🪷&thinsp;Lotus &Nscr;&oscr;&tscr;&escr;&sscr;&thinsp;🥀</h1>
 
 <table><tr><td>
 
@@ -32,17 +32,17 @@ I must have deserved the privilege of personal <b><i>LOTUS</i> NOTES</b><br />�
 **LN** wasn't deprived of drawbacks; there were alternative suites (including legacy and tailor-made), but this aquatic flower dominated the market garden ... until Microsoft began to win large chunks of the office software market.\
 ___________\
 &nbsp; <sup>📜</sup> <samp>Long before NoSQL became mainstream.</samp>\
-&nbsp; <sup>⭐</sup> <samp>Emphasized for superior ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed us to seamlessly use/develop LN offline, guarantee messaging, and merge design much simpler than in Git or TFS.</samp>
+&nbsp; <sup>⭐</sup> <samp>Emphasized for superior ease, versatility, productivity, and robustness. Besides synchronizing DBs it allowed us to seamlessly use/develop LN offline, guarantee messaging, and merge design elements much more simply than in Git or TFS.</samp>
 </td></tr></table>
 
 * In **1995**, <sub><sub>[![IBM Badge](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)](#)</sub></sub> gained Lotus in full<sup>💰</sup>.\
 It was a big chance not only to gain from sales and internal installations but also to reform leastways _Notes_ by leaning on the influence and technological capital of the _Big Blue_.\
 However, mediocre and inaccurately focused efforts caused Lotus to wilt.<sup>🍦</sup>
 
-* In **2001**, <sub><sub>[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)</sub></sub> released its "bird of a feather" &thinsp;<samp>&ndash;</samp>&thinsp; **SharePoint** &thinsp;<samp>&ndash;</samp>&thinsp; much more sophisticated and bulkier but promoting the next generation of a product and API.\
+* In **2001**, <sub><sub>[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)</sub></sub> released its "bird of a feather" &thinsp;<samp>&ndash;</samp>&thinsp; **SharePoint** &thinsp;<samp>&ndash;</samp>&thinsp; much more sophisticatedб bulkier,and capricious, but promoting the next generation of a product and API.\
 SharePoint was deprived of many inherent vices of the Lotus trailblazer and gradually began to supersede _LN_ in the one-way migration. 
 
-* In **2018**, the sell-out of Domino/Notes and granting the office's source code to freeware pushed **_LN_** out to IT margins.
+* In **2018**, the sell-off of Domino/Notes and granting the office's source code to freeware pushed **_LN_** out to IT margins.
 
 ___________\
 &nbsp; &nbsp; <sup>💰</sup> <samp>For a $3.5 billion &ndash; pretty good deal before skyrocketing procurements of the 2000s.</samp>\
@@ -62,13 +62,13 @@ There was a never-realized plan to put DB2 under LN storage, akin to MS SQL behi
 
 Lotus developers _nolens volens_ coded in the out-of-date and too elementary _LotusScript_ &thinsp;&mdash;&thinsp; a branch of Visual Basic with built-in LN API (resting on `C++` API). 
 
-`Java` could be promoted to a primary language, but its API, with a lagging version, remained limited, poorly documented, and tricky (e.g., know to call the garbage collector in a cycle of LN docs.).
+`Java` could be promoted to a primary language, but its API, with a lagging version, remained limited, poorly documented, and tricky (e.g., know to call the garbage collector in a cycle of LN docs).
 
-Even a greater option would be creating an object-oriented flavor of `JavaScript` for both front-end (to replace also `@formula`) and back-end (LN applications weren't exceedingly demanding for performance and semantics).
+An even better option would be creating an object-oriented flavor of `JavaScript` for both front-end (to replace also `@formula`) and back-end (LN applications weren't exceedingly demanding for performance and semantics).
 
 ### 🌩️ Web-browser as the only user client
 
-Although Notes Server could render applications on HTTP since 1996, designing forms required much fine-tuning with HTML/JS. **XPages** (since R8.5) came too late and were half-hearted.
+Although Notes Server could render applications over HTTP since 1996, designing forms required much fine-tuning with HTML/JS. **XPages** (since R8.5) came too late and were half-hearted.
 
 The solution would be to eliminate desktop premises and replace them with a web solution akin to Angular or React. 
 
