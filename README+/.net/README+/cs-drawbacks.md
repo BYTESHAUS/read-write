@@ -1,6 +1,6 @@
-# [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) drawbacks <sup>&#11011;_“Minority report”_</sup>
+# `C#` Drawbacks <sup>&#11011;_“Minority report”_</sup>
 
-> ### `C#` isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are noticeable downsides&thinsp;...
+> ### [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) isn't an artwork to be perfect. Despite great ideas, contributions, and the best parts, there are noticeable downsides&thinsp;...
 
 To begin with ...
 - **single inheritance**,
@@ -11,7 +11,11 @@ To begin with ...
 
 <h2 align="center">Syntax</h2>
 
-### 🔎Readability and logic
+### 🔎Readability and naturality
+
+- Rudimentary **`;`** ending a line brings nothing but visual noise.<sup><mark>&thinsp;&thinsp;🔊</mark></sup>
+- Constructor names imply extra refactoring on class/struct renaming  &ndash; better if it were "anonymous" `ctor()` or `this()`.\
+As the `base()` call in the same constructors is.
 
 ### 🗜️Volume
 
@@ -19,9 +23,7 @@ Unrealized extension methods `string.IsNullOrWhiteSpace()` => [⭐ISie⭐](https
 
 ### 🐠 Fishy ways
 
-- Rudimentary **`;`** ending a line brings nothing but visual noise.<sup><mark>&thinsp;&thinsp;🔊</mark></sup>
-- Constructor names imply extra refactoring on class/struct renaming  &ndash; better if it were "anonymous" `ctor()` or `this()`.\
-As the `base()` call in the same constructors is.
+
 - Default when missing access modifier<sup>⭕</sup> shall be better reserved for "ultimate" `private` or  `public` than for a less explicit and less-used `internal`
 - The `const` modifier shall not be limited to pre-compiled values (as in intermediate languages) but shall prevent reassignment, as `init` and `readonly` do.
 - No constant option for default values in signatures. `Do(int val, string remark=string.Empty)` won't compile.
